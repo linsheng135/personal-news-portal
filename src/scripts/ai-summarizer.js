@@ -25,7 +25,7 @@ export class AISummarizer {
       apiKeys = {
         siliconflow: {
           api_key: process.env.SILICONFLOW_API_KEY || '',
-          model: process.env.SILICONFLOW_MODEL || 'deepseek-ai/DeepSeek-R1-Distill-Qwen-7B',
+          model: process.env.SILICONFLOW_MODEL || 'THUDM/GLM-4-9B-0414',
           base_url: process.env.SILICONFLOW_BASE_URL || 'https://api.siliconflow.cn/v1'
         }
       }

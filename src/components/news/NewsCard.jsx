@@ -126,50 +126,9 @@ export function NewsCard({ news, index }) {
             </div>
           </div>
 
-          {/* 标签和互动信息 */}
-          <div className="flex flex-wrap items-center justify-between gap-3 pt-4 border-t border-border">
-            {/* 标签 */}
-            <div className="flex flex-wrap gap-2">
-              {tags.slice(0, 3).map((tag, tagIndex) => (
-                <span
-                  key={tagIndex}
-                  className={`px-2 py-1 rounded text-xs font-medium ${
-                    isAI
-                      ? 'bg-blue-50 text-blue-700 border border-blue-200'
-                      : 'bg-emerald-50 text-emerald-700 border border-emerald-200'
-                  }`}
-                >
-                  {tag}
-                </span>
-              ))}
-              {tags.length > 3 && (
-                <span className="px-2 py-1 rounded text-xs font-medium bg-gray-100 text-gray-600">
-                  +{tags.length - 3}
-                </span>
-              )}
-            </div>
-
-            {/* 互动信息 */}
-            <div className="flex items-center space-x-4 text-text-secondary text-sm">
-              {likes !== undefined && (
-                <div className="flex items-center space-x-1">
-                  <ThumbsUp size={14} />
-                  <span>{likes}</span>
-                </div>
-              )}
-              
-              {comments !== undefined && (
-                <div className="flex items-center space-x-1">
-                  <MessageSquare size={14} />
-                  <span>{comments}</span>
-                </div>
-              )}
-            </div>
-          </div>
-
           {/* AI 总结标识 */}
           {ai_summary && (
-            <div className="mt-4 pt-4 border-t border-dashed border-gray-200">
+            <div className="mb-6 pt-4 border-t border-dashed border-gray-200">
               {/* AI总结内容和展开按钮 */}
               <div className="flex items-center justify-between mb-3">
                 <button
@@ -246,6 +205,47 @@ export function NewsCard({ news, index }) {
               )}
             </div>
           )}
+
+          {/* 标签和互动信息 */}
+          <div className="flex flex-wrap items-center justify-between gap-3 pt-4 border-t border-border">
+            {/* 标签 */}
+            <div className="flex flex-wrap gap-2">
+              {tags.slice(0, 3).map((tag, tagIndex) => (
+                <span
+                  key={tagIndex}
+                  className={`px-2 py-1 rounded text-xs font-medium ${
+                    isAI
+                      ? 'bg-blue-50 text-blue-700 border border-blue-200'
+                      : 'bg-emerald-50 text-emerald-700 border border-emerald-200'
+                  }`}
+                >
+                  {tag}
+                </span>
+              ))}
+              {tags.length > 3 && (
+                <span className="px-2 py-1 rounded text-xs font-medium bg-gray-100 text-gray-600">
+                  +{tags.length - 3}
+                </span>
+              )}
+            </div>
+
+            {/* 互动信息 */}
+            <div className="flex items-center space-x-4 text-text-secondary text-sm">
+              {likes !== undefined && (
+                <div className="flex items-center space-x-1">
+                  <ThumbsUp size={14} />
+                  <span>{likes}</span>
+                </div>
+              )}
+              
+              {comments !== undefined && (
+                <div className="flex items-center space-x-1">
+                  <MessageSquare size={14} />
+                  <span>{comments}</span>
+                </div>
+              )}
+            </div>
+          </div>
         </div>
       </div>
     </div>
