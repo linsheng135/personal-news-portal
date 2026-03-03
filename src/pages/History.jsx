@@ -29,23 +29,23 @@ export function History() {
 
   // 过滤日期
   const filteredDates = dates.filter(date => {
-    const newsForDate = groupedNews[date]
+    let filteredNews = groupedNews[date]
     
     // 按分类过滤
     if (categoryFilter !== 'all') {
-      newsForDate = newsForDate.filter(news => news.category === categoryFilter)
+      filteredNews = filteredNews.filter(news => news.category === categoryFilter)
     }
     
     // 按搜索词过滤
     if (searchQuery) {
       const query = searchQuery.toLowerCase()
-      newsForDate = newsForDate.filter(news => 
+      filteredNews = filteredNews.filter(news => 
         news.title.toLowerCase().includes(query) || 
         news.summary.toLowerCase().includes(query)
       )
     }
     
-    return newsForDate.length > 0
+    return filteredNews.length > 0
   })
 
   // 获取选定日期的新闻
