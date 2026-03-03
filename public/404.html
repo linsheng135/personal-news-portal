@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>页面未找到 - 资讯聚合门户</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+        
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 600px;
+            width: 100%;
+            background: white;
+            border-radius: 16px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+        
+        .error-code {
+            font-size: 6rem;
+            font-weight: 700;
+            color: #667eea;
+            margin-bottom: 20px;
+            line-height: 1;
+        }
+        
+        .error-title {
+            font-size: 2rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 16px;
+        }
+        
+        .error-message {
+            font-size: 1.1rem;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+        
+        .back-link {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            padding: 12px 32px;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+        
+        .back-link:hover {
+            background: #5a67d8;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+        
+        .info-box {
+            background: #f7fafc;
+            border-radius: 8px;
+            padding: 16px;
+            margin-top: 30px;
+            border-left: 4px solid #48bb78;
+        }
+        
+        .info-title {
+            font-weight: 600;
+            color: #2d3748;
+            margin-bottom: 8px;
+        }
+        
+        .info-text {
+            color: #4a5568;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+        
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #667eea;
+            margin-bottom: 20px;
+            display: inline-block;
+        }
+        
+        @media (max-width: 640px) {
+            .container {
+                padding: 30px 20px;
+            }
+            
+            .error-code {
+                font-size: 4rem;
+            }
+            
+            .error-title {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">资讯聚合门户</div>
+        <div class="error-code">404</div>
+        <h1 class="error-title">页面未找到</h1>
+        <p class="error-message">
+            您访问的页面可能已被移动、删除或暂时不可用。
+            正在为您重定向到首页，请稍候...
+        </p>
+        <a href="/" class="back-link">返回首页</a>
+        
+        <div class="info-box">
+            <div class="info-title">什么是资讯聚合门户？</div>
+            <p class="info-text">
+                这是一个自动化资讯聚合网站，每天抓取AI技术和个人赚钱两个主题的优质信息，
+                用AI进行大白话总结，并提供历史存档功能。
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // 5秒后自动重定向到首页
+        setTimeout(function() {
+            window.location.href = '/';
+        }, 5000);
+        
+        // 立即尝试加载SPA应用
+        window.addEventListener('DOMContentLoaded', function() {
+            // 尝试从当前路径加载应用
+            const currentPath = window.location.pathname;
+            if (currentPath !== '/') {
+                console.log('尝试加载SPA路由:', currentPath);
+                // 对于SPA，我们可以尝试重定向到应用
+                window.location.href = '/#' + currentPath;
+            }
+        });
+    </script>
+</body>
+</html>

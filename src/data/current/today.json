@@ -1,71 +1,304 @@
 {
-  "date": "2024-03-03",
-  "last_updated": "2024-03-03T08:00:00Z",
-  "news": [
+  "metadata": {
+    "generated_at": "2026-03-03T09:27:24.955Z",
+    "items_count": 20,
+    "categories": [
+      "ai",
+      "finance"
+    ],
+    "sources": [
+      "arXiv.org",
+      "Towards Data Science",
+      "Product Hunt",
+      "36氪"
+    ],
+    "note": "真实抓取数据 - 部署测试"
+  },
+  "data": [
     {
-      "id": "1",
-      "title": "OpenAI 发布新一代语言模型，推理能力大幅提升",
-      "summary": "OpenAI 刚刚发布了他们的最新语言模型，这个新模型在逻辑推理和数学计算方面有了很大的进步。简单说就是比以前更聪明了，能更好地理解复杂问题，并在需要推理的任务上表现更好。研究人员表示，这个模型在解决数学问题和逻辑谜题时，准确率比之前的版本提高了30%。对于开发者来说，这意味着可以构建更智能的应用程序，比如更好的代码助手、更准确的文档分析工具。",
-      "url": "https://openai.com/blog/new-model",
-      "source": "OpenAI Blog",
+      "id": "arxiv_2603.00267",
+      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+      "summary": "arXiv:2603.00267v1 Announce Type: new \nAbstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking that relies on retrieving accurate and trustworthy evidence. Previous methods rely on semantic and...",
+      "url": "https://arxiv.org/abs/2603.00267",
+      "source": "arXiv.org",
       "category": "ai",
-      "published_at": "2024-03-03T09:30:00Z",
-      "reading_time": 4,
-      "likes": 245,
-      "comments": 42,
-      "tags": ["OpenAI", "语言模型", "人工智能", "推理能力"]
+      "published_at": "2026-03-03T05:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ]
     },
     {
-      "id": "2",
-      "title": "独立开发者分享：如何通过小程序月入过万",
-      "summary": "一位独立开发者详细分享了他如何通过开发微信小程序实现月入过万的经验。关键是要找到小而美的需求，快速验证，持续迭代。他建议从解决自己的实际问题开始，然后扩展到更广泛的用户。具体做法是：先花一周时间做出最小可行产品，然后找100个目标用户测试，根据反馈快速改进。他说最重要的不是技术有多厉害，而是能不能真正解决用户的问题。",
-      "url": "https://indiehackers.com/mini-program-income",
-      "source": "Indie Hackers",
+      "id": "arxiv_2603.00285",
+      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+      "summary": "arXiv:2603.00285v1 Announce Type: new \nAbstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making central to real-world trading, while LLM-based judges introduce uncontrolled variance on domain-specific ...",
+      "url": "https://arxiv.org/abs/2603.00285",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-03-03T05:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ]
+    },
+    {
+      "id": "arxiv_2603.00309",
+      "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
+      "summary": "arXiv:2603.00309v1 Announce Type: new \nAbstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaboratively complete complex tasks. While many agentic AI systems utilize predefined workflows or agent ro...",
+      "url": "https://arxiv.org/abs/2603.00309",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-03-03T05:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ]
+    },
+    {
+      "id": "arxiv_2603.00312",
+      "title": "How Well Do Multimodal Models Reason on ECG Signals?",
+      "summary": "arXiv:2603.00312v1 Announce Type: new \nAbstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpretable reasoning traces, verifying the validity of these traces remains a critical challenge. Existing evaluation methods are...",
+      "url": "https://arxiv.org/abs/2603.00312",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-03-03T05:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ]
+    },
+    {
+      "id": "arxiv_2603.00349",
+      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+      "summary": "arXiv:2603.00349v1 Announce Type: new \nAbstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exceed the capabilities of any single agent. Recent advances in large language models (LLMs) enable hig...",
+      "url": "https://arxiv.org/abs/2603.00349",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-03-03T05:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ]
+    },
+    {
+      "id": "tds_https://towardsdatascience.com/?p=608503",
+      "title": "YOLOv3 Paper Walkthrough: Even Better, But Not That Much",
+      "summary": "A PyTorch implementation on the YOLOv3 architecture from scratch\nThe post YOLOv3 Paper Walkthrough: Even Better, But Not That Much appeared first on Towards Data Science....",
+      "url": "https://towardsdatascience.com/yolov3-paper-walkthrough-even-better-but-not-that-much/",
+      "source": "Towards Data Science",
+      "category": "ai",
+      "published_at": "2026-03-02T22:30:00.000Z",
+      "tags": [
+        "data-science",
+        "machine-learning",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "tds_https://towardsdatascience.com/?p=608505",
+      "title": "The Machine Learning Lessons I’ve Learned This Month",
+      "summary": "February 2026: exchange with others, documentation, and MLOps\nThe post The Machine Learning Lessons I’ve Learned This Month appeared first on Towards Data Science....",
+      "url": "https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-4/",
+      "source": "Towards Data Science",
+      "category": "ai",
+      "published_at": "2026-03-02T21:25:38.000Z",
+      "tags": [
+        "data-science",
+        "machine-learning",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "tds_https://towardsdatascience.com/?p=608501",
+      "title": "Code Less, Ship Faster: Building APIs with FastAPI",
+      "summary": "Master path operations, Pydantic models, dependency injection, and automatic documentation.\nThe post Code Less, Ship Faster: Building APIs with FastAPI appeared first on Towards Data Science....",
+      "url": "https://towardsdatascience.com/code-less-ship-faster-building-apis-with-fastapi/",
+      "source": "Towards Data Science",
+      "category": "ai",
+      "published_at": "2026-03-02T21:00:00.000Z",
+      "tags": [
+        "data-science",
+        "machine-learning",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "tds_https://towardsdatascience.com/?p=608424",
+      "title": "Exciting Changes Are Coming to the TDS Author Payment Program",
+      "summary": "Authors can now benefit from updated earning tiers and a higher article cap\nThe post Exciting Changes Are Coming to the TDS Author Payment Program appeared first on Towards Data Science....",
+      "url": "https://towardsdatascience.com/exciting-changes-are-coming-to-the-tds-author-payment-program/",
+      "source": "Towards Data Science",
+      "category": "ai",
+      "published_at": "2026-03-02T13:53:48.000Z",
+      "tags": [
+        "data-science",
+        "machine-learning",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "tds_https://towardsdatascience.com/?p=608489",
+      "title": "Zero-Waste Agentic RAG: Designing Caching Architectures to Minimize Latency and LLM Costs at Scale",
+      "summary": "Reducing LLM costs by 30% with validation-aware, multi-tier caching\nThe post Zero-Waste Agentic RAG: Designing Caching Architectures to Minimize Latency and LLM Costs at Scale appeared first on Towards Data Science....",
+      "url": "https://towardsdatascience.com/zero-waste-agentic-rag-designing-caching-architectures-to-minimize-latency-and-llm-costs-at-scale/",
+      "source": "Towards Data Science",
+      "category": "ai",
+      "published_at": "2026-03-01T15:00:00.000Z",
+      "tags": [
+        "data-science",
+        "machine-learning",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "ph_1772530044952",
+      "title": "Translate PRO",
+      "summary": "Discussion\n            |\n            Link...",
+      "url": "https://www.producthunt.com/products/translate-pro",
+      "source": "Product Hunt",
       "category": "finance",
-      "published_at": "2024-03-03T11:15:00Z",
-      "reading_time": 6,
-      "likes": 189,
-      "comments": 31,
-      "tags": ["独立开发", "副业", "小程序", "变现"]
+      "published_at": "2026-02-27T09:36:02.000Z",
+      "tags": [
+        "product-hunt",
+        "new-products",
+        "startup-tools"
+      ]
     },
     {
-      "id": "3",
-      "title": "GitHub Copilot 新功能：代码审查助手",
-      "summary": "GitHub Copilot 推出了新的代码审查功能，可以自动检查代码质量、发现潜在问题，并给出改进建议。这个功能特别适合团队协作，能帮助提高代码质量，减少bug。具体来说，它能检查代码风格是否一致、有没有安全漏洞、性能是否优化等。对于新手开发者来说，这就像有个经验丰富的导师在旁边指导，能学到很多最佳实践。",
-      "url": "https://github.blog/copilot-code-review",
-      "source": "GitHub Blog",
-      "category": "ai",
-      "published_at": "2024-03-03T14:20:00Z",
-      "reading_time": 5,
-      "likes": 312,
-      "comments": 56,
-      "tags": ["GitHub", "Copilot", "编程工具", "代码审查"]
-    },
-    {
-      "id": "4",
-      "title": "Reddit 用户分享：通过内容创作月赚5000美元",
-      "summary": "一位 Reddit 用户详细分享了他如何通过内容创作（博客、视频、社交媒体）实现月入5000美元的经历。他强调找到自己擅长的领域，提供有价值的内容，并通过多种渠道变现的重要性。他的做法是：每周写3篇深度文章，做2个短视频，同时在多个平台分发。收入来源包括广告、联盟营销、咨询服务和数字产品。他说最关键的是坚持，前三个月可能没什么收入，但半年后就会看到明显效果。",
-      "url": "https://reddit.com/r/sidehustle/content-income",
-      "source": "Reddit",
+      "id": "ph_1772530044952",
+      "title": "Mailercloud Email API Platform",
+      "summary": "Discussion\n            |\n            Link...",
+      "url": "https://www.producthunt.com/products/mailercloud",
+      "source": "Product Hunt",
       "category": "finance",
-      "published_at": "2024-03-03T16:45:00Z",
-      "reading_time": 7,
-      "likes": 423,
-      "comments": 78,
-      "tags": ["内容创作", "变现", "社交媒体", "副业"]
+      "published_at": "2026-02-17T10:10:04.000Z",
+      "tags": [
+        "product-hunt",
+        "new-products",
+        "startup-tools"
+      ]
     },
     {
-      "id": "5",
-      "title": "DeepSeek 发布新的开源模型，性能接近 GPT-4",
-      "summary": "DeepSeek 开源了他们的最新语言模型，在多项基准测试中表现接近 GPT-4。这个模型完全免费，可以本地部署，对于开发者和小公司来说是个好消息。模型支持多种编程语言，在代码生成和调试方面表现特别出色。研究人员表示，开源这样的模型有助于推动整个AI行业的发展，让更多人有能力进行AI相关的创新。",
-      "url": "https://deepseek.com/blog/new-open-source-model",
-      "source": "DeepSeek Blog",
-      "category": "ai",
-      "published_at": "2024-03-03T10:10:00Z",
-      "reading_time": 4,
-      "likes": 521,
-      "comments": 89,
-      "tags": ["DeepSeek", "开源", "语言模型", "AI"]
+      "id": "ph_1772530044952",
+      "title": "Better Clipboard",
+      "summary": "Discussion\n            |\n            Link...",
+      "url": "https://www.producthunt.com/products/better-clipboard",
+      "source": "Product Hunt",
+      "category": "finance",
+      "published_at": "2026-03-02T23:28:28.000Z",
+      "tags": [
+        "product-hunt",
+        "new-products",
+        "startup-tools"
+      ]
+    },
+    {
+      "id": "ph_1772530044952",
+      "title": "AI Agent Skills Refiner",
+      "summary": "Discussion\n            |\n            Link...",
+      "url": "https://www.producthunt.com/products/ai-agent-skills-refiner",
+      "source": "Product Hunt",
+      "category": "finance",
+      "published_at": "2026-03-03T02:50:28.000Z",
+      "tags": [
+        "product-hunt",
+        "new-products",
+        "startup-tools"
+      ]
+    },
+    {
+      "id": "ph_1772530044952",
+      "title": "getviktor.com",
+      "summary": "Discussion\n            |\n            Link...",
+      "url": "https://www.producthunt.com/products/viktor",
+      "source": "Product Hunt",
+      "category": "finance",
+      "published_at": "2026-03-02T12:54:10.000Z",
+      "tags": [
+        "product-hunt",
+        "new-products",
+        "startup-tools"
+      ]
+    },
+    {
+      "id": "36kr_1772530044937",
+      "title": "黄金频段争夺战打响，华为发布U6GHz完整产品矩阵丨MWC 2026",
+      "summary": "作者丨邱晓芬\n编辑丨苏建勋\n在2026世界移动通信大会（MWC 2026）中偌大的1号馆里，华为几乎占据了一半以上的位置。这么大的空间和篇幅，华为想重点传递的关键词是U6GHz。\n为了实现6G这一遥远的蓝图，近期，全球已掀起了一场U6GHz（6.425-7.125 GHz）的探索热潮，阿联酋、巴西及欧洲等多国各大运营商近期纷纷完成了相应的万兆体验速率验证。\n简单理解，U6GHz就像是一个“黄金频段”，由于在容量、覆盖、成本这三个维度取得了的最佳平衡，其即将成为未来十年移动网络扩容和升级的核心资源，可以理解为是未来部署5G-A、6G的关键“高速公路”。\n在MWC 2026期间，华为发布了一系列关...",
+      "url": "https://36kr.com/p/3705512345170309?f=rss",
+      "source": "36氪",
+      "category": "finance",
+      "published_at": "2026-03-03T05:25:28.000Z",
+      "tags": [
+        "36氪",
+        "创业",
+        "投资",
+        "科技新闻"
+      ]
+    },
+    {
+      "id": "36kr_1772530044937",
+      "title": "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026",
+      "summary": "作者丨邱晓芬\n编辑丨苏建勋\n在2026世界移动通信大会（MWC 2026）上，荣耀发布的人形机器人、Robot Phone吸引了大量观众的目光。\n在Robot Phone上，荣耀打破了过去“黑色方块”的设计，将微型相机和云台系统塞进了手机里。\n据介绍，Robot Phone最大的技术挑战之一在于，如何在有限的手机空间中塞进机械臂和电机，这意味着，其上的微型电机必须同时满足高强度和轻量化。\n为此，荣耀将折叠屏手机所用的高性能材料用到了 Robt Phone的电机核心组件上，并借助手机上的仿真技术，对每一个零件进行结构优化。\n从发布会上看，在 4DoF（自由度）的云台系统帮助下，Robot Pho...",
+      "url": "https://36kr.com/p/3705522207289479?f=rss",
+      "source": "36氪",
+      "category": "finance",
+      "published_at": "2026-03-03T05:24:59.000Z",
+      "tags": [
+        "36氪",
+        "创业",
+        "投资",
+        "科技新闻"
+      ]
+    },
+    {
+      "id": "36kr_1772530044937",
+      "title": "前小米高管创业机器人，用“爆品逻辑”做工业通用具身智能",
+      "summary": "文｜富充\n编辑｜苏建勋\n小雨智造创始人乔忠良身上，有着“小米系”具身智能创业者的典型特质：善于寻找落地场景，商业化思路很务实。\n2023年2月成立起，小雨智造就瞄准“工业通用具身智能”的目标。焊接机器人作为“沿途下蛋”的第一款产品，在2025年第四季度进入客户产线。\n2010年，北航计算机系硕士毕业后，乔忠良加入创业阶段的小米，成为小米首位应届生；离职时，他已经担任小米MIUI研发负责人5年，创下小米从应届生晋升到总经理的最快纪录。\n供职小米的13年里，乔忠良先后参与手机系统与MIUI从0到1的研发迭代，主导“一次开发、多端部署”的软件架构变革，让同一套系统可在手机、手表、电视等多终端部署。\n...",
+      "url": "https://36kr.com/p/3706592101691525?f=rss",
+      "source": "36氪",
+      "category": "finance",
+      "published_at": "2026-03-03T02:25:34.000Z",
+      "tags": [
+        "36氪",
+        "创业",
+        "投资",
+        "科技新闻"
+      ]
+    },
+    {
+      "id": "36kr_1772530044937",
+      "title": "一条内裤的“远征”： 巴迪高试图用“0手触”撬动一次性内裤的信任缺口 |  早期项目",
+      "summary": "近两年，一次性内裤在国内市场进入高速增长期。\n在旅行出游频繁、“懒人经济”持续升温的背景下，这一原本存在感不高的品类，正从边缘产品走向大众消费的视野。除户外、差旅等高频使用场景外，一次性内裤也逐渐渗透至产后恢复、医疗护理等领域，需求不断外扩，带动纺织服饰、母婴等赛道品牌加速入场，形成一股新的消费热潮。相关数据显示，2022—2024年，我国一次性内裤市场增速超过200%，整体规模已迈入百亿行列。\n 但在消费热度快速攀升的同时，行业的另一面也逐渐显现。尽管市场监管总局已于2024年7月发布《一次性使用卫生用品卫生要求》（GB 15979—2024）强制性国家标准，并首次将“一次性内裤”单独列出、...",
+      "url": "https://36kr.com/p/3697641252646531?f=rss",
+      "source": "36氪",
+      "category": "finance",
+      "published_at": "2026-03-03T02:16:44.000Z",
+      "tags": [
+        "36氪",
+        "创业",
+        "投资",
+        "科技新闻"
+      ]
+    },
+    {
+      "id": "36kr_1772530044937",
+      "title": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工",
+      "summary": "作者 | 邓咏仪\n编辑 | 苏建勋\n36氪获悉，国内AI营销技术服务公司「PureblueAI清蓝」正式宣布完成数千万元人民币天使轮融资。本轮融资由祥峰中国（Vertex China）领投，老股东英诺基金及一村淞灵、36氪跟投。\n本轮融资资金，将主要用于新一代产品开发与技术迭代、全行业生态拓展及业务布局，同时将持续携手投资方与生态伙伴，打造 AI 口碑营销领域的标杆性解决方案，助力更多企业在 AI 时代实现确定性增长。\n36氪此前曾报道PureblueAI清蓝。公司成立于2025年，创始团队成员毕业于清华大学、中科院等高校，曾任字节跳动、阿里巴巴等企业高管和技术专家。\n此前，PureblueA...",
+      "url": "https://36kr.com/p/3705907852800136?f=rss",
+      "source": "36氪",
+      "category": "finance",
+      "published_at": "2026-03-03T01:00:26.000Z",
+      "tags": [
+        "36氪",
+        "创业",
+        "投资",
+        "科技新闻"
+      ]
     }
   ]
 }
