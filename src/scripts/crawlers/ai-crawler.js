@@ -21,55 +21,62 @@ export class AICrawler {
   constructor() {
     this.sources = [
       {
-        name: 'Hacker News Best Stories',
-        url: 'https://hacker-news.firebaseio.com/v0/beststories.json',
-        type: 'api',
-        category: 'ai',
-        enabled: false,  // 需要特殊配置
-        note: '需要有效的 User-Agent 头和特殊配置'
-      },
-      {
-        name: 'arXiv.org AI Papers',
+        name: 'arXiv.org AI 最新论文',
         url: 'http://export.arxiv.org/rss/cs.AI',
         type: 'rss',
         category: 'ai',
         enabled: true,
-        note: '测试验证可用，提供高质量AI论文'
+        note: 'AI研究最新论文，涵盖大模型、技术突破'
       },
       {
-        name: 'Towards Data Science',
-        url: 'https://towardsdatascience.com/feed',
+        name: 'MIT Technology Review - AI',
+        url: 'https://www.technologyreview.com/topic/artificial-intelligence/feed/',
         type: 'rss',
         category: 'ai',
         enabled: true,
-        note: '测试验证可用，更新频繁的技术文章'
+        note: 'MIT科技评论AI板块，聚焦技术突破和行业动态'
       },
       {
-        name: 'Google AI Blog',
-        url: 'https://ai.googleblog.com/feeds/posts/default',
+        name: 'The Verge - AI',
+        url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml',
         type: 'rss',
         category: 'ai',
-        enabled: false,  // 测试发现连接问题
-        note: '连接重置，可能被防火墙限制'
+        enabled: true,
+        note: 'AI行业新闻，大模型发布、公司动态'
       },
       {
-        name: 'OpenAI Blog',
-        url: 'https://openai.com/blog/rss',
+        name: 'VentureBeat - AI',
+        url: 'https://venturebeat.com/category/ai/feed/',
         type: 'rss',
         category: 'ai',
-        enabled: false,  // 测试发现403错误
-        note: '返回403错误，访问限制'
+        enabled: true,
+        note: 'AI商业新闻，投资、创业、产品发布'
       },
       {
-        name: 'DeepLearning.AI',
-        url: 'https://www.deeplearning.ai/the-batch/feed',
+        name: 'Analytics Vidhya',
+        url: 'https://www.analyticsvidhya.com/blog/feed/',
         type: 'rss',
         category: 'ai',
-        enabled: false,  // 测试发现404错误
-        note: '返回404错误，RSS地址可能已变更'
+        enabled: true,
+        note: 'AI技术教程和工具介绍'
+      },
+      // 中文AI信息源
+      {
+        name: '机器之心',
+        url: 'https://www.jiqizhixin.com/rss',
+        type: 'rss',
+        category: 'ai',
+        enabled: true,
+        note: '中文AI新闻，大模型、技术突破、行业动态'
+      },
+      {
+        name: 'AI科技大本营',
+        url: 'https://www.techbang.com/tags/ai/feed',
+        type: 'rss',
+        category: 'ai',
+        enabled: true,
+        note: '台湾AI科技新闻，工具、应用、趋势'
       }
-      // Reddit r/MachineLearning 需要 OAuth 令牌，暂时禁用
-      // GitHub Trending 需要网页抓取，作为额外源单独处理
     ]
   }
 

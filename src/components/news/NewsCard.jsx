@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
 import { ExternalLink, Brain, TrendingUp, Calendar, Clock, ThumbsUp, MessageSquare, ChevronDown, ChevronUp } from 'lucide-react'
 import { format, parseISO } from 'date-fns'
 import { zhCN } from 'date-fns/locale'
@@ -168,46 +170,78 @@ export function NewsCard({ news, index }) {
           {/* AI 总结标识 */}
           {ai_summary && (
             <div className="mt-4 pt-4 border-t border-dashed border-gray-200">
-              <button
-                className="w-full text-left"
-                onClick={() => setShowAISummary(!showAISummary)}
-                aria-expanded={showAISummary}
-              >
-                <div className="flex items-center justify-between">
-                  <div className="flex items-center space-x-2">
-                    <div className="w-6 h-6 rounded-full bg-gradient-to-r from-blue-500 to-purple-500 flex items-center justify-center">
-                      <Brain size={12} className="text-white" />
-                    </div>
-                    <span className="text-xs font-medium text-text-primary">AI 总结</span>
-                    <span className="text-xs text-text-secondary">· 用大白话解释复杂概念</span>
+              {/* AI总结内容和展开按钮 */}
+              <div className="flex items-center justify-between mb-3">
+                <button
+                  className="flex items-center space-x-2 text-left"
+                  onClick={() => setShowAISummary(!showAISummary)}
+                  aria-expanded={showAISummary}
+                >
+                  <div className="w-6 h-6 rounded-full bg-gradient-to-r from-blue-500 to-purple-500 flex items-center justify-center">
+                    <Brain size={12} className="text-white" />
                   </div>
-                  <div className="flex items-center space-x-2">
+                  <span className="text-xs font-medium text-text-primary">AI 总结</span>
+                  <span className="text-xs text-text-secondary">· 用大白话解释复杂概念</span>
+                  <div className="text-ai-primary ml-1">
+                    {showAISummary ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+                  </div>
+                </button>
+              </div>
+              
+              {showAISummary && (
+                <>
+                  {/* AI总结内容区域 */}
+                  <div className="mb-4 p-4 bg-blue-50 rounded-lg border border-blue-100">
+                    <div className="prose prose-sm max-w-none text-sm text-text-secondary leading-relaxed">
+                      <ReactMarkdown 
+                        remarkPlugins={[remarkGfm]}
+                        components={{
+                          h1: ({node, ...props}) => <h1 className="text-lg font-bold mt-4 mb-2 text-text-primary" {...props} />,
+                          h2: ({node, ...props}) => <h2 className="text-base font-semibold mt-3 mb-2 text-text-primary" {...props} />,
+                          h3: ({node, ...props}) => <h3 className="text-sm font-medium mt-2 mb-1 text-text-primary" {...props} />,
+                          p: ({node, ...props}) => <p className="mb-2" {...props} />,
+                          ul: ({node, ...props}) => <ul className="list-disc pl-5 mb-2" {...props} />,
+                          ol: ({node, ...props}) => <ol className="list-decimal pl-5 mb-2" {...props} />,
+                          li: ({node, ...props}) => <li className="mb-1" {...props} />,
+                          a: ({node, ...props}) => <a className="text-blue-600 hover:underline" {...props} />,
+                          strong: ({node, ...props}) => <strong className="font-semibold" {...props} />,
+                          em: ({node, ...props}) => <em className="italic" {...props} />
+                        }}
+                      >
+                        {ai_summary}
+                      </ReactMarkdown>
+                    </div>
+                    <div className="mt-3 pt-3 border-t border-blue-200 text-xs text-text-secondary">
+                      <p>💡 以上内容由 AI 自动生成，旨在用通俗语言解释复杂概念，仅供参考。</p>
+                    </div>
+                  </div>
+                  
+                  {/* 原文链接在AI总结下方 */}
+                  <div className="flex justify-end">
                     <a
                       href={url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-xs font-medium text-ai-primary hover:text-blue-600 transition-colors duration-200"
-                      onClick={(e) => e.stopPropagation()}
+                      className="inline-flex items-center space-x-1 text-sm font-medium text-ai-primary hover:text-blue-600 transition-colors duration-200 px-3 py-2 rounded-lg hover:bg-blue-50"
                     >
-                      查看原文详情 →
+                      <ExternalLink size={14} />
+                      <span>查看原文详情 →</span>
                     </a>
-                    <div className="text-ai-primary">
-                      {showAISummary ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
-                    </div>
                   </div>
-                </div>
-              </button>
+                </>
+              )}
               
-              {showAISummary && (
-                <div className="mt-4 p-4 bg-blue-50 rounded-lg border border-blue-100">
-                  <div className="prose prose-sm max-w-none">
-                    <div className="text-sm text-text-secondary leading-relaxed whitespace-pre-wrap">
-                      {ai_summary}
-                    </div>
-                  </div>
-                  <div className="mt-3 pt-3 border-t border-blue-200 text-xs text-text-secondary">
-                    <p>💡 以上内容由 AI 自动生成，旨在用通俗语言解释复杂概念，仅供参考。</p>
-                  </div>
+              {!showAISummary && (
+                <div className="flex justify-end">
+                  <a
+                    href={url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center space-x-1 text-sm font-medium text-ai-primary hover:text-blue-600 transition-colors duration-200 px-3 py-2 rounded-lg hover:bg-blue-50"
+                  >
+                    <ExternalLink size={14} />
+                    <span>查看原文详情 →</span>
+                  </a>
                 </div>
               )}
             </div>

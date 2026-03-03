@@ -27,7 +27,9 @@
     "rss-parser": "^3.13.0",
     "cheerio": "^1.0.0-rc.12",
     "lucide-react": "^0.309.0",
-    "openai": "^4.28.0"
+    "openai": "^4.28.0",
+    "react-markdown": "^9.0.1",
+    "remark-gfm": "^3.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",

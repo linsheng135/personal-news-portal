@@ -21,53 +21,53 @@ export class FinanceCrawler {
   constructor() {
     this.sources = [
       {
-        name: 'Indie Hackers',
-        url: 'https://www.indiehackers.com/feed',
-        type: 'rss',
-        category: 'finance',
-        enabled: false,  // 测试发现RSS格式不规范
-        note: 'RSS XML格式问题，暂时禁用'
-      },
-      {
-        name: 'Reddit r/sidehustle',
-        url: 'https://www.reddit.com/r/sidehustle/hot.json?limit=10',
-        type: 'api',
-        category: 'finance',
-        enabled: false,  // Reddit API需要OAuth令牌
-        note: '需要OAuth认证令牌，暂时禁用'
-      },
-      {
-        name: 'Product Hunt 今日产品',
+        name: 'Product Hunt 新产品',
         url: 'https://www.producthunt.com/feed',
         type: 'rss',
         category: 'finance',
-        enabled: true,   // 测试验证可用
-        note: '测试验证可用，产品更新信息丰富'
+        enabled: true,
+        note: '发现新产品和创业机会，寻找赚钱灵感'
       },
       {
-        name: 'Hacker News Show HN',
-        url: 'https://hacker-news.firebaseio.com/v0/showstories.json',
-        type: 'api',
-        category: 'finance',
-        enabled: false,  // 需要特殊User-Agent配置
-        note: 'API访问限制，需要特殊配置'
-      },
-      {
-        name: 'Medium 创业与赚钱',
-        url: 'https://medium.com/feed/tag/making-money',
+        name: 'Indie Hackers Community',
+        url: 'https://www.indiehackers.com/feed',
         type: 'rss',
         category: 'finance',
-        enabled: false,  // 连接超时
-        note: '连接超时，可能需要代理'
+        enabled: true,
+        note: '独立开发者社区，副业项目、赚钱经验分享'
+      },
+      {
+        name: 'Side Hustle Nation',
+        url: 'https://www.sidehustlenation.com/feed/',
+        type: 'rss',
+        category: 'finance',
+        enabled: true,
+        note: '副业点子、赚钱策略、创业故事'
+      },
+      {
+        name: 'The Penny Hoarder',
+        url: 'https://www.thepennyhoarder.com/feed/',
+        type: 'rss',
+        category: 'finance',
+        enabled: true,
+        note: '省钱技巧、赚钱方法、个人理财'
+      },
+      {
+        name: 'Freelance to Freedom',
+        url: 'https://freelancetofreedomproject.com/feed/',
+        type: 'rss',
+        category: 'finance',
+        enabled: true,
+        note: '自由职业转型、接单技巧、收入提升'
       },
       // 中文赚钱信息源
       {
-        name: '知乎热门话题-赚钱',
+        name: '知乎-副业赚钱',
         url: 'https://www.zhihu.com/rss',
         type: 'rss',
         category: 'finance',
         enabled: true,
-        note: '知乎热门话题，关注赚钱、副业等主题'
+        note: '知乎副业话题，赚钱方法、经验分享'
       },
       {
         name: '36氪-创业投资',
@@ -75,7 +75,15 @@ export class FinanceCrawler {
         type: 'rss',
         category: 'finance',
         enabled: true,
-        note: '中国科技创业和投资新闻'
+        note: '中国科技创业、投资机会、商业模式'
+      },
+      {
+        name: '少数派-工作效率',
+        url: 'https://sspai.com/feed',
+        type: 'rss',
+        category: 'finance',
+        enabled: true,
+        note: '工作效率提升、工具推荐、副业技能'
       }
     ]
   }
