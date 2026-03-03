@@ -1,0 +1,32 @@
+{
+  "date": "2024-03-02",
+  "last_updated": "2024-03-02T08:00:00Z",
+  "news": [
+    {
+      "id": "6",
+      "title": "AI 在医疗诊断中的应用突破",
+      "summary": "研究人员开发了一种新的 AI 系统，能在早期更准确地诊断某些疾病。这个系统通过分析医疗影像，能发现医生可能忽略的细微特征。在实际测试中，这个系统在乳腺癌早期诊断的准确率达到了95%，比传统方法提高了15%。对于患者来说，这意味着更早发现疾病，治疗效果更好。对于医生来说，这是一个强大的辅助工具，能减轻工作负担，提高诊断效率。",
+      "url": "https://nature.com/ai-medical-diagnosis",
+      "source": "Nature",
+      "category": "ai",
+      "published_at": "2024-03-02T10:30:00Z",
+      "reading_time": 5,
+      "likes": 156,
+      "comments": 23,
+      "tags": ["医疗AI", "诊断", "研究", "人工智能"]
+    },
+    {
+      "id": "7",
+      "title": "如何通过电商 dropshipping 开始副业",
+      "summary": "电商 dropshipping 是一种低风险的创业方式，不需要囤货，适合新手。文章详细介绍了如何选品、搭建店铺、营销推广的全流程。具体步骤是：1. 在速卖通等平台找到有潜力的产品；2. 用 Shopify 搭建独立站；3. 通过 Facebook 和 TikTok 广告吸引流量；4. 收到订单后让供应商直接发货给客户。作者建议从单价20-50美元的产品开始，测试3-5个产品，找到表现最好的那个重点推广。",
+      "url": "https://shopify.com/blog/dropshipping-guide",
+      "source": "Shopify Blog",
+      "category": "finance",
+      "published_at": "2024-03-02T13:15:00Z",
+      "reading_time": 8,
+      "likes": 287,
+      "comments": 45,
+      "tags": ["电商", "dropshipping", "副业", "创业"]
+    }
+  ]
+}

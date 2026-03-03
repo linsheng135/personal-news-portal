@@ -1,0 +1,39 @@
+# Secret files
+config.secret.json
+../api-keys.json
+.env
+*.secret.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node
+node_modules/
+dist/
+
+# Temporary files
+tmp/
+temp/
