@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && npm run copy-data",
     "preview": "vite preview",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "crawl": "node src/scripts/main-crawler.js",
@@ -14,7 +14,8 @@
     "crawl:finance": "node src/scripts/main-crawler.js --finance-only",
     "crawl:test": "node src/scripts/main-crawler.js --test",
     "summarize": "node src/scripts/main-crawler.js --summarize-only",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copy-data": "node scripts/copy-data.js"
   },
   "dependencies": {
     "react": "^18.2.0",
