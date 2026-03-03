@@ -1,8 +1,11 @@
-import { ExternalLink, Brain, TrendingUp, Calendar, Clock, ThumbsUp, MessageSquare } from 'lucide-react'
+import { useState } from 'react'
+import { ExternalLink, Brain, TrendingUp, Calendar, Clock, ThumbsUp, MessageSquare, ChevronDown, ChevronUp } from 'lucide-react'
 import { format, parseISO } from 'date-fns'
 import { zhCN } from 'date-fns/locale'
 
 export function NewsCard({ news, index }) {
+  const [showAISummary, setShowAISummary] = useState(false)
+  
   const {
     id,
     title,
@@ -15,7 +18,8 @@ export function NewsCard({ news, index }) {
     reading_time,
     likes,
     comments,
-    tags = []
+    tags = [],
+    ai_summary
   } = news
 
   const isAI = category === 'ai'
@@ -162,25 +166,52 @@ export function NewsCard({ news, index }) {
           </div>
 
           {/* AI 总结标识 */}
-          <div className="mt-4 pt-4 border-t border-dashed border-gray-200">
-            <div className="flex items-center justify-between">
-              <div className="flex items-center space-x-2">
-                <div className="w-6 h-6 rounded-full bg-gradient-to-r from-blue-500 to-purple-500 flex items-center justify-center">
-                  <Brain size={12} className="text-white" />
-                </div>
-                <span className="text-xs font-medium text-text-primary">AI 总结</span>
-                <span className="text-xs text-text-secondary">· 用大白话解释复杂概念</span>
-              </div>
-              <a
-                href={url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-xs font-medium text-ai-primary hover:text-blue-600 transition-colors duration-200"
+          {ai_summary && (
+            <div className="mt-4 pt-4 border-t border-dashed border-gray-200">
+              <button
+                className="w-full text-left"
+                onClick={() => setShowAISummary(!showAISummary)}
+                aria-expanded={showAISummary}
               >
-                查看原文详情 →
-              </a>
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center space-x-2">
+                    <div className="w-6 h-6 rounded-full bg-gradient-to-r from-blue-500 to-purple-500 flex items-center justify-center">
+                      <Brain size={12} className="text-white" />
+                    </div>
+                    <span className="text-xs font-medium text-text-primary">AI 总结</span>
+                    <span className="text-xs text-text-secondary">· 用大白话解释复杂概念</span>
+                  </div>
+                  <div className="flex items-center space-x-2">
+                    <a
+                      href={url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-xs font-medium text-ai-primary hover:text-blue-600 transition-colors duration-200"
+                      onClick={(e) => e.stopPropagation()}
+                    >
+                      查看原文详情 →
+                    </a>
+                    <div className="text-ai-primary">
+                      {showAISummary ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+                    </div>
+                  </div>
+                </div>
+              </button>
+              
+              {showAISummary && (
+                <div className="mt-4 p-4 bg-blue-50 rounded-lg border border-blue-100">
+                  <div className="prose prose-sm max-w-none">
+                    <div className="text-sm text-text-secondary leading-relaxed whitespace-pre-wrap">
+                      {ai_summary}
+                    </div>
+                  </div>
+                  <div className="mt-3 pt-3 border-t border-blue-200 text-xs text-text-secondary">
+                    <p>💡 以上内容由 AI 自动生成，旨在用通俗语言解释复杂概念，仅供参考。</p>
+                  </div>
+                </div>
+              )}
             </div>
-          </div>
+          )}
         </div>
       </div>
     </div>
