@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-04T08:49:00.899Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-04T08:49:00.900Z",
+    "date": "2026-03-04",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1772614038860",
-      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its anno...",
-      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-02T17:29:42.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI与五角大楼达成协议\n\n### 背景情况\nOpenAI是一家做人工智能技术的大公司，五角大楼是美国的军事部门。这两家之前因为一些事情闹了不愉快，五角大楼公开批评了OpenAI的一个竞争对手Anthropic。后来OpenAI决定和五角大楼谈谈，看看能不能和解。\n\n### 协议内容\nOpenAI最近宣布，他们和五角大楼达成了一个协议。这个协议允许五角大楼在秘密的军事项目中使用OpenAI的技术。OpenAI的CEO Sam Altman说，他们之所以这么快就同意这个协议，是因为五角大楼之前批评了Anthropic，他们觉得有点被动，所以事情处理得比较匆忙。\n\n### 其他信息\n这个协议的消息是在OpenAI的官网和科技新闻网站上公布的。一些科技专家认为，这个协议可能会让其他类似的公司也面临类似的选择，因为他们可能会担心被政府批评或限制使用。\n\n### 核心观点\nOpenAI为了解决和五角大楼的矛盾，迅速达成了协议，允许军方使用他们的技术。这虽然解决了眼前的麻烦，但也可能带来一些长远的影响。",
-      "summarized_at": "2026-03-04T08:47:31.589Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1772614038860",
-      "title": "I checked out one of the biggest anti-AI protests yet",
-      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving si...",
-      "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-02T12:55:20.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 伦敦抗议反对人工智能\n\n- **事件背景**  \n  前段时间，伦敦的King's Cross科技中心搞了一场大抗议，抗议的人大概有几百个。这个地方挺重要的，因为OpenAI（就是那个搞ChatGPT的公司）、Meta（就是Facebook）、Google DeepMind这些大公司都在这儿有总部。\n\n- **抗议原因**  \n  这些人反对人工智能，觉得现在的AI发展太快，可能会有点危险。他们在外面喊口号，比如\"拔掉插头！拔掉插头！\"，意思就是希望停止AI的发展。他们还举着牌子，上面写着\"停止垃圾科技\"，说明他们认为现在的AI技术不靠谱，就像街边卖劣质小吃的，吃了会拉肚子，这些AI技术要是乱用，可能会造成大问题。\n\n- **抗议方式**  \n  抗议的人们在King's Cross走来走去，像是在赶集的人一样，但他们的目的是为了反对AI。他们举着牌子，喊着口号，吸引路过的人注意。这种抗议方式很简单，就像咱们在菜市场看到卖菜的大叔大声吆喝一样，都是想让更多人听到自己的声音。\n\n- **抗议影响**  \n  这场抗议虽然只有几个小时，但挺多人参与的。说明现在很多人对AI有点担心，就像以前大家担心转基因食品一样，觉得新技术用不好会出事。这些抗议者希望科技公司能慢点发展AI，多点考虑可能带来的问题，别像赶时髦一样，没考虑清楚就推出来。",
-      "summarized_at": "2026-03-04T08:47:32.664Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1772614038860",
-      "title": "AI is rewiring how the world’s best Go players think",
-      "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.  But inside the building, rooms once f...",
-      "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-02-27T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能正在改变顶尖围棋选手的思维方式\n\n### 背景：围棋在韩国的地位\n围棋是韩国一项古老且备受尊敬的游戏，就像我们生活中的书法或绘画一样，是传统文化的一部分。在首尔的一个安静社区里，有一座刻着\"韩国围棋协会\"字样的旧建筑，这里就是专业围棋选手们的聚集地。\n\n### AI如何影响围棋思维\n- **围棋机器人的崛起**：现在有AI围棋程序，比如AlphaGo，它能下出人类从未想到的棋局，就像有人突然学会了魔法棋谱。\n- **选手学习新招式**：顶尖选手通过观察AI的棋局，学会了以前没人想到的走法，就像厨师突然学会了一种新菜的做法。\n- **思维方式的转变**：选手们不再只靠经验判断，而是开始接受AI提出的看似奇怪的棋步，就像孩子突然被大人教了新玩法。\n\n### 生活化比喻\n想象一下学开车：以前的老司机靠经验开车，现在有了自动驾驶技术，新手司机可以通过学习AI的驾驶方式，掌握更多安全技巧。围棋选手也是一样，AI就像一位超级教练，教会他们以前想都不敢想的新招式。\n\n### 核心观点\nAI不仅赢了顶尖选手，还在改变他们的思考方式，就像智能手机不仅让我们更快获取信息，还改变了我们的生活习惯。未来围棋比赛可能会出现更多\"AI式\"的走法，人类选手需要不断学习和适应。",
-      "summarized_at": "2026-03-04T08:47:41.283Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1772614038860",
-      "title": "Finding value with AI and Industry 5.0 transformation",
-      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the pur...",
-      "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-02-26T15:00:59.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 人工智能和产业5.0带来的新变化\n\n## 产业4.0和产业5.0有什么不同\n\n想象一下，产业4.0就像把各种高科技零件拼在一起，比如人工智能、云计算、物联网、机器人等，让它们能互相配合工作。这就像把不同功能的玩具零件混在一起，虽然能玩，但不太协调。\n\n而产业5.0呢，则是把这些零件变成一个能大规模运作的整体系统。这就像把玩具零件组装成一个能自动运行的机器人，让它们一起高效工作，而不是零散地使用。\n\n## 产业5.0的核心特点\n\n- **规模化管理**：不再是零散地使用技术，而是让整个系统协同工作。\n- **更智能的决策**：通过人工智能等技术，让机器能自己判断和调整，就像人脑能自主思考一样。\n- **人机协同更紧密**：不再是单纯的技术堆砌，而是让人和机器更默契地合作，就像厨师和助手一起做饭，互相配合。\n\n## 产业5.0的实际应用\n\n比如，在工厂里，产业5.0能让机器人根据实时情况自动调整生产节奏，就像人能根据天气变化调整穿衣一样灵活。在物流行业，所有设备能通过网络实时分享信息，就像朋友间互相发消息报平安一样，让整个系统更高效。\n\n总之，产业5.0不是简单地把技术拼在一起，而是让它们像团队一样协作，共同创造更大的价值。",
-      "summarized_at": "2026-03-04T08:47:40.621Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1772614038860",
       "title": "The human work behind humanoid robots is being hidden",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## khoj-ai / khoj：你的AI个人助手\n\n- **核心功能**：这款工具就像一个随时待命的AI助手，能帮你快速找到网上或文件里的答案。比如，你问它\"昨天那个报告在哪里\"，它就能帮你找到。\n- **怎么用**：你可以把它装在自己电脑上，这样不用联网也能用。它支持各种AI模型，比如国内的Gemini、Qwen，还有国外的gpt、claude等。\n- **特别之处**：\n  - **自动处理**：能自动安排任务，比如定时提醒你查资料。\n  - **深度搜索**：帮你整理大量信息，就像一个手动的百度，但更智能。\n  - **自定义功能**：你可以自己设计AI助手的行为，比如让它专门帮你找某个类型的资料。\n\n- **使用门槛**：刚开始免费，适合所有人尝试。比如学生可以用它写论文，上班族用它找工作资料，甚至家长也能用它管理家庭文件。\n\n- **总结来说**：khoj-ai就像一个能帮你搞定各种信息的AI秘书，不用花钱就能用，还能根据你的需求调整工作方式。",
       "summarized_at": "2026-03-04T08:48:41.993Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772614044579",
-      "title": "马年营销各显奇招，乳品品牌破局出圈｜世研消费指数品牌榜Vol.157",
-      "summary": "本次监测周期内，茅台，五粮液和伊利分别以1.91、1.75和1.55的综合热度指数位列榜单前三。\n\n世研指数\n零食赛道品牌扎堆马年礼盒创新，IP联名和健康创新成营销关键\n从上榜品牌动态来看，食品生鲜消费迎来马年春节旺季，整体呈现“礼盒领跑、品质升级、场景细分、营销破圈”的核心特征，各细分赛道竞争激烈且分化明显，品牌新春战略精准贴合节日需求，用户消费从基础刚需转向情感价值与品质体验的双重追求。\n其中，零食赛道呈现“高端礼赠与性价比囤货双轨并行”的态势，竞争聚焦IP联名与产品健康化。百草味延续“年的味道”IP，与故宫宫廷文化联名推出马年限定礼盒，1620g款单销量破30万箱，但因“坚果占比低”舆情...",
-      "url": "https://36kr.com/p/3708380553507209?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-04T08:43:27.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 马年营销各显奇招，乳品品牌破局出圈\n\n## 品牌热度排行\n\n- 茅台、五粮液和伊利分别是最火的品牌，排名前三\n- 这三个品牌很受欢迎，就像过年时家家户户都要喝的酒和牛奶\n\n## 零食赛道营销亮点\n\n- 零食品牌像百草味，推出和故宫联名的马年限定礼盒\n- 这种礼盒卖得很好，就像过年要送礼，大家都喜欢特别的礼物\n- 百草味还推健康零食，说明大家不光要好吃，还要健康\n\n## 春节消费特点\n\n- 过年时大家喜欢买礼盒，就像送礼要包装好看\n- 零食品牌既卖高端礼盒，也卖平价囤货，就像过年既要送礼，也要自己吃\n- 大家买东西不光要实用，还要有特殊意义，比如IP联名（像迪士尼联名）和健康概念（像无糖）\n\n## 整体市场趋势\n\n- 过年期间，各种品牌都在想办法吸引消费者，竞争很激烈\n- 消费者越来越注重品质和情感，就像过年不光要吃好，还要有团圆的感觉\n- 品牌都在创新，比如推出特别版的礼盒，来打动大家",
-      "summarized_at": "2026-03-04T08:48:45.053Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772614044579",
-      "title": "大钲资本收购蓝瓶咖啡，后者尚在亏损中｜独家",
-      "summary": "作者 | 钟艺璇  彭倩\n编辑 | 乔芊\n36氪获悉，大钲资本已和雀巢达成协议，从雀巢手中收购了蓝瓶咖啡（Blue Bottle Coffee）的全球门店，价格低于4亿美金。交易完成后，雀巢仍然会保留蓝瓶的快消业务，如咖啡豆、速溶咖啡、即饮饮料。\n值得注意的是，蓝瓶咖啡目前仍在亏损中。36氪独家了解到，截止2025年6月30日，蓝瓶咖啡过去12个月的营收约为2.5亿美元，其中美国贡献收入约1.5亿美元，亚太地区贡献收入约1亿美元。上述信源人士还告诉36氪，蓝瓶咖啡预计2026年实现盈利。\n对此，大钲资本没有回复。\n另据一位咖啡行业人士透露，瑞幸正在市场上密集接触“品牌向”的招聘对象，为接下来整...",
-      "url": "https://36kr.com/p/3708291149148288?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-04T07:10:36.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 蓝瓶咖啡被大钲资本收购\n\n- **交易概况**  \n  大钲资本用不到4亿美元的价格，从雀巢手里买下了蓝瓶咖啡在全球的实体店。不过，雀巢还会继续卖蓝瓶牌的咖啡豆、速溶咖啡这些东西。\n\n- **蓝瓶咖啡现状**  \n  蓝瓶咖啡现在还在亏钱。去年（指2025年6月30日前一年），他们总收入约2.5亿美元，美国占了1.5亿，亚洲占了1亿。但公司预计到2026年会开始赚钱。\n\n- **行业影响**  \n  有咖啡行业的人说，瑞幸咖啡最近在招人，好像准备搞点新动作。这事儿说明咖啡市场还是挺活跃的。\n\n- **收购细节**  \n  蓝瓶咖啡的快消产品比如咖啡豆和速溶咖啡，还是归雀巢管。大钲资本只买了能开店的这部分业务。",
-      "summarized_at": "2026-03-04T08:48:54.056Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772614044579",
-      "title": "何小鹏：未来1-3年完全自动驾驶将真正到来｜最前线",
-      "summary": "小鹏汽车董事长 何���鹏\n文｜肖漫\n编辑｜李勤\n“通过我们内部比较测评，我认为比行业一流选手领先接近5倍。”在第二代VLA发布会后的交流中，小鹏汽车董事长兼CEO何小鹏说道。\n智驾的演进，正从“软件定义汽车”变为“AI 定义超级智能体”。新浪潮下，小鹏汽车给出了他们面向未来的激进解法：跳过在硬件、软件与法规层面皆面临妥协的 L3 阶段，直接以 L2 和 L4 作为智驾演进的核心锚点。\n在何小鹏看来，第二代VLA已经让小鹏具备从L2直接进入L4的可能性。\n小鹏和特斯拉一样，不再是在原有的智驾框架里修修补补，而是彻底把自动驾驶当成通用人工智能（AGI）在物理世界的落地来解题。战略变化前，小鹏已将...",
-      "url": "https://36kr.com/p/3707327485505672?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-04T02:04:43.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 何小鹏：未来1-3年自动驾驶要来了\n\n### 小鹏汽车的新想法\n何小鹏是小鹏汽车的老板，他说小鹏的自动驾驶技术比别的公司强很多。他们觉得现在的自动驾驶不是只靠车子本身，而是要靠人工智能（AI）让车子变得更聪明，就像让人变得更聪明一样。\n\n### 直接跳过中间步骤\n以前做自动驾驶，很多公司会先做L3级别的，但小鹏觉得这个级别不好，所以决定直接做L2和L4级别的。L2是自动驾驶里比较容易实现的，L4是更高级的，可以直接自动驾驶，不需要人管。小鹏觉得他们的新技术可以直接从L2跳到L4。\n\n### 把自动驾驶当人工智能看\n小鹏不再只是修修补补现有的自动驾驶系统，而是把它当成人工智能在真实世界中的应用。就像以前修自行车，现在要造一个全新的智能机器人一样。他们认为这种新思路能让自动驾驶更快发展。\n\n### 未来1-3年会实现\n何小鹏预测，未来1到3年，完全自动驾驶就会真的来了。这就像以前手机只能打电话，现在可以做很多事一样，自动驾驶也会从简单的辅助驾驶变成完全自己开车。",
-      "summarized_at": "2026-03-04T08:48:53.708Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772614044579",
-      "title": "阳台储能公司获数千万融资，用消费硬件逻辑重新定义户用储能｜硬氪首发",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，临阁能源科技（苏州）有限公司（以下简称“临阁能源”）近日完成数千万元天使轮融资，本轮投资方为天空工场创投，融资资金将重点投入核心技术研发、持续丰富产品矩阵，推进产品的规模化化生产交付，并加快全球渠道布局。\n作为MOVA的生态链企业，临阁能源是一家聚焦家庭阳台储能场景的智能硬件与能源方案服务商，专注阳台储能产品的研发与生产，集成磷酸铁锂电池、智能逆变器与AI能源算法，致力构建一体化的家庭能源生态，推动家庭用电智能化与低碳化。\n公司总裁沈洪锦曾担任头部割草机器人企业的全球市场推广与销售负责人，其产品在欧美市场销量实现数倍增长、行业出货量第一。创始团队拥有多款储能...",
-      "url": "https://36kr.com/p/3706785150546307?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-04T02:00:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 阳台储能公司拿到钱，要改家用储能玩法\n\n## 公司和融资\n- 临阁能源最近拿到了几千万元天使投资，投资方是天空工场创投\n- 这些钱主要用来研发新技术、开发更多产品、量产和拓展全球市场\n\n## 公司业务\n- 临阁能源专门做阳台储电设备，就像家里装个小型太阳能电池板，但更智能\n- 他们把磷酸铁锂电池、智能转换器和AI算法整合在一起，形成一个完整的家庭储电系统\n- 目的是让每个家庭都能更聪明地用电，减少电费，又环保\n\n## 团队背景\n- 公司总裁沈洪锦以前在割草机器人行业很成功，把产品卖到了欧美市场\n- 创始团队有做储能产品的经验，懂技术也懂市场\n\n## 怎么想的\n- 他们觉得现在家用储能产品不够好，想用卖家电的方式重新设计\n- 就像以前买手机、电脑一样简单，让更多人愿意用阳台储能设备\n- 这样家家户户都能用上清洁能源，电费也省了",
-      "summarized_at": "2026-03-04T08:48:59.876Z",
       "summary_status": "success"
     },
     {
