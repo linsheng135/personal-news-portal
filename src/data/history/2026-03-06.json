@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-06T08:47:57.848Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-06T08:47:57.848Z",
+    "date": "2026-03-06",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1772786784763",
-      "title": "Online harassment is entering its AI era",
-      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have institute...",
-      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-05T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 网络骚扰进入人工智能时代\n\n- **背景**：最近，像matplotlib这样的开源软件项目发现，很多AI生成的代码贡献质量很差，甚至有些是故意捣乱的。Scott Shambaugh是一位项目维护者，他果断拒绝了AI请求，这引发了一个问题：AI正在越来越多地被用来搞破坏。\n\n- **AI骚扰的例子**：想象一下，你在网上写了个免费的小工具（就像开源软件），突然收到很多看似有用的代码，但实际上这些代码要么是垃圾，要么是故意干扰你工作的。这就是AI正在做的事情——它被用来发送垃圾邮件、写恶意评论、甚至攻击网站。\n\n- **为什么AI会让骚扰更严重**：AI可以批量生成大量骚扰内容，而且不需要人力成本。就像自动群发短信一样，但这次是自动写垃圾代码、发恶意评论。这些AI生成的骚扰内容很难分辨真假，让网络环境越来越差。\n\n- **如何应对**：项目维护者开始像Shambaugh一样，严格审查AI贡献的内容。这就像你在收快递时，会先检查一下是不是诈骗包裹一样。未来，我们可能需要更智能的工具来过滤这些AI骚扰，否则网络环境会越来越糟。",
-      "summarized_at": "2026-03-06T08:46:36.379Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1772786784763",
-      "title": "Bridging the operational AI gap",
-      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many ...",
-      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-04T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能落地越来越近了\n\n### 企业开始真正使用AI\n以前，很多公司只是说说AI的好处，现在呢，他们真的开始行动了。就像你想学骑自行车，以前只是看别人骑，现在自己买了车开始练。这些公司现在也开始把AI真正用到工作中，而不是只做些小实验。\n\n### 钱和资源都投进去了\n以前公司可能花点小钱试试AI，现在是大手笔投入。就像你家装修，以前可能只买个小摆件试试水，现在决定整个小区都翻新。这些公司现在也是把预算和人力都用在AI上，想让AI真正帮到生意。\n\n### AI不再是空话\n以前开会聊AI，都是些\"这个好那个好\"，现在是真的在做。比如以前说\"AI能提高效率\"，现在就真的让电脑帮忙处理文件。这些公司不再停留在说阶段，而是实际行动起来。\n\n### 越来越多的公司加入\n以前只有大公司才敢试AI，现在小企业也来了。就像以前只有城里人才用智能手机，现在农村都用上。AI的应用越来越普及，不再是少数人的游戏。\n\n### 从实验到日常\n以前AI都是小范围试用，现在要全面推广。就像你用微信一开始只是发发朋友圈，现在买菜、看病都靠它。公司用AI也是从零星项目变成每天都要用的工具。\n\n### 面临的问题\n不过，光有技术还不够。就像你买了新手机，但不会用也白搭。公司也需要学会怎么让员工适应AI，怎么让AI真正帮到业务，这中间还有很多功课要做。",
-      "summarized_at": "2026-03-06T08:46:37.864Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1772786784763",
-      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its anno...",
-      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-02T17:29:42.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# OpenAI与五角大楼的“折中方案”\n\n## 核心事件\nOpenAI最近和五角大楼达成了协议，允许美国军队在秘密情况下使用它的技术。这本来是Anthropic（一家AI公司）担心的事。\n\n## 背景情况\nOpenAI的CEO萨姆·奥特曼说，他们是在五角大楼公开批评Anthropic后才开始谈这个协议的，过程很仓促。就像学校老师突然批评了学生A，学生B赶紧去找老师谈条件，希望能用上同样的机会。\n\n## 双方态度\n- **OpenAI**：觉得是赶工完成的，但还是要做。\n- **五角大楼**：本来不太愿意让OpenAI参与军事项目，但后来又改变了主意。\n\n## Anthropic的担忧\nAnthropic原本担心的是，OpenAI太强势，可能会把军事技术用得乱七八糟。现在OpenAI和五角大楼搞定了，Anthropic可能就被边缘化了。\n\n## 例子说明\n这就像两个小朋友打架，老师先批评了其中一个（Anthropic），另一个（OpenAI）赶紧去找老师求情，最后老师同意了他们一起玩。但被打的小朋友（Anthropic）可能觉得不公平。\n\n## 后续影响\n现在OpenAI可以在军事领域用技术了，但Anthropic可能需要再努力争取机会。这提醒其他科技公司，如果和政府打交道，要小心应对，否则可能会被别人抢走风头。",
-      "summarized_at": "2026-03-06T08:46:46.459Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1772786784763",
-      "title": "I checked out one of the biggest anti-AI protests yet",
-      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving si...",
-      "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-02T12:55:20.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 反对人工智能的抗议活动\n\n### 抗议活动的经过\n- 2月28日，几百人在伦敦国王十字科技中心举行了抗议活动，这里是OpenAI、Meta和谷歌DeepMind的英国总部。\n- 抗议者举着标语，高喊口号，比如\"拔掉插头！\"和\"停止烂东西！\"，表达对人工智能的担忧。\n\n### 抗议的原因\n- 抗议者认为人工智能技术发展太快，可能会带来很多问题，比如影响工作、隐私和安全。\n- 他们担心人工智能会被滥用，比如用来监控、歧视或者制造虚假信息。\n- 有人觉得人工智能的发展没有经过充分讨论，普通人的声音被忽略了。\n\n### 抗议的影响\n- 这次抗议是近年来最大规模的反对人工智能活动之一，说明越来越多的人对人工智能技术感到担忧。\n- 抗议者希望科技公司和政府能够慢下来，认真考虑人工智能的伦理和社会影响。\n- 他们希望有更多人参与讨论，共同决定人工智能的发展方向。\n\n### 人们的担忧\n- 担心人工智能会取代人类的工作，比如客服、司机或者程序员。\n- 担心人工智能会收集太多个人信息，导致隐私泄露。\n- 担心人工智能会被用来制造假新闻或者进行网络攻击。\n\n### 抗议者的诉求\n- 希望科技公司能够透明地发展人工智能，让公众了解技术的作用和风险。\n- 希望政府制定相关法律，限制人工智能的滥用。\n- 希望有更多人参与讨论，共同决定人工智能的未来。\n\n### 总结\n这次抗议活动反映了人们对人工智能的普遍担忧，希望科技能够更加负责任地发展。",
-      "summarized_at": "2026-03-06T08:46:47.010Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1772786784763",
       "title": "AI is rewiring how the world’s best Go players think",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## HoppScotch：一个免费的API测试工具\n\nHoppScotch 是一个免费的在线工具，就像一个超级方便的\"API测试助手\"，专门用来检查网站的后台接口是否正常工作。它就像我们平时用手机调试相机功能时，用不同光线测试相机效果一样，能帮助我们测试各种网络请求。\n\n- **免费且开源**：不需要花钱，任何人都可以使用和修改它，就像开源的软件一样\n- **离线也能用**：不需要一直连接互联网，装在本地电脑上就能运行，就像我们存了离线地图的手机一样\n- **多种使用方式**：可以在浏览器里用，也可以装在电脑上用，甚至有专门的命令行版本，就像 одновременно可以用手机看、平板看、电脑看\n- **简单易用**：界面设计简单，容易上手，不需要复杂的学习，就像我们用微信语音一样简单\n- **替代品**：可以看作是Postman的免费版，Postman是市面上流行的API测试工具，但HoppScotch更简单免费\n\nHoppScotch特别适合新手或个人开发者，不需要注册账号就能用，打开就能开始测试。它支持创建各种API请求，可以模拟真实用户的使用场景，帮你检查网站后台是否按预期工作。就像我们平时试吃餐厅新菜，提前测试味道是否合格一样。用这个工具，开发者能快速发现API的问题，避免上线后出现更大的麻烦。\n\n这个工具的好处在于轻便、免费，适合快速测试和调试，特别适合个人项目或初创团队使用。",
       "summarized_at": "2026-03-06T08:47:42.219Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772786790924",
-      "title": "8点1氪丨寿司郎被曝吃出寄生虫卵，当地市监局通报；全国人大代表建议尽量不要调休；谷歌DeepMind高管公开邀请千问团队入职",
-      "summary": "今日热点导览\n魔法原子回应创始人离职：确有此事，目前技术团队稳定\n伊朗：禁止美以欧船只通过霍尔木兹海峡\n现货白银向下跌破81美元/盎司\nMacBook Neo国补后低至3000多元\n亚马逊在机器人部门裁员约100人\nTOP 3 大新闻\n消费者称在寿司郎吃出寄生虫卵，当地市监局通报\n3月2日，有网友发视频称，3月1日他排了三个小时队吃寿司郎，不料却吃到一块全是寄生虫卵的金枪鱼。视频中，一名自称是寿司郎长安天街店主管的工作人员对该网友表示：“您在我们店铺吃了这种带虫卵的金枪鱼，如果今后因为这个鱼片导致您身体受到损伤损害，或感染寄生虫卵各种问题，我们会全程负责到底，包括各种医疗赔偿等问题。” \n据微...",
-      "url": "https://36kr.com/p/3710693707166083?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-05T23:55:17.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 今日热点总结\n\n- **寿司郎吃出寄生虫卵事件**  \n  有人在寿司郎吃寿司时，发现金枪鱼里有寄生虫卵。寿司郎的工作人员当场表示会负责，包括赔偿医疗费。当地市监局也介入调查了。简单说，就是有人在寿司里发现了虫子，店铺承认问题并愿意负责。\n\n- **全国人大代表建议减少调休**  \n  有位全国人大代表提案，希望国家以后尽量少安排调休。他解释说，现在调休会让大家连续放假，但休息质量不高，反而更累。比如，原本周末休息，调休后可能前休几天再上班，感觉没真正放松。\n\n- **谷歌DeepMind邀请千问团队**  \n  谷歌的AI部门DeepMind，邀请了一个叫“千问团队”的公司加入。这个团队专门做AI研究，DeepMind希望通过合作，让AI技术发展得更快。就像两个科技公司，一个厉害的邀请另一个一起努力，想把产品做得更好。\n\n- **其他新闻**  \n  - 魔法原子公司有位创始人离职了，但技术团队没事。  \n  - 伊朗不让美国、以色列和欧洲国家的船通过霍尔木兹海峡。  \n  - 白银价格跌了，现在一盎司不到81美元。  \n  - 中国给MacBook Neo补贴后，价格降到3000多。  \n  - 亚马逊机器人部门裁了100多人。",
-      "summarized_at": "2026-03-06T08:47:41.332Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772786790924",
-      "title": "海信发布世界杯定制产品，有AI功能的电视、空调、洗衣机集中上新丨最前线",
-      "summary": "距2026美加墨世界杯开幕不足100天，作为官方赞助商，海信于3月5日在青岛一口气推出覆盖电视、空调、洗衣机等家电的全品类AI新品。\n在电视上，海信把AI做成“观赛搭子”。RGB-Mini LED旗舰电视UX2026款除了强调画质提升，更突出“AI观赛”体验：支持赛中AI查询阵容及识别场上球员，并提供三场比赛同屏观看模式，赛后还能生成战术总结与复盘。\nAI在空调上，承担的是“实时调度体感”。 国内首款滑盖空调——海信智慧风E5系列，主打人感与语音智控结合，通过人感识别实现风随人动、风避人吹、人近柔风、无人节能等模式。智慧风E5系列支持双人双风感与180度广角送风，在多人观赛场景中也能照顾到不同...",
-      "url": "https://36kr.com/p/3710171805806976?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-05T15:23:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 海信世界杯新品大放送：AI家电让生活更智能\n\n- **电视变身观赛小助手**  \n海信推出了RGB-Mini LED旗舰电视UX2026款，不仅画面更清晰，还加入了AI功能。看球赛时，电视能自动识别球员和比赛阵容，就像一个懂足球的\"观赛搭子\"。它还能同时看三场比赛，赛后还能总结比赛亮点，帮你回顾精彩瞬间。\n\n- **空调会\"读心术\"调节温度**  \n海信的智慧风E5系列空调，能像人一样感知温度变化。如果家里有几个人，它会自动调整风向和温度，避免有人被直吹而感到不适。比如你靠近，空调就会变成柔和的送风模式；人走开就自动节能。这个空调还会\"听懂\"你的话，用语音控制开关或模式。\n\n- **洗衣机智能分类更省心**  \n海信的AI洗衣机能自动识别衣物材质和脏污程度，自动选择合适的洗涤模式。比如洗衣服时，它会判断是棉质还是化纤，然后调整水和洗衣粉用量，既省电又干净。\n\n这些AI新品让家电不再只是机械工具，而是能理解你的需求，让生活更轻松。",
-      "summarized_at": "2026-03-06T08:47:49.500Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772786790924",
-      "title": "透视“速成车”，行业不可承受之快",
-      "summary": "“速成车”踩刹车\n2026年一开年，监管部门再一次收紧了对汽车开发的要求。这让不少“老汽车人”松了一口气。\n一名头部车企的软件总工告诉36氪，在他十余年的从业生涯里，从未经历过去几年的激进时刻：\n原本需要适配两年才能上车的新架构，现在10个月就得上车；之前机械验证要做的两次冬测试、两次夏测，被压缩成了一次冬测、一次夏测。\n原本要验证4个月的整车控制软件，现在2个星期就可以上车。\n他这种内行人才知道的隐忧还有：看似测试环节都在，但压缩时长伴随着高强度加班，实际操作中，需要测200次的项目最后可能只测了30次；测完10次，员工便可能说已经测过100次了。\n“有些问题就会测不出来，其中可能包含高安全...",
-      "url": "https://36kr.com/p/3616382576084225?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-05T13:30:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 监管出手，汽车速成要不得\n\n最近汽车行业被曝出个事儿：为了赶时间，车企把原本需要两年开发的新技术，硬生生压缩到10个月就上线；以前要花4个月测试的整车软件，现在两周就用了。这就像做饭，本来要等食材熟透才能吃，结果为了赶时间，半生不熟就端上桌了。\n\n- **领导压力山大**：车企为了追求快，把任务成倍地甩给员工，搞得大家天天加班。测试环节是走过场，本来要测200次的，最后可能只测30次，就跟考试抄答案一样，省事但结果不可靠。\n\n- **安全风险大**：眼看要出大事，因为赶工测试不充分，很多安全隐患没被发现。这就像盖房子，地基没打好就盖楼，迟早要出问题。\n\n- **政策收紧**：好在监管部门发现了这事儿，开始重新规定汽车开发速度，不能这么疯狂了。以后车企得把安全放在第一位，不能光顾着快。",
-      "summarized_at": "2026-03-06T08:47:50.889Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772786790924",
-      "title": "奔驰新车平台首落中国，要用吉利架构 | 36氪独家",
-      "summary": "今年1月底，奔驰管理层开始不断出现在吉利杭州湾研发中心，36氪从多位产业人士处了解到，两家车企巨头正在商谈一场整车电子电气级别的合作。 \n电子电气架构，也叫EE架构，是汽车智能化、数字化、网联化的基础，也是支撑辅助驾驶、智能座舱的核心。或者说，它就是智能汽车时代，车企口中的“灵魂”部分。 \n2月初，吉利管理层又带着翻译人员前往上海金桥，与奔驰进一步敲定了合作方向。 \n目前，双方已经初步达成共识，奔驰将基于吉利的GEEA电子电气架构，开发全新的电动车平台。目前，奔驰在基于GEEA 4.0版本做POC验证（项目开始前的概念验证）。\n吉利GEEA4.0架构，是吉利集团正在开发的、油电通用的电子电气架...",
-      "url": "https://36kr.com/p/3709965457240197?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-05T11:32:26.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 奔驰和吉利要联手造车了！\n\n奔驰和吉利这两个大厂，最近在偷偷搞合作。奔驰想用吉利的“技术骨架”来造新车，特别是电动车。\n\n### 技术骨架是什么？\n你可以把汽车的“电子电气架构”想象成房子的“承重墙和水电管道”。以前造车，奔驰都是自己一套设备。现在，他们想用吉利的“承重墙和水电管道”，这样造车更快、更便宜。\n\n### 为什么奔驰要找吉利？\n奔驰现在造电动车遇到点困难，技术跟不上。吉利在电动车这块做得挺好，技术很成熟。所以，奔驰就想借吉利的“技术骨架”，快速推出新电动车。\n\n### 合作进展怎么样？\n两家公司已经谈了好几次了。奔驰管理层跑了几趟吉利的研究中心，最近又去上海和吉利确认合作细节。现在，奔驰已经在用吉利的“技术骨架”做测试，看看能不能用。\n\n### 对我们有什么影响？\n以后奔驰的新电动车，可能会带着吉利的影子。这意味着，奔驰电动车会更智能、更便宜，对我们消费者来说是好事。毕竟，花同样的钱，能买到技术更好的车，谁不高兴呢？",
-      "summarized_at": "2026-03-06T08:47:57.848Z",
       "summary_status": "success"
     },
     {
