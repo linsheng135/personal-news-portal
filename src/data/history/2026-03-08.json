@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-08T08:40:03.615Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-08T08:40:03.615Z",
+    "date": "2026-03-08",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1772959116910",
-      "title": "Is the Pentagon allowed to surveil Americans with AI?",
-      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after E...",
-      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-06T19:21:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国国防部用AI监视美国人，合法吗？\n\n最近，美国国防部和一个叫Anthropic的AI公司吵得不可开交。这背后有个大问题：美国政府能不能用AI大规模监视美国人？答案挺复杂的，不是简单的“能”或“不能”。\n\n### 法律没明说\n\n想想看，这就像家长问孩子能不能用手机查作业。法律没写明能不能用，但用起来可能会有麻烦。美国法律也没说政府能不能用AI监视老百姓。虽然宪法保护隐私，但也没直接禁止用高科技手段查人。\n\n### AI公司很担心\n\nAnthropic公司开发AI技术，但很担心政府拿去监视。这就像你造了个望远镜，结果有人用来看你家。公司担心政府用AI查电话、看网，甚至预测谁可能犯罪。但政府说，他们只是想用AI保护国家安全，比如防恐怖分子。\n\n### 法院还没判\n\n目前，没人能给个确切答案。就像有人买了新玩具，但说明书还没到。法律界和科技公司都在等最高法院的判决。如果法院说“可以”，那政府就能用AI查美国人；如果说不“行”，那政府就得改规矩。\n\n### 关键点\n\n- 法律没写明政府能不能用AI监视美国人  \n- AI公司担心政府滥用技术  \n- 法院还没判决，结果悬而未决",
-      "summarized_at": "2026-03-08T08:38:48.965Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1772959116910",
-      "title": "Online harassment is entering its AI era",
-      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have institute...",
-      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-05T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 网络骚扰进入人工智能时代\n\n## 现象描述\n最近，一个叫Scott Shambaugh的人拒绝了一个AI助手请求他帮忙改进一个叫做matplotlib的软件。这个软件就像大家平时用的办公软件一样，很多人一起维护。现在，很多AI助手都在往这个软件里提交代码，但很多都是没用的或者搞乱的，让维护的人很头疼。\n\n## 为什么会这样\n- AI助手现在越来越能写代码了，但它们写的代码质量不高\n- 像matplotlib这样的软件，本来是大家共同维护的，现在被AI写的大量低质量代码给淹没了\n- 维护人员不得不花更多时间清理这些垃圾代码，就像清理家里突然堆满的垃圾一样\n\n## 后果影响\n- 维护人员很累，本来应该是大家一起做的活儿，现在却要花更多精力去收拾AI搞乱的东西\n- 如果不解决这个问题，很多好用的软件可能会因为AI乱提交代码而变得不好用\n- 这就像小区里的公共花园，如果AI助手乱扔垃圾，大家都不愿意去用了\n\n## 未来可能\n- 人们可能需要开发更好的AI助手，让它们写出来的代码更靠谱\n- 也可以规定一些规则，比如AI助手写代码前需要经过人检查，就像快递需要先核实身份一样\n- 或者开发出能自动清理垃圾代码的工具，让大家省心",
-      "summarized_at": "2026-03-08T08:38:49.051Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1772959116910",
-      "title": "Bridging the operational AI gap",
-      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many ...",
-      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-04T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI从想法变成现实\n\n### 企业怎么用AI\n现在很多公司不只是在嘴上说说AI有多好，而是真的在行动。就像以前大家说种果树能致富，但只有少数人真的买了地、买了工具开始种。现在很多公司也是这样，开始把钱和人力投入到AI上，让AI真正在工厂、办公室里干活。\n\n### AI从试验到正式工作\n以前公司搞AI，都是先做点小试验，看看效果好不好。现在不一样了，很多公司已经从\"试试看\"阶段，进入了\"AI正式上班\"的时期。就像以前家里添个新电器，先是买个小型号试试，后来觉得好用就换了大号的。现在公司用AI也是这个道理，从简单的小项目慢慢扩展到整个公司都用。\n\n### 公司怎么改变\n过去很多公司谈AI，都是技术人员在讨论。现在不一样了，老板、财务、业务部门都在参与。就像以前做饭都是厨师负责，现在全家一起研究菜谱、采购食材。公司也是，现在各部门都要考虑怎么把AI用到自己工作中，而不是只靠IT部门。\n\n### AI的未来\n随着公司越来越重视AI，未来AI会像水电煤一样普及。现在很多公司还在探索阶段，但趋势很明显：AI不再是高科技概念，而是实实在在的生产工具。就像当年电脑刚出现时，大家也不知道会用到哪里，现在几乎每个行业都有电脑的身影。AI也会慢慢进入各行各业，只是时间早晚问题。",
-      "summarized_at": "2026-03-08T08:38:56.281Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1772959116910",
-      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its anno...",
-      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-02T17:29:42.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI与五角大楼的合作\n\nOpenAI最近和美国政府达成了协议，允许美国军方在秘密情况下使用它的技术。这就像你平时用的微信，平时大家都能用，但有些重要的聊天需要加密，只有特定的人才能看。OpenAI现在就是和军方说：“你们的秘密工作，我们也可以帮忙搞。”  \n\nOpenAI的老板Sam Altman说，他们和军方的谈判是“马马虎虎”搞定的，因为军方之前批评了另一个公司Anthropic，他们才赶紧谈的。这就像你家邻居平时对你不错，但突然说你家孩子太吵，你只好赶紧跑过去陪笑脸。  \n\n### 关键信息\n\n- **OpenAI和军方达成协议**：军方可以用OpenAI的技术搞秘密工作。  \n- **谈判很匆忙**：OpenAI觉得时间太赶，没好好商量。  \n- **军方之前批评了Anthropic**：OpenAI这是为了缓和和军方的关系。  \n\n### 例子解释\n\n这就像你们班同学平时都挺和气，但老师突然说：“你们小组合作搞个秘密项目，别让别人知道。”你平时不常和某个同学合作，但老师这样说后，你只好硬着头皮一起干。OpenAI现在就是这种情况，本来和军方关系一般，但军方突然找上门，他们只好赶紧答应。  \n\n### 为什么大家担心？\n\nOpenAI的竞争对手Anthropic之前就担心，如果OpenAI和军方走得太近，可能会让其他公司不舒服。现在看来，他们的担心成真了。这就像你们小区的便利店平时都卖东西，但突然和警察成了“合作伙伴”，大家可能会觉得这家店以后不安全了。",
-      "summarized_at": "2026-03-08T08:38:58.504Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1772959116910",
       "title": "I checked out one of the biggest anti-AI protests yet",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Qlib是个啥？  \n\nQlib是一个用AI做投资的工具，就像用电脑帮你研究股票、期货这类投资机会。它从想到投资点子，到实际赚钱，都能帮忙搞定。  \n\n### 它怎么工作的？  \n- **像做菜一样研究投资**：你想做道菜（投资），先用Qlib尝各种口味（研究市场），找到好配方（好策略），最后批量做（实盘）。  \n- **多种AI方法**：Qlib支持多种AI技术，比如用机器学习预测股价（像学英语背单词），模拟市场变化（玩模拟游戏），甚至用深度学习自动决策（像下围棋的AI）。  \n- **自动搞定研发**：现在还接了微软的RD-Agent，能自动帮你做研究，省得自己花大量时间查资料、写代码。  \n\n### 谁适合用？  \n- 小白也能用：不用懂复杂代码，就像用手机订外卖一样简单。  \n- 高手更厉害：能快速试错，像做实验时快速调整方案。  \n\n总之，Qlib是AI投资的“全托管”平台，帮你从零到一搞定投资研究，特别适合没时间学编程但又想用AI赚钱的人。",
       "summarized_at": "2026-03-08T08:39:47.365Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772959123238",
-      "title": "赛道牛股频出 , 下一个千亿龙头是它？",
-      "summary": "作者 | 弗雷迪\n数据支持 | 勾股 大数 据（www.gogudata.com）\nAI在A股的造富神话还在延续。\n从ChatGPT问世以来，铲子变得越发金贵，工业富联、中际旭创、胜宏科技、寒武纪...各个AI基建赛道的大牛股，市值扶摇直上。\n当算力逻辑延伸至上游能源供应，电网设备作为市场近来少有最受资金欢迎的核心主线之一，同样迎来了爆发，近一年翻倍股不胜其数。\n去年，我们聊过的思源电气就成功迈入了千亿大关。\n不知不觉，另一只特高压龙头今年累计涨幅达到了112%。\n离千亿市值，仅一步之遥了。\n01电网投资大周期\n当大模型迈向由数十亿用户主导的实时推理阶段，科技局头们都逐渐意识到一个关键现实：\n...",
-      "url": "https://36kr.com/p/3714009108001160?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-08T08:19:29.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI行业赚钱效应明显\n\n最近AI技术特别火，像ChatGPT这种新产品出来后，很多相关公司股价大涨，比如工业富联、中际旭创等，市值蹭蹭往上涨。这就像现在大家都抢着买手机，手机配件厂都能赚大钱。\n\n## 电网设备成新热点\n\n现在不光AI服务器需要电力，连提供电力的设备也跟着火起来。电网设备最近特别受资金追捧，很多股票一年涨了一倍多。像思源电气去年刚突破千亿市值，现在又有个做特高压的龙头企业涨了112%，快到千亿了。\n\n## 投资机会分析\n\n科技公司和电网设备公司现在都像抢煤球一样抢着涨。因为大模型越来越智能，需要更多电力支持，所以造电设备也跟着赚钱。这种情况下，未来可能会有更多像千亿公司一样的龙头企业出现。",
-      "summarized_at": "2026-03-08T08:39:45.972Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772959123238",
-      "title": "“变压器工厂干冒烟了”",
-      "summary": "算力之争愈演愈烈，电力���障便成为背后的“隐形底座”。\n作者丨韦香惠\n来源丨投中网\n马斯克又一次预言成真了。\n“AI火了，也把变压器带火了，我老家的变压器工厂机器都快干冒烟了。”春节刚过，一位浙江朋友向我讲述她的家乡见闻。不止浙江，江苏、广东等地多家变压器企业在年前就已处于满产状态，部分面向数据中心的订单甚至排至明后年。原本被视为传统电力设备的变压器，正意外成为AI浪潮下最紧俏的基础设施之一。\n这一趋势，早在2023年7月便被马斯克点破。当时，他带领xAI创始团队在Twitter Spaces的首场语音发布会上直言：未来一年，行业将从“芯片短缺”转向“变压器短缺”，随后两年可能出现电力短缺，...",
-      "url": "https://36kr.com/p/3713978630451584?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-08T07:59:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 变压器工厂为啥冒烟了？\n\n最近AI特别火，但造AI的东西却不够用了，这跟造车的道理差不多——造车需要钢材，造AI需要电力，而变压器就像汽车的电池，少了它就跑不动。\n\n### 变压器有多重要？\n\n变压器就像家里的充电器，能把电从发电厂送到数据中心。现在数据越来越多，需要更多的充电器，变压器就供不应求了。\n\n### 为什么突然缺货？\n\n- **马斯克早说了**：2023年他就预言了，现在应验了。AI发展太快，电力需求猛增。\n- **工厂忙不过来**：浙江、江苏等地的变压器厂已经爆满，订单排到明年。\n- **传统设备变抢手**：以前没人稀罕的变压器，现在成了香饽饽。\n\n### 生活例子解释\n\n想象一下，你开个水果店，突然发现手机下单的人越来越多，但快递车不够用了。这时候你发现，其实快递车就是变压器的比喻——少了它们，生意就停摆。\n\n### 未来会怎样？\n\n- **电力紧张**：马斯克说未来两年可能电力短缺，就像手机没电一样严重。\n- **价格可能上涨**：变压器紧缺，数据中心用电成本可能增加。\n\n总之，AI发展太快，电力成了新瓶颈，变压器就是那个被忽视的“幕后英雄”。",
-      "summarized_at": "2026-03-08T08:39:54.279Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772959123238",
-      "title": "俞永福的一句话促成一个 IPO",
-      "summary": "作者丨黎曼 \n编辑丨王庆武 \n来源丨东四十条资本 \n二级市场AI的狂热直接传导至一级市场，形成了AI企业上市的“窗口期红利”。\n更为关键的一点是，资本市场对AI的关注点也开始发生转移，比如从“谁的模型更大”转向“谁能把AI变成可持续现金流”。\n眼下，便有一家来自广州的AI应用层公司勇闯港交所。2026年2月底，钛动科技向港交所递表，冲击港股“Multi-Agent（营销多智能体）第一股”。钛动科技此时递表，有希望抢在热度消退前完成IPO定价。\n更值得关注的是财务层面，钛动科技已实现持续盈利且毛利率稳定在82%以上，这种少见的高利润AI企业在当前市场环境下也具有稀缺性。\nIPO前，钛动科技的投资...",
-      "url": "https://36kr.com/p/3713824137736576?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-08T06:57:21.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 钛动科技要上市了\n\n钛动科技是一家做AI营销的公司，现在想在香港股市上市，这是他们第一次上市，希望成为“营销多智能体第一股”。现在市场对AI公司的关注点变了，以前看谁的技术厉害，现在看谁能让AI赚钱，比如能不能稳定接到客户付款。\n\n钛动科技上市前就赚钱了，利润率特别高，能达到82%以上，这在AI公司里很少见。现在AI行业特别火，很多公司都想上市，但钛动科技能抓住这个机会，说明他们很懂行情。如果他们现在上市，还能赶上好时候，等市场冷下来就不好了。\n\n- 钛动科技想成为营销多智能体领域的第一股\n- 公司现在赚钱，利润率很高\n- 抓住AI行业火热时机上市",
-      "summarized_at": "2026-03-08T08:39:52.244Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1772959123238",
-      "title": "0.99元黑暗人格测试刷屏 , 有人靠它月入过万",
-      "summary": "作者｜黄诗韵\n编辑｜朱人奉\n题图｜pexels\n0.99元可以做什么？可以测测你是“灵珠”还是“魔丸”。\n《哪吒》系列动画电影或许怎么都想不到，它最出圈的两个词会和“黑暗人格三角测试”产生联系。\n这样一份测试题，只需0.99元，你花大概10分钟完成70道题，就可以得到属于自己的黑暗三角人格测试报告。\n\n（图/社交媒体截图）\n\n（图/社交媒体截图）\n不只黑暗人格，你的自身天赋、年上年下恋爱倾向、天选之城、情感占有欲，甚至是依恋类型、NPD人格等，都可以花0.99元进行测试。\n于是，在一种“买不了吃亏，买不了上当”的心态驱使下，社交平台上悄然掀起了一阵0.99元心理测试的热潮。\n这种付费测试为什么...",
-      "url": "https://36kr.com/p/3713868910326147?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-08T05:43:34.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 0.99元心理测试火遍社交平台\n\n- **核心测试内容**：花0.99元就能测出你是不是\"好性格\"还是\"阴暗面\"，类似《哪吒》里的\"灵珠\"和\"魔丸\"。测试包含70道题，10分钟左右出报告。\n- **测试多样性**：不只测性格，还能知道你的天赋、恋爱倾向、适合的城市、对感情的控制欲、依恋模式等，覆盖生活方方面面。\n- **流行原因**：价格便宜，让人觉得\"不买会后悔\"，像买东西打折时总想\"买不了吃亏\"。测试结果有趣，能满足好奇心。\n- **商业现象**：不少商家靠这种测试月入过万，因为人们愿意用小钱换取心理上的满足和自我了解。\n- **生活例子**：就像小时候买贴纸，0.99元一张，可以贴满一张纸，心理测试也是用小钱满足探索自己的需求。\n- **社会影响**：测试在社交平台疯传，大家乐于分享结果，形成热潮，但测试科学性存疑，更多是娱乐性质。",
-      "summarized_at": "2026-03-08T08:40:00.811Z",
       "summary_status": "success"
     },
     {
