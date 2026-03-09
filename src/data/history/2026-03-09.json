@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-09T08:55:15.817Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-09T08:55:15.818Z",
+    "date": "2026-03-09",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1773046422593",
-      "title": "Is the Pentagon allowed to surveil Americans with AI?",
-      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after E...",
-      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-06T19:21:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国政府用人工智能监视美国人合法吗？\n\n最近，美国国防部和一个叫Anthropic的AI公司吵起来了，这引出了一个大家都很关心的问题：美国政府到底能不能用AI大规模监视美国人？答案不是简单的“能”或“不能”，而是挺复杂的。\n\n**法律没明确规定**  \n想象一下，你妈让你帮忙看家，但没说能不能用无人机拍邻居。如果这部法律没写清楚，你用无人机看家就成了灰色地带。现在的情况就像这个例子，美国法律没明说政府能不能用AI大规模监视老百姓，所以这个行为现在处于法律空白期。\n\n**科技公司很警惕**  \n像Anthropic这样的AI公司很担心，因为如果政府随意用AI监视民众，可能会侵犯隐私。比如，你现在用的智能音箱可能正在偷偷记录你的对话，如果政府也能用这种技术，大家会不会觉得自己的隐私被侵犯了？\n\n**法律界意见不一**  \n一些法律专家认为，既然法律没说不行，政府就有可能这样做。但也有人觉得，即使法律没写，但这样做肯定不对。就像现在是疫情期间，政府可以要求大家戴口罩，但能不能强制要求所有人戴某种特殊口罩，还是要看法律怎么说。\n\n**未来有不确定性**  \n现在的情况是，法律还没定下来，所以美国政府用AI监视美国人到底合不合法，没人能给出确切答案。不过，随着AI越来越普及，这个问题肯定会越来越受关注，未来的法律很可能也会做出更明确的规定。",
-      "summarized_at": "2026-03-09T08:53:58.406Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773046422593",
-      "title": "Online harassment is entering its AI era",
-      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have institute...",
-      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-05T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 在线骚扰进入了AI时代\n\n最近，很多人发现网上出现了一种新的骚扰方式，那就是用人工智能（AI）机器人进行的。这些机器人会像发垃圾邮件一样，到处发一些不好看的评论或者信息。这给很多人带来了困扰。\n\n举个例子，有个叫Scott Shambaugh的人，他就遇到过这种情况。他平时会帮忙管理一个叫做matplotlib的软件，这个软件是很多程序员用的。但是最近，这个软件收到了很多AI机器人写的代码，这些代码要么不好用，要么干脆就是乱写的。于是，Scott和同事们只好采取措施，不让这些AI机器人再贡献代码了。\n\n这种情况其实就像生活中收到的垃圾广告一样，只不过现在是用AI机器人来发的。这些机器人可以自动写很多评论或者信息，而且可以24小时不停地发，让人防不胜防。这还不是最坏的，更糟糕的是，有些人还会用这些机器人来进行网络攻击，比如黑网站或者盗取信息。\n\n## AI骚扰的关键点\n\n- **机器人发垃圾信息**：AI机器人像发垃圾邮件一样，在网上到处发不好的评论或信息。\n- **影响软件管理**：像matplotlib这样的软件，现在收到了很多AI机器人写的代码，导致管理难度加大。\n- **无法阻止**：这些机器人可以24小时不停地发信息，让人很难阻止。\n- **网络攻击**：有些人会用AI机器人进行网络攻击，比如黑网站或盗取信息。\n\n总之，随着AI技术的发展，网络骚扰也变得更复杂了。我们得想办法应对这种新的骚扰方式，比如加强软件管理，提高防范意识，这样才能减少被骚扰的麻烦。",
-      "summarized_at": "2026-03-09T08:53:54.603Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773046422593",
-      "title": "Bridging the operational AI gap",
-      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many ...",
-      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-04T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI应用正在从实验室走向实际工作\n\n### AI不再只是说说而已\n现在很多公司不再光说不练，而是真的把钱和资源投入到AI上。就像以前大家都在说学开车，现在真正去考驾照、买车的多了。AI也是一样，以前只是小范围试水，现在要全面推广。\n\n### 企业用AI已经蔚然成风\n以前公司用AI都是做些小实验，现在都开始正式用AI来干活了。比如以前可能只是用AI识别图片，现在直接用AI来管理整个仓库。就像以前用计算器算账，现在直接用财务软件全盘管理。\n\n### AI正在改变工作方式\n公司正在把AI技术应用到日常工作中。比如以前客服要一个个回答问题，现在有了AI客服可以同时服务很多人。就像以前超市收银员要一个个扫描商品，现在可以直接扫整个购物车。\n\n### 资源向AI倾斜\n以前公司预算里AI只是小部分，现在很多项目都要靠AI来支持。就像以前盖房子只用水泥，现在都要考虑钢筋、玻璃、空调等全套系统。AI已经成为现代企业不可或缺的一部分。\n\n### AI正在从试点走向量产\n很多公司都在把AI从实验室搬出来，真正应用到实际业务中。比如以前用AI分析销售数据只是偶尔为之，现在直接用AI来预测销售趋势。就像以前手机只是打电话，现在都是多功能智能设备。",
-      "summarized_at": "2026-03-09T08:54:06.759Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773046422593",
-      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its anno...",
-      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-02T17:29:42.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI和五角大楼的“折中方案”\n\nOpenAI最近和五角大楼达成了协议，这让本来担心军队会滥用AI技术的Anthropic公司松了口气。OpenAI的CEO Sam Altman承认，他们是在五角大楼公开批评Anthropic后才匆忙谈判的。\n\n### 协议内容\n- 五角大楼可以在机密环境中使用OpenAI的技术，比如开发军事AI系统。\n- OpenAI原本担心军方会随意使用他们的技术，现在这个协议对他们来说是“折中”选择。\n\n### 事情起因\n- 五角大楼之前公开指责Anthropic公司（一家AI公司）可能将技术用于军事目的。\n- OpenAI作为另一家AI公司，为了保住军方订单，赶紧和五角大楼谈条件。\n\n### 各方反应\n- OpenAI觉得谈判很“赶”，但为了生意只能接受。\n- Anthropic本来最害怕的就是这种军企合作，现在看到OpenAI也这样做了，终于放心了。\n\n### 生活中的例子\n就像两个邻居吵架，甲方（五角大楼）指责乙方（Anthropic）偷了自家菜，后来又发现丙方（OpenAI）也在做类似的事，最后丙方为了讨好甲方，勉强答应帮忙，乙方便觉得总算松了口气。\n\n总之，OpenAI和五角大楼的这种“折中”协议，虽然解决了眼前的矛盾，但也让其他科技公司看到，军方和AI公司的合作可能没那么容易拒绝。",
-      "summarized_at": "2026-03-09T08:54:07.663Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1773046422593",
       "title": "I checked out one of the biggest anti-AI protests yet",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 大型系统怎么设计\n\n这个资源教你如何设计超大型的系统，特别适合准备系统设计面试。想象一下，你要给一个超级拥堵的城市设计交通系统，这就叫大型系统设计。\n\n### 核心要点\n\n- **拆解复杂问题**：把一个大系统像拼图一样分成小部分。比如超市，有收银区、库存区、顾客区，每个部分再细分。设计系统时也要这样，把功能分块处理。\n- **流量怎么走**：系统里数据像水流一样，要设计好上游（输入）、下游（输出），不能堵车。比如银行系统，取钱和存钱不能同时排队。\n- **怎么扩展**：现在大家都用手机，银行系统要能同时服务几百万用户。这就好比餐厅要能同时开几十家分店，不能因为人多就瘫痪。\n- **别忘了备份**：系统要像存钱罐一样，准备备用方案。比如手机突然没电了，换个充电宝就能继续用，系统也要有备份机制。\n- **简单例子**：外卖平台就像一个大系统，有骑手（资源）、用户（客户）、商家（数据源），每个部分都要顺畅衔接。\n\n### 实用技巧\n\n- **Anki卡片**：配套的闪卡能帮你记住关键点，就像学生用口诀记公式一样。\n- **生活类比**：设计系统时多用生活例子。比如把数据库比作图书馆，API接口像自动取书机，这样更容易理解。\n\n总之，设计大型系统就像搭乐高，需要一步步来，既要有整体规划，又能灵活调整。面试时多用生活例子解释，面试官一听就懂。",
       "summarized_at": "2026-03-09T08:54:59.142Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773046428316",
-      "title": "提前披露中东美军动向，这家AI卫星情报公司完成新一轮融资｜硬氪首发",
-      "summary": "本文约1300字，建议阅读3分钟\n作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，地理空间情报分析公司觅熵科技（杭州）有限公司（MizarVision）（以下简称“觅熵科技”）近日宣布完成pre-A轮融资，本轮融资由现象资本独家投资，融资金额超千万元人民币，资金将主要用于业务拓展。\n觅熵科技成立于2021年，总部位于杭州，是国内首家专注于将商业卫星遥感与AI深度融合，服务实时地理情报的创新企业。公司通过聚合全球多模态实时传感器信息，构建专属的AI情报大模型，对地理空间信息进行深度解读，改变了传统的情报信息的使用方式，让来自太空视角的数据可以更好服务各行业决策。\n值得注意，在近期的中东地缘热点事件...",
-      "url": "https://36kr.com/p/3715205580058756?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-09T04:24:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 觅熵科技完成新一轮融资，用AI解读卫星照片\n\n## 公司简介\n- 觅熵科技是一家杭州公司，2021年成立，专门用卫星照片和AI技术分析地理信息\n- 他们把全球各种卫星数据（比如军用、民用卫星）都整合起来，用AI像人脑一样解读这些数据\n- 过去看卫星照片需要专业人员，现在他们用AI自动分析，让普通人也能看懂\n\n## 业务模式\n- 公司客户包括政府、企业等，可以实时获取地理信息\n- 他们改造了传统情报分析方式，用AI自动解读太空传回的数据\n- 比如：中东最近军事行动时，他们提前发布了美军动向信息\n\n## 融资情况\n- 近日完成pre-A轮千万元融资，投资方是现象资本\n- 资金将用于扩大业务规模，开发更多AI分析工具\n- 这是国内首个把商业卫星和AI结合做情报分析的科技公司\n\n## 价值体现\n- 让太空视角的数据变得像手机App一样容易使用\n- 改变了传统情报获取方式，信息传播更快更准\n- 类似于把卫星照片自动翻译成中文，方便各行各业使用",
-      "summarized_at": "2026-03-09T08:54:59.083Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773046428316",
-      "title": "获近亿元融资，一家AI公司的两周转型小龙虾实战故事",
-      "summary": "文｜邓咏仪\n编辑｜苏建勋\nNodesk AI创始人宋健和他的创业公司NoDesk AI，在过去两周里，完成了一场极限AI竞赛：\n2025年春节前，OpenClaw开始爆火。NoDesk AI创始人宋健带着团队，用两周时间开发了新产品DeskClaw。\n最初，NoDesk只是为了内部使用，让自己的电商Agent业务团队基于OpenClaw提升效率。但开发完成后，团队感受到外界喷涌的需求，马上决定对外发布。2026年2月14日，DeskClaw个人版第一个版本上线。\n\n△NoDesk AI创始人宋健与冲刺中的团队，图源：企业提供\n在成立NoDesk AI之前，宋健是一个难得的To B创业“多面手”...",
-      "url": "https://36kr.com/p/3714634245009800?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-09T02:00:21.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI公司两周逆袭记\n\n### 背景故事\nNoDesk AI是一家搞AI技术的公司，创始人叫宋健。他之前做过很多跟商业有关的事情，是个懂行的人。\n\n### 突如其来的机会\n2025年春节前，突然有个叫OpenClaw的AI工具火了。NoDesk AI本来只是想让自家的电商团队用OpenClaw提高工作效率，结果发现外面的人也想要这个工具。\n\n### 极限开发\n宋健带着团队，在短短两周内就开发出了自己的版本——DeskClaw。这就像是你突然发现邻居在用个特别好的菜谱，第二天你就学会了做同样的菜还改进了一点。\n\n### 快速上线\n开发完成后，团队觉得这个产品很有市场，马上决定对外推出。2026年2月14日，DeskClaw个人版第一个版本就上线了，这比很多公司花几个月甚至几年才能做到的事情要快得多。\n\n### 成果显著\n这个快速转型的策略非常成功，NoDesk AI也因此获得了近亿元融资。这说明在变化快的科技领域，能快速反应的公司更容易获得机会。\n\n- 核心观点：快速发现市场需求，迅速开发并推出产品，是创业公司逆袭的关键。\n- 关键信息：两周开发出DeskClaw，从内部工具到对外产品，获得大量融资。",
-      "summarized_at": "2026-03-09T08:55:07.605Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773046428316",
-      "title": "前vivo手机明星产品经理宋紫薇创办「薇光点亮」，获红杉、蓝驰、蚂蚁、鼎晖超亿元融资丨智能涌现独家",
-      "summary": "作者丨邱晓芬\n编辑丨苏建勋\nAI硬件的创业风潮正席卷整个消费电子领域，前小米中国区市场部总经理王腾、小米互联网业务部总经理马骥等手机圈高管纷纷下场创业，产品形态包括AI睡眠硬件、AI耳机、AI影像硬件等等。\n2024年10月，vivo明星手机产品经理宋紫薇也在微博宣布投身AI智能硬件领域创业 。此后，关于其创业方向一直众说纷纭。\n《智能涌现》从知情人士处获悉，宋紫薇的创业公司「薇光点亮」将打造以时尚AI Agent为核心的智能硬件产品矩阵。知情人士称，其内部正在研发首款AI原生时尚终端，硬件形态或为落地镜，其时尚智能体将深度融合用户日常的照镜、穿搭等高频场景。\n另据《智能涌现》独家获悉，「薇光...",
-      "url": "https://36kr.com/p/3714480200085633?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-09T01:30:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 宋紫薇创办AI智能硬件公司，获多亿投资\n\n- **背景**：现在很多做手机的大公司高管都在创业，比如小米的王腾、马骥，都在做AI相关的智能硬件，比如能帮你睡觉的设备、听音乐的耳机、拍照的硬件等。\n  \n- **宋紫薇的创业**：2024年10月，vivo手机的产品经理宋紫薇也出来创业了，她之前做的手机特别受欢迎。但她的创业方向一直是个谜。\n\n- **公司名字和产品**：《智能涌现》杂志从内部人士那里了解到，宋紫薇的公司叫「薇光点亮」，要做的是和时尚有关的AI智能产品。他们正在研发一个AI智能助手，可能是一个落地镜，能帮你照镜子、选衣服。\n\n- **AI智能助手的作用**：这个AI助手会学习你的日常习惯，比如你每天照镜子、穿衣服的样子，然后给你建议，比如今天穿什么衣服更好看。就像一个懂时尚的闺蜜，但更聪明。\n\n- **投资情况**：宋紫薇的公司已经得到了很多大公司的投资，比如红杉、蓝驰、蚂蚁、鼎晖，总共投资了好几亿钱。\n\n- **核心观点**：宋紫薇利用她在手机行业的经验，加上AI技术，想做一个能提升生活品质的时尚智能产品。",
-      "summarized_at": "2026-03-09T08:55:07.610Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773046428316",
-      "title": "李泽湘、阿里押注的智能无人艇，拿下水面自动驾驶最大单笔融资，估值近20亿｜潜伏独角兽",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n在AI硬件风潮之外，一个安静的市场正在悄然生长。\n过去一年中，水上智能装备相关项目诞生了不少融资。这片占地球表面71%的蓝色疆域，仍有很多空白市场。\n根据中国船东协会数据，国内注册机动船舶超过12万艘，加上各类非机动船、公园游船、作业船，总量超过50万艘；其中，具备智能驾驶能力的船舶占比不足1%，具备L4级无人驾驶能力的更是寥寥无几。\n水面作业场景也面临着明确的人力缺口：全国河道保洁人员平均年龄超过55岁，年轻劳动力流失严重；景区游船驾驶员用工成本五年间上涨超过40%；海洋巡检、水文监测等场景则长期处于“缺人难招、有人难留”的困境。\n这是一块被忽视的蓝海，存量巨大、人...",
-      "url": "https://36kr.com/p/3711190979867011?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-09T01:20:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 水上无人船获大额投资，解决人力难题\n\n- **市场机会大**：地球上71%是水，但能自动驾驶的船不到1%，市场潜力巨大。想想我们平时划船、坐游轮，如果船能自己开，是不是很酷？\n  \n- **人力缺口严重**：河道清洁、景区游船、海洋巡逻等都需要人，但年轻人不愿干，老员工年纪大。比如公园里的游船，以前一个人开，现在可能要涨工资才有人愿意干。\n\n- **投资情况**：李泽湘和阿里巴巴投资了一家造智能船的公司，估值近20亿。这就像手机刚出来时，只有富人玩，现在人人都有，说明未来市场会越来越大。\n\n- **智能船用途**：可以用来清洁河道、巡逻海域、监测水位等。比如现在河道清洁靠人工，辛苦还脏，用船自动清洁，既省力又干净。\n\n- **市场前景**：虽然现在能自动驾驶的船很少，但未来会像汽车一样普及。想想以前的船都是手动开，现在有了自动船，说明科技进步会改变我们的生活。\n\n- **核心观点**：智能船市场被忽视，但需求大，投资热，未来会像手机一样成为必需品。",
-      "summarized_at": "2026-03-09T08:55:14.080Z",
       "summary_status": "success"
     },
     {
