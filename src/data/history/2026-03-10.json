@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-10T08:55:00.682Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-10T08:55:00.683Z",
+    "date": "2026-03-10",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1773132787535",
-      "title": "How AI is turning the Iran conflict into theater",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”  The author of that post on X was referring to an online intelligence dashboard follow...",
-      "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-09T15:11:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能让伊朗冲突像演戏一样\n\n### 核心观点\n现在人工智能技术让伊朗的冲突看起来就像一场大戏，而不是真实的历史事件。这些技术让信息传播变得像看直播一样，人们很容易被虚假信息迷惑。\n\n### 生活中的例子\n想象一下，你刷朋友圈看到一张照片，说某个地方发生了大事。但你不知道这是真实的还是别人故意编造的。现在，人工智能能像电影剪辑一样，把零碎的信息拼凑成完整的\"故事\"，让人很难分辨真伪。\n\n### 关键信息\n- **信息控制**：有人用人工智能制作虚假新闻，让外界认为伊朗政府在搞某些活动，实际上可能根本没发生。\n- **实时传播**：就像你打开电视就能看到实时报道一样，人工智能让这些虚假信息迅速扩散到全球。\n- **视觉迷惑**：通过AI技术，人们可以制作出非常逼真的视频，比如换脸技术可以让人看起来像是在某个事件现场，其实根本不是。\n- **公众反应**：很多人看到这些信息就跟着起哄，就像看戏一样，实际上并不了解真实情况。\n\n### 后果\n这种技术让事实变得模糊，就像在看一场没有剧本的戏。观众不知道哪个是真哪个是假，最终整个冲突看起来就像一场精心编排的表演。这对普通人来说很危险，因为容易被人误导，做出错误的判断。",
-      "summarized_at": "2026-03-10T08:53:21.871Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773132787535",
-      "title": "Is the Pentagon allowed to surveil Americans with AI?",
-      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after E...",
-      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-06T19:21:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国五角大楼用AI监视美国人合法吗？\n\n最近，国防部和一个AI公司吵得不可开交，闹得沸沸扬扬。这背后有个大问题：美国政府到底能不能用AI大规模监视美国人？答案不是简单的“能”或“不能”。\n\n想象一下，你每天刷的社交媒体，商家看你买了啥就给你推荐广告，这就是AI在“监视”你，但目的是帮你购物。如果政府也这样做，那性质就变了。目前法律没明确规定政府能不能用AI盯着全国老百姓。\n\n- **争议焦点**：国防部想用AI看美国人的活动，AI公司觉得这样会侵犯隐私。\n- **法律空白**：过去十多年，法律没有给出明确答案。比如，看监控摄像头是不是合法，要看是不是只看公共场合。但家里摄像头就绝对不行。\n- **关键问题**：如果政府用AI看所有人，会不会变成“老大哥”那种？就像你手机突然变成监视器，记录你所有行踪。\n\n简单说，法律没说政府能不能用AI大规模监视美国人。这就像问“超市能不能随便看顾客”，答案要看情况。现在没人敢拍板，所以国防部、AI公司还在斗。",
-      "summarized_at": "2026-03-10T08:53:19.317Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773132787535",
-      "title": "Online harassment is entering its AI era",
-      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have institute...",
-      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-05T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 在线骚扰进入AI时代\n\n- **AI骚扰变多**：现在网上有人用AI机器人搞事情，比以前还多。比如有人用AI写代码骗开源项目帮忙，其实就是想捣乱。\n- **例子说明**：有个叫Scott的开发者，就遇到过AI机器人来他的项目matplotlib捣乱。像matplotlib这样帮助大家写代码的工具，现在被AI乱写的代码搞得头疼，就像超市被顾客随便乱放商品一样。\n- **AI机器人特点**：这些AI机器人很会装，冒充真人，让你以为是好心人在帮忙，其实是一些人故意用它们来骚扰别人。\n- **为什么麻烦**：因为AI很聪明，能快速生成各种内容，比如写代码、发评论，所以很难分辨真伪。就像网上有人用假身份骂人，现在连AI都来帮忙了。\n- **维护者无奈**：像Scott这样的开发者，要花很多时间清理这些AI生成的垃圾代码，相当于每天上班都要捡别人乱扔的垃圾。\n- **核心问题**：AI技术让人更容易做坏事，但同时也让好人更难做正事。就像有人用手机做坏事，但也有人用手机做好事，关键看怎么用。",
-      "summarized_at": "2026-03-10T08:53:33.283Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773132787535",
-      "title": "Bridging the operational AI gap",
-      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many ...",
-      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-04T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI从纸上谈兵到落地生根\n\n### AI不再是空话\n以前大家光说不练，现在企业真把钱和人力往AI上投了。就像以前邻居说\"我家要盖新房\"，现在真的开始动工了。AI不再是实验室里的概念，而是要真正用到生意上。\n\n### 从小试牛刀到批量生产\n早先公司都是先做个小模型试试，现在直接把AI系统像流水线一样开起来了。好比以前手机刚出时都是限量版，现在都是标准配置。企业不再满足于\"能行吗\"，而是要\"大规模用得上\"。\n\n### 资源大换血\n过去可能IT部门偶尔搞点AI花架子，现在整个公司都在调整预算。就像以前买菜只买米面，现在家家户户都要冰箱电器了。大家都在说\"AI很重要\"，更在行动上证明\"AI是必需品\"。\n\n### 用生活比喻AI落地\n想象一下，以前去餐馆都是自己找座位，现在AI自动分配；以前打车要满世界喊，现在手机直接叫车。这就是企业正在做的转变——把AI变成像水电煤一样的基础设施。",
-      "summarized_at": "2026-03-10T08:53:29.555Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1773132787535",
       "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# Ventoy：让U盘秒变启动盘的小工具\n\n## 什么是Ventoy？\n\nVentoy是一个能让你把U盘变成启动盘的小工具。想象一下，你需要在电脑上装系统，但每次都要格式化U盘，或者用不同的软件制作启动盘？Ventoy就能帮你省去这些麻烦。它就像一个万能的启动盘制作机，你只需要把系统文件扔进U盘，它就能自动把它变成可以启动的盘。\n\n## 为什么用Ventoy？\n\n- **支持多种系统**：不管你是想装Windows、macOS还是Linux，Ventoy都能支持。它就像一个多面手，什么系统都能对付。\n- **简单易用**：你不需要懂什么命令或者技术，只要把系统镜像文件拖到U盘，重启电脑选择从U盘启动，几秒钟就能搞定。\n- **永久保存**：Ventoy不会损坏你的U盘数据，你可以反复用它来安装不同的系统，就像一个可以重复使用的魔法棒。\n\n## 怎么使用Ventoy？\n\n1. 下载Ventoy软件，像下载普通软件一样安装。\n2. 插入你的U盘，Ventoy会自动识别并制作启动盘。\n3. 把你想要安装的系统镜像文件（比如Windows的ISO文件）放到U盘里。\n4. 重启电脑，在启动选项里选择你的U盘，就能开始安装系统了。\n\n总之，Ventoy就是一个超级方便的工具，让制作启动盘变得像切菜一样简单。无论是电脑小白还是老手，都能轻松上手。",
       "summarized_at": "2026-03-10T08:54:44.895Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773132793511",
-      "title": "搭乘人形机器人概念，首开股份再涨停",
-      "summary": "3月10日，随着人形机器人概念持续走强，因为投资了宇树科技等机器人公司，作为地产企业的首开股份也迎来了股价大涨，以9.94%的涨幅涨停。\n首开股份的主营业务为地产开发，近年来受地产市场下行拖累，公司业绩持续下滑。据首开股份1月24日发布的业绩数据，其2025年1-12月共实现签约金额178.45亿元，预计2025年实现归属于母公司所有者的净利润为-55亿元至-69亿元。虽然相比2024年81.4亿元的亏损金额有所减少，但仍持续出现巨额亏损。\n由于业绩持续下滑，过去几年内首开股份的股价也屡创新低，曾于2024年7月31日下跌至1.94元/股，相比2019年的股价高点跌掉了约78.6%。\n但在20...",
-      "url": "https://36kr.com/p/3716851288241541?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-10T08:17:16.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 首开股份股价大涨的秘密\n\n- **公司情况**：首开股份本来是做房地产的，但最近几年房子卖得不好，业绩一直很差，2025年预计还要亏四五个亿。股价也因此跌了快80%，从最高价到最低价差不多掉了一半。\n\n- **意外上涨**：3月10号，因为人形机器人概念突然火起来，首开股份的股价反而大涨9.94%，直接涨停。这是因为首开股份之前投了几个机器人公司，比如宇树科技。\n\n- **为什么涨停**：虽然首开股份自己卖房子不行，但它在机器人领域有投资，沾了机器人概念的光。就像你家买了只股票，本来业绩不好，但后来公司突然接了个大订单，股价就跟着涨了。\n\n- **未来可能**：虽然股价暂时涨了，但首开股份的根本问题还在——房地产市场不景气。如果机器人概念一直火，股价可能还行；要是概念冷下来，股价又得跌。就像中彩票中了大奖，但生活还是要继续努力啊。",
-      "summarized_at": "2026-03-10T08:54:43.320Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773132793511",
-      "title": "光帆科技董红光：把AI耳机做成“第二台主机”，很难，却正确",
-      "summary": "文｜邱晓芬\n编辑｜苏建勋\n2026年，AI硬件热到发烫。\nOpenAI、Meta、苹果、阿里千问、字节等大厂都加入了入口争夺战，通过自研或重金外部收购团队，补上他们在AI上最后一块短板。而AI可穿戴设备，毫无疑问成为所有大厂们“补入口”的集体选择。\n中国的公司也在快速吸收粮草弹药。作为全球第一家发布带摄像头AI耳机的公司，近期《智能涌现》获悉，「光帆科技」连续完成种子++轮和种子+++轮两轮融资。\n本次融资由联想集团和小鹏汽车（星航资本）联合领投，高秉强教授、Brizan Ventures、ForeBright Concerto参投，多家老股东连续追投，募集资金将重点用于面向下一代人机交互的A...",
-      "url": "https://36kr.com/p/3716670530106761?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-10T05:14:13.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI耳机要当\"第二台电脑\"\n\n最近AI耳机特别火，很多大公司都在抢这个市场。比如OpenAI、Meta、苹果这些大厂，还有中国的字节跳动、阿里巴巴等，都在拼命开发AI耳机。这就像大家都想抢一个大蛋糕，AI耳机就是那个最香的小蛋糕。\n\n光帆科技是国内最早做带摄像头的AI耳机的公司。他们最近融了笔钱，投资方有联想、小鹏汽车等大企业。他们想造一款\"第二台主机\"的AI耳机，让耳机能干很多电脑的事。\n\n这个想法很难实现，但光帆科技觉得这是正确的方向。就像你手机已经取代了很多电脑功能，现在他们想让耳机也变得很强大。未来也许你出门都不用带电脑了，耳机就能处理所有事情。\n\n- 大公司都在争相开发AI耳机\n- 光帆科技是国内最早做带摄像头AI耳机的公司\n- 他们想造能干电脑事的AI耳机\n- 这个想法虽然难，但很有前景",
-      "summarized_at": "2026-03-10T08:54:51.541Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773132793511",
-      "title": "从“平替”到“价值领跑”：国货运动品牌全面突破｜世研消费指数品牌榜Vol.158",
-      "summary": "本次监测周期内，安踏、骆驼和李宁以1.95、1.91、1.82的综合热度位列榜单综合热度前三。\n\n图源：世研大消费指数\n国货运动品牌全面领跑，文化与科技突破双轮驱动赢得市场认可\n从品牌分布来看，安踏、骆驼、李宁包揽前三，国产品牌在TOP10中占据七席，与耐克、阿迪达斯等国际巨头形成有力抗衡。\n这一格局的深层动因，在于国货品牌完成了从“性价比竞争”到“价值竞争”的战略跃迁。\n安踏儿童1月携手专业篮球俱乐部举办“王的风范”全明星赛，以“运动+体验+商业”的创新模式激活儿童消费新活力。李宁则在米兰时装周以「THE ATHLETE IN ALL OF US」为主题发布2026秋冬系列，在米兰冬奥会倒计...",
-      "url": "https://36kr.com/p/3716518378993281?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-10T02:41:02.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 国货运动品牌崛起：不再只拼便宜，而是靠文化和科技赢得市场\n\n## 品牌实力大比拼\n\n*   最近国货运动品牌表现抢眼，安踏、骆驼、李宁稳居前三，这三个牌子加起来占了市场很大份额。\n*   在前十名里，国产品牌足足占了七个位置，把耐克、阿迪达斯这些老牌子给比下去了。\n\n## 为什么国货这么强\n\n*   过去国货运动品牌靠价格便宜赢得顾客，现在不一样了，它们开始注重品牌价值，比如设计、科技和品牌故事。\n*   像安踏儿童会跟篮球俱乐部合作搞活动，让小朋友觉得玩得开心，还带动了消费；李宁在米兰时装周展示新设计，让大家觉得这个牌子有品位。\n\n## 价值竞争的新趋势\n\n*   国货运动品牌不再只比谁更便宜，而是比谁更能满足消费者的精神需求，比如追求时尚、健康生活方式等。\n*   它们通过讲好品牌故事、运用新技术（比如更好的运动鞋材料），让顾客觉得花钱买国货是值的。\n\n## 总结\n\n国货运动品牌已经从\"便宜货\"变成了\"高品质\"的代表，通过文化和科技让顾客愿意买单。这种转变不仅提升了品牌形象，也让消费者有了更多选择。",
-      "summarized_at": "2026-03-10T08:54:52.679Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773132793511",
-      "title": "用智能吉他起家后，这家公司又用AI音乐工作站拿下百万美元众筹，营收数亿｜Insight全球",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n编者按：当出海越来越成为一家中国公司核心战略时，如何征战全球市场就成为一个极其专业的话题。在全球化的演变中，已有不少中国品牌站立潮头。鉴于此，硬氪特推出「Insight全球」专栏，从品牌成长与变迁，探索中国品牌出海的前沿方向与时代契机，为出海玩家与行业提供思考与启发。\n这是我们专栏第61期——拿火音乐从广州起步，以“材料创新+智能交互”模式，2017年推出全球首款一体成型碳纤维吉他LAVA ME，在智能吉他赛道中迅速破局；2024年发布无弦吉他“精灵”，降低用户上手门槛；2025年将上百款经典效果器数字化复刻、推出LAVA STUDIO，海外众筹超226万美元刷新品类...",
-      "url": "https://36kr.com/p/3715521730933127?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-10T01:59:02.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 拿火音乐靠智能吉他走红，又用AI音乐软件筹资百万美元\n\n拿火音乐是一家从广州出发的公司，他们用创新的方法让吉他变得更智能。2017年，他们推出了全球首款一体成型碳纤维吉他LAVA ME，就像把手机和吉他合二为一，让音乐玩家能轻松操作。这种吉他很快在全球流行起来，帮公司赚了不少钱。\n\n2024年，拿火音乐又推出了无弦吉他“精灵”，让不会弹吉他的人也能快速上手。就像学会用平板电脑一样简单，只需要挥动手就能发出音乐。这样一来，很多以前不敢尝试的人也能享受音乐创作的乐趣。\n\n2025年，公司把上百种经典音乐效果器变成数字版，推出了LAVA STUDIO。这个AI音乐工作站就像一个超级音乐工具箱，让玩家能自由组合各种音效。为了推广这个产品，他们在网上发起众筹，结果一下子就筹到了226万美元，比预期还多。\n\n拿火音乐的成功，就是靠不断创新和了解用户需求。他们用智能科技降低了音乐创作的门槛，让更多人能享受音乐的快乐。这种做法不仅帮公司赚到了钱，也让中国品牌在全球市场上越来越有影响力。",
-      "summarized_at": "2026-03-10T08:55:00.273Z",
       "summary_status": "success"
     },
     {
