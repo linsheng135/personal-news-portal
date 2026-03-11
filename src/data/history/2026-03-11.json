@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-11T08:55:26.263Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-03-11T08:55:26.263Z",
+    "date": "2026-03-11",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1773219192334",
-      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
-      "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squ...",
-      "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-10T13:47:26.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 《Pokémon Go》如何让送货机器人看清世界\n\n### 前言\n2016年，《Pokémon Go》这款游戏火遍全球。它把现实世界和游戏画面结合在一起，让玩家像捉精灵一样出门玩耍。这个游戏不仅好玩，还意外地帮了送货机器人一个大忙。\n\n### 游戏怎么玩\n想象一下，你在公园里玩《Pokémon Go》，手机屏幕突然出现一只虚拟小精灵，告诉你它在哪棵树旁。其实游戏是在用GPS定位，把现实世界的位置和游戏画面结合起来。玩家得走到指定地点才能\"捕捉\"到精灵。\n\n### 机器人学到了什么\n送货机器人就像游戏里的玩家，也需要知道现实中的位置。它们通过GPS和摄像头来识别环境。但城市环境复杂，就像公园里树木茂密，机器人容易迷路。《Pokémon Go》的技术让机器人学会了：\n\n- 拍照识别环境\n- 跟随虚拟标记前进\n- 在现实和数字地图间切换\n\n### 实际应用例子\n日本有个配送公司用这个技术，机器人能准确找到客户家的门牌号。在东京这样的大城市，楼间距只有几米，机器人以前经常找错门。现在有了《Pokémon Go》的启发，它们能像玩游戏一样认路。\n\n### 核心观点\n《Pokémon Go》用游戏化技术教会了机器人怎么认路。就像玩家通过游戏学会在现实中移动一样，机器人也在游戏中学会了在真实世界中导航。这种把游戏经验应用到现实的技术，未来可能还会用在更多智能设备上。",
-      "summarized_at": "2026-03-11T08:54:27.962Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773219192334",
-      "title": "How AI is turning the Iran conflict into theater",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”  The author of that post on X was referring to an online intelligence dashboard follow...",
-      "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-09T15:11:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能让伊朗冲突变成大戏\n\n### 核心观点\n现在，人工智能技术正在让伊朗的冲突变得像看电影一样，充满了戏剧性。通过一些智能工具，人们能更直观地了解当地发生的事件。\n\n### 具体表现\n- **在线智能面板**：就像有人在网上发帖说\"谁想在大屏幕上看这个\"，指的是一个能实时显示伊朗局势的在线工具。这个面板用数据和信息把事件变成了一场\"大戏\"。\n- **数据可视化**：原本复杂的冲突信息，通过AI处理变成简单明了的图表和地图，让人能一眼看清整个局势，就像看剧情简介一样。\n- **实时更新**：就像朋友发来最新动态\"情况有变\"，这些工具能即时更新信息，让人感觉冲突就像连续剧一样在更新。\n\n### 生活中的例子\n想象一下，如果你通过手机App看体育比赛，App会自动显示比分、球员跑动路线等。AI在伊朗冲突中的作用就像这个App，把零散的信息整合成有故事线的事件，让人感觉像在看一场直播。\n\n### 关键信息\n- AI让冲突信息变得像电影剪辑，有起有伏，吸引人持续关注。\n- 普通人也能通过这些工具了解复杂事件，就像看懂了复杂的剧情。\n- 实时更新让人感觉冲突就像正在上演的连续剧。\n\n总之，AI技术正在把伊朗的冲突变成一场大家都能观看的\"大戏\"，让信息传播更像是在讲故事。",
-      "summarized_at": "2026-03-11T08:54:26.940Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773219192334",
-      "title": "Is the Pentagon allowed to surveil Americans with AI?",
-      "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after E...",
-      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-06T19:21:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国五角大楼能否用AI监视美国人？\n\n- **核心问题**：国防部和一个AI公司吵翻天，到底法律能不能让美国政府大规模监控美国人？\n- **复杂情况**：答案不是简单的“能”或“不能”。法律上没明确规定，所以现在还不知道到底行不行。\n- **生活例子**：就像你家小区保安能不能随便用监控拍业主的私生活，法律没说清楚，所以保安可能不敢乱来，但也不一定完全不能拍。\n- **关键信息**：\n  - 国防部和AI公司吵来吵去，焦点就是法律到底管不管这种监视行为。\n  - 过去十年左右，法律上没明确规定，现在还是一样模糊。\n  - 如果政府真这么干，可能会有人起诉说“这违法了”，但到底有没有用还不清楚。\n  - AI公司担心自己的技术被滥用，所以也在拼命争取限制。\n- **总结**：说白了，法律没明确规定五角大楼能不能用AI大规模监控美国人。现在吵来吵去，但到底能不能干，谁也说不准。就像没写清楚小区保安能不能随便拍业主，所以现在还悬着。",
-      "summarized_at": "2026-03-11T08:54:35.180Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773219192334",
-      "title": "Online harassment is entering its AI era",
-      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have institute...",
-      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-05T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 网络欺凌进入AI时代\n\n## 什么是AI网络欺凌\n\n现在网上有人用AI技术搞恶作剧，比如用机器人冒充你给朋友发奇怪信息，或者用AI写的假评论来骂人。这种AI网络欺凌比以前更难分辨，因为机器人的话听起来很正常。\n\n## 开源软件遭殃\n\n有个叫matplotlib的软件项目，大家都在用它画图，但最近被AI写的代码搞乱了。就像图书馆里有人故意把书放错位置，管理员很难找到对的版本。项目负责人不得不像保安一样，把明显是AI写的代码都删掉。\n\n## AI欺凌有多方便\n\nAI机器人写东西比人快多了，它们可以24小时不停发恶意信息。比如有人在网上用AI生成很多诅咒别人的话，或者假装专家发表假言论来骗人。这些都属于AI网络欺凌。\n\n## 怎么防AI欺凌\n\n- 学会辨别：注意看发信息的人是不是真的认识你\n- 检查来源：怀疑AI写的文章可以查查引用出处\n- 报告删帖：发现可疑内容及时举报\n- 举报账号：对于专门用AI搞事的人要举报\n\n## 未来会怎样\n\n随着AI越来越智能，网络欺凌会变得更隐蔽。就像有人穿隐形衣偷东西，很难抓到。大家需要像防小偷一样防范AI欺凌，提高警惕。",
-      "summarized_at": "2026-03-11T08:54:36.593Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1773219192334",
       "title": "Bridging the operational AI gap",
