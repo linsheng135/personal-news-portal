@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T08:52:18.699Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-13T08:52:18.700Z",
+    "date": "2026-03-13",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1773391851993",
-      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as t...",
-      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-12T22:23:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国军方可能用AI帮着排优先级\n\n### 背景\n美国军方可能在打仗时用上AI聊天机器人，帮他们排掉目标清单的优先级。这个消息是国防部内部人士透露的。\n\n### AI的作用\n这些AI系统就像超市收银员给商品打价格标签一样，能把目标按重要程度排序。比如，打仗时有许多地方可以攻击，AI就能根据情报给这些目标评个分，告诉军方哪个先打最有用。\n\n### 人类的角色\n不过，AI给的排序只是建议，最后决定权还是人类。这好比超市收银员推荐你要先买牛奶还是面包，但最终决定还是你自己做。\n\n### 为什么用AI\n用AI能帮军人节省时间，不用一个一个手动分析。就像做菜时，你可以用菜谱（AI）先选个菜谱，但具体怎么炒还得自己动手（人类判断）。\n\n### 注意事项\n虽然AI能提高效率，但用AI排顺序也有风险。就像超市收银员可能看错标签，AI也可能根据错误信息排错顺序，所以人类还是得把好关。\n\n- AI负责排顺序，人类负责最终决定\n- 类比超市收银员和顾客的角色\n- 提高效率但需小心错误",
-      "summarized_at": "2026-03-13T08:51:05.914Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773391851993",
-      "title": "Pragmatic by design: Engineering AI for the real world",
-      "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the desig...",
-      "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-12T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 人工智能：让生活更聪明的黑科技\n\n## 人工智能的用处多着呢\n\n想象一下，你骑的共享单车能自动找车、修车；家里的冰箱会自动下单缺的东西；医院里的机器人能帮你排队取药。这些都不是科幻片里的情节，而是人工智能正在改变我们的生活。它就像个超级助手，让各种设备更聪明，让我们的生活更方便。\n\n## 工程师如何打造智能设备\n\n工程师们正在研究如何让人工智能更接地气。他们关注的是：这些智能设备到底好不好用？能不能解决实际问题？比如，智能音箱说话要像真人一样自然，扫地机器人要能避开家里的沙发。工程师们就像做菜的大厨，既要让菜好吃，又要让普通人都做得到。\n\n## 人工智能的未来\n\n未来，人工智能会走进更多地方。不仅是汽车、家电，连衣服、鞋子都可能带上\"智能大脑\"。不过，工程师们也在思考：这些设备怎么保证安全？会不会被人恶作剧？怎么防止数据泄露？这都是他们正在努力解决的问题。\n\n- 智能设备要像帮手，不是累赘\n- 技术要实用，普通人也能用\n- 安全和隐私是必须把关的\n- 人工智能要往真实的生活靠拢",
-      "summarized_at": "2026-03-13T08:51:06.080Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773391851993",
-      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
-      "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.  Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomou...",
-      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-11T12:46:21.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 找钱热潮：中国年轻人玩转开源AI工具\n\n### 背景：OpenClaw是什么？\nOpenClaw是一个流行的开源AI工具，就像一个能自动完成任务的助手，可以控制各种设备。它不需要花钱买，任何人都可以免费使用和修改。这个工具在中国特别火，很多人都喜欢用它来搞点事情。\n\n### 怎么用OpenClaw赚钱？\n- **简单易懂**：虽然听起来复杂，但OpenClaw的操作并不难。就像用手机上的机器人软件，设定好规则后，它就会自动帮忙干活。\n- **赚钱机会**：一些年轻人发现，通过OpenClaw可以开发出很多实用的工具，比如自动清洁机器人、智能家居助手等。这些产品可以卖钱，或者提供给公司使用。\n- **快速成功**：27岁的冯清阳就是一个例子，他本来想创业，没想到因为玩OpenClaw，机会来得这么快。他利用这个工具做出了有市场需求的设备，很快就有了收入。\n\n### 为什么这么火？\n- **成本低**：开源工具不用花钱，省去了买专利或技术的费用。\n- **灵活性高**：可以根据自己的需求修改工具，就像搭积木一样，想怎么玩就怎么玩。\n- **市场需求大**：现在大家都喜欢智能化的东西，比如自动扫地、智能门锁等，这些产品都需要用到AI技术。\n\n### 效果如何？\n- **创业容易**：很多年轻人发现，用OpenClaw比传统创业方式简单多了。不用从零开始，可以直接用别人的成果，省时省力。\n- **技术普及**：因为门槛低，更多人有机会接触和学习AI技术，让这个领域越来越热闹。\n\n总之，OpenClaw就像一个平民化的科技工具，让普通人也能轻松玩转AI，并在其中找到赚钱的机会。中国年轻人正在利用这个工具，快速实现自己的创业梦想。",
-      "summarized_at": "2026-03-13T08:51:15.455Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773391851993",
-      "title": "Building a strong data infrastructure for AI agent success",
-      "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, u...",
-      "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-10T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 让AI助手更厉害的基础建设  \n\n现在很多公司都在忙着用AI来帮忙做事，比如当同事、助理或者自动完成任务。大家都想在AI上赶超别人，所以动作特别快。到2025年快年底的时候，差不多三分之二的 companies（公司）已经在试试AI助手，还有88%的公司已经在日常工作中用上AI了。  \n\n### 为什么基础建设很重要？  \n想象一下，你想让一个机器人帮你做饭，但它的工具箱里只有一把生锈的刀和一根坏掉的勺子，你肯定用不了。AI助手也是一样，如果它的数据基础不好，就像工具箱乱糟糟的，它也做不好事。  \n\n### 做好基础建设的三个关键点  \n1. **数据要整齐**  \n   就像整理书架一样，把数据分类放好。比如同样是买东西的数据，有的按时间分，有的按品类分，如果混在一起，机器人就搞不清楚。  \n\n2. **网络要快**  \n   AI助手需要随时上网查资料，就像你用手机查地图一样，网络慢就卡顿。所以公司要保证网络通畅，让AI助手能快速反应。  \n\n3. **规则要清楚**  \n   比如，AI助手不能乱说假话，这就像交通规则不能闯红灯。公司要给AI助手定好规则，让它知道什么能做，什么不能做。  \n\n### 为什么这很重要？  \n如果基础建设不好，AI助手可能帮倒忙，比如推荐错误的商品或者做错事。但做好了，它就能像一位靠谱的同事，帮你处理各种任务，提高工作效率。  \n\n总之，要想让AI助手用得好，就要先把它的“工具箱”和“网络”弄得棒棒的，这样它才能帮上大忙。",
-      "summarized_at": "2026-03-13T08:51:15.122Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1773391851993",
       "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 一个简单好用的网页制作工具\n\n这个工具叫\"Astro\"，就像你用积木搭房子一样简单。它专门帮你快速搭出那种只需要展示内容的网站，比如个人博客、公司介绍页面等。不需要复杂的编程，就像用Word写文档一样方便。\n\n### 为什么推荐它？\n\n- **轻便快速**：不像有些工具那么笨重，打开网页速度飞快\n- **专注内容**：只需要管好文字、图片这些内容，不用操心复杂的代码\n- **功能齐全**：基本功能都有，能满足80%的网站需求\n\n### 使用场景举例\n\n想象你要开个杂货店，需要做一个展示商品和地址的简单网页。用Astro就像直接用画板画画，把商品图片贴上，写上地址，几分钟后就能完成。不需要学编程，就像用手机拍照那么简单。\n\n### 支持方式\n\n如果觉得这个工具好用，可以点个星星（⭐️）表示支持。就像你吃到好吃的蛋糕会告诉朋友一样，支持别人做好的东西也是这个道理。\n\n**核心观点**：Astro是一个让普通人也能轻松做网站的神奇工具，特别适合快速制作展示内容的网站，不需要技术背景。",
       "summarized_at": "2026-03-13T08:52:01.467Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773391859655",
-      "title": "囤货的快乐，全毁在一台不给力的冰箱上",
-      "summary": "很多人都有个习惯——加完班回家，第一件事就是顺手拉开冰箱门。\n看到冰箱里堆着周末囤的货：小番茄、牛排、一盒晴王葡萄、山姆瑞士卷……就算不吃，只看一眼，也觉得整个人突然就松下来了。白天在工位上是脆皮打工人，靠冰美式和生命体征维持餐续命；晚上回到家，打开冰箱，看着塞得满满当当的吃的，才觉得这一天总算有件顺心的事。因为冰箱里装着的，是这一天唯一的确定性。\n不知不觉间，冰箱成了生活质感的展示舞台。和父母辈那种塞满“陈年旧菜”的冷库不同，现在我们的冰箱更像一个精致的“食材博物馆”：冷冻层里不止是速冻水饺，还摆着原切牛排、深海大虾；冷藏层里不是剩饭，而是分装整齐的有机蔬果、精品咖啡豆、冷泡茶……\n冰箱的身...",
-      "url": "https://36kr.com/p/3721042497485444?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-13T07:37:38.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 冰箱里的生活仪式感\n\n很多人都有个习惯，下班回家第一件事就是打开冰箱。看到冰箱里堆满了各种好吃的：小番茄、牛排、水果、点心……就算不吃，光是看着这些，心里就踏实多了。白天在办公室累成\"脆皮人\"，靠着咖啡和快餐撑着；晚上回家看到冰箱满满当当，才觉得这一天总算有点盼头。冰箱里的食物，就像生活里的一抹亮色，让人觉得生活有奔头。\n\n- 冰箱=生活小确幸的来源\n  冰箱里的美食不是普通的剩菜剩饭，而是像\"食材博物馆\"一样精致：冷冻层有牛排、虾；冷藏层有新鲜蔬果、咖啡豆……这种满满当当的状态，给人带来心理安慰。\n\n- 冰箱=生活品质的展示台\n  现代人的冰箱和父母辈那种塞满\"陈年旧菜\"的老式冰箱完全不同。我们更注重食物的品质和种类，用整齐的食物排列展示生活品味。就像家里整洁的书架比乱糟糟的抽屉让人更开心一样。\n\n- 冰箱=确定性的象征\n  在充满不确定性的现代生活中，冰箱里的食物成了每天最确定的\"安全感\"来源。就像学生时代最安心的就是看得到明天的作业，成年人最安心的就是冰箱里的存货。",
-      "summarized_at": "2026-03-13T08:52:03.213Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773391859655",
-      "title": "率先向AI托管账号出手，为什么小红书要打响第一枪？",
-      "summary": "托举小红书社区氛围的真实体验和情感，只能来源于人。 \n当OpenClaw爆火，“养龙虾”安全性仍存疑之时，借助OpenClaw等AI工具形成的AI托管账号已经悄悄流向主流内容社区。\n在此背景下，小红书向AI托管账号开了第一枪，这也是主流平台首次对 AI 智能体工具在内容社区的滥用行为作出明确规制。\n作为以真人分享起家的UGC社区，真诚、真实一直是小红书的底色，当AI Agent试图侵入社区真实性时，已经触犯了平台不可逾越的底线。\n而小红书的这次出手，既是对自身生态的守护，也是对行业乱象的一次及时纠偏。\n 出手\n一款开源AI智能体OpenClaw近日在全球掀起热潮，因其图标形似小龙虾，“养龙虾”...",
-      "url": "https://36kr.com/p/3720962630417024?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-13T06:08:46.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 小红书为何先打击AI账号？\n\n小红书是个主打真实分享的平台，用户喜欢看真人分享的生活体验。最近，一些AI程序（比如OpenClaw）在互联网上很火，但它们生成的账号内容并不真实，反而像是在骗人。这些AI账号会冒充真人，发布虚假内容，让社区里的氛围变得不真实。\n\n为了维护社区的真实性，小红书决定第一个站出来打击这些AI账号。这就像是社区里的管理员发现有人假扮成别人，就赶紧采取措施，不让这种假象继续下去。这是主流社交平台第一次明确禁止AI账号在社区里的滥用行为。\n\n小红书这样做，既是为了保护自己的社区不受污染，也是为了给整个行业树立一个榜样，告诉大家这种虚假行为是不被允许的。简单来说，就是小红书为了维护社区的真实性，把最早发现的AI假账号给处理了。",
-      "summarized_at": "2026-03-13T08:52:08.722Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773391859655",
-      "title": "科氪 | AWE 2026再携重磅阵容，MOVA全面披露芯片战略，擎画“主动时代”技术版图",
-      "summary": "2026年3月12日，中国上海——当人工智能加速从模型能力走向系统能力，家庭场景正成为AI规模化落地的关键单元。今日，全球超高端AI智慧生活引领者MOVA在中国家电及消费电子博览会（AWE 2026）开幕首日，首次系统披露自研芯片战略，并对外阐释其“家庭AI系统”技术架构及多项生态布局。\n依托AWE 2026“一展双区”的创新布局，MOVA以“智见新宇宙，慧享新生活”为主题亮相上海新国际博览中心。本次发布中，MOVA带来5项行业级首创技术、32项体系级创新技术以及31款创新产品。这不仅是一次产品的集中展示，更是MOVA以芯片与AI算法为底层能力构建智慧生活生态的具象呈现，标志着品牌正从单一产品...",
-      "url": "https://36kr.com/p/3720969176988041?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-13T06:05:42.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## MOVA在AWE 2026大揭秘：用芯片让家更智能\n\n- **核心主题**：MOVA在2026年家电展会上展示了如何用自研芯片和AI技术，让智能家居更聪明、更实用。\n\n### 芯片让家更懂你\nMOVA的芯片就像家里的\"小管家\"，能学习你的习惯，自动调节家电。比如，它会记住你爱看的电视节目，一回家就自动打开；冬天会根据你的体感调节暖气温度。这次展会上，MOVA首次公开了这个技术，还展示了31款用芯片打造的智能产品。\n\n### 从单个产品到整个系统\n以前智能家居都是零散的，比如单独的智能灯、智能空调。MOVA这次用芯片把所有设备连起来，形成一个整体智能系统。就像把家里所有电器都装在一个智能大脑里，能互相配合工作。比如，你早上说要去上班，系统会自动关灯、关空调、锁门，甚至提醒你带钥匙。\n\n### 更多创新技术\n除了芯片，MOVA还展示了5个行业首创技术和31项创新产品。比如能自动识别食材的智能冰箱，能根据心情调节灯光的智能灯泡等。这些技术都围绕\"让家更懂你\"展开，目标是创造更便捷、更舒适的生活。\n\n### 智能生活的未来\nMOVA希望通过这些技术，让每个人都能享受科技带来的便利。比如，老人即使不擅长用手机，也能轻松操控家里的电器；孩子放学回家，家里会自动播放他喜欢的动画片。MOVA的目标是让科技融入生活，但又感觉不到它的存在。",
-      "summarized_at": "2026-03-13T08:52:11.347Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773391859655",
-      "title": "阿迪达斯在上海做了一场“速度实验”，把跑步、F1和音乐放进同一场景｜最前线",
-      "summary": "在跑步成为城市生活方式的一部分后，品牌之间的竞争也从单纯的性能转向文化表达。\n在2026上海半程马拉松和F1中国大奖赛开赛前夕，德国运动品牌阿迪达斯在上海滨江搭建了一场名为“竞速实验场”的线下活动。品牌把跑步、赛车和音乐放在同一场景中，通过运动员、赛车手和音乐人的跨界合作，对于一个已经拥有七十多年历史的运动品牌来说，这或许是重新解释“速度”的一种方式。\n活动现场的三位核心人物分别是单板滑雪奥运冠军苏翊鸣、George Russell（梅赛德斯-AMG F1车手）以及音乐人窦靖童。开场环节中，Russell驾驶AMG跑车完成漂移表演，苏翊鸣坐在副驾驶，汽车引擎的轰鸣成为整场活动最直观的“速度信号...",
-      "url": "https://36kr.com/p/3720907606555269?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-13T05:07:34.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 阿迪达斯搞活动，把跑步、赛车和音乐放一起玩\n\n### 背景介绍\n现在跑步很流行，大家都喜欢在城里跑步。运动品牌之间的竞争也不一样了，光靠产品性能已经不够，还要会讲故事、懂文化。\n\n### 活动内容\n阿迪达斯在上海搞了一个叫“竞速实验场”的活动，刚好在2026上海半马和F1中国赛之前。他们把跑步、赛车和音乐搞在一起，想看看能碰撞出什么火花。\n\n- 阿迪达斯想通过这个活动重新定义“速度”\n- 活动邀请了苏翊鸣（滑雪冠军）、George Russell（F1车手）和窦靖童（音乐人）\n- 活动开场，Russell开跑车漂移，苏翊鸣在旁边感受速度\n\n### 核心想法\n- 用跨界合作，让运动更有趣\n- 跑步、赛车、音乐都能代表“速度”，但形式不同\n- 普通人跑步追求的是健康和快乐，赛车追求的是刺激，音乐追求的是感染力\n- 阿迪达斯想告诉人们：速度不只是快，还有其他意义\n\n### 活动意义\n- 品牌想让老顾客感受到新鲜感\n- 通过不同领域的明星，吸引更多年轻人\n- 让运动和文化结合，更有感染力",
-      "summarized_at": "2026-03-13T08:52:18.699Z",
       "summary_status": "success"
     },
     {
