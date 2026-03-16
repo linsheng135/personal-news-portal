@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-16T09:05:52.186Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-16T09:05:52.187Z",
+    "date": "2026-03-16",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1773651856423",
-      "title": "Why physical AI is becoming manufacturing’s next advantage",
-      "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and i...",
-      "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-13T15:16:55.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 制造业靠自动化还不够了，得靠“物理AI”了\n\n### 自动化时代的问题\n过去几十年，工厂靠自动化提高效率、省钱、稳生产。就像以前做饭靠菜谱，现在有了自动炒菜机，炒菜更快更好。但自动炒菜机再厉害，还是得有人盯着，菜坏了还得人工补救。现在制造业面临的新问题是：劳动力少了、生产越来越复杂、技术更新快，光靠自动炒菜机不够用了。\n\n### 物理AI怎么帮上忙\n“物理AI”就像给工厂装上了“智慧大脑”。以前工厂生产线是固定的，现在有了物理AI，生产线能自己看情况调整。比如：\n- **智能机器人**：以前机器人只能干固定活，现在能像人一样灵活应对各种情况，比如自动调整生产节奏、处理突发问题。\n- **自我优化**：生产线能自己分析数据，比如发现某个环节效率低，就自动调整，就像人会自己总结经验一样。\n- **预测维护**：工厂机器能提前说：“我快坏了，赶紧修我”，避免突然停工，就像人身体不舒服会提前发信号一样。\n\n### 为什么这很重要\n制造业竞争越来越激烈，光靠埋头生产不行了，得靠“智慧大脑”提高竞争力。比如：\n- **节省人力**：机器更聪明，需要的人更少，成本更低。\n- **质量更好**：机器能自动调整，产品更稳定，不会像人工容易出错。\n- **快速响应**：市场变化快，工厂能迅速调整生产，就像人能快速适应新情况一样。\n\n总之，物理AI让工厂更聪明、更灵活，就像给工厂装了“千里眼”“顺风耳”，能提前发现问题、自动调整，让制造业在竞争中有更大优势。",
-      "summarized_at": "2026-03-16T09:04:35.267Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773651856423",
-      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as t...",
-      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-12T22:23:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美军可能用AI帮着排打击目标顺序\n\n美国国防部的人透露说，他们可能会用一种能自动生成内容的AI系统，来给各种军事目标排个顺序，并建议哪些该先打。不过，这个建议还得让人类军官最终确认才行。\n\n这就像咱们平时用手机里的打车软件一样。比如你去餐厅吃饭，手机上可能会同时弹出几家餐厅的排队时间、距离、评价等信息，帮你决定去哪家。美军用的AI系统大概就是这种功能，能快速分析好多目标的信息，比如哪个目标更重要、哪个目标威胁更大，然后给人类决策者提供个参考列表。\n\n不过，这个AI只是个助手，不能自己决定开枪。人类军官还得根据实际情况和命令，最后拍板。这样既能让AI快速处理大量信息，又不会让机器代替人做决定，算是一种新的军事策略。\n\n这种做法的好处是能节省时间，让指挥官更快做出反应。比如打仗时，战场情况瞬息万变，AI能帮着快速整理出目标清单，让指挥官有的放矢。但也有人担心，过度依赖AI可能会让人类决策能力下降，或者AI系统出错带来风险。所以目前还只是个试点，看看效果如何再说。",
-      "summarized_at": "2026-03-16T09:04:33.152Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773651856423",
-      "title": "Pragmatic by design: Engineering AI for the real world",
-      "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the desig...",
-      "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-12T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 人工智能：让生活更方便的技术\n\n人工智能已经悄悄进入我们的生活，它不只是电脑里的程序，而是实实在在地影响着我们的日常。比如你开的车，家里的智能电器，甚至医院里救人的设备，都离不开AI的帮助。\n\n## AI如何改变我们的生活\n\n- **汽车更智能**：现在的汽车会自动刹车，避开危险。这背后就是AI在分析路上的情况，做出反应。\n- **家电更懂你**：冰箱会记住你爱喝什么，空调会自动调节温度，因为AI能学习你的习惯。\n- **医疗更高效**：AI能帮医生看片子，发现早期癌症，比人眼更准。\n\n## 工程师如何设计AI\n\n为了让AI更好地服务生活，工程师们特别注重让AI更实用、更可靠。他们不会只考虑理论上的完美，而是要确保AI在真实环境中能稳定工作。\n\n- **从实际出发**：工程师会模拟各种真实场景，比如在堵车路段测试自动驾驶功能。\n- **不断测试**：AI系统需要经历大量测试，就像考试前要反复练习，确保万无一失。\n- **保护隐私**：因为AI会收集很多数据，工程师还要设计保护措施，防止个人信息泄露。\n\n## AI的未来\n\n随着技术进步，AI会越来越融入我们的生活。工程师们会继续优化AI，让它更聪明、更安全，比如让自动驾驶汽车更懂交通规则，让智能家居更符合你的需求。\n\n总之，AI不是遥不可及的科学实验，而是实实在在让生活更美好的工具。工程师们正在努力让AI变得更实用、更可靠，让每个人都能享受到科技带来的便利。",
-      "summarized_at": "2026-03-16T09:04:42.430Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1773651856423",
-      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
-      "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.  Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomou...",
-      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-11T12:46:21.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 赚钱热\n\n- **年轻人靠AI快速创业**  \n  27岁的北京软件工程师冯清阳本来想自己开公司，没想到靠一个叫OpenClaw的AI工具，很快就把这个想法变成了现实。OpenClaw是一个开源AI工具，能自动控制各种设备，就像你手机上的智能助手，但更厉害的是能直接接管机器。\n\n- **像\"一键开店\"神器**  \n  这个工具就像个\"万能管家\"，你不需要懂复杂技术，只要会用手机，就能让机器自己干活。比如自动开关灯、整理杂物，或者帮网店自动发货，省去了很多人工操作。冯清阳就是用这个工具，迅速推出了一堆自动服务的小产品，一下子就有人愿意掏钱买。\n\n- **中国掀起AI赚钱风**  \n  现在很多年轻人都在用OpenClaw搞副业。有人用它开发智能家居系统，有人用它做自动客服，还有人直接做成小程序卖。因为简单好用，成本低，所以一推出就火。就像现在很多人用抖音、快手卖货一样，AI工具让大家不用从零开始学技术，直接就能\"复制粘贴\"成功模式。\n\n- **赚钱容易但竞争也大**  \n  虽然门槛低，但好生意很快就被抢光。冯清阳说，现在想用这个工具赚钱，得快，晚了别人早就做完了。这也提醒大家，虽然AI让创业变得简单，但想赢还是得动脑筋。",
-      "summarized_at": "2026-03-16T09:04:42.968Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1773651856423",
       "title": "Building a strong data infrastructure for AI agent success",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "```markdown\n## NixOS / nixpkgs 是什么？\n\n想象一下，你经常需要安装各种软件，比如电脑上的游戏、办公工具或者开发软件。平时我们通过软件商店或命令行安装，但有时候会遇到版本冲突、兼容性问题，就像厨房里调料瓶放得乱七八糟，用的时候总找不到合适的。\n\nNixOS / nixpkgs 就像一个大型的“软件仓库”，里面收集了成千上万种软件的安装包。不过它有个特别之处：**不管你用哪个系统（Windows、macOS、Linux），只要告诉它你要什么，它就能用同样的方式给你装好**。打个比方，就像所有超市都用的同一个库存系统，你想要什么都能找到。\n\n### 核心特点\n\n- **统一管理**：不管你用什么电脑，安装和更新软件的方式都一样，省心又方便。\n- **版本控制**：每个软件都有精确的版本记录，避免“这个软件装了后其他东西坏了”的情况。就像菜谱上写清楚调料用量，不会做坏事。\n- **虚拟化支持**：可以在同一个系统里虚拟出很多个环境，每个环境用不同的软件组合，互不干扰。比如同时用 Chrome 和 Firefox 浏览器，但它们是独立的。\n- **包依赖**：软件之间有明确的依赖关系，自动帮你解决“这个软件需要先装那个软件”的问题。就像搭积木，有固定顺序。\n\n### 为什么受欢迎？\n\n- 开发者喜欢它，因为可以快速切换不同开发环境，不用反复折腾。就像厨师换不同菜系，调料准备齐全，随便换。\n- 普通用户也能用它解决软件安装难题，比如某些特殊软件在 Windows 上装不了，用 NixOS 就能搞定。\n\n总之，NixOS / nixpkgs 是一个强大的软件管理工具，让装软件像去超市买东西一样简单，还特别适合需要多环境切换的用户。\n```",
       "summarized_at": "2026-03-16T09:05:36.240Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773651864800",
-      "title": "松下发布中国事业新战略：明星单品、套系家电加码，强调“Made by China”出海丨最前线",
-      "summary": "近日，中国家电及消费电子博览会（简称“AWE”）在上海落下帷幕。展会期间，家电品牌松下举办“松下电器中国事业战略发布暨Top渠道商大会”，并发布中国事业新战略。\n\n松下电器中国事业战略发布暨Top渠道商大会，图片：企业提供\n“当前中国家电市场的特征是：需求持续下降、存量市场内卷不断加剧；消费需求持续呈现K型分化，行业整体增长面临挑战。但中国依然是全球家电产业的核心中枢。”松下电器株式会社中国东北亚事业副总裁、智慧生活事业部事业部长林一斌在大会发言中表示。\n基于这一现状，松下家电中国事业将在未来持续深化三项主要战略。\n具体而言，第一，持续推出广受消费者喜爱的明星单品，如松下全球首创四筒全热泵洗烘...",
-      "url": "https://36kr.com/p/3725245431839369?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-16T07:10:20.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 松下发布新计划：集中力量做爆款家电，强调中国制造\n\n最近在上海的家电展上，松下发布了新战略。他们发现现在家电市场竞争激烈，消费者需求变化快，但中国仍然是家电产业的重要基地。\n\n为了应对这种情况，松下决定集中力量做三类东西：\n\n- **明星单品**：像松下首创的四筒洗衣机和烘干机那样，推出特别受欢迎的爆款产品。简单说，就是集中资源做几款特别好的产品，而不是什么都做一点。\n- **套系家电**：把不同家电产品组合在一起卖，比如一套厨房电器或一套卧室电器。这样消费者买起来更方便，也能提高松下的销售额。\n- **强调“Made by China”**：突出中国制造的优势，让国际市场更信任松下产品。\n\n松下的目标是，通过这些新策略，既能抓住国内市场的机会，也能让更多中国制造的产品走向世界。",
-      "summarized_at": "2026-03-16T09:05:30.830Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773651864800",
-      "title": "补齐AI板块核心拼图，网络基建「卖铲人」飞速创新登陆港交所",
-      "summary": "继2025年港交所重现“IPO大年”（全年117家公司上市，募资总额达2869亿港元，同比大增200%）之后，2026年的港股上市潮仍在强势延续年内已有28家企业成功IPO，募资总额逼近千亿大关。\n值得注意的是，今年港股IPO的含“AI”量极高。不仅有MiniMax、智谱等大模型独角兽接连登陆，壁仞科技、天数智芯等算力巨头也相继入局。而在3月13日，港股AI资产池再添核心资产——“面向全球市场的企业网络解决方案第一股”飞速创新顺利通过港交所聆讯，为火热的AI板块补齐了至关重要的“网络基建”拼图。\nAI时代的底层基建由算力、存储与网络“三足鼎立”。摩根大通近日研报指出，伴随GPU集群规模的持续扩...",
-      "url": "https://36kr.com/p/3725233182062982?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-16T06:24:43.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI发展的重要一步\n\n- **背景**：最近几年，很多公司都在香港上市，特别是和人工智能（AI）有关的企业。2026年已经有28家公司上市，筹集了很多钱，其中不少是AI相关的公司。\n- **核心公司**：像MiniMax、智谱这样的大模型公司，还有壁仞科技、天数智芯这样的算力公司都已经在香港上市了。这些公司在AI领域非常重要，就像盖房子需要砖块和水泥一样。\n- **关键补充**：3月13日，一家叫飞速创新的公司，专门做网络基建的，也通过了香港交易所的审核。这意味着，AI的发展就像盖房子，以前只有砖块和水泥，现在有了网络，就像有了钢筋，让整个结构更稳固。\n- **AI的基础设施**：AI的发展需要三个基本部分：算力（就像电脑的计算能力）、存储（就像电脑的硬盘）和网络（就像电脑的宽带）。飞速创新就是网络部分的重要公司，它的上市让AI的基础设施更完整了。\n- **未来趋势**：随着AI的发展，像飞速创新这样的公司会越来越重要，因为它们为AI提供了必要的网络支持，就像高速公路为汽车提供了运输保障一样。",
-      "summarized_at": "2026-03-16T09:05:42.611Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773651864800",
-      "title": "清越科技发布双品牌战略，将拓展服务机器人核心部件领域丨最前线",
-      "summary": "作者丨邱晓芬\n3月13日，PeroPure清越科技正式宣布旗下两大核心品牌的战略升级——专注家电领域的“配盾”品牌升级为清洁电器全生态供应商、健康家电解决方案定制商；新品牌“Show Robotics“未来将聚焦服务机器人核心功能组件。\nPeroPure清越科技起源于2019年的斯坦福大学电化学实验室，在水基电化学领域积累了深厚的技术沉淀与产业经验。\n\n清越科技\n在发布会现场，PeroPure清越科技CEO徐蜂凯表示，配盾将彻底打破“单一元器件供应商”的定位，成为清洁电器全生态供应商与健康家电解决方案定制商。\n据介绍，依托近百项电化学技术体系，配盾模块以自来水为原料，在机器内部实时生成杀菌因子...",
-      "url": "https://36kr.com/p/3725098876140164?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-16T05:11:31.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 清越科技双品牌战略升级\n\n## 公司背景\n清越科技是一个2019年从斯坦福大学出来的公司，专门研究一种叫水基电化学的技术。这种技术有点像用自来水在机器里自动制作杀菌消毒剂，简单说就像是给家电加了个自动清洁功能。\n\n## 配盾品牌升级\n- 以前配盾只负责提供零配件，现在要变成清洁电器全能供应商，比如帮你设计整个吸尘器或者空气净化器的内部系统。\n- 新技术让家电能用自来水就能自己杀菌，就像给你的家电装了个魔法清洁系统。\n\n## 新品牌Show Robotics\n- 新品牌Show Robotics专门做服务机器人需要的核心部件，比如机器人的眼睛（传感器）、大脑（控制器）等关键零件。\n- 这就像给机器人做心脏和大脑，让机器人能干活、能思考。\n\n## 未来计划\n- 配盾会继续发展，把更多家电都能做到自动清洁。\n- Show Robotics会专注于机器人核心零件，让机器人更聪明、能做更多事。",
-      "summarized_at": "2026-03-16T09:05:44.043Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1773651864800",
-      "title": "车规级碳化硅模块厂商再融资亿元，加速入局AI算力中心基建 | 硬氪首发",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，高性能SiC（碳化硅）模块厂家无锡利普思半导体有限公司（下称“利普思”）近日完成亿元PreB+轮融资，新投资方为扬州国金、扬州龙投资本。资金将主要用于公司在扬州布局专业化车规级SiC（碳化硅）模块封装测试基地和市场推广。\n利普思成立于2019年，是一家专注于第三代功率半导体SiC模块设计、生产与销售的硬科技企业。\n功率半导体是控制电能转换的核心器件。与传统IGBT模块相比，SiC模块具有更高耐压、更低损耗和更高开关频率等优势，在新能源汽车主驱、超级快充、储能、电网设备以及AI算力电源等高压高功率场景中具备明显效率优势。\n近几年，随着上游衬底和外延产...",
-      "url": "https://36kr.com/p/3725161156639368?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-16T05:11:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 车规级碳化硅模块厂商再融资亿元，加速入局AI算力中心基建\n\n## 公司和投资\n- 无锡利普思半导体公司最近拿到了1亿人民币的新投资，投资方是扬州的两个基金。这笔钱将用来在扬州建一个专门的碳化硅模块测试和封装工厂，同时加大市场推广力度。\n\n## 公司简介\n- 利普思成立于2019年，主要做一种叫碳化硅（SiC）的功率半导体模块。这种模块比传统的IGBT模块更厉害，可以承受更高的电压，转换电能时损耗更小，开关速度也更快。\n\n## 碳化硅模块的优势\n- 想象一下，传统的电饭煲烧饭效率一般，而碳化硅模块就像一个超级高效的电饭煲，能在高压高功率的场景下（比如新能源汽车、超级快充、储能设备、电网和AI算力中心）更省电、更快速地工作。\n\n## 行业发展\n- 近年来，随着技术进步，碳化硅模块越来越受欢迎，尤其是在新能源汽车和AI算力中心这些需要强大电力支持的场景中。利普思通过融资扩大生产，就是要抓住这个机会，为这些领域提供更好的电力解决方案。",
-      "summarized_at": "2026-03-16T09:05:51.750Z",
       "summary_status": "success"
     },
     {
