@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T08:43:27.343Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-22T08:43:27.344Z",
+    "date": "2026-03-22",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1774168909448",
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open...",
-      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-20T11:57:16.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI要造一个全自动的\"科研机器人\"\n\nOpenAI现在把所有心思和钱都花在一个新项目上——造一个全自动的\"科研机器人\"。这个机器人不是那种需要人教会的AI，而是能自己独立思考、自己找问题的\"超级大脑\"。\n\n想象一下，你现在交一个复杂的数学题给机器人，它不需要人一步步指导，而是能自己分析题目、尝试不同方法，最后找到答案。OpenAI想造的就是这种能自己思考科研问题的AI，就像一个人能自己找女朋友、自己找工作、自己解决问题一样。\n\n这个项目目标很宏大，就是要造出一个能自己搞科研的AI。OpenAI觉得未来科研可能不需要太多人，一个能自动思考的AI就能搞定很多难题。比如现在科学家要研究新药，可能要让这个AI自己跑一遍实验、自己分析数据，最后给出结果。\n\n这个项目可能会改变科研方式，让科学家从繁琐的日常工作中解放出来，专心思考更有创造性的问题。就像农民不用自己种地，农民机器人来帮忙一样。不过现在这个AI还只是个想法，要真正实现还需要很长时间。",
-      "summarized_at": "2026-03-22T08:42:00.066Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774168909448",
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  AI models like Anthropic’s Claude are already used to answer questions in classified settings; applic...",
-      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-17T22:30:46.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 五角大楼计划让AI公司用机密数据训练模型\n\n### 背景\n美国国防部（五角大楼）正在考虑一项新计划，打算为生成式AI公司创建安全的环境。这些公司将用机密数据训练出专门用于军事目的的AI模型。就像我们现在用的聊天机器人一样，但这个AI模型会更懂军事方面的知识。\n\n### 为什么这样做\n目前，有些AI模型（比如Anthropic的Claude）已经在机密环境下回答问题。为了让这些AI更懂军事，五角大楼希望通过机密数据训练它们，就像我们用大量食谱来训练一个厨艺高超的大厨。\n\n### 如何操作\n- 五角大楼会建立特别安全的实验室\n- AI公司可以在这些实验室里用机密数据训练模型\n- 训练出来的AI模型专门用于军事领域\n- 就像我们让一个厨师专门研究宫廷菜一样\n\n### 关键点\n- 五角大楼想提升军事AI的能力\n- 计划与AI公司合作，用机密数据训练新模型\n- 目的是让AI更好地服务于军事需求\n- 安全措施会非常严格，确保数据不被泄露\n\n这个计划就像是在军队里培养专属的\"智囊团\"，通过特殊训练让AI更懂军事知识。五角大楼希望通过这种方式提升军事智能化水平。",
-      "summarized_at": "2026-03-22T08:42:02.835Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774168909448",
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still press...",
-      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-16T17:06:21.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI的技术可能在伊朗出现\n\nOpenAI最近和 Pentagon（美国国防部）达成了一个有点争议的协议，允许他们在处理秘密任务时使用 OpenAI 的 AI 技术。虽然这个协议主要是关于美国国内的事务，但 OpenAI 的技术可能会以某种方式影响到伊朗。\n\n### 技术如何传播\n\n想象一下，AI 就像一个超级聪明的助手，能帮你做很多事，比如翻译语言、分析数据或者甚至预测未来。OpenAI 的技术很厉害，可以做到这些。虽然这个技术主要是给美国国防部用的，但就像手机软件一样，有时候技术会通过不同渠道传播出去，不一定能完全控制住。\n\n### 对伊朗的影响\n\n- **经济方面**：如果伊朗的企业或者研究机构能够接触到这些技术，可能会提高他们的工作效率，比如更快地开发新产品或者更好地管理资源。\n- **科技发展**：伊朗本身在科技领域比较活跃，如果能够利用到 OpenAI 的技术，可能会在人工智能领域取得更多突破。\n- **国际关系**：这种技术的传播可能会引起国际上的讨论，特别是考虑到美国和伊朗之间的关系一直比较复杂。\n\n总的来说，虽然 OpenAI 的技术主要是为了帮助美国国防部，但它的传播可能会以意想不到的方式影响到其他国家，包括伊朗。这就像是一个科技的小游戏，虽然开始时只有几个人玩，但很快可能会传遍整个世界。",
-      "summarized_at": "2026-03-22T08:42:09.997Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774168909448",
-      "title": "Nurturing agentic AI beyond the toddler stage",
-      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health co...",
-      "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-16T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的成长之路\n\n就像养孩子一样，人工智能也需要慢慢长大。现在很多AI还不太智能，像个刚学会走路的小宝宝，做事情需要人时刻看着。科学家们正在努力让AI变得更独立，不再总是依赖人类指导。\n\n### AI的成长阶段\n- **婴儿期**：现在的AI就像刚出生的宝宝，只会做一些简单反应，比如认出图片中的猫\n- **幼儿期**：需要人类不断教它新知识，就像孩子学说话一样，需要反复练习\n- **学龄期**：开始能自己解决问题，但还会犯错，需要人偶尔纠正\n\n### 关键挑战\n- AI需要学会自己思考，而不是只会模仿人类\n- 要避免产生有害行为，就像教孩子不能做坏事一样\n- 需要平衡AI的自主性和安全性\n\n### 未来方向\n科学家们正在研究如何让AI像学龄儿童一样，既能自己探索世界，又能遵守规则。这需要改进AI的\"大脑\"，让它既能创新，又能控制风险。就像父母教孩子做家务时，既要给自由又要设界限。\n\n最终目标是培养出能独立工作的智能体，就像一个能照顾自己的青少年，既懂规矩又能自己处理事情。目前AI还处在学步阶段，但研究人员相信，通过不断学习，AI会慢慢长大，最终成为真正的\"小管家\"。",
-      "summarized_at": "2026-03-22T08:42:15.220Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1774168909448",
       "title": "Securing digital assets against future threats",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Meshery：云时代的\"工具管家\"\n\nMeshery是一个帮助人们管理云上各种服务的工具，就像家里有个总管家一样。你有没有想过，怎么让电脑里的各种应用（比如游戏、学习软件、聊天工具）都整齐地运行？Meshery就是干这个的。\n\n### 它有什么作用？\n\n*   **轻松管理服务**：想象一下，你开了很多个电器（比如电视、冰箱、洗衣机）， Meshery就像个总开关，帮你控制它们都正常工作。\n*   **自动化任务**：平时管理云服务很麻烦，Meshery能自动帮你做很多事，比如自动分配电脑资源。\n*   **跨平台支持**：它支持各种云服务（比如阿里云、腾讯云），就像一个万能遥控器，不管你用什么设备都能控制。\n\n### 为什么受欢迎？\n\n*   **简单易用**：操作界面就像手机APP一样，点几下就行。\n*   **开源免费**：不用花钱就能用，就像开源软件一样。\n*   **社区支持**：有很多人在用，遇到问题能快速找到解决办法。\n\n### 生活化比喻\n\nMeshery就像家里的\"智能家居管家\"，你只需要告诉它要做什么，它就会自动把电脑里的各种服务安排好。比如你开一个网站，Meshery会自动帮你分配服务器和带宽，让你省心又高效。\n\n### 核心优势\n\n-   **减少重复工作**：不用手动操作，让云服务管理像切菜一样简单。\n-   **提高效率**：自动优化资源，就像电脑自动清理垃圾一样。\n-   **兼容性强**：不管你用哪种云服务，都能用上。\n\n总之，Meshery是一个让云时代更简单的工具，适合各种技术小白和专业人士，就像让电脑管理变得像用手机一样方便。",
       "summarized_at": "2026-03-22T08:43:12.508Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774168915354",
-      "title": "Nothing在中国发布Headphone (a)与Phone (4a)系列，在性能过剩时代继续押注“设计优先”丨最前线",
-      "summary": "作者丨欧雪\n编辑丨袁斯来\n3月20日，总部位于伦敦的消费科技公司Nothing在中国上海召开新品发布会，正式推出头戴式耳机Headphone(a)和智能手机Phone(4a)系列。这是Nothing第二次在中国以线下发布会形式发布新品，显示出其对中国市场的投入正在逐步加深。\n从定价来看，Headphone(a)国内首销价为1299元，Phone(4a)起售价为3299元（12GB+256GB），Pro版本售价4199元。两款产品均定位中端市场，处于各自品类中竞争最为密集的价格区间。头戴式耳机市场已是成熟赛道，索尼、Bose、苹果等品牌在降噪算法、音质调校和生态协同上建立了深厚壁垒。Nothin...",
-      "url": "https://36kr.com/p/3733553048256518?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-22T03:26:52.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## Nothing发布新耳机和手机，继续主打“好看又好用”\n\n- **公司背景**：Nothing是一家英国公司，专门做消费电子产品。最近在中国上海开了个发布会，这是他们第二次在中国线下发布产品，说明他们很喜欢中国市场。\n\n- **发布的产品**：Nothing这次推出了两个新产品：一个是Headphone(a)头戴式耳机，另一个是Phone(4a)智能手机。头戴式耳机可以听歌、打电话，手机可以打电话、上网、拍照等。\n\n- **价格定位**：Headphone(a)的价格是1299元，Phone(4a)的基础版是3299元，Pro版是4199元。这些价格都属于中等水平，和市场上很多同类产品价格差不多。\n\n- **产品特点**：Nothing的产品一直强调“设计优先”，意思是他们觉得产品好不好看很重要。比如，他们的耳机和手机外观设计得很特别，颜色也很多样，适合年轻用户。在功能上，他们也会做一些优化，比如手机的拍照功能、头戴式耳机的音质等。\n\n- **市场竞争**：头戴式耳机市场竞争很激烈，像索尼、Bose、苹果这些大品牌已经做得很好了。Nothing想要在这个市场脱颖而出，就得靠创新和设计。同样，手机市场也很竞争，Nothing的Phone(4a)需要和很多其他手机竞争。\n\n- **核心观点**：Nothing在中国市场继续押宝“设计优先”，希望通过好看的外观和不错的功能吸引消费者。虽然市场竞争激烈，但他们相信自己的产品有特色，能够赢得一部分用户。",
-      "summarized_at": "2026-03-22T08:43:11.716Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774168915354",
-      "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
-      "summary": "当代年轻人对待病的态度，像薛定谔的猫一般充满矛盾。\n有时讳疾忌医，不敢看自己的体检报告，对报告里已确诊的小结节、轻度脂肪肝、胃炎装聋作哑，安慰自己没啥大事。\n有时又上赶着帮自己“确诊”新疾病：“我说我怎么天天活人微死还犯懒呢，原来我是前额叶受损啊。”\n\n网友疯传的前额叶梗图。（图/社交平台截图）\n最近，又轮到了前额叶。\n这个原本常见于神经科学教科书中的专业术语，近期一跃成为了热搜常客。\n与ADHD、PUA、躁郁症等专业名词刚刚走红时的状况高度相似，无数网友甚至还不知道前额叶到底是什么，但已经下意识地开始将自己的情况，与网帖里前额叶受损的症状一一比对，且大概率发现自己几乎全中：\n“注意力难以集中...",
-      "url": "https://36kr.com/p/3732100232298503?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-21T02:51:33.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 年轻人为什么总给自己贴标签？\n\n最近，年轻人之间流行一个说法：“我的前额叶罢工了”，意思是感觉自己脑子不好使，注意力不集中、容易犯懒。这个说法虽然专业，但很多人都觉得自己“中招”了。\n\n其实，年轻人对生病的态度挺矛盾的。一方面，他们害怕看体检报告，就算报告里有小问题，比如胃病、脂肪肝，也假装没看见，觉得“没什么大不了”。另一方面，他们又喜欢给自己“扣帽子”，比如觉得自己“前额叶受损”，用来解释为什么总是提不起精神、记不住事。\n\n“前额叶”原本是神经科学里的术语，指大脑负责思考和控制情绪的部分。现在，它成了年轻人自嘲的梗，大家都凭着网上的描述，觉得自己就是“前额叶受损”，甚至到处发帖“确诊”。\n\n其实，很多人只是压力大、睡眠不好，或者生活不规律导致的。但比起认真找医生检查，贴个标签更简单，也显得自己懂点“心理学”。就像小时候发烧，家长检查不出原因，就说是“闹肚子”，其实可能是着凉了。年轻人给自己贴标签，也是想找个简单的解释，让自己安心。",
-      "summarized_at": "2026-03-22T08:43:19.926Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774168915354",
-      "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
-      "summary": "今日热点导览\n商务部部长王文涛会见苹果公司首席执行官库克\n贾国龙起家的西贝首店将缩减一半经营面积\n特斯拉计划采购中国光伏设备？企业回应：确有此事\n针对“漂白鸡爪”等“3·15”晚会曝光问题，多地立案溯源打击\n中国学生平均留学预算超60万\nTOP3大新闻\n傅盛微信群里开撕周鸿祎称“欠钱不还”，360回应\n3月20日，社交媒体流传的截图显示，当天凌晨，猎豹移动董事长兼CEO傅盛在微信聊天群里“开撕”360创始人周鸿祎，指责周鸿祎“欠钱不还，并遭拉黑”。\n3月20日，360集团回应称，“我们更关注把产品做好，让每个人都能用上安全便捷的360安全龙虾。企业家打造个人影响力，归根结底还是要靠产品和用户价...",
-      "url": "https://36kr.com/p/3732001538490631?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-21T01:13:44.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 今日热点\n\n- **商务部部长会见库克**：国家商务部领导王文涛和苹果公司老板库克见了面，讨论生意合作。\n- **西贝餐厅缩小店面**：西贝餐饮的老店要缩小一半地方，可能是因为生意不好或者想试新方法。\n- **特斯拉买中国太阳能板**：特斯拉公司说要买中国的太阳能设备，具体还没定。\n- **打击不卫生食品**：因为3月15日电视曝光的脏鸡爪等问题，很多地方开始查和惩罚做假食品的人。\n- **出国留学费用高**：中国学生平均要花60多万人民币出国读书。\n\n## 大新闻\n\n### 傅盛和周鸿祎吵架\n\n- 傅盛在微信群里骂360老板周鸿祎，说他欠钱不还还把他拉黑了。\n- 360公司回应说，他们只管做好产品让用户用，个人名声是靠产品赢来的，不关心这些小事。",
-      "summarized_at": "2026-03-22T08:43:19.445Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774168915354",
-      "title": "万物云：与万科关联应收账款余额仅剩20.6亿，业务独立性持续增强",
-      "summary": "3月19日晚间，万物云空间科技服务股份有限公司发布2025年度业绩报告。报告期内，万物云实现营业收入372.7亿元，同比增长2.7%，剔除开发商相关业务后，营收同比增长8.4%；核心净利润约21.3亿元，同比微增0.8%；归母净利润7.7亿元，同比出现较大幅度下滑。\n\n业绩发布会现场\n万物云董事长朱保全在业绩发布会上表示，关联开发商（万科）产生的坏账及资产摊销所带来的负向影响是利润下滑的主要原因，2025年全年因此产生了7.4亿元的净利润负影响，这是一个“被动”的发生过程，但报告期内公司持续关联交易收入同比降低11.97亿元，占比已进一步下降至6%，占比持续下降，独立性越来越强。\n在派息方面，...",
-      "url": "https://36kr.com/p/3731378273828868?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-20T14:35:18.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 万物云独立性增强，与万科关联业务影响减小\n\n万物云最近发布了2025年的业绩报告，整体收入比去年增长了2.7%，达到372.7亿元。但如果不算开发商相关业务，营收其实增长了8.4%，说明公司自己的业务发展得不错。\n\n不过，净利润方面有点波动，核心净利润只微增了0.8%，归母净利润甚至下滑了很多。这是因为万物云和开发商（主要是万科）之间的业务往来导致了7.4亿元的利润损失。可以想象成，如果邻居借钱给你，但最后没还钱，你就得扣掉这笔损失。\n\n不过，万物云正在努力减少和开发商的关联交易。报告期内，这类收入占比已经从去年的某个比例下降到6%，而且是持续下降的。这就好比一个人逐渐减少依赖父母的钱，开始自己赚钱养活自己。\n\n总的来说，万物云正在变得更独立，虽然短期内利润有点受影响，但长期看，这种变化对公司的健康发展更有利。",
-      "summarized_at": "2026-03-22T08:43:27.072Z",
       "summary_status": "success"
     },
     {
