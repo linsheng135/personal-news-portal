@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-23T09:06:10.370Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-23T09:06:10.371Z",
+    "date": "2026-03-23",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1774256690065",
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open...",
-      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-20T11:57:16.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI要造一个能自己干活的AI研究者\n\nOpenAI现在把所有心思和钱都花在一个新目标上：造一个全自动的AI研究者。这就像给AI配上一身超能力，让它能自己跑出去解决大难题。\n\n### AI研究者是个啥\n\n想象一下，现在做研究就像老爷爷抄写资料，要手动查找、分析、写报告。OpenAI想造的AI研究者就像个能自动复印、自动整理的智能机器人，能自己找资料、做实验、得出结论，完全不用人操心。\n\n### 为啥要干这事\n\n现在研究太花钱、太耗时了，一个项目可能要花好几百万，还得找一堆专家。OpenAI觉得，如果能造出这样的AI，以后很多研究都能自己搞定，省时省力又省钱。就像现在网购不用去超市，AI研究者就是想给科研界搞个\"网购\"服务。\n\n### 能解决啥问题\n\n这个AI可以处理特别复杂的问题，比如怎么提高AI自身的智能水平。以前要靠人类科学家一步步试，现在AI自己就能探索各种可能性。就像学骑自行车，以前要人教，现在AI能自己尝试各种姿势找到最佳方法。\n\n### 现在进展咋样\n\nOpenAI已经把所有资源都投进去了，正在拼命研发。虽然还没造出来，但团队很有信心。这感觉就像造飞机刚开始时，大家觉得不可能，但最后真的造出来了。OpenAI希望这个AI能彻底改变科研方式，让所有人都用起来。",
-      "summarized_at": "2026-03-23T09:05:02.141Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774256690065",
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  AI models like Anthropic’s Claude are already used to answer questions in classified settings; applic...",
-      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-17T22:30:46.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 五角大楼计划让AI公司用机密数据训练模型\n\n### 背景\n五角大楼正在考虑一个计划：为生成式AI公司设立安全环境，让它们用机密数据训练军事专用的AI模型。这个消息来自麻省理工学院科技评论。目前，像Anthropic的Claude这类AI模型已经在机密环境中回答问题。\n\n### 为什么这样做\n- **让AI更懂军事**：就像训练宠物狗认主人一样，AI也需要熟悉特定领域的数据。五角大楼希望AI公司用军事数据训练模型，让AI更懂军事业务。\n- **提高效率**：训练AI就像教孩子读书，用对的数据能更快教会AI军事知识，提高工作效率。\n\n### 怎么做\n- **建立安全环境**：五角大楼会像保护重要文件一样，确保AI公司在安全的环境下训练模型，防止数据泄露。\n- **军事专用的AI模型**：就像定制手机软件一样，五角大楼要定制专用于军事的AI软件，让AI更符合军事需求。\n\n### 意义\n- **AI军事化**：未来AI可能像军事顾问一样，帮助军队处理机密任务。\n- **安全和效率**：既能保护军事数据，又能让AI快速成长，达到双赢效果。\n\n这个计划就像让AI公司当军事导师，用机密数据教AI军事知识，让AI成为军队的好帮手。",
-      "summarized_at": "2026-03-23T09:05:01.544Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774256690065",
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still press...",
-      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-16T17:06:21.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI的技术可能在伊朗出现\n\nOpenAI是一家做人工智能的公司，最近跟美国政府达成了一个有点争议的协议，允许他们在一些秘密的场合使用OpenAI的技术。现在大家都在猜测，这种技术会不会也用到伊朗。\n\n### 技术可能的应用场景\n\n想象一下，OpenAI的技术就像是超级智能的助手。比如，它可以帮军队分析大量的信息，快速找出重要线索，就像侦探看破案一样。在伊朗，这种技术可能被用来：\n\n- **分析数据**：处理大量的信息，找出有用的情报\n- **翻译语言**：帮助人们更快地理解不同语言的信息\n- **预测趋势**：根据过去的资料，预测未来可能发生的事情\n\n### 争议和担忧\n\n虽然这种技术听起来很厉害，但也引起了一些担心。比如：\n\n- **隐私问题**：如果伊朗也使用这种技术，会不会侵犯到人们的隐私？\n- **控制问题**：谁来做主使用这项技术？会不会被滥用？\n\n### 伊朗的情况\n\n伊朗现在正面临很多挑战，比如国际关系紧张和经济问题。如果OpenAI的技术真的用在那里，可能会：\n\n- **改善效率**：帮助政府部门更快地处理事务\n- **加强安全**：提升国防能力\n\n总之，OpenAI的技术可能在伊朗有很多用武之地，但同时也带来了一些不确定性和争议。未来怎么发展，还得看具体情况。",
-      "summarized_at": "2026-03-23T09:05:09.899Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774256690065",
-      "title": "Nurturing agentic AI beyond the toddler stage",
-      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health co...",
-      "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-16T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的发展就像养孩子\n\n- **发展阶段像成长过程**  \n  人工智能的发展跟小孩成长一样，都要经过不同阶段。比如婴儿学说话、走路，AI也需要从简单任务到复杂能力逐步提升。现在很多AI还处于\"蹒跚学步\"阶段，能做简单任务但缺乏自主判断能力。\n\n- **当前AI的局限**  \n  现在的AI就像刚学会说话的小孩，能执行明确指令但遇到新情况就会卡壳。比如让AI写文章，它可以模仿模板但无法像人类那样独立构思；让AI画画，它只会照搬数据不会创新。\n\n- **如何让AI\"长大\"**  \n  - **增加训练数据**：就像让孩子多读书多经历，AI需要接触更多真实案例才能提升能力  \n  - **设置成长目标**：明确告诉AI要解决什么问题，就像父母给孩子设定学习任务  \n  - **给予反馈调整**：AI犯错时要及时纠正，就像孩子做错事需要教导  \n\n- **警惕\"聪明反被聪明误\"**  \n  过度依赖现有AI就像用计算器代替孩子学数学，虽然能完成任务但失去了培养独立思考的机会。未来AI需要学会像人类一样自主学习、判断和创造，才能真正发挥价值。",
-      "summarized_at": "2026-03-23T09:05:08.740Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1774256690065",
       "title": "Securing digital assets against future threats",
@@ -276,78 +200,6 @@
       ],
       "ai_summary": "# 大型系统设计指南：面试必备  \n\n## 什么是大型系统设计？  \n想象一下，你要设计一个像淘宝这么大的网站。这个网站每天有上亿人使用，需要处理海量订单、图片和评论。如果用简单的电脑程序，早就卡得像蜗牛一样。所以，大型系统设计就是怎么把网站分成很多个小模块，让每个模块都跑得又快又稳，还能互相配合。  \n\n## 为什么需要学习这个？  \n现在很多大公司招聘程序员时，都会考这个。比如，让你设计一个快递分拣系统，怎么让快递员高效送件？或者设计一个朋友圈的点赞功能，怎么让数据实时更新？学会这个，面试时就能从容应对。  \n\n## 学习资料推荐  \n- **Anki闪卡**：像背单词一样，用小卡片记下关键知识点，随时复习。  \n- **生活例子**：比如，银行柜台分流——把客户分给不同窗口，避免排长队。系统设计也是如此，把任务分给不同电脑处理。  \n\n## 核心要点  \n- **模块化**：把大系统分成小部分，每部分负责一件小事。  \n- **扩展性**：系统要能应付更多用户，比如节日促销时不会崩溃。  \n- **容错性**：某个模块坏了，其他模块还能继续工作，比如地铁一号线停运，乘客可以坐二号线。  \n\n## 记住这些，面试就能轻松过  \n- 先画个草图，把系统各部分连起来。  \n- 想象用户最坏的情况，比如突然10万人同时下单。  \n- 多用比喻，比如“数据库像仓库，缓存像冰箱里的食物，能快速拿出但不常更新”。  \n\n这样学，系统设计就不再难懂！",
       "summarized_at": "2026-03-23T09:05:53.942Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774256696450",
-      "title": "宇树毛利率60%的秘密",
-      "summary": "文｜邱晓芬\n编辑｜苏建勋\n3月20日，宇树公布IPO前的招股书，当中一则数据吸引了我们的关注——2025年前三季度，宇树整体的毛利率达到59.5%。\n宇树的业务可以简单分为三块：四足狗、人形机器人、机器人组件（比如灵巧手、协作机械臂、激光雷达等）。\n其中，这几项业务的毛利率分别达到55.5%、62.9%、60.4%。除了早期阶段的人形机器人，其他业务毛利率在近四年稳步上升。\n\n△宇树不同业务在近四年的毛利率情况，图源：宇树招股书\n毛利率60%，对于一家机器人公司来说，意味着什么？\n在机器人行业里，唯二两家上市公司优必选、越疆，毛利率分别在30%、43%，近三年平均水平是37%。宇树是其均值的1...",
-      "url": "https://36kr.com/p/3735272591212546?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-23T08:53:37.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 宇树毛利率60%的秘密\n\n宇树是一家做机器人的公司，最近公布的数据显示，他们卖东西的利润率非常高，前三季度达到了59.5%。这是什么意思呢？简单说，就是他们卖100块钱的东西，能赚60块，这利润率在机器人行业里算是很高的。\n\n宇树主要做三类机器人：四条腿的狗狗机器人、人形机器人，还有各种机器人零件，比如灵活的手、能工作的手臂、看路的雷达等。这三类业务利润率分别是55.5%、62.9%、60.4%，除了刚开始发展的人形机器人，其他业务的利润率这几年一直往上涨。\n\n对比其他机器人公司，比如优必选和越疆，它们的利润率分别在30%和43%，近三年的平均利润率是37%。宇树的利润率差不多是其他公司的两倍，这说明他们很会赚钱。\n\n为什么宇树的利润率高呢？可能是因为他们技术好，用的零件成本不高，或者卖的东西特别抢手。比如，如果同样的机器人，别人卖1000块，宇树可能只要卖700块就能赚很多钱，因为他们的成本控制得好。\n\n总的来说，宇树的高利润率说明他们是一家很有竞争力的机器人公司，未来可能还会继续涨价。",
-      "summarized_at": "2026-03-23T09:05:51.307Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774256696450",
-      "title": "前五源投资人联手港大教授，想做一款AGI投资机器，获Monolith投资｜硬氪首发",
-      "summary": "硬氪获悉，AI投资技术公司Grace Investment Machine（以下简称GIM）近日完成数千万元天使轮融资，由Monolith和五源资本共同投资。本轮资金将主要用于自研金融大模型的技术迭代、数据与算力基础设施建设，以及全球化顶尖团队的持续扩张。值观资本后续担任独家财务顾问。\nGIM成立于2025年7月，公司定位为下一代自进化智能体投资平台，希望通过多智能体架构，打造AGI时代的投资机器和资产管理平台，开创全新的AI资产管理类别，是全球首批探索Agentic Investing资管的新锐公司。\nGIM的创始团队兼具投资实践与前沿AI研究背景，这也让其在这一交叉领域具备独特优势。创始人...",
-      "url": "https://36kr.com/p/3734918559842560?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-23T02:37:31.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AGI投资机器获千万融资，想用AI管钱\n\n- **公司背景**：GIM是2025年成立的新公司，专门研究用人工智能技术做投资。创始团队既懂投资，又懂AI，就像既有经验丰富的老司机，又有懂技术的程序员。\n\n- **核心目标**：他们想开发一款\"AGI投资机器\"，用多个智能体（就像训练了好几个机器人）来管理投资，目标是打造AI时代的投资工具。这就像让机器人互相配合，自动帮你做投资决策。\n\n- **融资情况**：公司刚拿到Monolith和五源资本的投资，金额超千万元。这笔钱将用来：1.升级AI模型；2.建好数据仓库和计算设备；3.请更多国际顶尖人才。\n\n- **创新之处**：GIM是全球首批想用\"智能体投资\"新模式做资产管理的人，要开创全新的AI管钱方式。这就像传统银行管钱和现在用支付宝、微信理财不一样，他们要用更智能的机器人管钱。\n\n- **未来计划**：公司想逐步把投资机器推广到全球市场，帮助更多人在AI时代实现财富管理自动化，就像把投资交给一群聪明的AI助手帮你打理。",
-      "summarized_at": "2026-03-23T09:06:00.422Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774256696450",
-      "title": "月薪3000的职校生，正在「干掉」北影导演",
-      "summary": "文｜兰杰\n编辑｜乔芊\n“如果你在出生的时候没有劳斯莱斯，那么这辈子大概率都不会有了。”这是酱油动漫创始人黄浩南熟记于心的一句话。\n他中专毕业，没有父母帮衬，只坚信一条信念，打工是不可能发财的，一定要抓住风口。所以在网文、短剧这些昔日风口中，都有过黄浩南的身影。做短剧后，他终于实现了阶层跨越，但那时酱油动漫仍籍籍无名，直到他又一头扎进漫剧的巨浪。\n去年11月，酱油动漫的月收入超5000万元，已经是名副其实的赛道头部。作为公司创始人，黄浩南马不停蹄地奔走在各大平台的活动和投资人的饭局上，分享成功经验和商业见地。酱油动漫的官方介绍里写着：“我们的目标是，成为全国最大的Ai影像集团！”\n生意兴隆的不止...",
-      "url": "https://36kr.com/p/3734101643706371?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-23T02:30:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 月薪3000的职校生逆袭成亿万富翁\n\n- **出身平凡却抓住风口**：黄浩南中专毕业，没家庭背景，靠自己的努力在多个行业里找机会。就像一个普通人，虽然手头没多少钱，但总想着找机会翻身。\n- **从短剧到漫剧的成功之路**：他先是做了短剧，后来又投入了更有前景的漫剧领域。就像玩股票的人，不会一直盯着一个跌的股票，而是会换到涨的上面。\n- **公司快速成长**：去年酱油动漫月收入超5000万，成了行业里的小大佬。这就像一个菜市场小摊，突然爆火，每天生意特别好。\n- **野心勃勃的目标**：公司目标是成为全国最大的AI影像集团。这就像一个卖水果的，不满足于只卖水果，还想开个超市卖各种东西。\n- **普通人也能成功**：黄浩南的故事说明，即使起点低，只要肯努力、会抓机会，也能实现人生的大跨越。就像一个农村娃，通过读书考上大学，最后在大城市混出人样。",
-      "summarized_at": "2026-03-23T09:06:01.517Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774256696450",
-      "title": "36氪首发丨峰瑞资本投了家智能硬件公司，做空间三维重建，创始人为前群核科技副总裁",
-      "summary": "作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，三维重建与空间智能公司——杭州竹马创新科技有限公司（下称“竹马创新”）近日完成数千万天使轮融资。本轮融资由峰瑞资本领投，洪泰基金跟投，光智资本担任本轮独家财务顾问。资金将主要用于研发团队招聘、产品量产筹备及初期营销推广。\n竹马创新成立于2025年11月，专注于消费级三维重建与空间智能产品。公司创始人兼CEO张吉，毕业于西安交通大学计算机系，拥有20余年3D图形行业经验。他曾任群核科技副总裁，负责推动公司从大家居向全空间战略转型，是群核科技首位同时负责产品与业务的高管，期间与蜜雪冰城、茶颜悦色、圣奥等新行业品牌达成战略合作；更早前在广联达从一名程序员成长为国际...",
-      "url": "https://36kr.com/p/3734855815184390?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-23T01:32:16.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 竹马创新获得融资，开发三维空间重建技术\n\n### 公司简介\n竹马创新是一家做空间三维重建的公司，就是能把现实世界变成数字模型的技术。他们成立于2025年11月，主要做消费者能用的产品，比如在家装、智能家居等领域帮助用户测量空间、规划布局。\n\n### 创始人背景\n公司创始人张吉有20多年3D图形行业经验，以前在群核科技当高管，负责过很多大项目，比如跟蜜雪冰城、茶颜悦色这些品牌合作，推动公司发展。他在广联达也从小职员成长为高管，经验丰富。\n\n### 融资情况\n竹马创新刚拿到数千万天使轮融资，峰瑞资本领投，洪泰基金跟投。这笔钱主要用来招人、做产品量产准备，还有初期推广。这说明资本市场看好他们的技术。\n\n### 技术应用\n想象一下，你用手机就能扫描家里的每个角落，自动生成三维立体图，这就是三维重建技术。比如装修时，可以用它测量空间大小，规划家具摆放；或者商场可以用它做虚拟导览，让顾客更直观地看到店铺布局。\n\n### 未来发展\n公司计划用这笔钱扩大团队，加快产品上市，未来可能推出更多跟空间智能相关的产品，比如智能家居助手、虚拟现实应用等。这技术一旦成熟，生活里用得着它的地方会越来越多。",
-      "summarized_at": "2026-03-23T09:06:10.370Z",
       "summary_status": "success"
     },
     {
