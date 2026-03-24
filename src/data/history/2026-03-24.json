@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-24T09:02:24.018Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-24T09:02:24.019Z",
+    "date": "2026-03-24",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1774342797751",
-      "title": "The hardest question to answer about AI-fueled delusions",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com...",
-      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-23T16:31:20.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能带来的困惑：最难回答的问题\n\n最近有个关于人工智能的新闻，让人不禁思考：AI到底能走多远？报道里提到，美国国防部正在研究用AI处理一些棘手的问题，比如和伊朗的冲突。这让人想到，如果AI真的能处理这些复杂情况，那它会不会像人类一样容易犯错？\n\n### AI容易犯错的例子\n\n想象一下，你让AI帮你选衣服。你告诉它你要去参加派对，它就给你推荐了最流行的款式。但实际上你可能更适合穿休闲装，因为那是你平时的风格。AI就像个没见过世面的孩子，虽然能记住别人的意见，但不知道怎么变通。\n\n### AI的局限性\n\n- AI就像个复读机：它只能根据你给的信息做判断，但不知道实际情况。比如，AI不会知道你今天心情不好，即使你穿了最喜欢的衣服，它还是会说\"这不符合你的风格\"。\n- AI缺乏常识：你告诉它\"晴天适合晒太阳\"，它就会记住这个规则。但如果阴天你照样想晒太阳，AI就会觉得不对劲，因为它不知道阴天也能晒太阳。\n- AI不会理解人类的小心思：比如你明明喜欢绿茶，但为了让朋友开心，你说喜欢红茶。AI会记住你\"喜欢红茶\"，而不知道你其实只是找个借口。\n\n### 人工智能的终极问题\n\n最难回答的是：AI能不能真正像人一样思考和决策？报道里提到，即使是国防部这种高科技机构，也对AI的可靠性存有疑虑。这就好比，就算你有很多工具，也不一定能建好一个家。关键还是在于，这些工具能不能真正理解你的需求。\n\n简单来说，AI就像个聪明但固执的助手，它有很强的学习能力，但缺乏人类的灵活性和同理心。所以，即使科技再发达，某些问题可能还是需要人类自己来解决。",
-      "summarized_at": "2026-03-24T09:00:25.559Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774342797751",
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.  In the common area, a w...",
-      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-23T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 加州动物保护想找AI帮忙\n\n### 会议情况\n2月初，一群关心动物的人和搞人工智能研究的人聚在旧金山的Mox工作空间。这个空间没鞋套，地上铺着地毯，灯是彩色的，还有好多盆栽。大家聚在一起讨论怎么用AI保护动物。\n\n### 为什么找AI\n动物保护工作很辛苦，比如照顾流浪猫狗、调查虐待动物的行为，这些事情很耗时间和精力。AI就像个超级助手，能帮人们更快地处理信息。比如用AI识别虐待动物的证据，或者预测哪些动物需要紧急救助。\n\n### AI能做什么\n- **识别危险情况**：AI能分析视频和照片，发现动物受虐待的迹象。比如通过图像识别出动物身上有伤痕。\n- **管理宠物数据**：用AI记录动物信息，方便追踪和救助。就像用手机记录朋友的联系方式一样简单。\n- **预测需求**：AI能根据天气和季节预测哪些动物需要食物或医疗帮助。\n\n### 社会支持\n这个想法得到了很多人的支持，很多科技公司也愿意提供技术帮助。就像邻居看到你家漏水会帮忙一样，大家希望用科技的力量保护动物。\n\n### 未来计划\n下一阶段，他们想开发专门的AI工具，让保护动物的工作更高效。比如开发一个能自动报警的摄像头，发现虐待行为立刻通知相关人员。总之，就是用现代科技让动物保护变得更容易。",
-      "summarized_at": "2026-03-24T09:00:23.938Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774342797751",
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open...",
-      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-20T11:57:16.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI 要造一个全自动的\"科研机器人\"\n\n### 项目目标\nOpenAI 公司现在把所有资源都投入到一个新项目上——造一个能全自动工作的\"科研助手\"。这个助手就像一个超级勤奋的实验室助理，不需要人跟着，就能独立解决各种复杂科学难题。\n\n### 工作方式\n想象一下，你现在交了一个复杂的数学题给AI助手。这个助手不会像现在这样需要人一步步指导，而是能自己上网查资料、做计算、分析数据，最后给出答案。就像一个能自学、能独立思考的助理，完全不需要人操心。\n\n### 为什么做这个项目\n现在科学家做研究就像做实验，需要不断尝试各种方法。OpenAI 希望用AI来模拟这个过程，让机器能像人一样思考和研究。这样科研效率会大大提高，也能解决人类难以处理的问题。\n\n### 项目意义\n这个项目就像给科研装上了\"快进器\"。未来我们可能不需要那么多科学家亲自做研究，只需要让AI助手去处理难题。这会带来很多好处，比如更快找到新药，或者解决气候变化等大问题。\n\n- 核心是造一个能自动思考的AI\n- 目标是解决人类难以完成的科研难题\n- 意思是未来科研可能更像\"远程指挥\"\n- 最终能大大提高研究效率",
-      "summarized_at": "2026-03-24T09:00:44.909Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774342797751",
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  AI models like Anthropic’s Claude are already used to answer questions in classified settings; applic...",
-      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-17T22:30:46.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 五角大楼计划让AI公司用机密数据训练模型\n\n### 背景  \n五角大楼（美国国防部）正在考虑一项新计划：为生成式AI公司设立安全环境，让它们在机密数据上训练专门的军事AI模型。比如，现在有些AI模型（像Anthropic的Claude）已经在机密场合回答问题，但五角大楼希望让AI公司用更高级的技术来训练这些模型，以便更好地辅助军事工作。\n\n### 为什么这样做  \n- **提升AI能力**：现在的AI在机密场合应用还不够完善，五角大楼希望通过机密数据训练，让AI更擅长处理军事任务。  \n- **合作模式**：五角大楼会提供机密数据，AI公司负责开发更智能的模型，双方合作，就像学校提供教材，学生用教材学习一样。  \n- **安全性**：训练环境会非常严格，确保机密数据不被泄露。这就像银行的保险箱，只有授权的人才能打开。\n\n### 对AI公司的好处  \n- **更多数据资源**：AI公司能接触到机密数据，相当于拿到更多的\"学习资料\"，可以开发出更厉害的AI产品。  \n- **商业机会**：如果合作成功，AI公司可能会得到军方订单，增加收入。比如，现在很多AI公司都在竞争自动驾驶技术，如果五角大楼选择某家公司合作，这家公司就能获得更多订单。\n\n### 未来可能的影响  \n- **AI技术进步**：通过军事数据的训练，AI技术可能更快发展，未来不仅军事领域，民用领域（如自动驾驶、医疗）也会受益。  \n- **行业竞争**：AI公司会积极争取与五角大楼合作机会，行业竞争可能会更激烈。  \n\n这项计划意味着AI公司和军方将更紧密合作，未来AI技术可能会在军事和民用领域都有更大突破。",
-      "summarized_at": "2026-03-24T09:00:45.719Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1774342797751",
       "title": "Where OpenAI’s technology could show up in Iran",
@@ -276,78 +200,6 @@
       ],
       "ai_summary": "## systemd是什么？\n\n想象一下你的电脑就像一个大房子，systemd就是这个房子的总管家。它负责管理房子里的所有东西，比如灯光、空调、电器等。在电脑里，systemd负责启动各种软件和服务，就像管家帮你打开电视、调节温度一样。\n\n### 核心功能\n\n- **启动管理**：电脑开机时，systemd会按顺序启动必要的软件，比如浏览器、办公软件等，确保它们正常运行。\n- **服务控制**：如果某个软件出了问题，systemd会自动重启它，就像管家发现电器坏了会帮你修理一样。\n- **日志记录**：systemd会记录所有软件的运行情况，方便你查看问题所在，就像管家会记录每天家里的用电情况。\n\n### 为什么需要systemd？\n\n没有systemd，电脑的启动和管理会非常混乱，就像没有管家的大房子一样。systemd让电脑的运行更加稳定和高效，就像管家让家庭生活更有条理一样。\n\n### 生活中的例子\n\n- **手机系统**：你的手机系统也需要类似的功能来管理各种应用和设置，systemd就是电脑版的这个功能。\n- **公司运营**：公司需要有人管理各部门的工作，systemd就是电脑版的“总经理”，确保所有部分协同工作。\n\n总之，systemd是电脑的“大管家”，让电脑运行更顺畅，就像一个好的管家让家庭生活更美好一样。",
       "summarized_at": "2026-03-24T09:02:01.243Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774342815719",
-      "title": "拒多家车企邀约，前理想端到端负责人夏中谱加入无界动力｜36氪独家",
-      "summary": "图为理想汽车\n文 | 肖漫 \n编辑 | 李勤、杨轩\n又一位理想高管加入具身智能行业。\n36氪汽车独家获悉，前理想智驾端到端负责人夏中谱将加入具身智能公司「无界动力」。\n无界动力成立于2025年，由前地平线副总裁张玉峰创办，目前，该公司已完成三轮融资，投资方包括红杉、高瓴等知名机构。无界动力聚焦于构建机器人“通用大脑”与“操作智能”，提供软硬一体的具身智能解决方案。\n夏中谱是在2025年年中离开理想汽车，此后一直在中科院从事世界模型和强化学习方向的研究工作。有多位知情人士告诉36氪汽车，夏中谱从理想离职后，有多家头部车企曾投去橄榄枝，但夏中谱在接触之后均未加入。\n伴随着夏中谱去向尘埃落定，离职的...",
-      "url": "https://36kr.com/p/3736702595301638?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-24T08:51:17.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 夏中谱离开理想加入新公司无界动力\n\n- **夏中谱的背景**  \n  夏中谱以前是理想汽车的高管，负责汽车智能驾驶方面的工作，相当于给汽车装上“大脑”和“手脚”，让汽车自己开车。他2025年离开理想后，没有立刻找新工作，而是去中科院研究更高级的AI技术。\n\n- **为什么选择无界动力**  \n  无界动力是一家新公司，成立于2025年，主要想造出机器人用的通用大脑和操作智能，就像给机器人装上既能思考又能动手的“大脑”。夏中谱有多家大车企找他，但他都没去，最后选择了加入无界动力。\n\n- **无界动力的实力**  \n  无界动力已经融资三次，投资方都是像红杉、高瓴这种有名气的公司，说明市场对他们的技术很看好。他们提供的是软硬件一体的解决方案，就像卖机器人用的“大脑”和“手脚”的一体化服务。\n\n- **夏中谱的未来方向**  \n  夏中谱加入无界动力后，可能会继续研究如何让机器人的“大脑”更聪明，能处理更复杂的问题。这也说明，未来机器人技术会越来越重要，像汽车一样，需要更智能的“大脑”来控制。",
-      "summarized_at": "2026-03-24T09:02:07.654Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774342815719",
-      "title": "高瓴领投，产投、家办出手，「宇石空间」完成2亿元Pre-A+轮融资｜36氪首发",
-      "summary": "文 | 阿至\n宇石空间成立不到两年，始终在用一种极致的速度来推进团队的扩张和技术的工程化落地。\n在3个月前的一次沟通中，宇石空间的团队规模在120人左右，到今天这个数字已经超过了170，其中有七成以上是研发人员。\n团队规模扩张背后，是技术、资金与竞争态势变化所带来的多重驱动。\n36氪了解到，宇石空间已完成新一轮2亿元Pre-A+轮融资，本轮融资由高瓴创投、兴湘资本联合领投，明荟致远（汇川技术家办）跟投，老股东千乘资本、拓丰资本、知盛睿盈、云启资本多家机构超额跟投。资金将主要用于火箭总装测试、筷子回收技术验证、火箭产能建设和团队建设。\n对于火箭研制这样一个技术高度复杂、工程化链路长、且需要大量跨...",
-      "url": "https://36kr.com/p/3736614731694082?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-24T07:23:28.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 宇石空间拿到2亿融资，团队扩张速度惊人\n\n宇石空间是一家搞火箭研发的公司，成立不到两年就发展得特别快。他们一直在拼命招人，团队人数从3个月前的120人增加到现在的170人以上，其中大部分都是搞技术的工程师。\n\n公司最近完成了2亿元的新融资，这笔钱相当于拿了2辆加长版巴士的钱。投资方包括高瓴创投（像是一个超级有钱的投资经理）、兴湘资本（另一个有钱的投资经理），还有明荟致远（汇川技术家办，相当于一家大公司的基金部门）等一起投钱。老投资方也跟着投了更多钱。\n\n这2亿资金主要用在这些方面：\n- 搞火箭总装测试，就像给火箭穿衣服检查一遍\n- 验证筷子回收技术，可能是在研究怎么把用过的筷子变回新材料\n- 建设火箭生产线，相当于开更多工厂造火箭\n- 扩大团队，继续招更多工程师\n\n火箭研制是个技术特别复杂的事，需要很多人一起合作，像搭一个超级大的积木房子。宇石空间拿到这笔钱后，会更快地把想法变成现实，比如造出更多火箭。",
-      "summarized_at": "2026-03-24T09:02:14.945Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774342815719",
-      "title": "黑石加仓，热钱蓄势：2026 年中国商办投资迎来布局窗口期？",
-      "summary": "01.遇事不决不动产\n投资圈近期最热的话题，莫过于OpenAI、Anthropic即将IPO的消息。\n一直以来，位于行业塔尖的企业总有着最高的确定性与最惊人的估值，更何况是风头正盛的人工智能。在最新一轮的融资后，OpenAI的估值已超过50000亿人民币，与门内顿足捶胸的英伟达相比，更苦闷的是门外守着的诸多顶级财团——\n即便不谈全球范围的量化宽松，优质标的也远比寻找机会的热钱稀缺。\n近日，全球最大的另类资产管理公司‌黑石集团也发布了2025年业绩。在2025年，黑石在管资产规模同比增长13%，在期末升至史无前例的1.27万亿美元。\n作为全球最大的另类资产管理商，黑石集团持着全球最庞大的房地产资...",
-      "url": "https://36kr.com/p/3736572995813636?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-24T06:44:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 黑石加仓，热钱蓄势：2026年中国商办投资迎来布局窗口期？\n\n### 投资圈的热点话题\n最近，投资圈最火的话题是OpenAI和Anthropic要上市的消息。大家都知道，顶尖企业总是最稳、估值也最高，尤其是现在这么火爆的人工智能。OpenAI最新融资后，估值超过5万亿人民币，让竞争对手英伟达都着急，更别提那些想投资的大财团了。就算不考虑全球放水，好项目比热钱还难找。\n\n### 黑石集团的动向\n黑石集团是全世界最大的另类资产管理公司，2025年管资产规模增长了13%，达到1.27万亿美元的历史新高。作为最大的房产投资商，黑石自然握着最多的房产资源。\n\n### 2026年投资机会\n文章认为，2026年是中国商办投资的好时机。就像现在房价涨的时候，大家抢着买房一样，现在优质的不动产项目稀缺，热钱又多，正是布局的好时候。黑石加仓，说明他们看好这个时机。",
-      "summarized_at": "2026-03-24T09:02:13.487Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774342815719",
-      "title": "珀乐互动完成天使轮融资，以AI+IP重塑数字内容生态 | 36氪首发",
-      "summary": "36氪获悉，以AI为核心的数字内容公司珀乐互动科技（下称“珀乐互动”）已完成天使轮融资，金额为数千万元人民币。本轮投资由星连资本领投、春华创投跟投，资金将重点用于技术研发、团队扩充与IP商业化开发，全面加速公司多模态泛娱乐生态的战略布局。\n珀乐互动成立于2025年，是一家聚焦于“AI+IP”融合模式的科技公司。其核心业务是通过自研技术中台，将AI大模型能力深度应用于IP的开发、运营与衍生环节，提升全链条效率。\n公司核心团队汇集了AI、影视创作、数字内容制作等多领域的人才。创始人杨晟曾参与制作多部影视作品，也曾监制Steam爆款互动影游，具备跨界打造成功产品的经验与商业落地能力。\n值得一提的是，...",
-      "url": "https://36kr.com/p/3735324365094918?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-24T02:00:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 珀乐互动拿到钱，要用AI+IP改变网络内容\n\n- 珀乐互动是一家新公司，2025年成立，专门用人工智能（AI）和知识产权（IP）来创造网络内容，比如故事、游戏等。他们想用技术让内容制作更简单高效。\n  \n- 公司最近拿到了一笔钱，几千万元人民币，投资方看好他们的想法。这笔钱主要用来改进技术、招更多人和开发IP，让内容能变成各种产品，比如游戏、电影等。\n\n- 珀乐互动的团队很厉害，有懂AI、会拍电影、做游戏的人。创始人杨晟以前参与过不少影视作品，还监制过成功的游戏，知道怎么把想法变成能赚钱的产品。\n\n- 公司的核心是自研技术，用AI帮助IP（比如一个故事或角色）从制作到运营全过程。想象一下，就像用电脑自动写故事、做推广，省时省力。\n\n- 整体来说，珀乐互动想通过AI和IP的结合，让网络内容生态变得更好，给大家提供更多好玩、创新的内容。",
-      "summarized_at": "2026-03-24T09:02:23.426Z",
       "summary_status": "success"
     },
     {
