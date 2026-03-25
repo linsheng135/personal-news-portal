@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-25T09:00:42.013Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-25T09:00:42.014Z",
+    "date": "2026-03-25",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1774429154733",
-      "title": "The hardest question to answer about AI-fueled delusions",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com...",
-      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-23T16:31:20.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI幻想最难回答的问题\n\n最近有人讨论AI带来的幻想问题，比如为什么AI有时会胡说八道。想象一下，你跟一个刚学说话的小孩聊天，他可能会把猫叫成狗，或者把香蕉说成苹果，因为他的知识有限。AI也是一样，它通过学习大量信息，但有时候会搞混或者编造不存在的东西。\n\n比如，有人问AI一个不存在的人的事情，AI可能会凭空编造一个故事，就像小孩会编造一个不存在的玩具一样。这种时候，我们很难判断AI说的是真是假，因为它没有真实的经历，只是根据数据推测。\n\n- **AI的局限性**：AI就像一个没见过世面的孩子，虽然能说会道，但知识有限，容易出错。\n- **真假难辨**：当AI说一些奇怪的事情时，我们很难判断它是真的在回答，还是胡编乱造。\n- **学习的误区**：AI学习的数据可能不完整或者有错误，导致它产生错误的答案。\n\n所以，最难的问题其实是：我们怎么知道AI说的话是真的？就像我们很难判断一个说谎的小孩说的话是真是假一样。这个问题不仅关乎AI技术，也关乎我们如何信任机器。毕竟，如果连AI的话都不可靠，那我们如何指望它来做重要的事情呢？",
-      "summarized_at": "2026-03-25T08:59:27.098Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774429154733",
-      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
-      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.  In the common area, a w...",
-      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-23T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 加州动物保护想找AI帮忙\n\n### 背景情况\n去年二月，一群关心动物的人和搞人工智能研究的人，在旧金山一个叫Mox的共享办公空间见了面。这个空间很特别，大家进屋前得脱鞋，里面放着五颜六色的帐篷、厚厚的波斯地毯和漂亮的小灯，还有好多绿植。大家聚在一起，想找个地方好好聊聊。\n\n### 为什么找AI\n现在保护动物的人发现，光靠传统方法太慢了。比如想救一只受伤的小鸟，得先知道它需要什么食物、住哪里，但人工查找这些信息要花很长时间。如果用人工智能，就像给动物保护装上\"超级大脑\"，能快速找到答案。\n\n### 具体目标\n这些动物保护人士希望AI能帮忙做三件事：\n- **更快找到流浪动物**：比如通过摄像头自动识别流浪猫狗\n- **分析动物需求**：比如根据动物照片判断它是不是生病了\n- **预测危险**：提前发现可能伤害动物的自然灾害\n\n### 为什么重要\n现在动物保护工作越来越难，比如旧金山每年有上千只流浪猫，人工救助太吃力。而AI就像个\"动物侦探\"，能同时处理很多线索，让救助更高效。\n\n### 未来计划\n大家打算先从最紧急的流浪动物问题开始，用AI帮动物医院排排队，或者给需要救助的动物做标记。如果成功了，以后可能还会用AI保护濒危动物，比如通过卫星观察老虎活动范围。",
-      "summarized_at": "2026-03-25T08:59:27.722Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774429154733",
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open...",
-      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-20T11:57:16.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI要造一个全自动的\"科研机器人\"\n\n- **目标是啥**？OpenAI现在把所有精力和钱都砸到一个新项目上，想造一个全自动的\"科研机器人\"。这可不是普通的AI，而是能自己独立思考、解决大难题的智能系统。\n\n- **为啥要这么做**？现在做研究就像拼一千块的乐高，一个人很难搞定。OpenAI觉得，如果能造出能自动拼装、自动创新的机器人，科研效率能提高好多，就像让机器帮你做饭，自己还会改进菜谱一样。\n\n- **机器人怎么工作**？这个机器人会像侦探一样，自己找线索、做实验、分析数据。比如你让它研究癌症治疗，它不会只看文献，还会模拟药物效果、设计临床试验，最后给出具体方案。\n\n- **这有啥用**？现在很多研究死在\"等别人做数据\"上，比如科学家A收集数据后，科学家B才能用，循环往复。这个机器人能打破这种僵局，自己收集数据、自己分析，就像开了外挂的学霸。\n\n- **挑战有多大**？造这种机器人就像造一辆能自己开去火星的车，技术难度极高。OpenAI可能要花很多年，但一旦成功，科研领域可能会迎来大变革。",
-      "summarized_at": "2026-03-25T08:59:34.410Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774429154733",
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  AI models like Anthropic’s Claude are already used to answer questions in classified settings; applic...",
-      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-17T22:30:46.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 五角大楼计划让AI公司用机密数据训练模型  \n\n美国国防部正在考虑一个新计划：在安全的环境里，让AI公司用机密数据训练他们的模型。比如，现在有些AI助手（像Anthropic的Claude）已经在机密场合回答问题。五角大楼想更进一步，让这些AI公司专门为军队训练一些特别版本的AI模型。  \n\n### 具体来说怎么做？  \n- **安全环境**：就像学校实验室一样，AI公司需要在受保护的地方工作，防止数据泄露。  \n- **机密数据**：这些数据可能包括军事计划、技术秘密等，普通人绝对接触不到。  \n- **训练AI模型**：AI公司会像教学生一样，用这些机密数据教AI模型怎么分析军事信息，比如识别敌人动向或制定作战计划。  \n\n### 为什么这么做？  \n五角大楼觉得，现在的AI还不太能处理复杂的军事任务，需要用更多专业数据来训练。就像厨师需要真材实料才能做出好菜，AI也需要真实、全面的机密数据才能成为“军事专家”。  \n\n当然，这个计划还只是讨论阶段，但一旦实施，可能会让AI在军事领域的应用更上一层楼。不过也有人担心，如果AI训练的数据过于机密，万一泄露了怎么办？这就像给AI一个超级大脑，既强大又危险。",
-      "summarized_at": "2026-03-25T08:59:34.264Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1774429154733",
       "title": "Where OpenAI’s technology could show up in Iran",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# Git氧化物：一个用纯 Rust 打造的超轻量级 Git 工具\n\n## 核心亮点\n\n- **纯 Rust 实现**：就像用同一种材料（Rust 语言）从头到尾打造一台冰箱，让整个 Git 工具既结实又高效。\n- **轻量级设计**：没有多余的功能，就像一把瑞士军刀只保留最常用的几把刀片，用起来特别顺手。\n- **速度飞快**：代码运行得像电动车，比传统 Git 工具快得多，处理大文件或复杂操作时不会卡顿。\n- **安全可靠**：经过严格测试，不会像普通软件那样突然崩溃或泄露信息，就像银行金库的电子锁一样让人放心。\n\n## 适合谁用\n\n- **开发新手**：不需要学复杂的命令，就像用智能手机比老式手机简单得多。\n- **追求效率的开发者**：能节省大量时间，就像用共享单车代替走路，轻松又快捷。\n- **喜欢新鲜玩意儿的程序员**：提供了传统 Git 没有的小功能，比如更直观的界面或自动纠错。\n\n## 为什么火\n\n- GitHub 上越来越多人发现它好用，就像街边小店突然排长队一样受欢迎。\n- 谁用谁知道，用过就离不开，就像习惯了电动牙刷的人再也不想用普通牙刷。\n- 社区支持给力，就像买了热门玩具总能找到同好一起玩。",
       "summarized_at": "2026-03-25T09:00:25.693Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774429161564",
-      "title": "Vol1.人才留言板｜第一期：这20家AI明星公司正在等你",
-      "summary": "图源:36kr\n每周精选30+优质岗位，覆盖AI、硬科技等领域，帮你找到下一个职业爆发点。\n本期合作企业：红杉中国、高瓴、鼎晖、经纬被投企业｜B轮及以上占比65%。\n卷首语\n我们见过太多这样的场景：一家硬科技公司融完B轮，创始人却在朋友圈悄悄挂出招聘启事；一个专注大模型的算法专家，翻遍猎头推荐却找不到真正懂技术的团队。\n这不是供需错配，而是信息失真。\n过去十年，36氪记录了数千家公司的成长轨迹。我们看过他们最早的BP，见证他们一轮轮融资，知道哪家公司的技术栈真正扎实，哪个创始团队对人才有足够耐心。这些认知，不该只留在报道里。\n所以有了“人才留言板”。\n我们想做一个更笨拙也更真诚的连接：一边是经...",
-      "url": "https://36kr.com/p/3738023110230272?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-25T07:23:01.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 人才留言板第一期：20家AI公司招人啦\n\n### 核心内容\n\n这个平台每周会推荐30多个好工作，主要是AI和硬科技行业的，帮你找到能快速提升职业发展的机会。本期合作的公司都是大牌子，比如红杉中国、高瓴等，其中超过65%的公司已经完成了B轮融资或更高。\n\n### 为什么要有这个平台？\n\n想象一下，一家刚拿到投资的小公司，老板发朋友圈招人，但真正懂技术的猎头却找不到合适的团队。这不是找不到人，而是信息没传到对的人耳朵里。\n\n### 平台能解决什么问题？\n\n36氪之前报道了上千家公司，知道哪些公司技术好，哪些老板真心想招人。现在，他们把这些信息直接分享出来，让大家更方便地找到合适的工作。\n\n### 平台特色\n\n- **真实可靠**：合作公司都是经过36氪验证的，技术实力强，老板也靠谱。\n- **覆盖广**：不仅有AI，还有硬科技等领域的岗位。\n- **机会多**：每周30多个岗位，都是精选的优质工作。\n\n总之，这个平台就是帮你直接对接那些真正需要人才的好公司，省去你到处找信息的麻烦。",
-      "summarized_at": "2026-03-25T09:00:24.935Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774429161564",
-      "title": "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色",
-      "summary": "3月20日，TE Connectivity（简称 “TE” ）在苏州举办了 “机器人核心技术赋能智能工厂创新大会” 。活动通过技术交流与工厂参观等形式，邀请机器人产业链上下游企业与生态圈伙伴围绕核心技术与落地问题展开讨论，搭建起面向产业的交流与对接平台。与会讨论折射出一个共同背景：机器人正从技术验证加速走向工程化与规模化落地。\n今年，政府工作报告连续第三年提出“人工智能+”，并首次提出“打造智能经济新形态”，推动重点行业领域加速商业化和规模化应用，同时将具身智能列入未来产业布局。在政策与应用场景共同推动下，机器人产业关注点也从“功能实现”转向“真实工况下的稳定运行与可复制交付”。\n随着机器人系...",
-      "url": "https://36kr.com/p/3737937096655107?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-25T06:07:59.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## TE Connectivity在机器人产业中的双重角色\n\nTE Connectivity（简称TE）最近在苏州搞了个活动，叫“机器人核心技术赋能智能工厂创新大会”。他们请来了机器人产业链上的各种伙伴，比如做机器人的、用机器人的，还有研究技术的，大家一起开会、看工厂，主要是想让大家把技术说清楚，把问题谈明白，好让机器人产业更顺畅。\n\n现在机器人越来越火，政府也大力支持，今年工作报告里又提到了“人工智能+”，要大家搞智能经济。以前机器人主要是做点实验，现在大家要的是能在工厂里稳定工作的机器人，能一次又一次地完成任务。\n\n- **TE的两面角色**  \n  TE这家公司很特别，它既做机器人里的关键零件，比如连接线、传感器这些，帮机器人“身体”正常运转；又帮助整个机器人生态，比如组织大家交流，让大家互相配合。就像做衣服的既卖布料又帮人设计衣服，不过TE更像是机器人产业里的“万能零件供应商+活动组织者”。\n\n- **机器人产业的变化**  \n  以前大家搞机器人，重在“会动”，现在更看重“干活稳不稳”。政府鼓励大家把机器人用到工厂里，不能是实验室里的玩具，得能真正帮企业赚钱。所以现在大家都在研究怎么让机器人更可靠、更方便推广。\n\n- **TE的推动作用**  \n  TE通过组织活动，让大家知道彼此的需求，比如谁缺零件、谁有技术，这样方便合作。他们还提供技术支持，确保机器人零件质量过关。就像修车铺里的师傅，既卖零件又帮你修车，TE就是机器人产业的“维修大师+零件店”。",
-      "summarized_at": "2026-03-25T09:00:34.242Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774429161564",
-      "title": "瑞识科技实现二维可寻址VCSEL芯片量产，已落地车载激光雷达与智能机器人｜最前线",
-      "summary": "作者｜乔钰杰\n编辑｜袁斯来\n据悉，国内化合物半导体厂商深圳瑞识智能科技有限公司（下称“瑞识科技”）近期实现二维可寻址VCSEL（垂直腔面发射激光器）芯片的大规模量产。该类产品此前长期受制于良率、成本及可靠性等问题，产业化进展缓慢，瑞识科技的量产落地，意味着这一技术路线开始进入实际应用阶段。\n作为光芯片领域的重要分支，VCSEL芯片被广泛应用于3D传感、面部识别以及激光雷达测距与成像等场景。相较于传统边发射激光器，其在功耗、调制速度以及阵列化集成方面具备优势，更适配需要大规模光阵输出的感知系统，能够以更高效率支撑复杂环境下的精准探测。\n自2017年前后消费电子引入结构光方案以来，VCSEL芯片需...",
-      "url": "https://36kr.com/p/3737850679377927?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-25T04:19:42.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 瑞识科技VCSEL芯片量产，助力智能科技发展\n\n## 背景介绍\n瑞识科技是一家国内公司，最近成功生产出一种特殊的芯片，叫做二维可寻址VCSEL芯片。这种芯片以前很难大规模生产，现在终于可以大量制造了。\n\n## VCSEL芯片的作用\nVCSEL芯片就像一个小小的激光发射器，可以发射光线，常用于各种智能设备中。比如：\n- **3D扫描仪**：像手机里的面部识别，就是用这种芯片来扫描面部轮廓。\n- **激光雷达**：汽车上用的测距设备，可以探测周围环境，帮助自动驾驶。\n- **智能机器人**：机器人可以用它来感知周围环境，避免碰撞。\n\n## VCSEL芯片的优势\n- **功耗低**：比传统激光器省电。\n- **速度快**：反应更快，可以捕捉更精确的信息。\n- **集成度高**：可以同时发出很多光线，像矩阵一样排列，适合复杂环境下的探测。\n\n## 产业化突破\n以前这种芯片因为技术难题，很难大规模生产，现在瑞识科技解决了这些问题，意味着这种技术可以广泛应用于智能设备中。比如：\n- **汽车激光雷达**：未来汽车可以更精准地识别周围环境。\n- **智能机器人**：机器人可以更灵活地感知和行动。\n\n## 总结\n瑞识科技的突破让VCSEL芯片可以大规模生产，这将推动智能科技的发展，让更多设备变得更智能、更高效。",
-      "summarized_at": "2026-03-25T09:00:33.664Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774429161564",
-      "title": "富力10年前买下的万达酒店，快卖光了",
-      "summary": "2026年3月初，北京银行在银行业信贷资产登记流转中心挂牌转让一笔总额9.3亿元的不良贷款债权。其中，核心债权本金为8亿元，累计孳生利息1.3亿元。\n该笔借款的主体为上海众弘置业发展有限公司。经过股权穿透，上海众弘置业由富力地产的旗下两家子公司100%控股。\n这笔借款的核心抵押物是富力地产在上海虹桥商务区的标杆项目上海富力环球中心，包括了写字楼、丽思卡尔顿五星级酒店、AC四星级酒店及约3万㎡地下商业广场，和这些资产被一起抵押的还有上海众弘置业的1亿元实缴出资股权。\n这笔借款并未逾期，但北京银行认为上海众弘置业已经没有实质性还款能力。2026年3月18日，上海市闵行区人民法院向上海众弘置业发出限...",
-      "url": "https://36kr.com/p/3737788251799561?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-25T03:15:35.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 富力地产卖掉酒店还债\n\n- **事情经过**：富力地产10年前买下的万达酒店，现在快要卖掉了。北京银行要把一笔9.3亿元的不良贷款债权卖给别人，这笔债权是富力地产旗下公司欠的。虽然借款还没到期，但银行觉得对方没能力还钱。\n\n- **抵押物**：富力地产把上海虹桥商务区的富力环球中心抵押了，包括写字楼、五星级酒店、四星级酒店和地下商业广场。连公司1亿元的股权也一起抵押了。相当于把一套豪宅和几条街铺全都押给银行了。\n\n- **生活例子**：就像你借了9.3万元买房，但只抵押了房子，银行觉得你工作丢了没钱还，就打算把房子卖掉收回钱。富力地产现在就是这种情况，把酒店卖掉还银行钱。\n\n- **核心问题**：富力地产旗下公司欠了银行9.3亿元，虽然还没逾期，但银行认为对方没能力还钱，所以要把债权卖掉。这批债权的主要抵押物是上海虹桥的富力环球中心。",
-      "summarized_at": "2026-03-25T09:00:42.012Z",
       "summary_status": "success"
     },
     {
