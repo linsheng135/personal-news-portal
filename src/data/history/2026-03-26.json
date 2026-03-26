@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-26T09:06:16.245Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-26T09:06:16.246Z",
+    "date": "2026-03-26",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1774515882087",
-      "title": "This startup wants to change how mathematicians do math",
-      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Ch...",
-      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-25T13:59:17.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 计算机帮数学家找灵感\n\n## 背景介绍\n加州有一家叫Axiom Math的初创公司，他们开发了一个免费的AI工具，专门帮数学家解决难题。这个工具叫Axplorer，其实是以前一个叫PatternBoost的工具升级版。\n\n## 工具作用\nAxplorer就像一个数学侦探，能帮数学家找出隐藏的数学规律。比如，数学家研究一个复杂的数学问题，就像在找宝藏，但不知道藏在哪个角落。这个工具就像个智能向导，能帮他们快速找到可能的线索。\n\n## 例子说明\n想象一下你在超市里找打折商品，面对成千上万种商品，很难快速找到最划算的。Axplorer就是数学家的\"打折商品搜索器\"，能在海量的数学公式中找出有价值的规律。\n\n## 主要功能\n- 自动发现数学模式\n- 帮助解决长期未解的数学问题\n- 免费提供给所有数学研究者\n- 比传统方法更高效\n\n## 意义\n这个工具让数学研究变得更像玩游戏，数学家不用再像传统方式那样一个一个尝试，而是让计算机帮忙寻找规律。这就像给数学家装上了超级视力，能更快发现重要的数学发现。",
-      "summarized_at": "2026-03-26T09:04:53.506Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774515882087",
-      "title": "Agentic commerce runs on truth and context",
-      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution,...",
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-25T11:48:13.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI助手帮你安排旅行\n\n想象一下，你跟一个AI助手说：“用我的积分帮我订个全家意大利旅行，别超预算，挑咱们以前喜欢的酒店，所有细节都由你搞定。” 这时候，AI助手不是给你一堆链接让你自己选，而是直接帮你规划好行程，然后完成整个预订过程。这种变化，从单纯帮忙变成直接执行，就是“智能代理式购物”的魔力。\n\n### 智能代理的核心特点\n- **懂你的喜好**：AI助手记住你以前的选择，知道什么让你满意。\n- **自动处理细节**：订机票、酒店、安排行程，都不用你操心。\n- **预算控制**：AI会帮你控制花费，不会乱花钱。\n- **高效执行**：直接完成购买，省时又省力。\n\n### 生活中的例子\n就像你让外卖软件帮你订餐，它不仅知道你常吃什么，还会帮你加菜、改口味，最后直接付款。智能代理就是这种服务的升级版，可以处理更复杂的任务，比如旅行安排。\n\n### 为什么这很重要\n这种技术让购物更简单，就像有个贴心的助手帮你搞定一切。无论是订旅行、买保险，还是安排日程，AI都能帮你省心省力。未来，这种智能助手会越来越普及，让我们的生活更方便。",
-      "summarized_at": "2026-03-26T09:04:52.331Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774515882087",
-      "title": "The AI Hype Index: AI goes to war",
-      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee...",
-      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-25T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的战争风云\n\n### 人工智能的争斗\n\n最近人工智能领域可真热闹， Anthropic 和 Pentagon（美国国防部）因为怎么用 Anthropic 的 AI 模型 Claude 当武器吵翻天了。Pentagon 想让 Claude 变成军事工具，但 Anthropic 不太愿意。这就像两个兄弟抢玩具，一个想当兵器，一个只想当普通玩具。\n\n### OpenAI 的意外走红\n\n就在这时，OpenAI 横空出世，用个“机会主义”的合同把 Pentagon 迷住了。但这合同做得挺马虎，就像做生意时没签好条款，结果惹了一身麻烦。OpenAI 这下子成了香饽饽，但背后可能隐藏着风险。\n\n### 用户和民众的反弹\n\n奇怪的是，OpenAI 越火，用 ChatGPT 的人越少。大家不干了，直接上街抗议，伦敦搞了史上最大规模的 AI 抗议活动。这就像菜市场大妈看到假货，集体罢市一样，大家用行动表达不满。\n\n### 总结\n\n总的来说，AI 看似在高速发展，其实暗流涌动。军事和商业的争斗、合同漏洞、用户反噬，都说明 AI 不是万能的。就像手机刚出来时大家抢着买，现在却有人觉得被炒作了一样，AI 也是高处不胜寒。未来怎么走，得小心为妙。",
-      "summarized_at": "2026-03-26T09:05:01.505Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774515882087",
-      "title": "The hardest question to answer about AI-fueled delusions",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com...",
-      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-23T16:31:20.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI带来的幻觉最难回答的问题\n\n### 什么是AI幻觉？\n想象一下，你让电脑帮你找食谱，结果它给你推荐了一道根本不存在的菜。这就是AI幻觉。电脑（AI）根据学到的信息，胡乱组合出一些听起来好像对，但实际上错的东西。就像有人告诉你\"月亮是奶酪做的\"，明明知道不对，但AI会一本正经地说\"是哦，我书上看到的\"。\n\n### 为什么难回答？\n- **AI会\"一本正经地胡说\"**：就像你问小猫\"你会飞吗\"，它可能会认真地点头，因为它没学会拒绝这种奇怪的问题\n- **没人能教AI说\"不对\"**：现在的AI就像没学会分辨真假的孩子，把胡说当真理\n- **问题会越变越怪**：AI越发展，它产生的幻觉就越离谱，就像玩俄罗斯套娃，越往里套越看不懂\n\n### 生活中的例子\n就像你让小朋友画画，他可能会把大象画成长耳朵的茄子。AI也是这样，它把学到的零碎知识错误地拼在一起，结果就像把苹果和月亮用胶水粘在一起，看起来很奇怪但AI会坚持说\"这是新发明的东西\"。\n\n### 核心问题\n最难的是：我们该怎么教AI分辨真假？就像教孩子\"月亮不是奶酪做的\"，但AI根本不明白\"骗人\"的概念。它只是把数据当真话，就像有人告诉你\"地球是平的\"，你不解释它就当真了。\n\n其实这就是AI发展最大的难题——让它学会说\"这不对\"。",
-      "summarized_at": "2026-03-26T09:05:03.128Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1774515882087",
       "title": "The Bay Area’s animal welfare movement wants to recruit AI",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Sealos是个啥？\n\nSealos就像一个超级管家，专门帮你管理各种电脑程序，而且特别擅长处理AI相关的应用。它建立在Kubernetes这个强大的技术平台上，就像搭积木一样灵活。\n\n### 它能干嘛？\n\n- **开发到生产一条龙服务**：就像你用手机App Store下载软件一样简单，从编写代码到上线运行，Sealos都能帮你搞定。\n- **支持各种程序运行**：无论是AI应用，还是像微信用的数据库（MySQL、Redis等），或者复杂的程序组合，它都能轻松管理。\n- **适合AI发展**：特别适合那些想搞AI开发的人，能帮你快速搭建和扩展AI项目。\n\n### 怎么理解？\n\n想象一下，你开了一个小餐馆（AI应用），需要管理厨房（开发环境）、服务员（数据库）、采购（资源分配）。Sealos就是那个能帮你搞定所有这些的超级厨师兼经理，让你不用操心细节，专心做菜（开发）。\n\n- **简单高效**：不用自己学一堆复杂的技术，就像用智能手机一样简单。\n- **扩展性强**：餐馆生意好了，可以轻松加人、加设备，扩展业务。\n\n总之，Sealos就是让AI开发像搭乐高一样简单，特别适合想要快速搞AI项目的人。",
       "summarized_at": "2026-03-26T09:05:57.703Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774515885910",
-      "title": "业绩快报丨古茗2025年售出饮品19亿杯，“下沉之王”质效双增",
-      "summary": "3月25日，古茗发布2025年度业绩报告，收入及利润均呈现稳定增长。\n财报显示，2025年，古茗实现总收入约129亿元，同比增长46.9%；经调整利润（非国际财务报告准则计量）约人民币25.75亿元，同比增长66.9%。\n截至2025年底，古茗门店数达到13554家。2025年新开门店4292家，净增门店3640家。门店网络覆盖全国超过200个不同级别的城市，在二线及以下的占比为82%，乡镇门店占比增长至44%，进一步强化了在低线市场的布局，成为当之无愧的“下沉之王”。\n保证门店规模后，古茗的店铺经营效率也有很大提升。报告期内，古茗门店总GMV达到327.32亿元，同比增长46.1%；单店日均...",
-      "url": "https://36kr.com/p/3739345671962626?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-26T05:41:19.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 古茗2025年业绩大爆发\n\n2025年，古茗卖出了19亿杯奶茶，总收入129亿元，比去年增长了近一半。利润也涨了差不多70%，达到25.75亿元。这说明古茗生意特别好，赚得也多。\n\n古茗现在全国有13554家店，比去年多了3640家。这些店大部分都在二三线城市和乡镇，占了82%。特别是乡镇店，数量增加了很多，这说明古茗特别懂得去小地方开店，成了“下沉市场的小老板”。\n\n古茗不仅开店多，每个店的生意也特别好。总共卖出的奶茶、咖啡等商品价值327.32亿元，比去年增长了46.1%。简单来说，就是每个店每天都能卖出很多东西，经营得特别有效率。\n\n总的来说，古茗靠多开小城市和乡镇店，还有每个店卖得好，实现了收入和利润的双丰收。就像你在小区门口的早餐店，生意特别好，老板还在附近开了很多分店，最后赚了很多钱。",
-      "summarized_at": "2026-03-26T09:05:55.514Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774515885910",
-      "title": "第二期：百融云创、每日互动等AI大模型公司招聘大语言模型算法工程师等岗位｜人才留言板",
-      "summary": "图源:36kr\n每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、半导体等领域，帮你找到下一个职业爆发点。\n 本期合作企业：国资背景 AI、上市科技龙头、全球独角兽、前沿硬科技新锐｜B 轮及以上占比超 60%\n\n \n本期亮点速览\n\n图源:36kr\n\n \n精选岗位\n| 中城交科技 · 天使轮 · 交通大模型\n一句话卖点：\n上海首家国资背景交通垂类大模型公司，千亿级数据资产，双引擎技术体系\n地点：北京/上海\n招聘职位：\n后端研发工程师（FastAPI/向量数据库/AI流程编排｜3年以上｜薪资面议）\n产品经理（AI大模型产品0-1落地｜5年以上经验｜薪资面议）\n视觉算...",
-      "url": "https://36kr.com/p/3738062628962563?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-26T03:00:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 本期招聘信息总结\n\n### 招聘公司及领域\n本期的招聘信息来自百融云创、每日互动等AI大模型公司，主要招聘AI大模型相关岗位。这些公司有的有国资背景，有的已经是上市公司或全球知名公司，还有的是新兴的高科技企业。\n\n### 招聘岗位及要求\n- **后端研发工程师**：负责开发和维护AI大模型的后端系统，需要熟悉FastAPI和向量数据库，有3年以上相关经验，薪资面议。\n- **产品经理**：负责AI大模型产品的设计和落地，需要有5年以上经验，薪资面议。\n- 其他职位还有视觉算...\n\n### 公司亮点\n- **中城交科技**：上海首家国资背景的交通类AI大模型公司，拥有千亿级数据资源，采用双引擎技术体系。地点在北京和上海。\n\n### 本期特点\n- 每周精选30多个优质岗位，覆盖AI大模型、具身智能、量子计算等多个前沿领域。\n- 合作企业中有超过60%是B轮及以上融资的公司，说明这些公司已经获得了市场和投资方的认可。\n- 岗位地点主要在北京和上海，薪资待遇根据具体职位面议。\n\n### 核心信息\n如果你对AI大模型领域感兴趣，可以关注这些公司的招聘信息，有机会加入知名企业，参与前沿科技的研发工作。",
-      "summarized_at": "2026-03-26T09:06:06.023Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774515885910",
-      "title": "36氪独家｜红杉中国、Monolith领投AI健康硬件公司「Odyss」，金额近2亿元",
-      "summary": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，AI健康硬件公司「OdyssLife」（以下简称“Odyss”）已于近期连续完成多轮融资，总金额近2亿元人民币。本次融资由红杉中国、Monolith分别领投，老股东线性资本、Creekstone继续加注。\n本轮融资金将主要用于产品软硬件研发、全球市场营销以及团队扩张。\n在AI硬件赛道备受资本追捧的当下，Odyss切入的是一个高频且尚未被数字化充分改造的场景——饮食健康监测。\nOdyss首款产品Odyss N1是全球首款的Always-On智能项链，集图像、音频、动作等多模态感知能力于一体，能够全天候感知和记录用户的饮食与运动行为。\nOdyss创始人...",
-      "url": "https://36kr.com/p/3738226479874304?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-26T02:00:58.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI健康硬件公司Odyss获近2亿元融资\n\n### 公司和融资情况\n- Odyss是一家做AI健康硬件的公司，最近连续拿到了好几笔钱，总共差不多2亿人民币。\n- 这笔钱是红杉中国和Monolith带头投资的，原来的投资者也继续投了更多。\n\n### 公司做什么\n- Odyss的产品是Odyss N1智能项链，全球第一个可以一直戴着的智能项链。\n- 它能像个小侦探一样，全天候看管你吃啥、干啥，比如吃什么食物、做多少运动。\n\n### 产品特点\n- 这条项链很厉害，能同时看图像、听声音、感觉动作，把你的吃喝玩乐都记录下来。\n- 目标是帮你更好地管理健康，把吃和运动这些生活小事数字化。\n\n### 未来计划\n- 投资的钱会用来改进产品、推广全球市场、还有招更多人来帮忙。\n- 现在很多投资都在找AI硬件，Odyss抓准了大家还没数字化的小健康习惯，比如怎么吃更健康。",
-      "summarized_at": "2026-03-26T09:06:06.149Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774515885910",
-      "title": "36氪首发 | 前九号产品副总裁创业全地形车，获高瓴、云时、云沐千万美元融资",
-      "summary": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，智能电动全地形车研发商「ModMax（以下简称：魔迈）」，已于近日连续完成千万美元级种子轮及天使轮融资，融资由高瓴资本、云时资本、云沐资本投资。据悉，本轮融资资金将主要用于首款产品的研发生产，成建制团队搭建以及海外市场的品牌初步拓展。\n全地形车在欧美市场是一门长盛不衰的生意。它既是北美约100万个农场和牧场必不可少的生产力工具，也是每年数百万越野发烧友在嘉年华活动上挥洒汗水的重型玩具。\n公开数据显示，全球全地形车市场规模在2024年已达到约119.5亿至210亿美元，且北美市场占据了近半数份额。长期以来，这一赛道被北极星（Polaris）、庞巴迪（...",
-      "url": "https://36kr.com/p/3738426692567046?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-26T01:00:54.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 创业公司融资造全地形车\n\n- **公司介绍**：ModMax是一家专门研发智能电动全地形车的公司，他们最近拿到了一笔钱，准备造出首款产品。\n\n- **投资方**：高瓴资本、云时资本和云沐资本给ModMax投了钱，这笔钱大概有1000万美元。\n\n- **资金用途**：拿到的钱主要用来做三件事：一是研发和生产他们的第一辆车；二是组建一个完整的团队；三是开始在国际市场上打品牌知名度。\n\n- **市场前景**：全地形车在欧美很受欢迎，就像农场里种地用的工具，也是越野爱好者休闲娱乐的好东西。\n\n- **市场规模**：2024年，全球全地形车的市场价值大概在119亿到210亿美元之间，北美占了将近一半的市场。\n\n- **行业竞争**：这个领域已经有像北极星、庞巴迪这样的老牌子，但ModMax想用他们的智能电动车来搞出不一样的东西。",
-      "summarized_at": "2026-03-26T09:06:16.245Z",
       "summary_status": "success"
     },
     {
