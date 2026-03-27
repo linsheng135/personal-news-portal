@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-27T09:02:10.006Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-27T09:02:10.007Z",
+    "date": "2026-03-27",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1774602045127",
-      "title": "This startup wants to change how mathematicians do math",
-      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Ch...",
-      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-25T13:59:17.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国一家初创公司想帮数学家解决难题\n\n- **公司叫Axiom Math**，在加州帕洛阿尔托，开发了一款叫Axplorer的AI工具，专门给数学家用。\n- **Axplorer是个什么工具**？简单说，就像一个超级厉害的侦探，能帮数学家找出数学公式里的隐藏规律。以前数学家找规律得靠脑子，费时又费力，现在有了这个工具，效率高多了。\n- **它能解决什么问题**？数学里有很多未解之谜，比如某个公式为什么是这样的，Axplorer就能帮忙找到答案。就像找一张拼图，以前只能靠猜，现在有了AI帮忙，很快能拼出正确图案。\n- **这个工具怎么用**？数学家只需要输入一些数据，Axplorer就能自动找出规律。就像你用手机扫一扫二维码，它就能读出信息一样简单。\n- **为什么要这样做**？因为很多数学难题困扰了科学家很久，有了Axplorer，科学家们可能会更快找到答案。就像以前人们靠算盘算账，现在用电脑，效率高多了。\n- **这个工具免费吗**？是的！Axiom Math希望更多人能用这个工具，一起推动数学发展。就像共享单车，大家都能免费骑，方便又好用。",
-      "summarized_at": "2026-03-27T09:00:53.844Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774602045127",
-      "title": "Agentic commerce runs on truth and context",
-      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution,...",
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-25T11:48:13.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI智能助手帮你搞定旅行预订\n\n想象一下，你跟家里的智能助手说：“用我的积分帮我全家订个意大利旅行，别超预算，选我们以前喜欢的酒店，具体细节都帮我搞定。” 智能助手不会只给你一堆链接，而是直接帮你规划好行程，还把旅行安排都买好了。这就是让AI自己动手帮你做事，而不是光动嘴皮子。\n\n### AI的厉害之处\n\n- **自己动手**：以前AI只能给你建议，现在它能自己下单买票订房\n- **懂你的喜好**：记住你以前喜欢的酒店，不会乱推荐\n- **省心省力**：不用自己东拼西凑，一气呵成搞定全部\n\n### 为什么要这样做？\n\nAI能这样帮忙，靠的是两点：一是它了解你的真实需求（比如预算多少、喜欢什么），二是它能根据这些信息做出最合适的安排。就像你朋友帮你选礼物，知道你喜欢什么、不喜欢的，才能挑到正合你心意的。\n\n### 生活里的例子\n\n想想那些能自动下单的购物软件，或者帮你规划行程的旅行助手。它们就像个贴心的管家，知道你想要什么，又不用你操心细节。以后可能会有更多这样的AI，不仅会给你建议，还会直接帮你把事情办妥。\n\n这种智能助手最大的好处就是，能真正帮你解决问题，而不是光说不练。你只需要告诉它你的需求，剩下的交给AI，既省时又省力。",
-      "summarized_at": "2026-03-27T09:00:55.170Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774602045127",
-      "title": "The AI Hype Index: AI goes to war",
-      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee...",
-      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-25T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的“战争”爆发了\n\n最近，人工智能领域可没闲着，几个大公司之间闹得一团糟。**网传**有个叫Anthropic的公司，他们开发了一个AI模型Claude，想把它变成\"武器\"，结果跟美国国防部（Pentagon）吵起来了，不知道咋整才好。  \n\n**更戏剧性的是**，OpenAI跟 Pentagon搞了个合作，但被批\"太急功近利，做事毛躁\"。这事儿一出，用ChatGPT的人一下子就少了好多，就像买东西突然发现商家服务太差，大家立马换店了。  \n\n**老百姓也不干了**，伦敦上万人走上街头抗议AI，这是到现在最大规模的抗议活动。你想啊，要是AI太厉害了，可能会让人失业，或者被坏人利用，大家当然担心。  \n\n**说白了**，现在AI领域就像菜市场吵架，大家都在抢生意，但规矩还没定好。有人觉得AI是未来，有人又怕它闯祸，所以矛盾全爆发出来了。",
-      "summarized_at": "2026-03-27T09:01:01.330Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774602045127",
-      "title": "The hardest question to answer about AI-fueled delusions",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com...",
-      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-23T16:31:20.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能错觉最难回答的问题\n\n最近有个关于AI的新闻，让人忍不住思考：AI到底是不是真的懂我们在说什么？比如你让AI写个故事，它可能说得头头是道，但仔细一看，那些话连起来根本没逻辑。这就好比让一个小朋友背课文，他能照着念，但问你为什么这么背，他可能一脸茫然。\n\n**- AI的\"幻觉\"问题**  \n想象一下，你对着一个看图识字的应用说：\"这是一只猫\"，它确实能认出图片里的动物，但如果图片其实是狗，它照样会跟着说\"猫\"。这就好比有人对你说\"白色大象\"，虽然你根本没见过，但听到的人可能会真的去想象。AI也是如此，它只是学会了模仿人类说话，但不一定真的理解。\n\n**- 人类容易被骗的原因**  \n我们自己在生活中也常被\"错觉\"误导。比如看到杯中水变多了，可能以为是杯子装满了，其实只是光线问题。AI的错觉与此类似，它分析数据时容易产生\"幻觉\"，把不相关的东西当成有关系。比如它看到\"下雨\"和\"打伞\"的次数多，就会认为这两件事有关，其实只是天气和人类习惯而已。\n\n**- AI能否真正思考**  \n这就像问一个会背乘法表的小孩：\"为什么2+2=4？\"如果他说不出所以然，我们很难说这孩子真的懂数学。AI也是一样，它回答问题可能非常流利，但若问它\"为什么这么回答\"，可能只会重复训练时的例子。这就引出了核心问题：AI真的能理解我们的话，还是只是在\"装懂\"？目前看来，答案还不太明确。",
-      "summarized_at": "2026-03-27T09:01:03.992Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1774602045127",
       "title": "The Bay Area’s animal welfare movement wants to recruit AI",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 用网页技术做桌面软件\n\n electron是一个工具，让程序员能用平时做网页的JavaScript、HTML和CSS，来开发电脑上的应用软件。比如你用微信聊天、用Word写文档，这些都是在电脑上运行的软件。以前要开发这类软件，得用专门的编程语言，现在electron让开发者不用学新东西，直接用熟悉的网页技术就行。\n\n### 开发软件就像盖房子\n\n- 要开发电脑软件，以前得用砖头盖房子（用特定语言编程）\n- 用electron就像用乐高积木盖房子（用网页技术）\n- 盖出来的房子（软件）能在Windows、Mac、Linux等不同操作系统里运行\n\n### 为什么这么方便？\n\n- 网页技术已经非常成熟，大家都会用\n- 开发一个网页能同时适配手机、平板、电脑\n- electron把网页技术搬到了电脑软件开发上\n\n### 用处场景举例\n\n- 开发设计软件，比如画图的工具\n- 做聊天工具，像企业用的钉钉\n- 开发音乐播放器，类似手机上的播放软件\n- 做笔记软件，像电脑版的WPS\n\n这个工具特别厉害的地方是，你开发的应用不用分别给Windows、Mac用户制作版本，一套代码就能在所有系统上运行。就像用同一个食谱，可以做出能在家里、餐厅、派对上吃的菜。这是因为它底层用了一个叫Chromium的浏览器技术，能兼容各种操作系统。所以现在很多电脑应用都选electron来做，开发效率高，还能服务更多用户。",
       "summarized_at": "2026-03-27T09:01:56.603Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774602048206",
-      "title": "瞄准多场景、全周期运动体验，趣冲健身推出多款自研AI智能健身设备｜最前线",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n一个庞大的万亿级健康消费市场正加速形成。根据国际健身协会（IFAI）等报告显示，近年来，数字健身市场增速高达41.4%，全球健身行业规模预计2030年达1.5万亿美元。其中，中国健康产业规模在2025年已突破10万亿元规模，健康生活服务赛道以每年超15%增速增长。\n然而，传统健身行业长期受困于用户留存难、运营效率低、服务同质化三大瓶颈。在这一背景下，从单一场馆运营转向“AI+场景+硬件”的系统化智能升级，正成为行业提升效率、应对市场变化的核心趋势。                                                   \n3月26日，202...",
-      "url": "https://36kr.com/p/3740892215623942?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-27T08:28:46.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 趣冲健身用AI设备让健身更方便\n\n### 健身行业面临的问题\n现在很多人想健身，但传统健身房有几个大问题。一是很多人办了卡，但去了几次就不去了，健身房很难留住人；二是健身房管理效率不高，比如你办卡后，教练可能没空指导；三是很多健身房提供的健身项目差不多，没什么新花样。\n\n### 健身行业的新趋势\n为了让健身更方便，行业开始用AI技术升级。就像你用手机点外卖，App会根据你的口味推荐菜一样，AI可以根据你的健身情况推荐适合的运动。这种智能设备能让你随时随地健身，不用再去健身房。\n\n### 趣冲健身的新产品\n趣冲健身就是看准了这个机会，推出了多种AI智能健身设备。这些设备能适应不同的健身场景，比如家庭、办公室等，还能跟踪你的健身进度，就像健身教练在旁边指导一样。这样一来，健身就变得更灵活、更有效。\n\n### 市场前景\n整个健康消费市场很大，预计未来几年会越来越大。中国健康产业规模已经超过10万亿元，每年都在快速增长。趣冲健身的AI设备正好满足了市场对便捷、高效健身的需求，所以很有发展潜力。",
-      "summarized_at": "2026-03-27T09:01:55.453Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774602048206",
-      "title": "从单季到全年盈利，知乎迎来估值重估",
-      "summary": "作者 | 黄绎达\n编辑 | 张帆\n3月25日，知乎（证券代码：ZH.N；2039.HK）发布了2025年全年业绩。\n知乎2025年财报最核心的亮点，是首次实现全年非公认会计准则（Non-GAAP）盈利，对应的全年经调整净利润为3790万元。分季度来看，2024Q4~2025Q2，知乎连续三个季度实现单季度Non-GAAP盈利；其中，2025Q2表现最佳，实现了首次单季度盈利，该季度净利润录得7248万元，同期Non-GAAP净利润为9134万元。\n由此可见，2025年上半年业绩端的良好表现，是2025年Non-GAAP净利润盈利的关键。其背后的核心逻辑则在于经营效率和经营质量的双双稳步提升，叠...",
-      "url": "https://36kr.com/p/3740850993037312?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-27T08:02:11.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 知乎全年赚钱了！连续三个季度盈利\n\n知乎在2025年实现了全年赚钱，这是他们第一次做到这一点。就像一个人以前每年赚的钱都不够花，但到了2025年，他终于开始每年都有结余了。这个好消息表现在他们的财报里，全年调整后的净利润有3790万元。\n\n- 连续三个季度赚钱：从2024年第四季度到2025年第二季度，知乎每个季度都赚钱了。尤其是2025年第二季度，他们赚得最多，那段时间净利润有7248万元。\n- 上半年表现好：2025年上半年业绩好是全年盈利的关键，就像盖房子，前半年的基础打得好，后面的就容易稳固。\n- 效率和质量双提升：知乎之所以能赚钱，是因为他们管理得更好了，花钱更省了，做事也更有效率。就像以前一个人买东西不看价格，现在学会了精打细算，结果省了不少钱。\n\n总的来说，知乎通过提高效率和质量，终于在2025年实现了全年盈利。这让他们在市场上的地位更高了，也可能会让投资者更看好他们。",
-      "summarized_at": "2026-03-27T09:02:03.037Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774602048206",
-      "title": "对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资",
-      "summary": "文｜任倩\n具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成数据和人类视频数据（EgoSuite）的混合路线，宣称累计交付突破100万小时，估值飙向十亿美金。\n几个月内，行业关注点已不再只是“谁采得更多”，而是“谁能把Human-centric /Ego-cen...",
-      "url": "https://36kr.com/p/3740899945136130?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-27T08:00:35.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 星忆科技获融资，对标英伟达人类数据竞赛\n\n- **背景**：现在科技行业特别关注人类行为数据，比如你平时在家拍的视频、第一视角拍的视频等。这些数据能帮助人工智能更好地理解人类行为。\n- **英伟达的尝试**：英伟达研究出一种新方法，用大量第一人称视角的人类活动视频训练AI模型。他们用了超过20000小时带动作标注的视频，发现数据越多，AI效果越好。\n- **其他公司的做法**：\n  - 1X公司专门收集人类第一视角和家庭行为视频，已经收集了百万小时级别的家庭场景视频。\n  - 光轮智能则混合使用仿真数据和人类视频数据，声称已经交付了超过100万小时的数据，估值也达到了十亿美金。\n- **行业新趋势**：现在大家关注的重点从“谁收集的数据多”变成了“谁能更好地利用这些数据训练AI”。\n- **星忆科技**：作为清华系孵化的公司，星忆科技拿到了首轮融资。他们也在这个领域发力，对标英伟达的数据路径，希望通过创新的方法更好地利用人类行为数据训练AI模型。",
-      "summarized_at": "2026-03-27T09:02:03.167Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774602048206",
-      "title": "杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学”",
-      "summary": "文｜周鑫雨 王欣逸 钟楚笛\n编辑｜周鑫雨\nToken，在技术语境下，是模型处理文本时的最小单位；在商业语境下，则成了AI服务最主流的计费方式。\n近期，让Token被黄仁勋、吴泳铭等人，拔高到“经济学”概念的导火索，是当下全球最火的开源Agent框架——俗称为“龙虾”的OpenClaw。\n它第一次让Agent的概念突破极客圈层，走向普罗大众；同时，运行龙虾庞大的Token消耗，也让习惯使用免费ChatBot的普通用户，第一次感知到：智能，是一种昂贵的、需要购买的资源。\n2026年3月27日，中关村论坛。在主题为“OpenClaw与AI开源”的圆桌上，五位分别来自大模型、算力、Agent领域的中国...",
-      "url": "https://36kr.com/p/3740893801824512?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-27T07:54:53.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 关于“龙虾”和Token经济学的大白话总结\n\n- **什么是Token**  \n  Token就像手机里的流量，是让AI（人工智能）工作的“能量单位”。平时用免费聊天机器人，感觉不到，但“龙虾”这种大型的AI工具，需要大量Token，普通用户第一次会觉得像被收费了。\n\n- **“龙虾”是什么**  \n  “龙虾”是现在很火的AI开源工具，让普通人也能用AI做各种任务。它让AI从技术圈走向大众，但也让人意识到，智能服务是需要花钱的。\n\n- **Token经济学是怎么回事**  \n  Token成本让AI服务变得像商品，需要用钱购买。就像打车需要加油，AI也需要Token“能量”才能运行。随着“龙虾”这种工具流行，人们开始关注Token的定价和分配问题。\n\n- **关键观点**  \n  - AI技术普及的同时，运行成本让普通用户首次感知到“智能需要付费”。  \n  - Token作为AI的计费单位，正在演变成一种新的经济模式。  \n  - “龙虾”等开源工具推动了AI从极客圈走向大众，也让Token经济学成为讨论焦点。",
-      "summarized_at": "2026-03-27T09:02:10.006Z",
       "summary_status": "success"
     },
     {
