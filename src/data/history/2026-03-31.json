@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-31T09:09:30.408Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-03-31T09:09:30.409Z",
+    "date": "2026-03-31",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1774948087604",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to...",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-30T16:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能健康工具越来越多，但到底管用吗？\n\n最近，科技公司又推出了好几个能帮你看病的AI工具。微软的Copilot Health就是个例子，你把病历给它看，它就能回答你关于健康的问题，就像一个能读病历的智能小助手。亚马逊也搞了个叫Health AI的东西，这个工具能跟你聊天，帮你分析健康情况。\n\n这些AI就像个能看懂你话的医生助手，能帮你处理病历资料，回答各种健康问题。比如，你想知道某个症状是什么情况，或者想问医生的问题，都可以交给这些AI来帮你分析。\n\n不过，这些工具到底靠不靠谱呢？虽然它们能帮你处理信息，但毕竟不是真人医生，不能完全替代专业诊断。就像你问个手机问题，它可能说得对，但有时候还是得找真人帮忙。\n\n总的来说，这些AI健康工具是个挺有用的东西，能帮你初步了解健康问题，但别完全依赖它们。毕竟，看病还是得听医生的话。",
-      "summarized_at": "2026-03-31T09:08:16.010Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774948087604",
-      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its ...",
-      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-30T15:42:50.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 五角大楼的“找茬”计划搞砸了\n\n### 背景情况\n美国五角大楼最近盯上了一个人工智能公司叫Anthropic，觉得这家公司可能给国家安全带来风险，就想给人家贴个“不安全”的标签，让政府机构别用它家的产品。这有点像家长觉得孩子交了坏朋友，想让他远离。\n\n### 法院出手了\n可没想到，五角大楼的这招“找茬”没走通。上周四，加州有个法官突然把五角大楼的命令叫停了，暂时不让政府机构停止使用Anthropic的产品。这就像家长想不让孩子上学，结果老师不答应。\n\n### 搞砸了\n本来想的是“打压别人”，结果五角大楼自己的权威受到了质疑。这下子，不光是Anthropic高兴，连很多人也开始怀疑：五角大楼是不是在滥用权力？就像本来想吓唬小朋友，结果自己反而被看笑话了。\n\n- 五角大楼想给Anthropic贴标签，结果没成\n- 法院阻止了政府的命令\n- 五角大楼的权威受到了挑战\n- 本来想打压别人，结果自己被质疑",
-      "summarized_at": "2026-03-31T09:08:18.343Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774948087604",
-      "title": "This startup wants to change how mathematicians do math",
-      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Ch...",
-      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-25T13:59:17.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Axiom Math的AI工具Axplorer：帮助数学家发现新规律\n\nAxiom Math是一家美国加州的初创公司，他们开发了一款免费的AI工具，专门帮助数学家找出数学中的新规律，可能解决一些长期存在的难题。这个工具叫Axplorer，是之前一个叫PatternBoost的工具升级版。\n\n### 工具有什么用？\n\n你可以把Axplorer想象成一个超级侦探，专门负责在数学世界里寻找隐藏的线索。数学家们常常需要处理大量的公式和数据，就像整理一堆积木一样复杂。Axplorer就能自动帮他们找出这些积木之间的联系，发现以前没注意到的规律。\n\n### 为什么这很重要？\n\n很多数学问题已经存在好几百甚至几千年了，但一直没人能找到答案。比如，有些数学公式就像一道美味的菜，大家知道它很特别，但不知道具体怎么做出来的。Axplorer就能帮助数学家找到做这道菜的秘诀，可能最终破解这些难题。\n\n### 工具怎么用？\n\n这个工具完全免费，任何人都可以用。你只需要输入一些数学数据，Axplorer就会自动开始分析，像在帮你找拼图一样，一步步找到规律。比如，如果你想研究一个复杂的数学图形，只需要把图形数据交给Axplorer，它就能帮你发现图形的隐藏特点。\n\n### 总结要点\n\n- Axplorer是Axiom Math开发的AI工具，专为数学家设计  \n- 目的是发现数学规律，可能解决长期难题  \n- 完全免费，用户只需输入数据，工具自动分析  \n- 帮助数学家像侦探一样找出隐藏的数学线索",
-      "summarized_at": "2026-03-31T09:08:26.660Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1774948087604",
-      "title": "Agentic commerce runs on truth and context",
-      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution,...",
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-25T11:48:13.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 数字助手帮你搞定旅行安排\n\n想象一下，你跟一个智能助手说：“用我的积分帮我订个全家意大利游，别超预算，选我们以前喜欢的酒店，所有细节都帮我搞定。” 这个助手不会只是给你一堆链接，而是直接帮你规划好行程并完成预订。这种变化，就是从单纯的帮忙到完全帮你搞定。\n\n### 什么是智能助手？\n\n智能助手就像一个特别贴心的秘书，能听懂你的需求，帮你处理各种事情。比如，你可以让它帮你查天气、订外卖、甚至安排旅行。\n\n### 智能助手如何工作？\n\n1. **理解你的需求**：它会仔细听你说的每一句话，弄清楚你到底想要什么。\n2. **利用你的信息**：它会看看你以前的喜好，比如你常去的酒店，帮你做出更合适的选择。\n3. **自动完成任务**：它会自己联系商家、安排细节，最后直接帮你下单。\n\n### 智能助手的好处\n\n- **省时省力**：不用自己花时间研究攻略、比较价格，一切交给助手。\n- **个性化推荐**：因为了解你的喜好，所以推荐更符合你心意。\n- **省心放心**：所有细节都安排好了，你只需要享受旅程。\n\n### 智能助手的未来\n\n未来，智能助手会越来越懂你，不仅能帮你安排旅行，还能帮你处理更多生活琐事，让你有更多时间做喜欢的事情。就像一个24小时待命的超级管家，让你生活更轻松。",
-      "summarized_at": "2026-03-31T09:08:28.916Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1774948087604",
       "title": "The AI Hype Index: AI goes to war",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 一个黑客的\"瑞士军刀\"\n\nGitHub Trending上有个很火的项目叫Z4nzu / hackingtool，简单说就是个黑客用的全能工具。\n\n**它是个啥？**  \n想象一下你急需一把能开锁、断电、撬保险箱的万能钥匙，这个工具就是黑客界的\"瑞士军刀\"。它集多种黑客功能于一身，比如能扫描网络漏洞、破解密码、追踪设备等。\n\n**为啥这么火？**  \n- **功能全**：一个工具搞定多种黑客任务，省时省力  \n- **更新快**：GitHub上的热门项目意味着不断升级  \n- **操作简单**：像手机App一样容易上手（当然用途不同）\n\n**普通人怎么看？**  \n虽然听起来很酷，但就像家里藏着万能钥匙——用对了能修东西，用错了可能闯大祸。这个工具能帮你发现电脑或网络里的安全漏洞，但也可用于恶意攻击。  \n\n**关键提醒**：  \n- 只能用于合法目的，比如自己电脑检测漏洞  \n- 黑客技术需遵守法律，别拿它搞破坏  \n\n总之，这是个黑客的\"百宝箱\"，懂技术的人会很喜欢，但普通人要远离灰色地带。",
       "summarized_at": "2026-03-31T09:09:15.312Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774948091512",
-      "title": "营收三年增16倍，壁仞科技迎来业绩兑现期",
-      "summary": "3月30日港股盘后，壁仞科技发布上市后的首份财务报告。\n数据显示，2025年，公司实现营业收入10.35亿元，同比增长207.2%；同期毛利达5.57亿元，同比增长210.8%，对应毛利率为53.8%。\n2025年以来，模型的持续迭代、智能体的全面爆发叠加上地缘政治冲突的升温，共同驱动国产算力行业进入快速爆发期。而芯片作为核心基座，受益于行业爆发红利，实现了从技术突破到规模化落地的关键拐点。\n作为国产算力芯片的头部企业，壁仞科技此次发布的财报，不仅是公司业绩的观察窗口，更成为国产算力芯片发展趋势与商业化成色的“风向标”。\n那么，站在当下，国产算力芯片行业究竟行至何处？透过财报，壁仞科技呈现出哪...",
-      "url": "https://36kr.com/p/3746575157658368?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-31T08:22:11.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 壁仞科技业绩大爆发，国产算力芯片迎来春天\n\n- **业绩暴增**：壁仞科技最近交出了一份亮眼的成绩单，2025年营收暴涨16倍达到10.35亿元，毛利润更是翻了一番多达到5.57亿元。这说明公司赚得盆满钵满。\n\n- **行业红利**：国产算力芯片行业现在像坐了火箭，智能模型不断升级、AI应用全面开花，再加上国际形势紧张，大家都抢着要国产芯片，行业迎来爆发期。\n\n- **芯片重要性**：芯片是算力产业的核心，相当于手机的\"大脑\"，现在国产芯片从实验室走向市场，技术攻关终于开花结果，开始大量卖货了。\n\n- **行业风向标**：壁仞科技的财报就像天气预报，能看出国产算力芯片行业的发展趋势。作为行业领头羊，它的表现直接反映了整个行业的成熟度。\n\n- **未来发展**：随着技术进步和市场需求，国产算力芯片会越来越火，就像当年国产手机从山寨货变成高端机一样，未来空间巨大。",
-      "summarized_at": "2026-03-31T09:09:15.148Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774948091512",
-      "title": "将AI戒指为入口，追觅瞄准万亿智能可穿戴市场｜最前线",
-      "summary": "作者 | 王欣逸\n编辑 | 邓咏仪\n火热的可穿戴智能硬件市场，崛起了一位野心勃勃的争夺者。\n3月27日，追觅科技AI智能硬件新品招商会在苏州举办，新品智能戒指Glow成为了会上的焦点产品。\n在AI硬件赛道，追觅最先从智能戒指开始布局。\n追觅曾于2025年10月发布旗下首个AI硬件产品震动AI智能戒指。这一硬件上市至今累计订单破亿，并登上2026年CES大会，斩获最佳智能穿戴奖。\n随后，在今年的3月14日AWE大会上，追觅发布了新一代智能硬件产品AI戒指Glow。\nGlow官方定价1799元，首发价为1499元，相较于去年11月发布的定价2699元的震动戒指，Glow的独特之处在于新增了AI心电...",
-      "url": "https://36kr.com/p/3746508855869954?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-31T07:25:42.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 追觅用AI戒指闯入智能穿戴市场\n\n- **追觅的野心**：追觅科技想在这个聪明穿戴设备的热门市场上分一杯羹，他们选了个特别的产品——AI智能戒指作为突破口。\n\n- **震动戒指的成功**：追觅最早在2025年10月推出了一款能震动提醒的AI戒指，没想到卖了超一亿个，还拿了个国际大奖。这说明大家很喜欢这种能帮忙提醒的小玩意儿。\n\n- **新一代AI戒指Glow**：今年3月，追觅又推出了更新版的AI戒指Glow，定价1499元。这个戒指比之前的更厉害，能测心跳，就像你的手腕上装了个小医生。\n\n- **市场策略**：追觅觉得智能戒指是个大市场，就像现在大家都在用手机，但手机功能太多太贵。他们先用震动戒指让大家习惯，现在用Glow增加新功能，慢慢把价格降下来，吸引更多人买。\n\n- **核心观点**：追觅想通过智能戒指这个小小的入口，抓住未来可能值万亿的智能穿戴市场，就像卖手机一样，先让大家用着习惯，再慢慢扩展功能。",
-      "summarized_at": "2026-03-31T09:09:23.145Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774948091512",
-      "title": "安踏“慢跑”，FILA重回轨道",
-      "summary": "作者 | 谢芸子\n编辑 | 张帆 \n安踏的增长结构在重塑，这反映出不同消费层级体育品牌的分化。\n近日，安踏体育发布2025年财报，集团整体营收达802.2亿元，同比增长13.3%；归母净利润135.9亿元，同比减少12.9%。\n财报解释称，净利润下滑是因为2024年安踏集团控股的亚玛芬体育上市，确认了一大笔“一次性收益”，从而推高了比较基数。剔除这一因素，安踏体育的归母净利润同比上涨13.9%。\n再分品牌看，包括迪桑特、可隆在内的“其他品牌”成为拉动增长的主要动力。\n上一年度，安踏体育“其他品牌”类目同比大增59.2%，至169.96亿元。其中，聚焦“滑雪、高尔夫、铁人三项”的高端品牌迪桑特，...",
-      "url": "https://36kr.com/p/3746211357655808?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-31T06:40:01.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 安踏和FILA都找到了新方向\n\n安踏体育最近公布了2025年的成绩单，整体营收增长了13.3%，达到802.2亿元，但净利润反而少了12.9%，主要是因为之前卖掉亚玛芬体育时赚了一大笔钱，这次要平摊掉。去掉这笔特殊收入，其实安踏的利润还是涨了13.9%。\n\n安踏现在的情况有点像咱们吃饭，以前只吃大锅饭（主要靠FILA），现在开始自己开小灶（推出更多品牌），比如迪桑特（高端滑雪装备）、可隆（运动鞋）等“其他品牌”成了增长主力，去年这个板块涨了59.2%。这说明现在消费者根据不同需求选择不同品牌的体育用品，比如有人就只买高端滑雪服，有人只买普通跑鞋。\n\nFILA这边也差不多，之前因为产品太贵卖不动，现在开始做更接地气的运动装，比如和NBA联名款，一下子就吸引了很多人。安踏和FILA都在调整策略，从以前只靠一个品牌吃饭，变成多个品牌一起发展，这样更稳当。",
-      "summarized_at": "2026-03-31T09:09:21.601Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1774948091512",
-      "title": "36氪首发 | 磷酸锰铁锂正极材料厂商再获数亿元融资，加码动力电池产能布局",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，近日，江苏珩创纳米科技有限公司（以下简称“珩创纳米”）正式宣布完成B轮融资的数亿元交割。本轮融资由银川育成凤凰科创基金投资，大桉资本担任本轮融资财务顾问。资金将主要用于公司在宁夏银川的产能布局，规划建设年产13万吨（一期3万吨）磷酸锰铁锂（LMFP）正极材料生产线。与此同时，公司在盐城的基地将进一步扩产。\n珩创纳米成立于2022年，聚焦新能源电池核心材料磷酸锰铁锂正极材料的研发、生产与销售，其产品目前已覆盖新能源汽车、两轮电动车及储能系统等多个应用场景。\n作为近年来备受关注的一条技术路线，磷酸锰铁锂被视为磷酸铁锂的重要升级方向之一。从材料特性来看，...",
-      "url": "https://36kr.com/p/3746236378202631?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-03-31T02:30:32.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 珩创纳米又拿到大笔钱，准备造更多电池材料\n\n### 融资情况\n- 珩创纳米最近完成了B轮融资，拿到了数亿元人民币\n- 银川育成凤凰科创基金投了这笔钱\n- 大桉资本帮忙处理财务事宜\n\n### 用途\n- 这笔钱主要用于在宁夏银川建厂\n- 计划建一条年产13万吨磷酸锰铁锂材料的生产线（先造3万吨）\n- 同时还在江苏盐城的老厂里加码生产\n\n### 公司情况\n- 珩创纳米2022年才成立，专门做磷酸锰铁锂这种电池材料\n- 这种材料用在汽车、电动车和储能设备上\n- 它算是电池材料的升级版，更厉害\n\n### 为什么要做这个\n- 磷酸锰铁锂是电池材料的升级版，充电快、寿命长\n- 现在很多电动车、储能都要用这种材料\n- 珩创纳米想抓住这个机会，多造点材料卖\n\n### 未来计划\n- 新厂建成后，一年能造出13万吨材料\n- 老厂也扩产，让总产量更多\n- 这样能满足更多电动车和储能设备的需求",
-      "summarized_at": "2026-03-31T09:09:29.599Z",
       "summary_status": "success"
     },
     {
