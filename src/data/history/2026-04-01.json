@@ -1,17 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-01T09:27:29.019Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-04-01T09:27:29.020Z",
+    "date": "2026-04-01",
+    "items_count": 13,
+    "note": "每日历史存档"
   },
   "data": [
     {
@@ -29,57 +21,6 @@
       ],
       "ai_summary": "《Shifting to AI model customization is an architectural imperative》的主要内容是：In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration。Today, those jumps have flattened into incremental gains。The exception is domain-specialized intelligence, where true step-function improveme。（来源：arXiv.org）",
       "summarized_at": "2026-04-01T09:13:46.384Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775034818921",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.  This framing is ...",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-31T12:01:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《AI benchmarks are broken. Here’s what we need instead.》的主要内容是：For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans。From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks。This framing is。（来源：arXiv.org）",
-      "summarized_at": "2026-04-01T09:13:46.582Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775034818921",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to...",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-30T16:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI健康工具越来越多，但到底管用吗？\n\n最近，微软推出了一个叫Copilot Health的新功能，就像手机里的健康助手。你可以连接自己的病历，向它问各种健康问题，比如\"我最近总咳嗽，是不是需要看医生？\"，它会根据你的资料给出建议。这就像找个熟悉你的朋友帮你分析情况。\n\n几天前，亚马逊也出了个叫Health AI的工具。它是个AI聊天机器人，专门回答健康问题。不过之前这个工具只能少数人用，现在范围扩大了。比如你肚子疼，可以跟它说症状，它可能会让你先观察，或者建议去医院。\n\n### 这些工具到底怎么样？\n\n**优点**：  \n- 像个随时在线的健康顾问，不用去医院排队  \n- 可以帮你整理复杂的病历信息，比如\"这周你三次发烧\"  \n- 夜里也能问问题，不用等医生上班  \n\n**小心**：  \n- 它给的只是建议，不能代替医生诊断  \n- 有些问题回答得像AI模板，不够个性化  \n- 把病历交给AI需要考虑隐私安全\n\n### 例子说明\n\n假设你感冒了，手机里的AI可能会说\"多喝水休息\"。但如果是专业人士（医生）可能会问\"你最近生活压力大吗？\"这种细节。AI现在还做不到这种深度理解。\n\n总的来说，这些健康AI就像个初学驾驶的学生，能做基本操作，但遇到复杂情况还是会紧张。用它们可以做个参考，但最终决定还是要听专业医生的。",
-      "summarized_at": "2026-04-01T09:25:06.122Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775034818921",
-      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its ...",
-      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-30T15:42:50.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 五角大楼想给AI公司贴标签，结果弄巧成拙\n\n最近，美国五角大楼想给一家叫Anthropic的AI公司贴上\"供应链风险\"的标签，意思是觉得这家公司不太靠谱，让政府机关别再用它的产品。本来是想限制这家公司的，结果却引火烧身。\n\n### 矛盾升级成法律战\n\n上周四，加州有个法官直接跳出来，临时叫停了五角大楼的计划。这就好比你想不让邻居用你送的快递，结果法院说\"不行，你先别动\"。\n\n### 为什么会反噬？\n\n原来五角大楼的做法太明显了，直接想打压这家AI公司，显得很霸道。与其说是风险评估，更像是一场想排挤对手的\"文化战\"。结果人家直接告到法院，现在五角大楼反而被限制住了手脚。\n\n### 对AI行业的影响\n\n这件事让其他AI公司也紧张了。本来大家以为政府会帮着管管AI，现在看来，有些做法可能反而会激起反抗。就像你管得太死，孩子反而更想跟你对着干。\n\n### 法官的考量\n\n法官之所以这么做，是觉得五角大楼给的\"风险评估\"证据不足，可能是想借此打压竞争对手。这就好比你想说邻居偷东西，结果自己提供的证据站不住脚。\n\n总之，五角大楼想给AI公司设障碍，结果自己反而被绊了一跤。这场AI领域的\"文化战\"，最后可能是五角大楼自己输掉了。",
-      "summarized_at": "2026-04-01T09:25:06.316Z",
       "summary_status": "success"
     },
     {
@@ -277,78 +218,6 @@
       ],
       "ai_summary": "# OpenBB-finance / OpenBB\n\n这是一个给分析师、量化交易员和AI助手用的金融数据平台。\n\n## 平台用途\n\n想象一下，你要分析一家公司的股票好不好，得查很多数据：公司业绩、财务报表、市场行情等等。如果手动去一个一个网站找，太麻烦了，而且容易出错。这个平台就像一个超级助手，把所有金融相关的数据都收集起来，整理好，让你一键查到。\n\n## 谁能用\n\n- **分析师**：需要研究市场趋势，帮公司做投资建议的人\n- **量化交易员**：用电脑自动下单买卖股票的人\n- **AI助手**：像聊天机器人一样，能帮你分析数据的智能工具\n\n## 平台特点\n\n- **数据全面**：涵盖股票、债券、外汇等所有金融市场数据\n- **操作简单**：不用懂代码，直接用图形界面就能分析\n- **智能分析**：能自动生成报告，帮你发现机会\n\n## 为什么受欢迎\n\n现在大家都喜欢用科技手段搞投资，这个平台把复杂的数据变简单，让投资决策更高效。就像手机里的外卖软件，以前订外卖要打电话问餐馆，现在点 App 一键下单，方便多了。这个平台就是金融数据版的\"外卖 App\"。",
       "summarized_at": "2026-04-01T09:27:01.529Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775034823465",
-      "title": "2026中国股权投资行业名册，调研启动！",
-      "summary": "36氪创投研究院的朋友们：\n新春好！\n2026的整个春天，创投圈显得格外忙碌：大家或许在养虾、参加龙虾活动；或许在钻研技术、敲代码；或许在寻觅并肩作战的队友；亦或不断在各个AI APP中反复横跳....现在正是AI春暖花开之时，暗涌Waves的2026年度调研规划也随之官宣！\n2025过去一年，我们见证了AI从实验室的静默代码，破土成为改变产业底座的显学。暗涌发布了96篇文章，不断追踪报道一级市场事件，记录了国资/产业投资机构的强势入场，陪伴AI从\"概念验证\"走向\"商业闭环\"的每一个关键节点。\n今年，我们将继续追踪正在发生的事情、和新崛起的人群。正如我们的Slogan：“钱的流向，人的沉浮\"。...",
-      "url": "https://36kr.com/p/3747982127481345?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-01T08:07:34.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 2026中国股权投资行业名册调研启动\n\n- **背景**：2025年AI技术像种子一样从实验室发芽，现在长成了能改变很多行业的大树。这一年，看到很多新公司出现，也有不少投资机构和科技公司很活跃。\n- **调研目的**：2026年春天，36氪要做一个调查，看看哪些投资公司在赚钱，哪些人对技术投资很感兴趣。就像跟踪哪些人喜欢养虾，哪些龙虾市场最热闹一样。\n- **关注重点**：主要看AI领域的变化，比如哪些新技术、新公司、谁在投资。就像看菜市场哪些蔬菜涨价了，哪些摊位生意好。\n- **方法**：会像写日记一样记录AI领域的重要事件，比如新公司成立、大公司投资等。就像记录家里哪些水果买得贵，哪些菜吃得多了。\n- **意义**：通过这些信息，大家能更清楚地知道钱花在哪里，哪些人因为投资赚到了钱。就像看哪些人买了新房，哪些人换了新车一样。",
-      "summarized_at": "2026-04-01T09:27:01.078Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775034823465",
-      "title": "四个大脑、三条路线、一种「天真」｜36氪离线聚会第零期",
-      "summary": "现场拍摄\n文 | 阿至\n我们似乎比以往任何时候都更相信技术本身的力量。\n过去3年，在这场由AI所掀起的创业浪潮中，技术正以前所未有的速度，被赋予创造一切、解决一切的宏大叙事。参数在迭代，估值在飙升，钱的流动此起彼伏。\n然而在这种高速的，甚至有些喧嚣的确定性之外，那些勇敢做出选择、推动改变发生的、具体的人，才是创造变革的原点。\n基于这一原点，我们组织了一场「离线聚会」。作为36氪全新的超轻量线下沙龙IP，我们想做一次尝试，不要路演话术和商业互吹，创造一个让分享和对话不被审视的空间，记录那些未经修饰的直觉、未被折叠的想象、以及尚未达成共识却值得被听见的声音。通过人的连接、思想的碰撞，回归到创业本身...",
-      "url": "https://36kr.com/p/3747976260174341?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-01T08:02:20.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 36氪离线聚会：技术浪潮下的人性思考\n\n- **技术热潮与现实**  \n  最近几年，人工智能创业特别火，大家觉得技术能解决所有问题，像AI能变出各种神奇应用，公司估值疯涨，钱不停地流进来。但这种快速发展的背后，真正改变世界的还是那些敢于行动的人，而不是冷冰冰的技术。\n\n- **离线聚会的目的**  \n  36氪搞了这个线下沙龙，想让大家放下商业套路和推销的话术，在一个轻松的环境里聊天。不想听那些包装好的演讲，而是想听到大家最真实想法，比如创业时没经过修饰的直觉、天马行空的创意，或者还没定下来但值得讨论的想法。\n\n- **人的连接比技术更重要**  \n  这个活动想通过大家互相交流，让思维碰撞，重新关注创业的根本——也就是人。比如你开个小店，技术再好也不如有人真心支持你、愿意来买你的东西。技术可以帮忙，但最终还是要靠人来推动事情发生。\n\n- **创造不被打扰的交流空间**  \n  他们想搭建一个像朋友聚会一样的地方，不用担心被评判，可以自由地分享和讨论。就像几个老朋友找块地方喝咖啡聊天，不用考虑是不是在表演，就是想放松地聊聊各自的想法和感受。",
-      "summarized_at": "2026-04-01T09:27:14.674Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775034823465",
-      "title": "36氪首发 | 半导体设备老兵创业晶圆键合公司，元禾璞华领投新一轮融资",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，今日，矽赫微科技（上海）有限公司（以下简称“SHW”）宣布完成新一轮融资，由元禾璞华领投，合肥产投、哇牛资本、君子兰资本、萨珊资本、曦晨资本、苏高新、东方嘉富以及江苏大摩半导体等众多知名投资机构和产业方投资。\nSHW成立于2023年，总部位于上海，是一家聚焦晶圆永久键合技术及设备的半导体装备企业。公司致力于为先进封装、化合物半导体及新型衬底制造等领域提供高精度晶圆键合设备与配套解决方案。\n团队方面，公司创始人王笑寒博士在美国留学和工作多年后回国创业，长期从事半导体设备研发，是国内该领域的开创性技术专家之一，曾担任睿励科学仪器（上海）有限公司总经理。...",
-      "url": "https://36kr.com/p/3747870039147016?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-01T06:11:45.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 半导体设备公司获得新投资\n\n## 公司介绍\n矽赫微科技（SHW）是一家新成立的半导体设备公司，主要生产一种叫晶圆键合的设备。这种设备能把几块小小的硅片像拼图一样牢牢粘合在一起，用来制造更高级的电子产品。\n\n## 业务领域\nSHW专门做晶圆永久键合技术，这种技术用在先进封装、化合物半导体和新型衬底制造上。简单说，就是帮助电子产品变得更小、更强大。比如手机芯片，就是用这种技术把很多小芯片组合在一起的。\n\n## 创始人背景\n公司创始人王笑寒博士是半导体设备领域的专家，在美国学了很多年技术，回国创办了SHW。他之前在一家著名公司工作，经验非常丰富。\n\n## 融资情况\nSHW刚刚完成了一轮新融资，投资方包括元禾璞华等知名机构和公司。这说明市场看好他们的技术，愿意给他们钱继续发展。\n\n## 技术重要性\n晶圆键合技术很重要，因为现在的电子产品越来越小，但功能越来越多。用这种技术可以把很多小零件组合在一起，既不占地方又能提高性能。SHW的技术可以粘合更精密的硅片，帮助制造出更好的电子产品。",
-      "summarized_at": "2026-04-01T09:27:14.270Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775034823465",
-      "title": "从急救困局到AI预警，如何守住心血管疾病的“最后战场”？",
-      "summary": "近日，大众对“心源性猝死”这一沉重话题的关注度格外高。\n“每年中国心源性猝死的人数约54万。没有原因的突然心脏停跳很少见，一般是先发生室速或室颤。”近日中国科学院院士、复旦大学附属中山医院葛均波在接受36氪等媒体访谈时指出：40岁到55岁期间是人体的“易损期”，这个阶段反而容易发生心源性猝死。\n在临床专家看来，突发的心源性猝死、逐步进展的心力衰竭等问题，除遗传因素外，时常与长期的不良生活习惯相连。\n“现代人长期工作压力大、饮食习惯高盐高糖（如嗜饮奶茶）、睡眠少于6小时等，都会让心脏长期处于疲劳作战的受损状态。同时，许多年轻人缺乏正确的医疗知识，在高血压等慢病的治疗过程中依从性不佳，导致血压波动...",
-      "url": "https://36kr.com/p/3747703171383810?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-01T05:26:15.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 心脏突然出问题怎么办？\n\n### 猝死不是凭空来的\n心脏病突然让人没命，不是没原因的。多数是心脏突然乱跳（像发动机突然熄火），比如突然出现快速或不规则的跳动（像心脏打乱节拍）。这种问题经常发生在40到55岁的人身上，这个年龄段身体特别容易出状况。\n\n### 日常坏习惯是元凶\n现代人压力大、爱喝奶茶（高糖高盐）、睡不够（少于6小时），这些习惯让心脏长期超负荷工作，就像手机整天用不停结果突然没电。很多人有高血压等慢性病，但因为不知道怎么治或者懒治，导致血压忽高忽低，心脏也越来越累。\n\n### 如何提前知道危险？\n科学家们正在研究用AI来预测心脏问题。比如通过智能手表监测心跳和活动，像手机提醒你久坐不动一样，提前发现心脏的不正常变化。这样就能在心脏出大问题前，赶紧采取措施。\n\n### 关键是要防患于未然\n保护心脏，关键是要养成好习惯：少吃高盐高糖的零食饮料，保证充足睡眠，压力太大要找人说说话，有高血压等问题要按时吃药。这样能大大降低心脏突然出问题的风险。",
-      "summarized_at": "2026-04-01T09:27:26.586Z",
       "summary_status": "success"
     },
     {
