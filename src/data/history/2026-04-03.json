@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-03T09:03:58.600Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-04-03T09:03:58.600Z",
+    "date": "2026-04-03",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1775206947197",
-      "title": "The gig workers who are training humanoid robots at home",
-      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a…...",
-      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-01T11:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 在家教机器人学做人的尼日利亚小伙\n\n- **主角宙斯**：有个叫宙斯的小伙，在尼日利亚的一个山顶城市当医学生，平时白天在医院忙，晚上回家做点特别的兼职。\n- **录制视频教机器人**：宙斯回家后，会打开手电筒，把手机绑在头上，像拍搞笑视频那样挥手、走路，故意做出有点笨拙的动作。\n- **为什么这样做**：他在给机器人当老师，通过录下自己笨手笨脚的样子，让机器人学人类不完美的一面。毕竟，要是机器人表现得像机器人一样完美，那多没意思啊。\n- **给机器人“接地气”**：宙斯觉得，机器人不能只会干标准化的活儿，得学会像人一样自然地互动。比如，走路时不自觉地晃晃身子、挥手时不那么僵硬等。\n- **普通人也能参与**：这项工作不需要高科技设备，只要愿意，普通人也能在家录制视频，帮助机器人更懂人类。就像你平时拍搞笑视频一样简单。\n- **背后的意义**：这些视频让机器人更真实、更接地气，未来遇到人时不会显得那么“冷冰冰”，能更好地融入我们的生活。",
-      "summarized_at": "2026-04-03T09:02:34.788Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775206947197",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improveme...",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-31T14:12:50.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 大语言模型进步放缓，定制化成关键\n\n以前，人工智能模型更新换代时，就像手机换代一样，每次都变得特别厉害，比如从只能发短信到能拍照片、能上网。但现在，普通的人工智能模型进步没那么快了，就像用了几年、功能还是那些功能的老手机。\n\n不过，如果是专门针对某个领域训练的模型（比如只教它做烹饪的），那进步还是很大的，就像专门学做菜的厨师，技巧比一般人好得多。\n\n所以，现在要想让人工智能更厉害，不能只靠换新模型，而是要像给车改装一样，根据具体需要调整模型的功能。比如，想让AI帮你写代码，就要专门教它编程；想让它做医疗诊断，就要用它学医。这种\"量身定制\"的方法，才是现在人工智能发展的关键。",
-      "summarized_at": "2026-04-03T09:02:33.661Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775206947197",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.  This framing is ...",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-31T12:01:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能测试方法的问题\n\n### 为什么要改变测试方式\n\n现在评价人工智能好坏，主要看机器能不能比人类做得好。比如下棋、做数学题、写代码、写文章，都是拿机器和一个人比。但这种方式其实不太靠谱。\n\n### 举个例子说明\n\n想象一下学骑自行车。有人觉得会骑车的人就是好骑手，但学骑车的过程其实更重要。现在评价AI也是这样，只看它最后能不能赢过人，却不管它是怎么学会的。\n\n### 现有测试方法的缺点\n\n- 一次只能测一个方面：就像只看一个人会不会打篮球，却不管他会不会踢足球。\n- 只看结果不看过程：就像只看新车跑得多快，却不管它是怎么造出来的。\n- 标准不统一：不同任务的评价标准五花八门，就像不同比赛用不同规则。\n\n### 需要的改进方案\n\n- 测试AI学习的过程：就像看学生是怎么一步步学会的，而不仅仅是看考试成绩。\n- 测试多方面能力：比如同时考算术、阅读和写作，而不是只考数学。\n- 建立统一标准：比如为不同AI应用制定相同评分体系，就像考试都用国家统一命题。\n\n现在AI发展太快，只靠和人比已经跟不上时代了。我们需要更科学的方法，才能真正了解AI的能力和进步。",
-      "summarized_at": "2026-04-03T09:02:40.268Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775206947197",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to...",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-03-30T16:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能健康工具越来越多，但真的有用吗？\n\n最近，科技公司在健康领域推出了一批新工具，比如微软的Copilot Health和亚马逊的Health AI。这些工具能让用户连接自己的病历，然后像问智能助手一样问出健康问题。\n\n### 新工具能做什么？\n\n- **连接病历问问题**：就像手机里的智能助手能查天气一样，这些工具能帮你查病历。比如你可以说\"我最近总是失眠，可能是什么原因？\"，工具就会根据你的病历给出建议。\n- **基于AI的大脑**：这些工具用的是一种叫\"大语言模型\"的技术，相当于给机器装了个会学习的\"大脑\"，能根据大量信息给出靠谱的答案。\n\n### 有用吗？\n\n理论上听起来挺方便，但其实还不太确定这些工具到底靠不靠谱。原因有：\n\n- **信息准确度**：病历数据很复杂，工具可能读不懂或理解错。比如你感冒发烧，但工具可能误以为你得了更严重的病。\n- **隐私问题**：把健康信息交给机器，会不会泄露？就像把家里钥匙随便放一样，不一定安全。\n\n### 未来怎么走？\n\n目前这些工具还处于早期阶段，就像刚开始学走路的婴儿。未来可能需要：\n\n- **更多测试**：多让医生和用户试用，看看效果怎么样。就像新手机上市前总要开开箱测试一下。\n- **加强监管**：政府可能要出台新规则，确保这些工具既安全又有效。\n\n总之，这些AI健康工具很有前景，但暂时别完全依赖它们。最好还是结合医生的建议来使用。",
-      "summarized_at": "2026-04-03T09:02:41.626Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1775206947197",
       "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# Qlib：用AI做投资研究的小助手\n\n## 它是什么\nQlib是一个专门用于投资研究AI平台，就像一个能帮你做投资研究的智能小助手。它用人工智能技术，让你从产生投资想法到实际操作，都能更轻松。\n\n## 能做什么\n- **多种方法支持**：就像做菜可以用炒、蒸、炸等方法，Qlib支持多种AI方法，包括简单预测（像天气预报）、市场分析（像分析商品价格变化）和智能决策（像下棋机器人）。\n- **自动化研发**：现在还配有GitHub上的RD-Agent工具，能自动帮你处理研究工作，省去手动操作。\n\n## 生活中的例子\n想象一下，你想研究股票投资：\n1. **产生想法**：用Qlib像玩拼图一样，把各种数据拼凑出投资机会。\n2. **分析预测**：用AI预测未来趋势，就像用手机天气APP看明天天气。\n3. **自动处理**：RD-Agent就像个帮手，自动整理资料和结果。\n\n## 核心优势\n- **简单易用**：不用懂复杂代码，像用Excel一样操作。\n- **全面支持**：涵盖从想法到实盘的全过程，就像一个超级市场，买食材到烹饪全搞定。\n- **持续更新**：像手机APP会不断升级，Qlib也会不断加入新功能。\n\n总之，Qlib就是用AI帮你做投资研究的工具，让投资研究变得更简单、更高效。",
       "summarized_at": "2026-04-03T09:03:46.741Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775206950532",
-      "title": "元气森林2044创造营背后：创新要年轻，研发要更重 | 最前线",
-      "summary": "作者 | 钟艺璇\n3月30日，第二届“元气森林创造营2044”活动在咸宁举行。活动现场，十余位年轻的产品经理带着多款元气森林家族新产品上台亮相，分享了各自打造新品的初心与研发历程。\n“创造营2044”萌芽于2024年元气森林经销商大会上“20年后再相会”的承诺，是元气森林给年轻人舞台，用长期主义回报用户信任的具体实践。\n开幕式发言时，元气森林创始人唐彬森提到，元气森林许多产品，一开始都来源于产品经理简单的想法。“世界上很多伟大的东西，开始的时候并没有外界想象的那么伟大，一开始时候只是一些简单粗糙的想法。创造营2044不是发布会，而是一场记录会，就是希望记录这些最开始的简单纯粹。记录初心、记录简...",
-      "url": "https://36kr.com/p/3749467949482759?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-03T06:56:17.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 元气森林用年轻人创新出新产品\n\n- **活动背景**：元气森林办了一个叫“创造营2044”的活动，让一群年轻的产品经理展示他们新开发的产品。这个活动源于元气森林2024年经销商大会时说的“20年后再相会”，想用长期努力回报客户。\n  \n- **创始人理念**：元气森林老板唐彬森说，很多好产品都来自简单的想法，就像咱们平时突然冒出个点子，觉得“这个想法不错，试试看”。创造营就是记录这些最初的、没经过打磨的想法，保持初心。\n\n- **产品研发**：这些年轻产品经理分享说，他们做新产品的想法其实很简单，比如“这个口味没试过，做个看看”，然后一步步开发出来。元气森林鼓励年轻人大胆尝试，不怕想法简单，只要用心去做。\n\n- **长期主义**：元气森林强调长期回报，不是一次活动就完事，而是持续关注年轻团队的想法，慢慢把简单想法变成好产品。就像种树，刚种下时看着很简单，但长期用心照料才能长成大树。\n\n- **核心观点**：创新要靠年轻人，因为他们想法多、不怕失败；研发要重“心”，保持最初的热情和纯粹，慢慢把简单想法变成好东西。",
-      "summarized_at": "2026-04-03T09:03:45.905Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775206950532",
-      "title": "一款运营三年的模拟经营游戏，是如何活力依旧的？",
-      "summary": "文｜兰杰\n编辑｜刘士武\n你觉得桃源是？A：逃避之所；B：向往之所。\n这是《桃源深处有人家》中一个经典的选择，某种程度上也是这个游戏的侧写。在这款游戏中，聚集了追求生活感和希望慢下来的村民和玩家。\n3月22日，模拟经营游戏《桃源深处有人家》（以下简称《桃源》）迎来了它上线以来的第三个生日。\n\n三年的时间里，《桃源》已经占据了自己的生态位——不在造福神话之列，但成为了提及模拟经营游戏时绕不开的例子。这对于这样一款不算“重”的游戏来讲，是一个难得的成绩。\n在过去两年间，模拟经营游戏一度是头部大厂们争相布局的赛道，但真正跑出来的是少数。绝大多数时候，玩家只知道《星露谷物语》或更加古早的《牧场物语》。\n...",
-      "url": "https://36kr.com/p/3750714899415817?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-03T06:24:51.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 桃源游戏如何保持活力三年的时间\n\n## 游戏特点和吸引力\n\n- 《桃源深处有人家》像是一个玩家和村民一起建设家园的地方，游戏里的人喜欢慢慢生活，不想太忙。\n- 游戏没有太多花哨的功能，但让玩家有足够的空间去创造和发展自己的小世界。\n\n## 成功的关键\n\n- 游戏已经运营三年，虽然不是最火爆的，但已经成为模拟经营游戏里一个特别的存在。\n- 在大公司都扎堆做模拟经营游戏的时候，像《桃源》这样保持自己风格的游戏很难得。\n- 游戏的社区很活跃，玩家们在一起分享经验，不断创新玩法，让游戏一直有新鲜感。\n\n## 核心观点\n\n- 《桃源》的成功在于它给玩家一个可以放松、慢节奏的生活体验，这种体验在快节奏的现代生活中很受欢迎。\n- 不断更新的内容和玩家自创的玩法，让游戏保持着活力，即使没有太多宣传，也能吸引新玩家。",
-      "summarized_at": "2026-04-03T09:03:52.056Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775206950532",
-      "title": "泡泡玛特，风光不再？",
-      "summary": "文｜兰杰\n编辑｜乔芊\n2025年，泡泡玛特已经成长为一个庞然大物。\n3月25日，泡泡玛特公布了2025年财报，收入为人民币371.2亿元，同比增长185%，净利润为130.1亿元，同比增长293%。其中，海外市场成为拉动增长的主力，收入占比超四成。\n这是一份足够亮眼的财报成绩，但资本市场却不买帐。财报发布当日开盘后，泡泡玛特的股价一度跌超20%。\n3月26日，泡泡玛特发布公告称，将斥资5.99亿港元回购394万股股份，每股回购价区间为148.4-157.8港元。截至当日收盘，泡泡玛特每股报价150.7港元。此举意在稳定市场情绪，且向市场持续传递公司长期向好的信心。\n除了因为部分增长不及预期外，...",
-      "url": "https://36kr.com/p/3750711532569350?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-03T06:21:26.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 泡泡玛特最近有点难\n\n2025年，泡泡玛特赚得盆满钵满。公司公布成绩单，收入371.2亿，比去年多了185%；净利润130.1亿，增长了293%。这相当于一个普通公司一年赚几十万，现在突然一年赚一两千万，简直是天大的好事。\n\n但奇怪的是，股票市场却不高兴。财报一出来，泡泡玛特的股票价格反而掉了一大半，相当于你买了100元的股票，第二天变成80元。这是为啥呢？\n\n原来，泡泡玛特虽然赚钱多，但市场担心它未来的增长会慢下来。就像你本来每天都能赚到10块钱，突然有一天只赚到5块，你会不会觉得不对劲？所以，泡泡玛特为了稳住大家的信心，决定花5.99亿港币买回自己公司的股票，相当于花大钱告诉大家：\"我们还是很有实力的！\"\n\n不过，市场还是有点不买账。这说明，现在的泡泡玛特虽然还很强，但已经不像以前那么让人疯狂了。就像以前大家都抢着买它的盲盒，现在可能就有人觉得：\"这东西还是那个味儿，没什么新花样了。\"",
-      "summarized_at": "2026-04-03T09:03:51.938Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775206950532",
-      "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
-      "summary": "如今内容行业风头正盛的莫过于AI拟真人剧。\n它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。\n早在2025年下半年的时候，这一内容形态就已经崭露头角。彼时有一批从业者认为，AI拟真人剧的天花板相当于整个传统影视行业，要高于AI漫剧，于是在诸多技术问题尚未被解决的时候就决定入局。\n今年1月以来，字节旗下Seedance2.0、生数科技Vidu Q3的发布则彻底引爆了这一赛道。人物表情的恐怖谷效应、角色难以保持的一致性，以及打斗场面不连贯等问题，都在底层大模型技术的进步中消融。\nVidu解决方案负责人郑重如此表示，视频生成大模型在过去一年中，从“老照片复活、变身特...",
-      "url": "https://36kr.com/p/3750704146072326?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-03T06:15:06.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI拟真人剧：好故事才是关键\n\n- **AI拟真人剧的兴起**  \n  这是一种用AI技术制作的、看起来像真人演出的视频。比如，你看到的一段视频，其实是AI根据剧本和演员信息“演”出来的，不是真人拍的。这个技术最近很火，因为AI越来越厉害，能让视频看起来特别逼真，甚至能做出表情和动作。\n\n- **早期发展中的问题**  \n  以前，有些人觉得这种AI剧特别有前景，认为它比之前的AI漫画剧更厉害，能做更复杂的内容。但刚开始时，技术还不够成熟，比如演员表情有时候会显得很假（就像恐怖片里怪物一样怪异），角色也不稳定，打斗场面也不连贯。\n\n- **技术进步带来改善**  \n  今年，一些公司发布了新的AI工具，比如字节科技的Seedance2.0和生数科技的Vidu Q3，让这些问题得到了改善。现在，AI能更好地模仿真人表情、保持角色一致性，甚至做出更流畅的打斗场面。\n\n- **核心观点：好故事最重要**  \n  虽然技术越来越进步，但最终决定这种AI剧成功与否的，还是故事好不好。如果故事本身没意思，即使技术再逼真，观众也不会喜欢。所以，对于AI制作的内容来说，好的剧本和故事才是未来的关键。",
-      "summarized_at": "2026-04-03T09:03:58.599Z",
       "summary_status": "success"
     },
     {
