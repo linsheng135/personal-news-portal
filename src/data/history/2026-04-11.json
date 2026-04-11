@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-11T08:54:45.653Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-04-11T08:54:45.654Z",
+    "date": "2026-04-11",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1775897607656",
-      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I ...",
-      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-08T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Mustafa Suleyman谈AI发展不会遇阻的原因\n\n### 我们的世界和AI的增长方式不同\n\n人类习惯了线性增长的世界。比如走路，走1小时能走一定距离，走2小时就能走双倍的距离。这种规律在草原上生存时帮了大忙，但面对AI这种指数级增长的科技，就完全不管用了。\n\n### AI像滚雪球一样增长\n\nAI的发展不是一步一步加的，而是像滚雪球一样越滚越大。一开始可能看不出什么，但很快就会变得非常巨大。就像你种下一颗种子，开始时很小，但几年后会长成一棵大树。\n\n### AI的进步不是按部就班\n\n我们平时做事，比如学知识、练技能，都是一点点进步。但AI不一样，它的发展速度越来越快，今天的一个小突破，可能就是明天的重大进展。就像手机每几年就更新一次，功能越来越好。\n\n### AI的未来充满可能\n\n只要我们继续按现在的方式发展AI，它就不会遇到什么瓶颈。因为AI就像一个永动机，只会越来越强。就像你一直在存钱，本来存100元觉得不多，但存到1000元时就会觉得很多，AI的发展也是如此。\n\n### 总结\n\nAI的发展就像滚雪球，不会遇到什么阻碍。我们平时习惯的线性思维无法理解指数级增长，但这就是AI的真相。只要保持现在的速度，AI的未来会给我们带来更多惊喜。",
-      "summarized_at": "2026-04-11T08:53:38.896Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775897607656",
-      "title": "Enabling agent-first process redesign",
-      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around age...",
-      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-07T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI智能体需要重新设计流程\n\n### 智能体和传统系统的区别\n想象一下，传统系统就像做饭的食谱，必须严格按照步骤来，一点都不能变。而AI智能体更像是会学习的厨师，不仅能按食谱做菜，还能根据实际情况调整方法，比如发现某种食材更好用就换掉。这种系统会根据和人、数据或者其他机器的互动，自己决定怎么完成任务。\n\n### 智能体能做什么\n比如你让智能体安排一次旅行，它会自己联系航班、酒店，还能根据天气变化调整计划。如果航班取消，它会立刻重新安排，不需要人操心。这种自主完成任务的能力，让效率大大提高。\n\n### 为什么需要重新设计流程\n现在的很多工作流程就像固定路线的公交系统，智能体到不了这些\"站点\"。要让智能体发挥最大作用，就必须改变这些流程，让它能像网约车一样自由穿梭，随时响应各种需求。\n\n- 智能体能在实时互动中学习和改进\n- 自主执行整个工作流程\n- 需要灵活的流程设计来释放潜力\n\n设计新流程时，要像给智能体创造一个能自由发挥的空间，让它能像人一样思考决策，而不是被条条框框束缚。",
-      "summarized_at": "2026-04-11T08:53:38.658Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775897607656",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, respo...",
-      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-06T16:33:35.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI与工作：一个关键数据点\n\n### 背景介绍\n最近，很多人担心AI会抢走大量工作岗位。在硅谷，这种担忧特别严重，连一些大公司的研究人员都预测未来工作市场会大变样。但不知道大家有没有想过，其实一个简单的数据可能就藏着答案。\n\n### 关键数据点\n有研究者发现，其实AI并不会真的取代所有人。想想看，就像智能手机的出现并没有让所有电话销售员失业。AI也是一样，它更像是给某些工作加了把锤子，而不是完全换掉锤子。比如，医生看病还是得靠经验，但AI能帮医生分析病历，让诊断更准。\n\n### 为什么这个数据重要\n这个发现告诉我们，AI不是来抢饭碗的，而是来提高效率的。就像超市收银员有扫码机帮忙，但还是要收银员处理复杂情况。所以，与其担心失业，不如想想怎么跟AI合作。\n\n### 对普通人的启示\n- AI会让工作更轻松，但不会完全取代人\n- 学会使用AI工具，比害怕它更有用\n- 未来工作需要人类和AI一起完成\n\n简单说，AI就像智能手机，让工作更高效，但不会让所有工作消失。关键在于我们怎么适应新工具。",
-      "summarized_at": "2026-04-11T08:53:44.762Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775897607656",
-      "title": "AI is changing how small online sellers decide what to make",
-      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails ...",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-06T11:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI改变小网店老板的商品选择\n\n- **老方法：** Mike McClary以前开个小网店，卖一种特别亮的黑闪电灯。这灯又亮又耐用，特别受欢迎，是他卖得最好的东西之一。即使2017年他停止卖这个灯了，还老有顾客写信问什么时候再卖。\n\n- **新情况：** 现在有了AI，情况不一样了。AI像个聪明的助手，能帮小老板分析哪些商品顾客最喜欢、最容易卖。比如，AI可能会发现Mike的闪电灯这么好卖，就建议他重新设计一个类似的。AI还会根据天气、季节、甚至顾客的浏览习惯来出主意。\n\n- **AI的作用：** 以前小老板做决策靠的是经验和感觉，现在有了AI帮忙，就像有了个数据分析师。AI能快速处理大量信息，比如顾客评论、销量数据，告诉老板该做什么、不该做什么。\n\n- **生活例子：** 想象一下你去超市买东西，收银员用个小机器扫了你买的东西，然后告诉你最近什么商品打折、什么商品最好卖。AI对网店的作用就像这个机器，只不过它是给老板用的，帮老板知道该卖什么才能赚更多钱。\n\n- **总结：** AI让小网店老板不用再只靠老方法，而是有了科学依据来做决定。它让卖东西变得更聪明、更高效，也让小老板更容易跟上市场变化。",
-      "summarized_at": "2026-04-11T08:53:45.760Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1775897607656",
       "title": "The gig workers who are training humanoid robots at home",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# Material UI 组件库介绍\n\nMaterial UI 是一个专门为 React 开发的工具包，它能让开发者轻松创建符合 Google 材质设计风格的网页。简单来说，就像用现成的家具零件搭积木，你不需要从零开始设计，直接拿现成的组件就能快速搭建出美观又好用的网页。\n\n## 核心功能\n- **免费使用**：这个工具包完全免费，任何人都可以无限次使用，不需要交任何费用。\n- **组件丰富**：里面有各种各样的网页元素，比如按钮、输入框、下拉菜单、导航栏等，就像一个大型超市，商品应有尽有。\n- **风格统一**：所有组件都是按照 Google 的设计风格制作的，保证整个网页看起来协调一致，不会混乱。\n- **简单易用**：开发者只需要简单几行代码，就能把组件添加到网页中，就像用乐高拼积木一样方便。\n\n## 适合谁用\n- **初学者**：如果你刚学网页开发，还不懂如何设计美观的界面，这个工具包能帮你快速上手。\n- **上班族**：对于有经验的开发者来说，用这个工具包可以节省大量时间，不用每次都重新设计组件。\n- **所有人**：只要你在做网页开发，特别是需要符合 Google 设计风格的项目，Material UI 都是一个不错的选择。\n\n## 为什么受欢迎\n- **免费**：在 GitHub 上，免费且实用的工具包总是最火的。\n- **易用**：简单的设计让开发者可以快速完成工作，不用花时间在细节上。\n- **风格统一**：Google 的设计风格在全球范围内被广泛认可，用这个工具包可以确保网页看起来专业且一致。\n\n总之，Material UI 就像一个网页开发者的“瑞士军刀”，功能强大又免费，非常适合快速搭建符合 Google 设计风格的网页。",
       "summarized_at": "2026-04-11T08:54:33.001Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775897613621",
-      "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
-      "summary": "作者/吴琼\n报道/投资界PEdaily\n唏嘘一幕。\n近日，知名AI创业公司Yupp宣布：将停止服务，于4月15日正式关闭。要知道，这距离Yupp产品上线才不到一年时间。\n曾经，Yupp的故事颇具前景：瞄准AI模型评测赛道——通过免费模型服务吸引用户评测，再将测评数据卖给模型厂商。犹记得2024年，公司拿下3300万美元（约合2.2亿元）的豪华种子轮，身后聚集a16z合伙人、Google首席科学家、Twitter联合创始人等超45位天使投资人。\n只是，Yupp却以极为荒诞的方式失败：投资人的钱还没花完，AI技术的演进就让其市场不复存在。而这一切，就发生在短短几个月之间。\n拿下豪华种子轮，一家明星...",
-      "url": "https://36kr.com/p/3762088319484419?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-11T07:20:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 明星AI公司Yupp突然倒闭，原因让人唏嘘\n\nYupp是一家做AI评测的创业公司，相当于给各种AI模型当\"质检员\"。他们先免费让用户试用AI产品，然后收集测评数据卖给AI厂商。2024年，他们刚上线产品不到一年，就拿了3300万美元的巨额投资，投资人都是行业大牛，像a16z合伙人、Google科学家等。\n\n可没想到，几个月后Yupp突然宣布倒闭。这不是公司经营不善，而是AI技术发展太快。刚开始市场需要测评数据，但很快AI技术就进步到不需要这些数据了，Yupp的市场直接没了。\n\n就像你开一家修自行车铺，突然出现全自动修车机，你的生意就做不到了。Yupp就是遇到了这种情况，投资人的钱还没花完，技术进步就让他们的业务突然没了。这个案例说明，AI行业变化太快，即使拿到巨额投资，也可能因为技术革新而失败。",
-      "summarized_at": "2026-04-11T08:54:30.313Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775897613621",
-      "title": "奥特曼家被炸了！",
-      "summary": "奥特曼家被炸了\n【导读】当地时间周五清晨，奥特曼家被炸了。奥特曼发出家人和孩子的照片，并且发出长文表示，AGI如今已经如同魔戒一般，让人做出疯狂的举动。\n奥特曼家被炸了！\n就在当地时间周五清晨，一名20岁男子向奥特曼旧金山中投掷了燃烧弹，引起火灾。\n这栋豪宅价值2700万美元。\n凌晨4点12分，警方接到报警，调查后发现无人受伤，火势已被控制。但嫌疑人已经徒步逃跑，体貌特征已被通报。\n凌晨5点07分左右，警方又接到报警称，OpenAI办公楼外，一名身份不明的男子扬言要烧毁大楼。\n警员很快发现，该男子与向奥特曼家中投掷燃烧弹的嫌疑人特征相符，应为同一人，警方立即将其拘留。\n现在，旧金山警察局已经在...",
-      "url": "https://36kr.com/p/3762027785224707?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-11T06:17:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 奥特曼家被炸了\n\n- **事件概述**  \n  最近，奥特曼在旧金山的家被炸了。有个20岁的小伙子半夜扔了燃烧弹，把价值2700万美元的大房子点着了。幸运的是，没人受伤，火也及时被扑灭。\n\n- **嫌疑人抓到了**  \n  警察很快锁定了这个小伙子，发现他还在附近扬言要烧OpenAI的办公楼。警察马上就把他抓了，原来这就是同一个人。\n\n- **奥特曼的感慨**  \n  奥特曼发照片和长文说，现在的人工智能（AGI）太厉害了，像魔戒一样让人疯狂。他可能是觉得AI太危险，才做出这种事。\n\n- **生活化比喻**  \n  就像有人觉得手机太方便了会惹麻烦，这个小伙子可能觉得AI发展太快会出事，所以用暴力表达不满。不过这种做法显然不对，毕竟炸房子伤不了问题本身，只会害人。\n\n- **警方行动**  \n  警方现在正在调查，希望找出小伙子这么做的原因。这也提醒大家，科技发展要小心管理，避免有人走极端。",
-      "summarized_at": "2026-04-11T08:54:39.272Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775897613621",
-      "title": "那个“爱马仕”，想拯救“智障”小龙虾",
-      "summary": "文｜Lambda\n编辑｜晓静\n4月初，Hermes Agent 火了。这个名字直接让人联想到奢侈品牌爱马仕，所以也被戏称为“爱马仕Agent”。\n它由 Nous Research 在 2 月发布，定位是「The agent that grows with you」。核心卖点是一个闭环学习系统：Agent 完成复杂任务后，自动把经验固化成 Skill，下次遇到类似任务直接复用，还能在使用过程中持续改进。Skill 自动生成、越用越强——这是 Agent 领域目前最有吸引力的叙事之一。\n但这个叙事遮蔽了一个更基本的问题：Skill 真的是当前 Agent 落地的主要瓶颈吗？\n\n图片由AI生成\n01...",
-      "url": "https://36kr.com/p/3761883183530502?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-11T03:47:59.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## \"爱马仕Agent\"的神奇学习法\n\n最近有个叫\"爱马仕Agent\"的AI火了，名字一听就很贵，其实就是一种能不断变聪明的机器人。它最大的特点就像一个爱学习的学生：每次做完任务（比如下棋、写代码），就会把经验写成\"技能卡\"，下次遇到类似问题就直接用，用得越多越熟练。\n\n- **技能卡就是经验包**：比如你学骑自行车，第一次摔了几次，后面越来越稳，这就是把摔倒的经验记下来，下次不犯同样的错。\n- **越用越强**：就像你经常锻炼身体，肌肉会越来越壮，这个AI也是一样，用得多了，处理问题的能力就越来越强。\n- **现在的问题**：虽然这个学习法很厉害，但很多人觉得，是不是所有AI都需要这么复杂的技能卡呢？也许有些任务换个简单方法也能搞定。\n\n总的来说，\"爱马仕Agent\"就像个会学习的机器人，它的神奇之处在于能不断积累经验，但到底所有AI都需要走这条路，还有待观察。",
-      "summarized_at": "2026-04-11T08:54:39.852Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775897613621",
-      "title": "雷军投的\"红娘\"要去IPO了",
-      "summary": "伊达母公司米连科技向港交所递交招股书\n作者 | 王涛编辑 | 吾人\n来源 | 融中财经\n又一个“红娘平台”要去IPO了。\n前不久，伊达母公司米连科技向港交所递交招股书，由华泰国际担任独家保荐人。这也是继去年9月米连首次递表失效后的第二轮冲刺。\n据悉，米连在海内外运营有多款在线情感社交平台。其中，2017年上线的伊对APP是米连科技的核心产品，更新后的招股书显示，其开创的主持人用户引导的三方互动，以及收入分成模式，在2025年共计为母公司带来了33.67亿元营收，占总营收比例约八成。\n与互联网企业常见的“赔本赚吆喝”的套路不同，米连的财报十分亮眼。招股书披露其在2025年全年营收41.22亿元，...",
-      "url": "https://36kr.com/p/3761856919093768?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-11T03:19:31.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 红娘平台要上市了\n\n米连科技，就是雷军投的那个“红娘公司”，准备去香港股票市场上市了。他们把申请表递交给港交所，希望得到批准。这已经是他们第二次提交申请，去年第一次没成功，现在又试一次。\n\n米连不光在中国做，还在国外运营好几个帮人找对象的APP，其中伊对APP是他们最重要的产品。这个APP有个特别的模式：有个人像主持人一样引导双方聊天，而且收入是分成给这三个人。因为这个模式，2025年靠伊对APP，米连赚了33.67亿元，占了公司总收入的八成左右。\n\n跟很多互联网公司亏钱吸引人不同，米连的账本很漂亮。2025年他们总共赚了41.22亿元。这说明帮人找对象这事儿，做得好也能赚钱。现在他们想上市，就是想让更多人知道他们，也方便他们拿到更多钱继续发展。",
-      "summarized_at": "2026-04-11T08:54:45.068Z",
       "summary_status": "success"
     },
     {
