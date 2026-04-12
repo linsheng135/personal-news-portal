@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T08:58:29.191Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-04-12T08:58:29.192Z",
+    "date": "2026-04-12",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1775984217824",
-      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I ...",
-      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-08T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Mustafa Suleyman谈AI发展不会遇到瓶颈的原因\n\n### 人类思维与AI发展的差异\n我们平时做事，比如走路，都是线性的。走一小时能走一段距离，走两小时就是两倍的距离。这种想法在古代草原上很管用，但面对AI发展的指数级增长，就完全不对了。\n\n### AI的指数级发展\nAI的发展不是一步一步慢慢来的，而是像滚雪球一样越滚越大。就像一个雪球从山坡上滚下来，越滚越大，越滚越快。AI也是如此，它的进步速度比我们想象的要快得多。\n\n### 为什么AI不会遇到瓶颈\n- AI的发展是基于指数级的，不是线性的\n- AI技术在不断突破，新的算法和模型层出不穷\n- 计算能力和数据量的增长为AI提供了持续的动力\n\n### 生活中的例子\n想象一下，你用手机打游戏。刚开始可能很简单，但很快就变得很难。这是因为游戏设计者用了指数级的设计，每一关都比上一关难得多。AI也是这样，它的进步会让我们越来越惊讶。\n\n### 总结\nAI的发展不会很快遇到瓶颈，因为它遵循的是指数级增长的规律。就像智能手机的发展，从功能机到智能机，用了几十年，但最近几年进步特别快。未来，AI还会继续快速发展，带来更多惊喜。",
-      "summarized_at": "2026-04-12T08:57:07.502Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775984217824",
-      "title": "Enabling agent-first process redesign",
-      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around age...",
-      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-07T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI能自动搞定工作流程\n\n现在有两种系统，一种是像电脑里的固定程序，只会按预设的规则做事；另一种是AI智能体，它能像人一样学习、适应和改进工作方法。比如，你让AI帮你看家，它一开始可能只会按固定时间开关灯，但如果它学会了你平时的习惯，就会自动调整，更省心。\n\nAI智能体特别厉害的地方在于，它能实时和周围环境互动。想象一下，你让AI帮你安排旅行，它会同时联系航班、酒店，还知道怎么避开高峰期，全程不用你操心。这就叫\"自主执行整个工作流程\"。\n\n要让AI真正发挥作用，我们就得重新设计工作方式。以前我们做事都是预设流程，现在要把流程设计得更灵活，让AI能随时调整。比如，以前订机票只能按固定时间选，现在AI可以帮你实时查价，随时订最划算的票。\n\n总之，AI就像个能干的助手，只要我们换个思路设计工作流程，它就能帮我们大大提高效率。",
-      "summarized_at": "2026-04-12T08:57:06.778Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775984217824",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, respo...",
-      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-06T16:33:35.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI可能取代多少工作？\n\n最近很多人担心，人工智能（AI）会抢走很多工作，让很多人失业。比如，工厂里的机器人已经能代替一些人工操作，客服机器人也能处理简单问题。这种担心导致一些人觉得未来工作机会会越来越少。\n\n## 一个关键数据\n\n但最新研究提出一个观点：其实我们可能只看到了冰山一角。就像你发现家里冰箱坏了，可能先检查灯是不是亮着，而不是直接换掉整个冰箱。AI目前的影响可能就像检查灯泡一样，只是一个小问题，但大家却把它当成要换掉冰箱的大事。\n\n- **AI目前能做的有限**：现在AI主要负责重复性、数据密集型的工作，比如数据录入、简单的客户服务。但这些工作只是整个工作体系里的小部分。\n- **人类工作不易被取代**：需要创造力、复杂决策、情感交流的工作（比如心理咨询、艺术创作）目前还很难被AI替代。\n- **技术进步需要时间**：就像手机从只能打电话发展到现在的智能手机，AI也需要时间发展才能胜任更多工作。\n\n## 未来展望\n\n研究建议我们不要过度恐慌。AI可能会改变工作内容，比如把一些简单任务交给AI，让人更有时间做创造性和决策性的工作。就像现在很多公司用软件提高效率，但最终还是要靠人来做重要决定。\n\n简单来说，AI可能会改变工作方式，但不太可能完全取代人类。关键在于我们如何适应这些变化。",
-      "summarized_at": "2026-04-12T08:57:16.728Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1775984217824",
-      "title": "AI is changing how small online sellers decide what to make",
-      "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails ...",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-06T11:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI改变小网店老板卖啥\n\n- 老板麦克一直卖个强力手电筒，黑乎乎的，特别亮也特别耐用。这手电筒是他店里最好卖的东西之一。\n- 2017年麦克不卖这手电筒了，但还经常收到顾客的邮件，说想再买这个。\n- 现在很多小网店老板像麦克一样，通过观察顾客的喜好来决定卖什么。以前可能靠老板自己猜，现在有了AI帮忙。\n- AI就像个超级侦探，能分析顾客买了什么、评价了什么、搜索了什么，然后告诉老板：“大家喜欢这种黑手电筒，下次可以多进点货。”\n- 以前老板做决定靠直觉，现在有了AI这个“大数据助手”，能更准确地知道什么产品能火。\n- 比如说，AI发现很多顾客买了手电筒又买了登山绳，可能会建议老板：“可以把手电筒和登山绳一起卖，这样顾客更喜欢。”\n- 所以现在小网店老板卖什么，不再只是凭感觉，而是靠AI告诉他们“大家想要什么”。",
-      "summarized_at": "2026-04-12T08:57:14.974Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1775984217824",
       "title": "The gig workers who are training humanoid robots at home",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 项目简介\n\nProject-HAMi / HAMi是一个让不同电脑的显卡能够一起工作的项目，就像把家里几台电脑的显卡拼在一起用。以前，每个电脑只能用自己的显卡，但现在这个项目让多个电脑可以共享一张大显卡，提高电脑的算力。\n\n### 核心功能\n\n- **显卡共享**：就像大家轮流用同一个游泳池游泳，这个项目让多个电脑轮流使用同一张显卡。\n- **Kubernetes支持**：它使用的是Kubernetes这个技术，就像用一个大管家来管理多个电脑，让显卡分配更公平、更高效。\n\n### 实际应用\n\n- **科学计算**：科学家做研究时，需要大量计算，现在可以用这个项目把多台电脑的显卡合起来算，加快研究速度。\n- **机器学习**：训练AI模型需要大量算力，这个项目让多个电脑的显卡一起工作，更快地训练出AI。\n\n### 为什么重要\n\n- **资源利用**：以前很多显卡只能闲置，现在可以一起用，提高资源利用率。\n- **成本降低**：不需要买更贵的电脑，只需共享现有的显卡，就能提高算力，省钱。\n\n### 使用方法\n\n- **简单易用**：就像用共享单车一样，安装简单，不需要复杂设置。\n- **跨平台**：支持多种操作系统，就像用同一个App可以在安卓和苹果手机上用。\n\n## 总结\n\nProject-HAMi / HAMi让多个电脑的显卡可以一起工作，提高算力，节省成本，就像把几个小水池合并成一个大池子，大家一起游泳更方便。这个项目特别适合需要大量计算的科学研究和AI训练，未来可能会有更多应用场景。",
       "summarized_at": "2026-04-12T08:58:13.106Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775984221671",
-      "title": "为什么有钱人也不买GUCCI了？",
-      "summary": "曾经一只酒神包便能掀起排队热潮的GUCCI（古驰），如今似乎正通过关店、降价来重新找回市场。\n3月底，GUCCI上海环贸iapm旗舰店关闭。此前，该品牌已撤掉上海芮欧百货和新世界大丸百货两家标志性门店——仅两年内一个城市内就关了三家店，关店数量占了总数的三分之一。\n但另一边，开进奥莱的GUCCI热闹非凡，成了排队王中的“当红炸子鸡”。只要去奥莱，大部分消费者首奔的店都是GUCCI，因为在那里可以淘到5折甚至2.5折的货品。\n\nGUCCI奥莱门店 | 图 王涵艺摄\n正价店卖不动，奥莱店“抢疯”。曾经的顶奢品牌GUCCI，到底怎么了？\nGUCCI为何卖不动？\n开云集团2025年财报显示，GUCCI...",
-      "url": "https://36kr.com/p/3762200670077448?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-11T09:16:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 为什么有钱人也不买GUCCI了？\n\n## GUCCI的店关了，打折店排长队\n GUCCI以前很火，一个包就能让人抢着买。但现在，它把上海的一些大店都关了，只在奥莱开了家店。这家店特别火，经常排长队，因为那里的东西打折很多，有的能打五折甚至二点五折。\n\n## 原因分析\n- **正价店没人买**：GUCCI的正价店卖不动，东西卖不出去。\n- **奥莱店受欢迎**：打折店的东西便宜，很多人愿意去买。\n- **品牌策略调整**：GUCCI可能在调整策略，通过关店和降价来吸引更多顾客。\n\n## 有钱人怎么了？\n有钱人以前喜欢买GUCCI，但现在也不买了。他们发现打折店的东西更划算，而且打折店还有他们喜欢的东西。\n\n## 总结\nGUCCI在调整策略，通过关店和降价来吸引更多顾客。虽然正价店卖不动，但打折店很受欢迎。有钱人也在变化，他们更愿意去打折店买东西。GUCCI需要适应这种变化，才能继续发展。",
-      "summarized_at": "2026-04-12T08:58:11.524Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775984221671",
-      "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
-      "summary": "作者/吴琼\n报道/投资界PEdaily\n唏嘘一幕。\n近日，知名AI创业公司Yupp宣布：将停止服务，于4月15日正式关闭。要知道，这距离Yupp产品上线才不到一年时间。\n曾经，Yupp的故事颇具前景：瞄准AI模型评测赛道——通过免费模型服务吸引用户评测，再将测评数据卖给模型厂商。犹记得2024年，公司拿下3300万美元（约合2.2亿元）的豪华种子轮，身后聚集a16z合伙人、Google首席科学家、Twitter联合创始人等超45位天使投资人。\n只是，Yupp却以极为荒诞的方式失败：投资人的钱还没花完，AI技术的演进就让其市场不复存在。而这一切，就发生在短短几个月之间。\n拿下豪华种子轮，一家明星...",
-      "url": "https://36kr.com/p/3762088319484419?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-11T07:20:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 明星AI公司Yupp突然倒闭，投资人的钱还没花完就凉凉\n\n- **Yupp是怎么开始的**：这家AI公司想做一个评测AI模型的平台，就像买手机前去网上看评测一样。他们先给用户免费试用AI服务，收集数据，然后把数据卖给学生产AI的公司。听起来挺聪明，但没想到很快就没市场了。\n\n- **拿了巨额投资**：2024年，Yupp拿到了3300万美元（差不多2.2亿人民币）的投资，投资人都是行业大腕，比如a16z合伙人、Google科学家等，加起来有45个人。这就像有人给你一大笔钱，让你盖房子，结果你还没动工，地基都没挖好。\n\n- **为啥突然失败**：AI技术发展太快，Yupp还没开始赚钱，市场就变了。就像你准备卖二手手机，结果新手机直接降价了。Yupp的商业模式被新技术无情淘汰，投资人手里的钱还剩大半没用就打了水漂。\n\n- **结局令人唏嘘**：公司宣布4月15日停业，上线不到一年就倒闭了。这就像你刚开学就退学了，连学期中间的考试都没参加。投资人看着手里的钱还没花完，技术却已经过时了，只能干着急。",
-      "summarized_at": "2026-04-12T08:58:20.053Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775984221671",
-      "title": "奥特曼家被炸了！",
-      "summary": "奥特曼家被炸了\n【导读】当地时间周五清晨，奥特曼家被炸了。奥特曼发出家人和孩子的照片，并且发出长文表示，AGI如今已经如同魔戒一般，让人做出疯狂的举动。\n奥特曼家被炸了！\n就在当地时间周五清晨，一名20岁男子向奥特曼旧金山中投掷了燃烧弹，引起火灾。\n这栋豪宅价值2700万美元。\n凌晨4点12分，警方接到报警，调查后发现无人受伤，火势已被控制。但嫌疑人已经徒步逃跑，体貌特征已被通报。\n凌晨5点07分左右，警方又接到报警称，OpenAI办公楼外，一名身份不明的男子扬言要烧毁大楼。\n警员很快发现，该男子与向奥特曼家中投掷燃烧弹的嫌疑人特征相符，应为同一人，警方立即将其拘留。\n现在，旧金山警察局已经在...",
-      "url": "https://36kr.com/p/3762027785224707?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-11T06:17:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 奥特曼家被炸了\n\n### 事件概述\n奥特曼在旧金山的一栋价值2700万美元的豪宅被人用燃烧弹炸了。这事发生在周五凌晨，当时有个20岁的小伙子扔了燃烧弹，结果没伤到人，但把房子点着了。警察很快抓到这个小伙子，还发现他扬言要烧OpenAI办公楼。\n\n### 犯罪动机\n奥特曼在事后发照片和长文，说现在的人工智能太厉害了，像魔戒一样让人疯狂。意思就是，这小伙子可能是因为嫉妒奥特曼或者被AI搞烦了才这么做。\n\n### 警方行动\n- 警察接到报警后，发现火势被控制，但嫌疑人已经跑了。\n- 第二天，警察又接到报警，发现那个扔燃烧弹的小伙子还在外面晃悠，还威胁要烧OpenAI大楼。\n- 警察根据描述找到了嫌疑人，并立刻把他抓了。\n\n### 关键信息\n- 奥特曼家被炸了，但没人受伤。\n- 犯罪嫌疑人是个20岁的小伙子。\n- 警方迅速抓到嫌疑人，还发现他有其他威胁行为。\n- 奥特曼认为AI太强大了，容易让人做出疯狂的事。",
-      "summarized_at": "2026-04-12T08:58:20.679Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1775984221671",
-      "title": "那个“爱马仕”，想拯救“智障”小龙虾",
-      "summary": "文｜Lambda\n编辑｜晓静\n4月初，Hermes Agent 火了。这个名字直接让人联想到奢侈品牌爱马仕，所以也被戏称为“爱马仕Agent”。\n它由 Nous Research 在 2 月发布，定位是「The agent that grows with you」。核心卖点是一个闭环学习系统：Agent 完成复杂任务后，自动把经验固化成 Skill，下次遇到类似任务直接复用，还能在使用过程中持续改进。Skill 自动生成、越用越强——这是 Agent 领域目前最有吸引力的叙事之一。\n但这个叙事遮蔽了一个更基本的问题：Skill 真的是当前 Agent 落地的主要瓶颈吗？\n\n图片由AI生成\n01...",
-      "url": "https://36kr.com/p/3761883183530502?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-11T03:47:59.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## \"爱马仕\"智能助手想帮小龙虾变聪明\n\n最近有个叫Hermes Agent的AI火了，名字听起来像奢侈品牌爱马仕，所以大家叫它\"爱马仕Agent\"。这个AI有个特别厉害的地方，它能边学边干。比如你让它做一道菜，做完后它会记住步骤，下次再做类似菜的时候就能直接用，而且用得越多越熟练，就像一个越用越聪明的厨师。\n\n### - 核心功能：越用越聪明的助手\nHermes Agent有个\"技能\"系统，完成任务后自动保存经验，下次遇到类似任务就能直接用。就像你学会骑自行车后，下次骑就不需要从头学起。这个系统让AI助手越来越高效。\n\n### - 提出的问题：真的这么简单吗？\n虽然这个功能很酷，但有人觉得它可能不是AI目前最大的难题。就像做饭，虽然学会做菜很重要，但找个好食材、掌握火候这些基础问题可能更关键。Skill自动生成很吸引人，但AI发展面临的根本问题可能更深。\n\n### - 生活中的例子\n想象一下教小孩做家务，学会第一个步骤后，他就能用这个经验做类似的事情。但要让小孩真正做好家务，还需要解决很多基础问题，比如怎么用工具、注意安全等。Hermes Agent的Skill系统就像教小孩的第一个步骤，但AI要完全像大人那样做事，还有很长的路要走。",
-      "summarized_at": "2026-04-12T08:58:29.191Z",
       "summary_status": "success"
     },
     {
