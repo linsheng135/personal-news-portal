@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-20T10:04:51.989Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-04-20T10:04:51.989Z",
+    "date": "2026-04-20",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1776679418104",
-      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.  Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their co...",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-20T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 中国技术工人在训练AI替身，但有人开始反思了\n\n## 背景情况\n在中国，很多技术行业的员工被老板要求训练AI助手，这些AI助手未来可能会取代他们的工作。这听起来像是科技发展带来的好处，但实际上让一些最早尝试这项技术的人开始思考：我们到底在做些什么？\n\n## AI助手的作用\n这些AI助手（被叫做\"AI替身\"）可以处理一些日常工作。比如，员工可以教会AI如何处理邮件、安排会议或者整理文件。就像一个人教机器人做家务一样，员工把经验教给AI，AI就能代替他们完成这些任务。\n\n## 员工的矛盾心理\n虽然很多员工对新技术充满期待，但当他们意识到这些AI最终可能会取代自己时，心里就开始矛盾了。就像你教孩子做家务，本意是帮自己减轻负担，但没想到孩子长大后可能就不需要你帮忙了。\n\n## GitHub项目\"同事技能\"\n前段时间，有个GitHub项目叫\"同事技能\"，号称能帮助员工\"提炼\"自己的工作技能，让AI更好地模仿他们。这个项目让员工看到了AI的潜力，但也加剧了他们对未来工作的担忧。\n\n## 核心问题\n现在，中国技术工人正在面临一个选择：是拥抱AI带来的便利，还是担心自己会被AI取代？这个问题就像农民面对机械化：机器能提高效率，但也会让农民失业。",
-      "summarized_at": "2026-04-20T10:03:47.761Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1776679418104",
-      "title": "How robots learn: A brief, contemporary history",
-      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robo...",
-      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-17T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 机器人学习的简史\n\n过去，机器人专家们总是想造出像人一样聪明的机器人，但实际做出的却只是工厂里拧螺丝的机械臂。就像本来想造出会说话、会思考的机器人，最后却只做出了扫地机器人。他们花了很长时间改进机器人手臂，却很少真正实现最初的梦想。\n\n### 机器人的成长过程\n- 早期目标：造出能做各种复杂事情的机器人，比如像人一样灵活\n- 实际成果：大部分机器人只做了简单重复的工作，比如工厂里的流水线作业\n- 现在情况：机器人技术进步了，但很多还是只做了些小功能，比如扫地、送东西\n\n### 为什么会这样呢？\n- 难度太大：造一个能像人一样思考和行动的机器人太复杂了\n- 造价太高：复杂的机器人太贵，只有大公司才能负担得起\n- 需求有限：大部分工厂只需要能做简单工作的机器人\n\n### 今天的机器人\n现在，机器人专家们开始更实际一些，造一些能做具体工作的机器。比如能送快递的无人机，或者能做简单家务的扫地机器人。虽然离当初的宏伟目标还有距离，但至少在解决实际问题方面取得了进步。\n\n机器人技术还在发展，未来可能会慢慢接近最初的梦想。但就像学骑自行车一样，都是从扶着墙开始，慢慢才学会独立骑行的。机器人也是一样，一步一步来，先把简单的功能做好，再慢慢增加复杂的本领。",
-      "summarized_at": "2026-04-20T10:03:48.181Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1776679418104",
-      "title": "Making AI operational in constrained public sector environments",
-      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, pu...",
-      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-16T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 政府机构如何用好AI\n\n### 背景情况\n现在各行各业都在搞AI，连政府部门也不能落后。但跟企业不一样，政府办事有好多规矩限制，比如数据不能随便用，操作流程要严格，安全风险也得特别小心。\n\n### 政府用AI的难点\n- **数据限制**：政府的数据就像家里的隐私文件，不能随便给别人看，用AI分析前得先做很多安全检查\n- **流程繁琐**：政府做啥都要走正规手续，AI项目要经过层层审批，比企业项目慢得多\n- **预算问题**：政府钱都来自纳税人，花钱前要算得很仔细，不能像企业那样大胆投资\n\n### 解决方法\n1. **从小处着手**：先在某个小部门试点AI，比如用AI帮社保局自动处理简单申请，成功后再慢慢扩大\n2. **合作创新**：政府可以和科技公司合作，让企业帮忙开发适合政府环境的AI工具\n3. **简化流程**：针对政府特点，开发一些专门适合政府用的AI系统，减少不必要的审批环节\n\n### 核心建议\n政府用AI不能完全照搬企业模式，要结合自己的实际情况，慢慢来。可以先从简单、风险小的项目开始，再逐步扩大应用范围，这样才能既利用好AI技术，又不违反政府的规定。",
-      "summarized_at": "2026-04-20T10:03:54.453Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1776679418104",
-      "title": "Treating enterprise AI as an operating layer",
-      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: wh...",
-      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-16T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业AI的真正优势\n\n### 当前的误区\n现在大家都在讨论企业AI时，最关注的往往是那些炫酷的模型，比如GPT和Gemini，还有各种测试分数。这就像买手机时只看处理器速度和拍照分辨率，却忘了电池续航和系统稳定这些更重要的东西。\n\n### 真正的关键\n实际上，企业AI最厉害的地方不在于模型有多聪明，而在于组织结构。这就像做饭，一个人可能技术很好，但团队协作、流程设计才是能持续做好的关键。企业AI也是如此，真正有优势的是那些能让AI顺畅运行的组织方式。\n\n### 常见的错误做法\n很多公司花大钱买最好的AI模型，却忘了给员工培训，或者系统之间不兼容，就像买了新汽车却没修好停车位。这种情况下，再厉害的AI也无法发挥真正作用。\n\n### 如何提升\n要真正用好AI，企业需要：\n- **统一流程**：让各部门都能用AI提高效率\n- **持续培训**：让员工掌握AI工具\n- **系统整合**：确保不同AI工具能互相配合\n\n就像学开车，不是光会踩油门刹车就行，还要懂交通规则、会看路况，这样才能安全高效地行驶。企业AI也是如此，结构性的优势才是长期竞争力所在。",
-      "summarized_at": "2026-04-20T10:03:54.795Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1776679418104",
       "title": "Why having “humans in the loop” in an AI war is an illusion",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 用React写邮件的利器：Resend和React-email\n\n### 核心功能\nResend和React-email是两个能帮你轻松发送邮件的工具，就像用微信发朋友圈一样简单。它们用React这个网页开发技术来写邮件，让你不用学复杂的邮件代码。\n\n### 为什么要用\n- **简单易用**：不用像以前那样写一堆枯燥的代码，直接用React组件就能写邮件\n- **效果好看**：可以像做网页一样设计邮件模板，不用每次都手动调整格式\n- **发送方便**：集成了很多邮件服务商（如Gmail、Outlook），一键就能把邮件发出去\n\n### 适合谁用\n- 网页开发者：如果你们在写网站时需要发邮件通知用户（比如注册成功），这两个工具特别有用\n- 小团队：不用自己买昂贵的邮件发送服务，性价比高\n- 创业者：快速实现邮件功能，不用花大量时间研究邮件代码\n\n### 使用场景举例\n比如你要做一个在线课程网站，当用户报名成功后，系统自动发一封确认邮件，里面还有课程资料链接。用Resend和React-email，你只需要写几行React代码，就能实现这个功能，而且邮件会像你的网站一样美观。\n\n这两个工具在GitHub上很受欢迎，说明很多开发者都在用它们。如果你正在开发需要发邮件的功能，不妨试试看，可能会帮你省不少时间。",
       "summarized_at": "2026-04-20T10:04:38.209Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1776679421864",
-      "title": "营销情怀、剧情不通，为什么《安魂曲》依旧好评如潮？| 36氪游戏",
-      "summary": "文丨贝果树\n编辑丨果脯\n发售初期，《生化危机9：安魂曲》曾以9.5的用户评分登顶Metacritic“用户评分游戏”的榜单。\n\nMetacritic榜单\n这似乎是史上最佳的一部生化危机——即使是广受好评的《生化危机4：重制版》和《生化危机2：重制版》，评分也只有9.0和8.9。发售第二十天，《安魂曲》的销量突破了600万份，是《生化危机》系列历史上最快达到这一销量的作品。\n但玩家社区中的批评声也不绝于耳。\n首先，在体验之前，《安魂曲》十小时左右的游戏流程看上去就不太匹配它三百多的售价。真正游玩下来，也能感受到剧情逻辑、游戏设计等方面的瑕疵。\n有玩家制作视频，评价它“素材复用、偷工减料”，获得了...",
-      "url": "https://36kr.com/p/3774966004892416?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-20T09:45:58.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 《安魂曲》好评背后的秘密\n\n### - 评分高但有人抱怨\n《生化危机9：安魂曲》刚发售时评分很高，比《生化危机4：重制版》还高。很多人觉得这是系列最好的作品，销量也很火爆，20天就卖了600万份。但也有人觉得不值这个价，比如10小时的游戏流程和剧情、设计上的问题。\n\n### - 玩家为啥还喜欢？\n虽然有些缺点，但《安魂曲》还是赢得了好口碑。这可能是因为：\n1. **情怀加分**：生化危机老粉丝觉得系列回归初心了，就像小时候最爱的零食，即使有点瑕疵也愿意买。\n2. **操作爽快**：游戏战斗流畅，打怪刺激，让人停不下来，像看连续剧一样被吸引。\n3. **画面进步**：画面比以前好很多，细节丰富，像看高清电影。\n\n### - 为什么有人觉得“偷工减料”？\n有些玩家觉得游戏内容重复，像把以前的内容重新组合，没有太多新东西。这就像买了个拼图，发现很多片是以前买过的，虽然整体不错，但感觉花冤枉钱了。\n\n### - 总结\n《安魂曲》的成功，一半靠情怀和画面，另一半是玩家对系列的支持。虽然游戏有缺点，但爽快的体验让很多人愿意忽略不足，就像有人买手机，明知有缺点，但喜欢就用。",
-      "summarized_at": "2026-04-20T10:04:37.782Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1776679421864",
-      "title": "申根签证申请同比增长20%，VFS Global观察中国市场回暖｜最前线",
-      "summary": "随着全球出境游持续修复，签证申请这一长期被视为“前置流程”的环节，正在被重新放回旅行产业链的核心位置。\n近期，全球最大的政府和外交使团签证及护照外包服务商VFS Global（威孚仕）在中国市场释放出多个关键信号：一方面，2026年出行旺季已明显提前，申请需求快速回升；另一方面，中国申请人对签证服务的期待，正从单一的效率导向转向“效率+体验”的复合型需求。这一变化，不仅放大了签证体系在旺季的承压程度，也在重塑行业竞争的底层逻辑。\n\n威孚仕VFS Global中国及亚太首席运营官 Simon Peachey \n从节奏上看，签证市场的季节性特征正在恢复甚至强化。\n根据VFS Global披露的数据...",
-      "url": "https://36kr.com/p/3774760404894216?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-20T09:40:05.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 申根签证申请人数比去年多了20%\n\n最近大家出国旅游又开始多了起来，申请申根签证的人也多了不少，比去年增长了20%。这事儿让专门办理签证业务的VFS Global公司看到了中国市场的回暖。\n\n### 旅行旺季提前了\n\n以前大家出国旅游都是年底或者过年的时候多，但现在不一样了，2026年出行旺季已经提前了，想出国的人开始提前准备签证了。这说明大家想出国旅游的愿望越来越强烈了。\n\n### 签证申请不再只看快慢\n\n以前大家申请签证最看重的是快不快，现在不一样了，除了快，大家还希望体验更好。比如原来可能只要递交材料就行，现在大家希望有更好的服务，能更快拿到签证，而且整个过程更舒服。\n\n### 签证办理压力变大\n\n因为申请的人多了，而且大家要求更高了，所以处理签证的机构压力就更大了。以前可能只是排队等，现在需要更高效、更好的服务，这就让整个行业需要升级。\n\n### 行业竞争变化\n\n以前大家办签证可能都找便宜的，现在不一样了，大家都希望又快又好，这会让一些只注重价格的公司被淘汰，更注重服务质量和效率的公司会更有竞争力。",
-      "summarized_at": "2026-04-20T10:04:44.275Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1776679421864",
-      "title": "灵光把手搓应用做成「朋友圈」，一人应用时代来了",
-      "summary": "最近，你的朋友圈被SBTI测试刷屏了吗？\n某天深夜，微信突然被一串串神秘代码占据。“装死者”、“送钱者”、“伪人”、“吗喽”，大家纷纷晒起自己开出的奇葩人格，朋友圈更是被晒“SEXY尤物”的截图刷了屏。\n而真相是，这个突然爆火的小测试不是什么大厂有预谋的营销，只是一位03年女孩用四五天时间手搓出来的小应用——创作者@Q肉儿串儿（B站ID）学的是金融，和编程完全不沾边，她搓这个小应用的初衷,只是为了通过一套整活的人格测试，劝她那嗜酒如命的朋友戒酒。\n\n时代变了，年轻人搞抽象的媒介正在迭代。过去是发疯文学、表情包或短视频，如今，在AI抹平技术门槛、0代码基础也能手搓应用的时代，“手搓应用”成了年轻...",
-      "url": "https://36kr.com/p/3774865386144519?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-20T07:56:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 一人应用时代来了\n\n最近朋友圈被一个叫SBTI的测试刷屏了，大家都晒着自己的人格测试结果，什么“装死者”、“送钱者”的，特别好玩。你可能以为这是大公司搞的营销，其实不是。这个火起来的小应用，是个90后女孩花了四五天时间“手搓”出来的，她学的是金融，根本不会编程。她做这个测试的初衷，是想劝她那个爱喝酒的朋友戒酒。\n\n这说明啥？以前年轻人搞怪都用发疯文学、表情包或者短视频，现在不一样了。现在AI技术发展，连没学过编程的人都能自己做一个简单应用。这位女孩就是例子，她没学过编程，但靠AI工具做出了能火的应用。这代表一个新趋势：未来很多小应用可能都是个人“手搓”出来的，不是大公司做的。普通人也能轻松做应用，这叫“一人应用时代”。就像以前你得去餐馆吃饭，现在在家也能做简单饭菜一样方便。",
-      "summarized_at": "2026-04-20T10:04:43.777Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1776679421864",
-      "title": "启明头条 | 连接世界级的科学与顶级的投资者，首届S2S中国研讨会创业提案第二次征集进行中",
-      "summary": "由全球顶尖的风险投资机构RA Capital Management与启明创投联合主办的首届S2S（Science2Startup）中国研讨会将于2026年10月15日在浙江杭州隆重举行。作为生物科技领域的顶级创业赛事，日前，首届S2S中国研讨会面向中国顶尖高校及研究机构的创业提案的第二次征集（https://www.s2schina.com/）已进入倒计时（截止日期：2026年4月30日）。ATLATL飞镖加速器作为首选合作伙伴，动脉网、医学界·药创新、医药魔方为媒体战略合作伙伴，将全程助力和支持本次S2S研讨会在中国成功举办。\n\nS2S（Science2Startup）是全球知名的生命科学创...",
-      "url": "https://36kr.com/p/3774783568937478?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-20T07:01:15.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "```markdown\n## S2S中国研讨会创业提案征集进行中\n\n### 事件背景\n首届S2S中国研讨会是一个连接科学家和投资者的活动，由全球顶尖的投资机构RA Capital Management和国内知名的启明创投联合举办。这个会议专门为生物科技领域的创业者提供展示机会，就像是一个专为发明新药、生物技术产品的创业者开的大型招聘会。\n\n### 时间和地点\n研讨会定在2026年10月15日，在浙江杭州举行。地点选择在杭州是因为那里有 lots of 创业氛围和科技资源。\n\n### 投资提案征集\n为了让更多的创业者有机会展示自己的项目，主办方现在正在进行第二次的创业提案征集。这次征集面向的是中国顶尖高校和研究机构里的科学家，只要他们有好的想法和项目，都可以报名参加。\n\n### 报名截止日期\n报名的时间很紧迫，截止日期是2026年4月30日。相当于从现在开始到4月底，大家都要抓紧时间提交自己的创业计划。\n\n### 合作伙伴\n为了让研讨会更成功，主办方还找了几个合作伙伴。比如ATLATL飞镖加速器会提供创业辅导，动脉网、医学界·药创新、医药魔方则会帮忙宣传，就像是一个大型的团队合作项目。\n\n### 核心意义\n这个研讨会的主要目的是帮助科学家把实验室里的好想法变成市场上的产品，同时让投资者找到有潜力的创业项目。简单说，就是让科学和商业更好地结合，推动新科技更快地落地。\n```",
-      "summarized_at": "2026-04-20T10:04:51.988Z",
       "summary_status": "success"
     },
     {
