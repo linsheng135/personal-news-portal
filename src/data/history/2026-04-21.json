@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-21T09:46:48.739Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-04-21T09:46:48.740Z",
+    "date": "2026-04-21",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1776764718462",
-      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.  Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their co...",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-20T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 中国技术工人在训练AI替身并反弹\n\n最近，中国的一些技术工人在上班时被老板要求训练AI帮手，这些AI可以代替他们工作。本来大家都挺高兴用新技术的，但这件事让大家开始思考：我们到底需不需要AI来替我们干活？\n\n### AI替身是怎么回事\n\n有个GitHub项目叫\"同事技能\"，它说可以让员工把自己的工作\"提炼\"成AI能做的样子。就像把一个人的工作经验教给机器人助手，以后机器人就能代替人做那些事。\n\n### 人们开始犹豫了\n\n一开始大家挺兴奋的，觉得AI能帮我们干活，我们就可以做更有意思的工作。但现在有人想：如果AI越来越能干，我们是不是会被淘汰？就像当年机器织布代替了人工，很多人失业一样。\n\n### 谁在反对\n\n虽然很多技术工人都想用AI提高效率，但现在有人开始担心：如果过度依赖AI，我们会不会失去自己的工作？就像当年有人担心电脑会代替人写字一样，现在大家又在想AI会不会代替技术工人。\n\n### 人们的新想法\n\n现在大家开始反思：AI是不是应该只帮我们干活，而不是完全代替我们？就像我们让机器人扫地，但不会让机器人决定我们的生活一样。技术工人希望AI能帮忙，但不想被AI取代。",
-      "summarized_at": "2026-04-21T09:45:28.837Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1776764718462",
-      "title": "How robots learn: A brief, contemporary history",
-      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robo...",
-      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-17T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 机器人学习的发展历程\n\n### 过去的想法与现实差距\n过去，机器人研究者们总是想造出像人一样聪明的机器人，比如《星球大战》里的C-3P0，但最终做出的产品往往比较简单，像家里的扫地机器人Roomba。他们原本想造出能做各种复杂任务的机器人，结果只做到了工厂里自动化的机械手臂。这就像本来想造一栋豪华别墅，结果只盖了个小出租屋。\n\n### 研究重点的转变\n很多研究者其实一直想造出能像人一样智能的机器人，但实际做出的产品功能有限。他们希望机器人能做各种复杂事情，比如思考、说话、像人一样行动，但实际上大多数机器人只解决了特定问题，比如自动打扫卫生或搬运东西。这就像本来想教机器人做所有家务，结果只会拖地。\n\n### 核心问题：理想与现实的差距\n机器人技术的发展过程中，研究者们常常因为技术限制，做出的产品远不如最初设想的那样智能。理想中的机器人能像人一样灵活，但实际产品往往只能完成简单任务。这就像本来想造一辆能随便去的汽车，结果只能走固定路线的小火车。\n\n### 发展方向\n虽然目前机器人还达不到人类智能的水平，但研究者们仍在努力改进技术，希望未来能制造出更接近理想的机器人。就像手机从只能打电话到现在能做各种事情一样，机器人技术也在不断进步中。",
-      "summarized_at": "2026-04-21T09:45:28.791Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1776764718462",
-      "title": "Making AI operational in constrained public sector environments",
-      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, pu...",
-      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-16T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 公共部门如何让AI运作起来\n\n现在各行各业都在搞AI，连政府部门也不能落下。但政府跟公司不一样，它们有好多限制，比如安全规定严、管理流程复杂、操作要规范。这就好比学校搞活动，公司可以随便点歌，学校得先审批、再安排，还得保证所有学生安全。\n\n### 政府用AI的难点\n- **安全就像家里的保险箱**：政府数据比公司更敏感，得像保护档案室一样锁死，谁都不能随意修改。\n- **管理像开大会**：政府决策需要层层审批，AI要帮忙得先通过这个流程，不能绕过。\n- **操作像修路**：政府系统很多是老古董，AI要接入得先修好道路，不能随便动。\n\n### 怎么解决？\n1. **分步走**：先从简单任务开始，比如用AI处理表格，像Excel自动填表一样，慢慢扩展。\n2. **找帮手**：跟科技公司合作，就像请装修师傅帮忙改造老房子，他们懂技术也懂政府规矩。\n3. **立规则**：像制定考试评分标准一样，给AI划条红线，确保它干的事合法合规。\n\n核心是：政府用AI得像走钢丝，既要利用技术好处，又要确保不出任何差错。",
-      "summarized_at": "2026-04-21T09:45:35.436Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1776764718462",
-      "title": "Treating enterprise AI as an operating layer",
-      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: wh...",
-      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-16T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业AI的真正优势\n\n企业AI的发展就像盖房子，现在大家都在关注外表，比如模型好不好用（像比较手机品牌）、测试分数高不高（像比赛看谁跑得快）。但这些就像装修得漂不漂亮，真正能长久受益的是房子的结构设计。\n\n- **外表VS结构**  \n  好比买房子，有人喜欢华丽的外墙和漂亮的花园（就像现在流行的AI模型），但真正住得舒服的是房子是怎么建的——比如水电管路、承重墙这些基础部分。企业AI也一样，不是光看模型多厉害，而是要看整个系统怎么搭建。\n\n- **实际用途**  \n  现在AI比赛时，大家比谁会回答问题更准，但实际工作中，更重要的不是模型多聪明，而是能不能把AI自然地融入日常工作中。比如公司内部的客服系统，不是比谁回答问题更完美，而是看能不能自动处理常见问题，让员工省心。\n\n- **长久好处**  \n  好比修路，不是光修一条路，而是整个交通网络怎么设计。企业AI要考虑的不是单个AI多强，而是怎么让多个AI系统配合工作，就像城市里的公交、地铁、公路一起运转。这种系统性的优势比单一模型强得多。\n\n总之，企业AI的真正竞争力不在于谁的技术更惊艳，而在于整个系统怎么设计，能不能像水电系统一样自然地为所有部门服务。",
-      "summarized_at": "2026-04-21T09:45:36.118Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1776764718462",
       "title": "Why having “humans in the loop” in an AI war is an illusion",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Termux / Termux-Packages：让安卓手机变电脑的“工具箱”\n\nTermux / Termux-Packages 是一个能让安卓手机变成移动“电脑”的实用工具。简单来说，它就像给手机装了个迷你Linux系统，但不需要重启手机就能直接操作。\n\n### 核心功能：手机上的“软件安装包”\n\n- 就像电脑需要安装软件才能干活一样，手机上也有软件包。Termux-Packages 就是专门用来管理这些软件包的系统。\n- 它让用户可以直接在手机命令行界面（类似电脑的黑色窗口）安装、更新或删除软件，不用再通过应用商店。\n\n### 为什么要用？\n\n- 很多电脑上的高级工具，比如编程、开发工具、科学计算软件等，在手机上很难找到。Termux-Packages 就能解决这个难题。\n- 比如，你想用手机写代码，但应用商店没有合适的编程环境。通过这个工具，你就能安装Python、Java等编程软件，直接在命令行写代码。\n\n### 使用场景：手机上的“技术达人”\n\n- 适合喜欢折腾手机、需要用电脑功能的人。比如程序员、学生、科研人员等。\n- 就像用电脑组装电脑一样，Termux-Packages 让你能自由搭配手机上的“软件零件”，打造专属于你的手机工作环境。\n\n### 简单来说：手机上的“电脑系统扩展包”\n\nTermux-Packages 就是给安卓手机加装的“电脑系统”，让手机能运行更多电脑软件。它不需要复杂操作，只需简单命令就能搞定，特别适合喜欢技术的用户。",
       "summarized_at": "2026-04-21T09:46:33.543Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1776764723241",
-      "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
-      "summary": "36氪获悉，宠物AI科技初创公司PettiChat于近期完成100万美元的种子轮融资。由浙大校友基金藕舫天使与华旦天使联合投资，本轮融资将主要用于动物行为世界模型的研发、高质量数据集的构建以及首款硬件产品的市场推广。\n在通用人工智能（AGI）横扫人类语言世界的今天，一个被忽视的语言场景被一家初创企业投入了密切关注——那就是人类与动物之间的沟通。\n长期以来，人类与宠物的互动多停留在感性猜测层面。虽然宠物市场规模巨大——据统计，2025年全球宠物市场规模预计将达到2700亿美元，且复合增长率达6.45%——但在“理解宠物真实需求”这一核心痛点上，市场仍缺乏解决方案。\nPettiChat则试图通过构...",
-      "url": "https://36kr.com/p/3769659305427459?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-21T08:19:29.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## PettiChat获百万美元投资，开发宠物AI翻译器\n\n### 公司和投资\n- PettiChat是一家宠物AI科技公司，最近拿到了100万美元的种子基金。\n- 投资方是浙大校友基金藕舫天使和华旦天使，他们相信这个项目能帮助人们更好地理解宠物。\n\n### 背景和问题\n- 现在很多人养宠物，但我们对宠物的想法和需求不太了解。\n- 比如你的猫为什么一直叫，或者狗为什么乱咬东西，其实它们可能在表达某种需求。\n- 宠物市场规模很大，但市面上还没有好的工具能帮我们真正懂它们。\n\n### PettiChat的解决方案\n- PettiChat想做一个AI翻译器，能帮我们理解宠物的行为。\n- 他们会用钱做三件事：\n  1. 研发一个模型，能识别宠物的行为模式（就像用电脑学懂人的表情一样）。\n  2. 收集更多宠物数据，让AI更准确（比如记录猫什么时候想玩）。\n  3. 推出第一个硬件产品，让更多人能用上这个翻译器（可能是个小设备，能告诉你知道宠物想什么）。\n\n### 核心观点\n- 这个项目很特别，因为现在AI技术大多用在人类身上，而PettiChat想让AI帮助人类和宠物交流。\n- 随着宠物市场越来越大，人们越来越关心宠物的需求，这个翻译器正好解决了这个问题。\n- 他们希望未来的技术能让铲屎官更懂自己的毛孩子，让养宠生活更幸福。",
-      "summarized_at": "2026-04-21T09:46:34.546Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1776764723241",
-      "title": "地产中介“二当家”去年亏损9663万，租赁业务成了压舱石",
-      "summary": "4月20日晚间，地产经纪公司我爱我家发布2025年年度报告。年报数据显示，我爱我家去年实现营业总收入104.8亿元，同比下滑16.4%；实现住房总交易金额（GTV）约2520亿元，同比下滑12.4%。\n在利润方面，报告期内，我爱我家归属母公司所有者净利润为-9663.1万元，同比大幅减少231.63%。继2022年、2023年连续亏损，2024年扭亏为盈之后，我爱我家在去年再度由盈转亏。\n我爱我家是地产中介领域规模第二大的企业，仅次于贝壳。从业绩表现来看，我爱我家业绩下滑的核心原因在于房地产经纪业务受市场环境拖累显著。\n\n我爱我家近三年主要会计数据和财务指标，数据来源：公司年报\n我爱我家在年报...",
-      "url": "https://36kr.com/p/3776220864103171?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-21T06:52:49.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 我爱我家去年亏钱不少，租房子业务帮了大忙\n\n## 公司情况\n我爱我家是二手房中介行业里第二大的公司，仅次于贝壳。去年他们总收入104.8亿，比前一年少了将近17%，卖房子的总金额也下降了12.4%。更糟糕的是，他们最后算账，亏了9663.1万元，比前一年亏得更多。\n\n## 亏钱原因\n主要原因还是房地产市场行情不好。现在大家都不太愿意卖房子，中介业务自然就受到了影响。就像开餐馆，如果客人越来越少，生意肯定不好做。\n\n## 租赁业务成亮点\n虽然卖房子难，但租房子业务却成了他们的救星。租赁市场比较稳定，即使在房地产市场不景气的时候，大家还是需要租房子的。所以，我爱我家通过做租房子业务，减轻了公司亏损的压力。\n\n## 未来展望\n虽然去年亏钱了，但租赁业务的表现说明公司找到了新的发展方向。如果房地产市场继续低迷，租房子业务可能会成为他们重要的收入来源。",
-      "summarized_at": "2026-04-21T09:46:41.023Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1776764723241",
-      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
-      "summary": "专注于AI+母婴智能生态的奇世智能CheeChips正式宣布完成天使轮融资���\n本轮资金近半数将被投入技术研发，用于AI模型迭代、新产品原型打磨与专利布局；30%用于引进顶尖人才、扩充研发与运营团队；剩余25%投入市场调研、品牌建设与用户需求挖掘。\n奇世智能推出了家用AI模拟全彩胎儿记录仪，这款硬件能够记录全孕期胎儿成长，改变准妈妈们的孕期体验，让孕期不再是母亲一个人的感受，而成为一个能与家人分享的，有意义的、连续的内容。\n\n家用AI模拟全彩胎儿记录仪\n该公司目前已规划59款全新品类智能母婴产品，明确各产品硬件与算法技术路线，已完成数款demo原型机开发，正处于产品打磨与迭代优化的阶段。\n奇...",
-      "url": "https://36kr.com/p/3774891479712514?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-21T04:45:02.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 奇世智能CheeChips获得投资，要做智能母婴产品\n\n- 公司叫奇世智能CheeChips，专门搞AI+母婴智能硬件，最近拿到一笔投资\n- 这笔钱差不多一半要用来搞技术研发，比如让AI更聪明、开发新产品、申请专利\n- 还会花30%的钱请厉害的人加入团队，加强研发和运营能力\n- 剩下的25%用于做市场调查、推广品牌、了解用户想要什么\n\n- 公司推出了一款家用AI模拟全彩胎儿记录仪，就像一个智能宝宝监视器\n  - 能记录整个怀孕期间宝宝的情况，让准妈妈们随时看到宝宝在干嘛\n  - 让怀孕过程更有趣，准妈妈可以把宝宝动态分享给家人看，一起感受\n\n- 公司计划做59款新的智能母婴产品，比如智能婴儿床、智能尿布等\n  - 已经开发了几款产品原型，正在不断改进和优化中\n\n- 核心观点：奇世智能想用AI技术改变母婴产品的使用体验，让怀孕和育儿更轻松有趣",
-      "summarized_at": "2026-04-21T09:46:40.261Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1776764723241",
-      "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，劳尼克斯科技（南京）有限公司（以下简称“劳尼克斯”）近日完成数千万元融资，投资方为苏州天空工场、宜宾高新前沿科技产业基金、翼朴资本。资金将重点投向核心产品研发迭代、人才团队扩容升级，同时全力支撑海外市场的布局拓展与本地化落地。\n劳尼克斯核心团队成员来自智能硬件、消费机器人与园林工具等相关领域的头部企业。其产品矩阵涵盖割草机、打草机、修枝机、链锯等多种动力工具，并配套电池包、充电器等电动配件方案，采取20V、40V、60V全电压平台策略，覆盖从中小庭院到高端大宅的全场景需求。\n自今年1月大规模出货以来，劳尼克斯产品单月销售额实现连续增长、单月已突破千万元，出货...",
-      "url": "https://36kr.com/p/3774707915440897?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-21T01:31:55.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 智能锂电园林工具公司融资成功\n\n### 公司简介\n劳尼克斯是一家专门做智能园林工具的公司，比如割草机、修枝机之类的，还有配套的电池和充电器。他们的产品支持20V、40V、60V三种电压，适合小院子到别墅各种场景使用。公司团队背景很强，成员都是来自知名智能硬件和机器人公司的资深人士。\n\n### 融资情况\n公司最近获得了苏州天空工场、宜宾高新前沿科技产业基金和翼朴资本等投资方提供的数千万元资金。这笔钱主要用来改进产品、扩充团队，并且拓展海外市场。\n\n### 产品表现\n自今年1月开始大规模销售以来，劳尼克斯的产品销量一直稳步增长，每月销售额都超过千万元，出货量也突破了万台。这表明市场上的消费者很喜欢他们的产品。\n\n### 未来计划\n公司计划用这笔资金继续研发更好的产品，吸引更多人才，并且把业务拓展到国外市场。他们希望通过本地化服务，让更多海外用户也能方便地使用他们的产品。",
-      "summarized_at": "2026-04-21T09:46:47.082Z",
       "summary_status": "success"
     },
     {
