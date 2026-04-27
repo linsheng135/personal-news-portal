@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T10:24:30.617Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-04-27T10:24:30.618Z",
+    "date": "2026-04-27",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1777285380153",
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open sou...",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-24T21:40:58.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 深度寻求的新模型V4为啥牛\n\n### 1. 能读更长的故事\n- 过去版本像小学生，读几行就忘了；新模型像研究生，能读完整本小说\n- 想象下，你让AI写个旅行攻略，旧版本只能写个短评，新版本能写完整篇游记\n- 因为新设计像装了更大的内存条，处理长文本更轻松\n\n### 2. 理解更准\n- 旧模型像只认死理的小猴，总把\"北京\"当首都；新模型像见多识广的大叔\n- 比如\"北京有颗大白菜\"这种绕弯话，旧模型会懵，新模型知道你在说\"北京\"\n- 因为它学到了更多生活道理，就像你从看动画片升级到读小说\n\n### 3. 开放共享\n- 这次新模型像开了盲盒，所有人都能用\n- 像共享单车一样，大家都能体验AI带来的便利\n- 以后写文案、查资料就像骑电车，比以前快多了\n\n总的来说，V4就像把手机从老年机升级到最新款：内存更大、脑瓜子更灵光、还能共享。以后让它写个十万字小说都能轻松搞定，就像现在让手机拍出大片一样简单。",
-      "summarized_at": "2026-04-27T10:23:13.222Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777285380153",
-      "title": "AI needs a strong data fabric to deliver business value",
-      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t...",
-      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-22T10:05:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能要跑得好，数据得像蜘蛛网一样连起来\n\n### 人工智能越来越火\n现在不少公司都在用人工智能，比如客服机器人、财务助手、供应链管理工具等。这些工具能帮公司省钱、提高效率，就像家里装了个智能管家，能自动处理各种事务。\n\n### 数据是AI的燃料\n但人工智能要发挥作用，得靠数据。数据就像汽车的油，没有油车就跑不动。公司需要把各种数据整合在一起，比如客户信息、销售记录、库存情况等，才能让AI更好地工作。\n\n### 数据要像蜘蛛网一样连接\n好的人工智能系统需要数据之间能自由流动，就像蜘蛛网上的丝线，一根连着一根。如果数据被分成几块，AI就很难发挥作用。比如，客服机器人如果只能看到客户的名字，却看不到他们之前的订单记录，就会搞不清楚状况。\n\n### 为什么数据整合重要\n想象一下，你整理房间时发现衣服、书、杂物全混在一起，很难找到需要的东西。如果数据不整合，AI就像个瞎子，看不见全貌。只有数据连起来，AI才能像侦探一样找出规律，帮公司解决问题。\n\n### 未来展望\n到2025年，很多公司都会用上AI，但只有那些数据连得好的公司，才能让AI真正发挥作用。所以，公司得先把数据整理好，让它们像蜘蛛网一样互相连接，这样AI才能真正帮上忙。",
-      "summarized_at": "2026-04-27T10:23:13.585Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777285380153",
-      "title": "10 Things That Matter in AI Right Now",
-      "summary": "AI research paper from arXiv...",
-      "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-21T20:45:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 10件现在AI领域最值得关注的事\n\n## AI正变得越来越重要\n\n- AI就像智能手机里的智能助手，现在它变得更聪明了。科学家们正在研究如何让它更好地理解人类，就像让一个小孩慢慢学会察言观色一样。\n\n## AI能帮我们做更多事\n\n- 就像厨师会做菜，AI现在能帮忙写诗歌。科学家们发现AI可以学习各种技能，比如画画、写故事，甚至能像医生一样看病症。\n\n## AI需要更多数据\n\n- AI就像学游泳的孩子，需要大量练习。现在的AI需要更多的信息才能做决策，就像要读很多书才能当作家一样。\n\n## AI要更安全\n\n- AI就像一个新手司机，容易犯错。科学家们正在研究如何让它更可靠，就像给汽车装上更安全的刹车系统。\n\n## AI要更公平\n\n- AI不能有偏见，就像裁判不能偏袒某队。研究人员在努力消除AI的歧视，确保它对待每个人都是公平的。\n\n## AI要能解释自己\n\n- AI就像一个黑盒子，现在科学家们想让它像老师一样能解释原因。比如它为什么会推荐某个视频，就像解释数学题一样。\n\n## AI要保护隐私\n\n- AI需要数据，但不能偷看隐私。研究人员正在设计更安全的AI，就像给房间装上防盗门，防止别人偷看。\n\n## AI要与人合作\n\n- AI不是要取代人，而是像工具一样帮助。科学家们正在研究如何让AI更好地配合人类工作，就像斧头配合木匠一样。\n\n## AI要更环保\n\n- AI需要大量电力，就像汽车需要汽油。研究人员在研究如何让AI更节能，就像推广电动汽车一样。\n\n## AI的未来\n\n- AI就像正在长身体的孩子，现在正快速发展。科学家们预测，未来AI会像水电煤一样普及，改变我们的生活方式。",
-      "summarized_at": "2026-04-27T10:23:22.660Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777285380153",
-      "title": "LLMs+",
-      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The as...",
-      "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-21T20:45:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## ChatGPT引爆AI热潮\n\n2022年底，OpenAI推出了ChatGPT这个聊天机器人实验版。它就像突然冒出来的一个超级流行的应用，让几亿人每天都要用。ChatGPT这种能像人一样聊天的AI技术，成了未来的大趋势。\n\n- **行业大抢快**: 整个科技公司都像着了火一样，到处都是类似的AI产品。大家都急着做自己的聊天机器人，生怕落后。\n\n- **AI像智能手机**: 这个技术就像当年的智能手机一样，一旦出现就改变了生活。以前你可能用各种工具解决问题，现在有了AI，很多事都能直接跟它说。\n\n- **人人都能用**: 以前只有程序员懂这些，现在普通人也能直接体验到AI的强大。就像以前你得自己写电脑程序，现在直接用软件就行。\n\n- **未来已来**: AI技术发展太快，现在就像手机刚出来那会儿，到处都是新机会。普通公司也能通过AI做点不一样的事，比如用AI客服省人工成本。\n\n现在的大趋势就是，每个人都在尝试用AI做各种事，从简单的问答到复杂的工作，AI正在慢慢融入生活的方方面面。",
-      "summarized_at": "2026-04-27T10:23:20.057Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1777285380153",
       "title": "Supercharged scams",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## AI画画工具AUTOMATIC1111 / stable-diffusion-webui\n\n这个工具就像一个超级智能的画师，能根据你的要求快速画出各种图片。它叫AUTOMATIC1111 / stable-diffusion-webui，最近在GitHub上特别火，说明很多人都在用它。\n\n### 它怎么工作？\n\n想象一下，你让一个小朋友画画，你只会说\"画只猫\"，但小朋友还是画成了怪物。这个AI画师就厉害了，你可以说得更清楚：\"画一只胖乎乎的橘猫，坐在沙发上，背景是温暖的小房子\"，它就能准确画出你想要的。它靠的是学习海量的图片和文字描述，比如你看1000张猫的图片，再学1000个人对猫的描述，最后就能自己生成猫的图片了。\n\n### 为什么这么火？\n\n- 以前用这种AI画图要懂很多技术，现在这个工具就像傻瓜相机，普通人也能轻松上手\n- 它能根据简单的文字描述生成各种风格，比如写实、卡通、油画等\n- 社区很活跃，经常更新，能画出更逼真的图片\n- 免费！不需要花钱就能用，还能自己安装到电脑上\n\n### 怎么用？\n\n就像用微信一样简单，装好后在浏览器里就能操作。你想画什么，就在框里打字，比如\"一只穿着宇航服的猫在月球上跳舞\"，它就会生成图片。如果第一次不太满意，多改几个词再试几次，很快就能画出满意的图片。\n\n这个工具让每个人都能当艺术家，不用再担心自己不会画画了。",
       "summarized_at": "2026-04-27T10:24:14.172Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777285387182",
-      "title": "告别屏幕沉迷，小红书把年轻人「赶出门」",
-      "summary": "撰文｜锅包柚\n封面来源｜Unsplash \n年轻人，开始在小红书上“找颜色”\n前些日子，我刷到了或许是这个春天最有生命力的一组照片。\n小红书博主 @里维斯 Lewis做了一次奇妙的尝试，把相机交给了一对清晨劳作的环卫阿姨和叔叔，邀请他们开启了一场属于自己的colorwalk。\n他们不懂构图的镜头，却捕捉到了春天最容易被忽略的角落——那些被风摇落的粉色花瓣，被细心地摆成了爱心，阿姨拉着叔叔与树上的初绽的花朵合了影，叔叔也定格下了阿姨抛起花瓣时的笑脸。\n\n图源小红书@里维斯Lewis\n在叔叔阿姨的心里，“春天是树梢掉落的粉色”。在一旁见证着他们的@里维斯 Lewis也不禁感叹，“他们不是路过春天的...",
-      "url": "https://36kr.com/p/3784867361381633?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-27T09:27:52.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 小红书让年轻人走出家门  \n\n- **屏幕沉迷少了，出门活动多了**  \n  很多人以前总窝在家里刷短视频，现在小红书上流行“找颜色”活动，鼓励大家出门体验生活。比如一位博主给环卫工人拍照，发现他们能捕捉到别人忽略的美，比如路边爱心花瓣摆拍、和花朵合影等。  \n\n- **普通人也能发现生活乐趣**  \n  不用懂摄影技巧，只要用心感受，就能发现身边的美。比如环卫工人觉得“春天是树梢掉落的粉色”，这种简单的快乐让很多人被感染。  \n\n- **年轻人从虚拟世界回现实**  \n  小红书上分享的这些真实故事，让年轻人意识到比起手机屏幕，外面的世界更有趣。比如有人看到博主分享后，也跟着去公园拍花、放风筝，重新感受自然。  \n\n- **平台引导健康生活方式**  \n  小红书通过分享这些故事，鼓励大家放下手机，多参与户外活动。就像有人发现，出门走走不仅能放松，还能找到生活中的小确幸。",
-      "summarized_at": "2026-04-27T10:24:12.850Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777285387182",
-      "title": "12款产品入选，2026春季「焦点」产品计划重磅发布",
-      "summary": "【点音Divoom桌搭全家桶评测视频】\n&amp;amp;nbsp;\n\n\n\n\n\n\n\n\n本文来自微信公众号“36氪”，36氪经授权发布。...",
-      "url": "https://36kr.com/p/3784491394784519?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-27T03:05:52.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 2026春季「焦点」产品计划发布\n\n- **12款新品将登场**：2026年春季，会有一批特别受欢迎的产品亮相。这些产品都是经过精心挑选的，代表当前最热门的趋势和设计。\n- **产品种类丰富**：这些产品涵盖了各种类别，比如家居摆件、便携设备等，能满足不同人的需求。就像你家里常用的手机、台灯一样，但都是最新款的。\n- **发布目的明确**：这次发布主要是为了展示哪些产品最受欢迎，哪些设计最能吸引消费者。就像商店会定期搞促销，把最卖得好的商品摆在最显眼的位置一样。\n- **行业趋势反映**：这些产品的选择反映了当前的市场趋势。比如，大家现在都喜欢智能化的家居用品，所以这次可能会多些带科技感的商品。\n- **消费者参考**：如果你在考虑买什么新产品，可以关注这次发布。这些产品很可能会成为未来的爆款，就像现在大家都在用的网红产品一样。",
-      "summarized_at": "2026-04-27T10:24:19.849Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777285387182",
-      "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
-      "summary": "作者丨欧雪 \n编辑丨袁斯来\n2025年黑五，美国游戏主机市场有些不同寻常。\n根据追踪美国游戏主机与软件销售的Circana统计数据，在黑色星期五当周，PS5以47%的市场份额领跑，任天堂Switch2占据24%，而一款名为Nex Playground的体感游戏机，则以14%的市占率冲上第三名——将Xbox挤出了前三位置。\n当游戏主机市场固化多年后，没人想到还会有年轻公司杀出重围。\n更让人意外的是，这家公司诞生于香港。其创始人李景辉（David Lee）曾在苹果工作8年，2017年离职创立了NEX Team Inc.。\nNex成立最初几年并无太大声量，主要是做了一款篮球体感应用HomeCourt...",
-      "url": "https://36kr.com/p/3783828639571203?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-27T01:15:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 黑五市场大变样，Nex Playground出人意料\n\n- **市场排名突变**：2025年黑五期间，美国游戏主机市场前三名 surprisingly 变成了 PS5、Switch2 和 Nex Playground，把老牌的 Xbox 给挤出了前三。PS5 占了 47% 的市场份额，Switch2 占 24%，Nex Playground 以 14% 的市占率惊喜入选。\n\n- **公司背景故事**：Nex Playground 的创始人是李景辉，这位前苹果工程师在2017年离开苹果后创立了这家公司。Nex 最初几年比较低调，主要是开发一款叫 HomeCourt 的篮球体感应用。\n\n- **体感游戏机崛起**：Nex Playground 是一款体感游戏机，不需要手柄，通过身体动作就能玩游戏。这种游戏方式比较新颖，吸引了很多人尝试。\n\n- **销售业绩亮眼**：Nex Playground 的销量非常好，在黑五期间表现抢眼，营收已经达到数亿美元规模。这说明消费者对这种新式游戏体验很感兴趣。\n\n- **市场冲击力强**：虽然成立时间不长，但 Nex Playground 很快就在市场上站稳了脚跟，甚至把老牌的 Xbox 都挤出了前三，这显示了他们的产品力和市场策略都很成功。\n\n整体来说，Nex Playground 通过创新的游戏方式和出色的市场表现，成功在竞争激烈的游戏主机市场闯出了一片天。",
-      "summarized_at": "2026-04-27T10:24:23.353Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777285387182",
-      "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
-      "summary": "作者丨欧雪\n编辑丨袁斯来\n在具身智能行业普遍沉迷双足人形和仿真训练的当下，有一家公司选择了一条不太一样的路径：聚焦仓储物流场景，用“轮式底盘+双臂”死磕占人力成本60%的“拿放”动作。这是一家由中科南京软件技术研究院孵化出来的具身智能企业——智往未来。\n智往未来2025年11月成立于南京，创始人孙浚凯曾在地平线担任智能座舱产品线总经理，推动百万终端量产，具备从0到1的产品设计与量产经验。公司早期以“具身智能课题组”在中科系旗下孵化两年，2025年底独立注册。\n具身智能在真实环境中的泛化难题，核心在于Sim2Real鸿沟。传统离线强化学习依赖仿真数据，部署成功率低；在线强化学习精度高，但学习周期...",
-      "url": "https://36kr.com/p/3783824870317312?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-27T01:10:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 公司专注仓库机器人\n\n- 智往未来这家公司专门做仓库用的机器人，和别人不一样的地方是，他们不搞双足机器人，而是用轮子走路的机器人，加上双臂来帮忙。\n- 仓库里最费钱的是让人搬运东西，占人力成本的60%，所以这家公司就想用机器人来做这个\"拿东西放东西\"的动作，省下人力成本。\n- 创始人是孙浚凯，以前在地平线公司做智能座舱，经验丰富，现在成立了自己的公司，叫智往未来。\n- 这家公司是2025年11月成立的，之前在中科系做了两年多的研究，今年年底才独立出来创业。\n- 仓库机器人最难的地方是，机器人学的东西在仿真里看起来很好，但到了真实仓库里就不灵光了，就像游戏里练得很好，但真到现实里就会紧张。\n- 他们今年目标是卖100台机器人，先从实际应用开始积累经验，慢慢改进技术。",
-      "summarized_at": "2026-04-27T10:24:28.650Z",
       "summary_status": "success"
     },
     {
