@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-29T10:12:43.143Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-04-29T10:12:43.144Z",
+    "date": "2026-04-29",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1777457490732",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris...",
-      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-27T22:52:57.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Elon Musk和Sam Altman要打官司了，OpenAI的未来悬了\n\n- **事情背景**：Elon Musk（马斯克）和OpenAI的CEO Sam Altman（萨姆·奥特曼）因为OpenAI这家公司到底能不能赚钱这件事，打了好几年官司了。现在，他们要拿到法庭上去审了，就在加州北部。\n\n- **OpenAI是干嘛的**？OpenAI是个搞人工智能研究的地方，想让AI变得对所有人都好，而不是被某个人或公司控制。它想上市融资，就是想变成一个能赚钱的企业。\n\n- **官司的关键点**：这场官司的核心问题是，OpenAI这样的研究机构，能不能同时是个能赚钱的公司？如果法庭判不能，那OpenAI可能就活不下去了。\n\n- **为什么这么重要**？OpenAI现在马上要上市了，如果法庭在这时候说“不行，不能赚钱”，那整个IPO（首次公开募股）可能就黄了，OpenAI的所有研究可能都停了。\n\n- **马斯克和奥特曼的矛盾**：马斯克之前是OpenAI的合伙人，后来退出了，他觉得OpenAI变了味，变得太商业化。而奥特曼现在是CEO，坚持要上市，两人在理念上差得挺远。\n\n- **可能的结果**：法庭最终会支持谁呢？如果支持马斯克，OpenAI可能就得变成纯粹的非盈利组织；如果支持奥特曼，OpenAI就能继续上市赚钱搞研究。这个结果不光影响OpenAI，也影响整个AI行业的发展方向。\n\n- **简单说**：就像有人开了个实验室，本来想研究科学，但后来想把它变成公司赚点钱。现在有人不同意，说这样就变味了，法庭得帮着判一下，这个“赚了钱还能做研究”的路能走吗。",
-      "summarized_at": "2026-04-29T10:11:39.053Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777457490732",
-      "title": "The missing step between hype and profit",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B...",
-      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-27T16:13:41.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 普通人搞懂AI赚钱的秘诀\n\n- **标题直白说：** 有些人整天鼓吹AI很厉害，但就是赚不到钱，中间缺了关键一步\n- **就像卖东西一样：** 比如你卖个新玩具，光说玩具多好玩不够，你要教人怎么用才值钱\n- **AI的赚钱秘密：** 不是光会AI技术就行，关键要教别人用AI干活\n- **举个小例子：** 假设你发明了个自动擦桌子机器人，光卖机器不行，要教保洁公司怎么用\n- **最赚钱的步骤：** 1. 研发好AI技术 2. 教别人怎么用 3. 帮别人解决实际问题\n- **重点来了：** 很多搞AI的人只懂第一步，最后两步不会，钱就不好赚\n- **可以这么想：** 就像学自行车，光有车不会骑，谁买？会骑的人才能教别人\n- **总结一下：** 想靠AI赚钱别光研究技术，多想想怎么帮别人用AI解决问题",
-      "summarized_at": "2026-04-29T10:11:37.876Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777457490732",
-      "title": "Rebuilding the data stack for AI",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a...",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-27T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业用AI的困境：数据是最大绊脚石\n\n### AI看起来很美，实际操作难\n\n现在大家都说AI很厉害，但很多公司发现，要用AI解决问题，最大的问题是他们手头的数据太糟糕了。就像你想做一道菜，结果调料都是坏的，怎么做都吃不出好味道。\n\n### 消费级AI和企业的差距\n\n手机上的AI助手能快速回答问题，因为它们用的是整理好的数据。但企业用的数据往往像乱堆的旧报纸，找东西要花半天，更别提从中找出规律了。\n\n### 数据问题具体怎么解决\n\n- **数据乱糟糟**：企业数据就像家里没分类的杂物，想用就得先花时间整理\n- **数据不准确**：有些数据是过时的，就像用去年的菜谱做菜\n- **数据没标准**：不同部门的数据格式不一样，就像有的用筷子有的用刀\n\n### 企业用AI的真相\n\n真正想把AI用好的公司，必须先解决数据问题。否则，再厉害的AI技术也发挥不了作用。这就像你想盖房子，但地基都是松的，再好的设计师也白搭。\n\n### 核心观点\n\n企业要成功用AI，必须先让数据变得井井有条，否则一切都是空谈。数据整理好了，AI才能真正帮上忙。",
-      "summarized_at": "2026-04-29T10:11:44.464Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777457490732",
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open sou...",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-24T21:40:58.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## DeepSeek新模型V4大揭秘\n\n### V4能做什么特别的事\n\nDeepSeek这个做AI的公司，出了个新本事强的模型叫V4。这个V4最厉害的是能读很多很多字，比以前版本强多了。就像你平时用手机打字，以前只能打几行，现在能打好几百行，因为V4学了新本事，能更快地处理文字。\n\n### 为什么V4这么牛\n\n- **读得更远**：以前模型只能看一小段话，现在能看长篇大论，就像以前你只能看报纸一小块，现在能看整本小说。\n- **效率高**：V4用了新设计，就像以前你切菜很慢，现在有了电动切菜机，切得又快又好。\n- **开放使用**：和其他DeepSeek模型一样，V4是开放的，就像公园是大家都能去的，不用花钱。\n\n### 对我们有什么好处\n\nV4能处理更多文字，对我们用AI帮助很大。比如你问AI问题，以前只能回答简单几句，现在可以问复杂的长问题，AI也能给出详细答案。就像以前问医生问题，医生只能回答一两句，现在可以详细聊病情。\n\n总之，V4是个能读能写的好帮手，以后用AI会更方便。",
-      "summarized_at": "2026-04-29T10:11:44.838Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1777457490732",
       "title": "AI needs a strong data fabric to deliver business value",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## freeCodeCamp.org：免费的编程学习平台\n\nfreeCodeCamp.org是一个开放源代码的平台，任何人都可以免费学习数学、编程和计算机科学。它的课程和资源都是开源的，就像你在一个共享的图书馆里，可以随时取阅各种书籍。\n\n### 学习内容像什么？\n\n- **数学**：就像学骑自行车需要先学平衡一样，数学是编程的基础。freeCodeCamp会教你如何用数学解决编程问题。\n- **编程**：编程就像是用积木搭房子，freeCodeCamp会教你如何用代码（这种特殊的语言）来构建软件和网站。\n- **计算机科学**：这是更宏观的概念，就像了解整个建筑的过程，包括设计、施工和维护。freeCodeCamp会带你走进这个领域。\n\n### 为什么选择免费？\n\n- **开源**：平台上的所有代码和课程都是开放的，任何人都可以查看、修改和分享，就像开源社区是一个大型的DIY工坊。\n- **无费用**：不需要交学费，就像你在公共公园散步一样自由，只要你有电脑和互联网，就能开始学习。\n\n### 学习方式像什么？\n\n- **实践为主**：平台上的课程强调动手实践，就像学烹饪不仅要读书还要实际做菜，freeCodeCamp会让你通过实际项目来学习。\n- **社区支持**：就像你在学习骑自行车时有人给你指导一样，freeCodeCamp有庞大的社区，你可以随时提问和交流。\n\n总之，freeCodeCamp.org是一个适合所有人的学习平台，无论你是编程小白还是想提升技能的人，都可以在这里找到适合你的资源。它用免费和开放的方式，让更多人能够接触到编程和计算机科学，就像打开了一扇通往未来科技世界的大门。",
       "summarized_at": "2026-04-29T10:12:28.924Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777457493772",
-      "title": "“36氪企业全情报”官方股票舆情交流社群，正式开放招募！",
-      "summary": "36氪企业全情报官方专属社群现已正式对外开放，正式打造唯一官方股票舆情情报社群，面向所有股民、理财爱好者、个股深度研究者，适配不同投资风格与交易节奏，帮你高效拿捏舆情风向、把握行情先机。\n从股市舆情解读、个股情报拆解，到行情逻辑分析、投资干货交流，一站式帮投资者告别信息滞后、看懂涨跌本质。\n\n扫码进入：“36氪企业全情报”官方股票舆情交流社群\n为什么要做专属股票舆情交流情报社群？\n炒股早已不是单纯看K线，舆情、消息、基本面、行业政策才是涨跌核心逻辑。很多人每天刷新闻、翻股吧、看研报，依旧消息滞后、真假难辨，抓不住行情主线；有人只会跟风买卖，看不懂资金动向与舆情情绪，容易踏空也容易被套。\n基于普...",
-      "url": "https://36kr.com/p/3787661080714497?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-29T08:50:02.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 36氪股票舆情社群招募啦！\n\n### 什么意思？\n\n36氪现在开了一个专门聊股票消息的群，叫“36氪企业全情报”官方股票舆情交流社群。不管你是炒股新手还是老手，只要你想了解股票背后的消息，都能进来。\n\n### 为什么需要这个群？\n\n现在炒股不光看股票曲线（K线图）就行啦。比如今天公司出了好消息，股票可能就涨；明天有个行业政策变化，股票可能就跌。很多人每天刷各种消息，但总是晚一步，或者分不清哪些是真消息哪些是假的。这个群就是帮你快速知道重要消息，理解消息对股票的影响。\n\n### 这个群能帮你什么？\n\n- 解读股市里的各种消息\n- 分析个股的情报\n- 讨论投资的技巧\n- 告别消息滞后的问题\n- 看懂股票涨跌的原因\n\n### 谁适合加入？\n\n不管你是喜欢慢慢投资，还是喜欢快速买卖，这个群都适合。不管你是新手还是老手，都欢迎来。\n\n### 怎么加入？\n\n扫码就行，扫码就能进入这个群。",
-      "summarized_at": "2026-04-29T10:12:27.283Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777457493772",
-      "title": "泡泡玛特胡健：盈利不是乐园现阶段最重要的事",
-      "summary": "作者 | 李小霞\n编辑 | 乔芊\nLABUBU电影官宣后，泡泡玛特城市乐园也有了新动静。\n近日，泡泡玛特正式宣布，坐落于北京朝阳公园的城市乐园新区域将于4月30日向游客开放。这座占地约4万平方米、国内首个沉浸式潮玩IP主题乐园，自2023年9月开业以来，刚刚完成历时一年多的升级改造。\n此次升级围绕两大热门IP：THE MONSTERS（LABUBU）与DIMOO，开放了三大全新区域和五个大型游乐设施，并首次引入大型游乐设备，包括跳楼机、海盗船等。\n运营第一年，乐园就实现了盈利。泡泡玛特管理层曾在去年中期业绩发布会上披露，“2025上半年人流量与收入均已超过去年全年”。\n不同于传统乐园的运营思路...",
-      "url": "https://36kr.com/p/3787554697895168?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-29T08:33:57.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 泡泡玛特乐园升级引关注\n\n- **乐园升级**：泡泡玛特在北京朝阳公园的乐园最近升级了，新增了THE MONSTERS（LABUBU）和DIMOO两个热门IP的区域，还有五个大型游乐设施，像跳楼机、海盗船这类刺激项目也来了。这是乐园开业一年多后的大改造，现在4月30号正式对外开放。\n\n- **盈利不代表成功**：乐园运营第一年就赚钱了，这听起来不错，但泡泡玛特的高管说，现在赚钱不是最重要的事。就像你开个小吃摊，第一天就卖了不少钱，但你得想想怎么让回头客多，怎么让生意更长久，而不是光盯着眼前的钱。\n\n- **不同运营方式**：泡泡玛特的乐园和普通主题乐园不一样，它更注重IP的体验和创意，而不是单纯玩设备。这就像你去游乐园，有的乐园让你坐着火车到处看风景，有的乐园让你跟着某个卡通人物玩互动游戏，各有各的玩法。\n\n- **未来计划**：泡泡玛特的目标是明年上半年游客和收入都能超过去年全年。这说明他们不满足于现状，还在努力提升乐园的吸引力。就像你常去的小吃店，老板不会只满足于现在的生意，还在琢磨怎么改进菜单、增加新项目。",
-      "summarized_at": "2026-04-29T10:12:36.102Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777457493772",
-      "title": "36氪首发 | 主攻氢涡轮增程的全倾转eVTOL，「华喜航空」完成数千万元种子轮融资",
-      "summary": "36氪获悉，「华喜航空」已完成数千万元种子轮融资，本轮融资由民银国际独家投资，资金将用于核心技术研发、团队扩张、验证机试飞与适航推进、商业化场景落地及市场拓展。\n华喜航空是一家从事航空飞行器总体、核心部件和相关产品研发设计、生产、制造，航空飞行器操作运营、VTOL配套设施运营的科技公司。作为全球首个氢涡轮混动 eVTOL研发企业，华喜航空由清华、北航、南航、哈工大、西工大等航空航天院校人才，联合航天科技、航天科工、航空工业等国家队资深专家组建。\n创始人张鑫毕业于南京航空航天大学直升机系，这是全国唯一拥有本硕博完整教学培养资质的直升机专业。他学的方向是飞行动力学与控制。毕业后，进入中国航天科工三...",
-      "url": "https://36kr.com/p/3786532449312007?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-29T08:24:14.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 华喜航空完成融资，开发氢能飞机\n\n- **公司背景**  \n  华喜航空是一家做飞机研发的公司，专门研究一种能垂直起降的电动飞机（eVTOL），这种飞机就像在城市里飞的小型直升机。他们特别厉害的地方在于，飞机里用了氢燃料和涡轮发动机结合的技术，既环保又省油，是全世界第一个搞这种技术的公司。\n\n- **融资情况**  \n  公司刚拿到一笔几千万元的投资，这笔钱是民银国际一个人投的。拿到钱后，公司会用来研究更先进的飞机技术，招更多人才，让飞机飞起来测试，找到适合飞机飞行的商业路线，还有拓展市场。\n\n- **团队实力**  \n  公司的创始团队非常牛，成员都是顶尖大学的航空专业毕业生，比如清华、北航等，还有来自航天科技、航天科工等大公司的专家。创始人张鑫是飞行动力学和控制的专家，专门研究飞机怎么飞得更稳、更安全。\n\n- **未来计划**  \n  华喜航空的目标是开发出一种既环保又高效的飞机，让它能在城市里作为交通工具使用，解决交通拥堵问题。比如，你可以想象一下，未来出门不用挤地铁，直接坐这种飞机到目的地，既快又方便。",
-      "summarized_at": "2026-04-29T10:12:35.792Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777457493772",
-      "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
-      "summary": "作者｜乔钰杰\n编辑｜袁斯来\n4月28日，未来宇航在雄安新区举行FX锋行系列空间飞行器发布会，并同步举行商业航天生态供应链合作伙伴签约仪式。\n此次发布的FX“锋行”系列，是国内首个服务卫星组网和在轨业务的商业飞行器。面向300kg至4000kg级任务需求，重点突破高精度姿轨控、柔性化承载与快速轨道响应等关键技术，强调低成本、高可靠与快响应能力。其定位不仅是单一飞行器产品，也是支撑在轨服务工程化落地的基础平台，可服务于星座组网、在轨加注及深空探测等场景。\n\n活动现场 企业供图\n未来宇航CTO刘春保在接受36氪采访时介绍，空间飞行器的核心价值在于提升部署效率与降低成本：一方面，通过更高效的轨道转移能...",
-      "url": "https://36kr.com/p/3787376553876737?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-29T04:00:21.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 未来宇航发布新火箭，方便卫星组网和太空服务\n\n- **新火箭叫FX锋行系列**：这是中国第一个专门为卫星组网和太空服务设计的商业火箭，可以发射300到4000公斤的货物。\n- **技术亮点**：这种火箭特别擅长精准控制位置和速度（高精度姿轨控）、能灵活装载不同设备（柔性化承载），还能快速调整轨道（快速轨道响应）。\n- **低成本可靠**：强调价格便宜、不容易出问题、响应速度快，就像网购发货，别人要一周，它几天就到。\n- **用途广泛**：不仅用来发射卫星，还能帮助卫星在太空中互相连接（星座组网）、补充燃料（在轨加注）和研究深空（深空探测）。\n- **提升效率**：火箭的核心好处是让卫星部署更有效率、更便宜，比如以前需要多次发射，现在一次就能完成更多任务。\n- **基础平台**：这个系列不只是火箭本身，还是支持太空服务项目落地的平台，像搭积木一样，方便未来更多太空应用。",
-      "summarized_at": "2026-04-29T10:12:43.143Z",
       "summary_status": "success"
     },
     {
