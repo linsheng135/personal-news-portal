@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T10:12:54.109Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-04-30T10:12:54.110Z",
+    "date": "2026-04-30",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1777543878872",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris...",
-      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-27T22:52:57.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 超级大佬要打官司了\n\n- **事情背景**：马斯克和OpenAI的老板Altman已经吵了几年了，现在要正式去加州法院打官司了。OpenAI是搞人工智能的，最近准备上市，但马斯克和Altman在公司的未来方向上有严重分歧。\n- **核心矛盾**：马斯克觉得OpenAI不该是赚钱的生意，应该是为所有人好；但Altman希望公司能赚钱，这样才能更好地发展AI技术。现在法院要判，OpenAI是不是能继续当公司挣钱。\n- **为什么重要**：OpenAI搞的AI技术很厉害，像自动驾驶什么的都用得上。如果法院判决OpenAI不能赚钱，那整个AI行业可能会受影响。反之，如果允许OpenAI赚钱，可能会让其他搞AI的公司也跟着赚钱。\n- **打个比方**：就像两个朋友一起开餐馆，一个想赚点钱改善生活，另一个觉得这应该是个公益项目。现在法庭要判，餐馆能不能赚钱。如果判不能赚钱，那可能很多类似的\"公益餐馆\"都会倒闭；如果判能赚钱，那以后可能会出现更多这样的商业项目。",
-      "summarized_at": "2026-04-30T10:11:27.287Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777543878872",
-      "title": "The missing step between hype and profit",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B...",
-      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-27T16:13:41.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 从期待到赚钱，少了一个关键步骤\n\n想象一下，你看到一款超火爆的新玩具，大家都说好，你也心动了。但你知道卖这个玩具的人，光靠大家喊好就能赚钱吗？肯定不是。他们得先学会怎么把玩具卖出去，还得想办法让大家愿意多花钱。\n\n### 期待背后的真相\n\n很多产品刚出来时，大家都会兴奋得不行。就像有人发明了能飞的汽车，一开始所有人都说\"太酷了\"，但真正能买得起、用得上的人没几个。如果只停留在让大家说\"哇\"的阶段，那就像一个没擦玻璃的窗户，看起来很亮，但根本进不去阳光。\n\n### 把期待变钱的关键\n\n真正聪明的人，会做几件事：\n- **先试后卖**：先让几个人试用，看看真的好用，再告诉大家\n- **小步快跑**：别一下子全推出来，先玩几天，改改缺点\n- **找到买手**：不是光喊好，得找到那些真的需要的人，比如先给汽车发烧友开卖\n\n### 为什么很多人失败\n\n很多人把精力花在\"大家说好\"上，忘了最关键的步骤——怎么把\"好\"变成\"真香\"。就像有人开了个网红奶茶店，光靠拍照发朋友圈，不研究怎么让顾客愿意排队，最后客人少了，老板也撑不住了。\n\n总之，把大家的热闹劲变成真金白银，需要先把产品做好，再找到对的人，最后做点小调整。不然的话，再火的东西也只是一阵风。",
-      "summarized_at": "2026-04-30T10:11:28.850Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777543878872",
-      "title": "Rebuilding the data stack for AI",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a...",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-27T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能大揭秘：为什么企业用AI这么难？\n\n### 企业AI应用的困境\n想象一下，你想给自家餐馆安装一个智能推荐系统，能根据顾客喜好推荐菜品。这听起来很棒对吧？但如果你发现厨房里的食材摆放得乱七八糟，菜谱也不齐全，别说智能推荐了，连基本的点单都搞不好。这就是很多企业用AI遇到的问题：虽然大家都想搞AI，可现实是，数据太乱、太差，根本没法用。\n\n### 消费级AI和企业的区别\n现在网上各种AI助手，比如购物推荐、语音助手，用起来特别方便。但企业用AI就不一样了，它们需要处理的是生产、销售、库存等复杂问题。这就好比消费级AI是帮你选个衣服，而企业AI得负责整个服装店的运营。数据质量差，就相当于给AI助手发了一堆错误的衣物尺码，自然推荐不出合适的衣服。\n\n### 数据就是企业的\"食材\"\n企业要搞AI，关键在于数据。数据质量差，就像没有新鲜食材的厨房，再好的AI工具也发挥不了作用。比如，销售数据乱糟糟的，AI就无法预测市场需求；客户信息不完整，就没办法精准营销。所以，很多企业发现，想要用好AI，首先得整理好数据，让它变得像超市货架一样井井有条。\n\n### 如何解决数据难题\n- **整理数据**：就像超市会把同类商品放一起，企业也得把数据分类整理\n- **检查数据**：确保数据准确，就像检查食材是否新鲜\n- **建立数据标准**：所有部门都要用统一的数据格式，就像餐厅所有菜谱都用同一份配料表\n\n总之，企业用AI不是技术问题，而是数据问题。只有把数据管好，AI才能真正帮上忙，否则就是\"巧妇难为无米之炊\"。",
-      "summarized_at": "2026-04-30T10:11:40.403Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777543878872",
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open sou...",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-04-24T21:40:58.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## DeepSeek新模型V4的重要意义\n\n### - 更能理解长篇大论\nDeepSeek新出的AI模型V4，就像一个能听懂长故事的助手。以前模型听故事容易走神，V4通过新设计，能一次性处理更多文字，比如读完一本长篇小说不需要打断。这就像有人把大脑升级了，能一次性记住更多信息。\n\n### - 效率更高\n新模型的内部工作方式像优化了的高速公路，以前AI处理信息像一条单车道，容易堵车；现在变成多车道，数据能更快流动。比如你问它写一篇报告，V4能更快给出完整答案，就像快递员用了无人机配送，比原来更快。\n\n### - 开放使用\n和以前一样，这个模型对所有人开放，就像图书馆免费开放借书。这意味着学生、作家、程序员都能用它来学习、创作或工作，不用花钱就能获得强大帮助，就像共享单车让每个人都有车骑。\n\n### - 日常应用\n比如你想让AI帮你总结一整本书，以前可能会卡顿或只给部分内容，V4能完整理解并给出准确总结。或者你让AI设计一个活动方案，它可以根据你提供的详细要求，生成完整的策划书，就像一个能通读你的需求后立刻画图纸的建筑师。\n\n这个新模型最大的好处是让AI更接近人类，能处理更复杂任务，就像智能手机让电脑变得简单易用，未来可能会改变我们工作和生活的方式。",
-      "summarized_at": "2026-04-30T10:11:38.868Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1777543878872",
       "title": "AI needs a strong data fabric to deliver business value",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Meshery是个云上“总管家”\n\n想象一下，你家里有很多电器：冰箱、空调、电视，每个电器都有自己的开关。Meshery就像一个智能家居的总管家，帮你把所有云里的服务“电器”都管理好，让它们能顺畅地一起工作。\n\n### 它怎么工作的？\n\nMeshery就像一个“大总控台”，你只需要在电脑上打开它，就能看到所有云服务的情况。比如，你用阿里云、腾讯云、AWS这些不同的“电器”，Meshery都能帮你统一管理。它不需要你每次都手动设置，就像家里的智能管家会自动调节空调温度一样。\n\n### 为什么它能做到？\n\nMeshery特别厉害的地方在于，它能把不同的云服务“翻译”成同样的语言，让它们像一家人一样互相理解。比如，你用阿里云的资源，同时又在AWS上跑程序，Meshery能帮你把这两部分完美连接起来。\n\n### 它有什么用？\n\n- **省心省力**：以前管理多个云服务像开几家杂货店，现在Meshery帮你一站式搞定。\n- **提高效率**：不用再分别去每个云平台设置，所有操作都在一个界面完成。\n- **减少错误**：自动帮你检查配置，就像妈妈会检查你写完作业没一样，避免出错。\n\n总之，Meshery就是一个让云服务管理变得简单、高效的“总管家”，适合各种需要同时用多个云平台的人使用。",
       "summarized_at": "2026-04-30T10:12:33.454Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777543882795",
-      "title": "从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”",
-      "summary": "作者 | 邓咏仪\n编辑 | 杨轩\n如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。\n来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。\n\nNebula NEXT 01 \n在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO James Keyes、Meta 前 VP来谈论AI如何重塑物理世界；而苹果联合创始人沃兹尼亚克（Steve Wozniak）以及NBA传奇球星德怀恩·韦...",
-      "url": "https://36kr.com/p/3789057332043016?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-30T09:33:41.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 追觅硅谷搞大事情：扫地机器人都能造火箭车？\n\n### 活动盛况\n4月27日，旧金山艺术宫变成了一个大卖场，人来人往，到处是来自世界各地的媒体和观众。展示的产品五花八门，小到能戴在脖子上的智能吊坠、能吹干头发的神器，大到能拖地、制冷制热的家电，还有一辆像火箭一样酷炫的超跑概念车。\n\n### 技术大佬现身说法\n舞台上的大咖们都在聊人工智能（AI）如何改变我们的生活。比如图灵奖得主David Patterson、前便利店巨头7-Eleven的CEO James Keyes，还有Meta公司的前高管，都在说AI能让机器更懂我们。连苹果联合创始人沃兹尼亚克和NBA明星德怀恩·韦德也来了，说明这事儿挺火。\n\n### 追觅的野心\n追觅这个公司，本来是做扫地机器人的，现在一下子展示了这么多产品，从日常小物件到高科技家电，甚至造火箭车。这表明他们不光会扫地，还想用AI技术做更多改变生活的事情。就像你买了扫地机器人，发现这家公司还能帮你吹头发、搞定家务，甚至造出更酷的科技产品。\n\n### 核心信息\n追觅在硅谷搞了一场大秀，用各种产品展示了AI的强大能力。他们想告诉大家：未来，科技会像魔法一样，把生活变得越来越好。",
-      "summarized_at": "2026-04-30T10:12:35.587Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777543882795",
-      "title": "HappyHorse没有惊喜",
-      "summary": "作者 | 兰杰\n编辑 | 乔芊\n4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。 \nHappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。\n该视频模型饱受关注的原因有二。 \n一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测为主要形式的权威AI评测平台Artificial Analysis AI Video Arena排行榜，以更高的Elo分数（通过比赛输赢和对手强弱来动态计算...",
-      "url": "https://36kr.com/p/3789098887077123?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-30T09:11:22.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# HappyHorse没让人惊喜\n\n## 简单说\n\nHappyHorse是阿里巴巴开发的一个能做视频的AI工具，4月27号开始让部分人试用。但这个产品没像大家期待的那样突然火起来，可以说是没什么让人眼前一亮的地方。\n\n## 为什么受关注\n\n这个AI视频工具之所以被很多人讨论，主要有两个原因：\n\n- **成绩好**：在正式测试前，它在一个专门评测AI视频的平台上成绩很突出，没说明它是谁做的就拿了第一名。这个平台通过让各种AI视频互相比赛，根据输赢情况给分数（就像小朋友玩游戏得分一样）。\n- **背景大**：它背后是阿里巴巴这个大公司，而且之前没怎么宣传，突然出现让人好奇。\n\n## 评价如何\n\n但实际试用后，很多人觉得它并没有带来什么新东西。就像你期待朋友突然送你礼物，结果只收到一张普通卡片，虽然也有惊喜，但没什么特别的感觉。这个AI视频工具也是一样，虽然能做视频，但没出现什么让人特别惊讶的功能或效果。\n\n总之，HappyHorse就是那种\"有实力但不够惊艳\"的产品，像考试考得不错但没拿第一名那样，让人满意但不会疯狂讨论。",
-      "summarized_at": "2026-04-30T10:12:45.629Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777543882795",
-      "title": "“小长假”前一天北京拍地91.597亿，最贵楼面价超6万",
-      "summary": "4月最后一天，北京楼市迎来一次春季土拍盛宴，分别位于朝阳东坝、丰台万泉寺、昌平北七家的三宗宅地成交，总价合计91.597亿元。\n2026年1-4月，北京合计出让住宅用地13宗（2025年同期成交7宗），总成交价为217.577亿元（2025年同期成交约334.9亿元），相比去年同期有约35%的金额降幅。\n但今年1-4月成交宅地规划总建面约83.7万㎡，与去年同期成交总建面82.2万㎡的总量基本相当。\n从成交情况来看，今年北京土地市场偏冷。目前最高溢价率为4月21日成交的亦庄新城YZ00-0802街区1401-1地块（瀛海地块），溢价率也只有8.7%。而2025年前4月成交的7宗宅地中，有3宗地...",
-      "url": "https://36kr.com/p/3789084813548803?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-30T08:56:58.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 北京土地拍卖情况总结\n\n## 近期拍卖情况\n4月底，北京拍了几块房子地，一共卖了91.597亿元。这三块地分别在北京的朝阳、丰台和昌平地区。\n\n## 全年土地市场对比\n今年1到4月，北京一共卖了13块住宅地，去年同期卖了7块。不过今年卖地总金额是217.577亿元，比去年少了约35%。虽然卖地金额少了，但卖出的房子总面积基本没变，今年约83.7万平方米，去年是82.2万平方米。\n\n## 土地市场温度\n从整体来看，今年北京卖地市场有点冷清。比如最近拍卖的一块地，溢价率才8.7%，说明买家不太积极。去年同期卖的地中，有不少是高价成交的，今年这种情况比较少见。\n\n## 核心观点\n- 今年北京卖地金额减少，但房子总面积变化不大\n- 土地市场不太热，买家观望情绪较重\n- 最贵的地楼面价超过6万元，但整体溢价率不高",
-      "summarized_at": "2026-04-30T10:12:42.862Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777543882795",
-      "title": "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
-      "summary": "大公司：\n联发科一季度毛利率为46.3%，同比下滑1.8个百分点\n4月30日，联发科举行法说会并公布2026年第一季度财报，单季每股盈余（EPS）为新台币15.17元，环比增加5.6%、同比减少17.4%；合并营收为新台币1491.51亿元，环比减少0.7%、同比减少2.7%；毛利率为46.3%，环比增加0.2个百分点，同比下滑1.8个百分点。公司表示，毛利率季增主要受惠产品组合优化，年减则反映部分产品毛利结构调整。（界面）\n阿里云域名产品将于5月12日调价\n36氪获悉，阿里云发布阿里云域名产品调价通知：因域名上游注册局成本上调，经慎重考虑，现决定于2026年5月12日零时，将域名调整为以下价...",
-      "url": "https://36kr.com/p/3789059666173189?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-04-30T08:53:38.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 澳门经济和小红书动态\n\n- 澳门第一季度经济增长7.1%，比去年多了不少，说明当地生意挺红火。\n- 小红书公司内部发信，说要加大人工智能（AI）投入，还让柯南当总裁，可能是想用新科技和名人效应搞创新。\n\n## 大公司动态\n\n### 联发科的财务情况\n\n- 联发科是个做电子零件的大公司，一季度每卖一个产品赚的钱比上季度多了点，但比去年少了不少。\n- 公司总收入和赚钱的比率（毛利率）也有点变化，说明卖的东西稍微有点调整。\n- 公司解释说，毛利下滑是因为部分产品的赚钱能力变低了，可能是在竞争更激烈的市场里。\n\n### 阿里云域名涨价通知\n\n- 阿里云要涨价了，因为注册域名的成本变高了，就像租房子的租金涨了一样。\n- 具体涨价时间定在5月12日，大家要注意这个变化。",
-      "summarized_at": "2026-04-30T10:12:52.423Z",
       "summary_status": "success"
     },
     {
