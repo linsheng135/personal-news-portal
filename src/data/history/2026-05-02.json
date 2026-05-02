@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-02T09:14:40.954Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-02T09:14:40.955Z",
+    "date": "2026-05-02",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1777713183942",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T22:08:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# Musk和Altman的法庭对决第一周总结\n\n## Musk的控诉\n\nElon Musk在法庭上穿得很正式，他说自己被OpenAI的CEO Sam Altman和总裁Greg Brockman给骗了。就像你和朋友合伙开个店，朋友说投资很稳，结果偷偷把你的钱拿去做别的事情，这就是Musk的感觉。他本来以为和OpenAI是合作关系，但实际上OpenAI很快就不需要他的钱了。\n\n## AI的潜在危险\n\nMusk还警告说，人工智能可能会带来毁灭。他用了个比喻：AI就像一个会自己学习的外科医生，如果医生的技术不够好，可能会把病人治死。他说，如果AI发展太快，人类可能就控制不了它了，到时候后悔都来不及。\n\n## xAI和OpenAI的关系\n\nMusk还承认，他自己创立的xAI公司，用的技术其实是从OpenAI那里学来的。这就好比你在朋友家偷了食谱，自己开了家餐馆。他说，他本来想和OpenAI合作，但后来发现OpenAI已经把技术用光了，所以他自己也做了AI项目。\n\n## 总结\n\n整个事件就像一场商业纠纷，Musk觉得被朋友坑了，还担心AI这东西太危险。他承认自己也有点眼红朋友的成功，所以也搞起了类似的业务。这场官司的关键就是看法庭怎么认定他们之间到底是不是有欺骗行为。",
-      "summarized_at": "2026-05-02T09:13:14.755Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777713183942",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought wit...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T15:54:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI时代的安全挑战\n\n### 安全问题越来越严重\n在AI技术出现之前，网络安全已经够让人头疼的了。比如家里装了防盗门，但总有人想找办法进来，这就是网络安全的老问题。现在有了AI，情况更复杂了，就像家里不仅装了防盗门，还多了个智能音箱，谁听个音乐都能被盯上。\n\n### AI让安全更容易被攻击\nAI技术虽然方便，但也像给防盗门加了无数个窗户。以前防贼只需要堵住门，现在得考虑窗户、智能设备等所有地方。比如有人用AI分析你家摄像头拍的视频，就能找到你家钥匙放哪儿，这就是新的攻击方式。\n\n### 老方法不够用了\n以前对付网络安全靠的是老一套方法，比如设置复杂密码。但现在AI能轻易破解这些方法，就像用AI教小偷怎么开锁。老方法就像穿了个洞的雨衣，大雨（攻击）一来就破功。\n\n### 需要重新思考安全\n现在必须用新思路保护信息安全。就像以前只锁门，现在得考虑所有可能的漏洞。比如给每个智能设备都装上\"安全芯片\"，专门检测异常行为。这就像给家里每个电器都加了监控，谁动就报警。\n\n- 安全需要全面升级  \n- AI让攻击方式更多样  \n- 老方法对付不了新威胁  \n- 必须用AI保护AI",
-      "summarized_at": "2026-05-02T09:13:15.715Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777713183942",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines how AI factories unl...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T15:31:09.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业自己做AI，数据怎么管？\n\n现在很多公司都不想再让别人帮忙做AI了，想让AI更符合自己的需求。就像你自己做饭，不想完全依赖外卖，而是想自己买菜、做菜一样。\n\n但是，自己做AI有个大难题：数据怎么管？数据当然是自己的，但AI要效果好，又得用大量数据来训练。这就好比家里东西再多，也得有地方放，还得方便拿取。\n\n### 核心挑战\n\n- **数据安全**：不能把所有数据都随便放出去，得像保护家中的贵重物品一样小心。\n- **数据质量**：数据得像新鲜食材，才能做出好菜（好AI）。\n- **平衡需求**：既要自己掌控，又要让数据流动起来，不能像自家花园一样，只进不出。\n\n### 怎么解决？\n\n- **建\"AI工厂\"**：就像自己开个厨房，专门用来做AI。但这个厨房得既安全又高效，不能乱放东西，还得能快速找到需要的材料。\n- **数据共享机制**：可以像小区物业一样，建立规则，让邻居（其他公司）也能安全地用你的数据，但得先征得同意，并且做好记录。\n- **技术支持**：用先进的技术来管理数据，比如像智能储物柜一样，自动分类和备份。\n\n总之，企业自己做AI，就像自己开餐厅，既要保证食材新鲜、厨房安全，又要让食客满意，还得和供应商（其他公司）搞好关系。",
-      "summarized_at": "2026-05-02T09:13:23.346Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777713183942",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out ...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 一个专门给基督徒用的美国手机网络要来了\n\n## 核心功能：屏蔽色情和性别相关内容\n\n这个新手机网络主要是给基督徒用的，下周就要在美国推广了。它的特别之处在于能自动过滤色情信息和跟性别有关的麻烦内容。专家说，这是美国第一次有手机套餐能在网络层面直接屏蔽这类信息，而且用户即使已经是成年人，也不能自己取消这个过滤功能。\n\n## 像给手机装了个\"智能过滤器\"\n\n你可以把它想象成给手机装了个自动过滤器，就像家里水管安装的净水器那样。无论你用这个手机看什么网站或App，只要内容被系统判定为色情或敏感性别内容，就会自动被挡下来。这个过滤器的特点是\"死活不让关\"，就算用户想自己改设置，系统也不允许。\n\n## 为什么基督徒喜欢？\n\n很多基督徒觉得网络上到处都是不合适的内容，比如色情网站或强调性别的广告，会分散他们对信仰的注意力。这个手机网络就像给手机装了个\"信仰模式\"，能自动清理这些让他们觉得不纯洁的内容，让他们可以更专心地使用手机而不受干扰。\n\n## 专家提醒：过滤效果可能有限\n\n不过也有专家提醒说，这种网络过滤技术不一定能完全管用。比如有些色情内容会换着花样伪装，可能很快就能绕过过滤系统。就像家里装防盗门，总会有一些小偷会想办法钻空子。所以这个网络虽然出发点是好的，但实际效果可能不如用户期望的那样完美。",
-      "summarized_at": "2026-05-02T09:13:29.952Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1777713183942",
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
@@ -276,78 +200,6 @@
       ],
       "ai_summary": "## 这里有各种好玩的清单推荐\n\nGitHub上有个很火的清单网站，叫\"Awesome\"，上面收集了各种好玩的主题清单。就像你小时候玩宝可梦图鉴一样，这里把各种有趣的东西都整理在一起，方便大家查找。\n\n### 有哪些内容呢？\n\n- **编程学习**：比如你想学怎么写代码，这里有各种入门资源，就像买食材包，直接告诉你需要什么调料和工具。\n- **效率工具**：整理了好多能提高工作效率的软件，比如有的能帮你自动整理文件，有的能让你更快做PPT。\n- **生活技巧**：像各种省钱小妙招、旅行攻略、美食推荐，就像朋友聚会时分享的\"私藏干货\"。\n\n### 为什么这么受欢迎？\n\n这些清单就像超市里的商品分类架，把琳琅满目的东西分好类，直接给你贴上标签。比如你想学做菜，直接找\"美食清单\"，里面就有各种菜谱网站、视频教程，比自己摸索省事多了。\n\n### 怎么使用？\n\n就像逛淘宝先看\"热门店铺\"，这里也是先看\"热门清单\"，比如\"程序员必备工具\"，直接复制链接就能用。如果发现哪个特别有用，还可以跟着做笔记，比如记下\"每天学5分钟编程\"这个清单。\n\n总之，这里是网上各种好玩的\"清单超市\"，什么都能找到，省时省力，就像手机里的\"万能工具箱\"。",
       "summarized_at": "2026-05-02T09:14:19.740Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777713187929",
-      "title": "茶颜悦色 , 装不下去了",
-      "summary": "以慢著称，不爱出省的奶茶界“初代网红”茶颜悦色，终于又向外迈出了一步。\n近日，茶颜悦色深圳门店开业，两家门店分别坐落于深圳万象城与深圳万象天地。据媒体报道，开业首日，门店外就聚集了大批顾客，等位队伍已经排至商场外围，提示牌显示，“排队需要5小时”。\n\n图源：二手交易平台截图\n黄牛们也闻风而动，据二手交易平台数据，原价十几元一杯的茶颜悦色奶茶，代购价格均被炒至30—100元。\n然而，从开业第二天开始，排队人数明显骤减，等候时间缩至1小时。甚至比起想要排队打卡，许多网友的态度是纳闷：“都2026年了，怎么还在排茶颜悦色啊？”\n进入“湖南第二省会”\n布局深圳，对其他现制茶饮品牌来说也许算不得什么，但...",
-      "url": "https://36kr.com/p/3791800373664772?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T08:06:53.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 茶颜悦色进军深圳引排队狂潮\n\n### 开业火爆，黄牛抬价\n茶颜悦色这家奶茶店，以前只在湖南开店，现在终于到了深圳。深圳两家店一开业，外面就排了长队，有人等了5个小时。连黄牛都来抢货，十几块的奶茶被卖到30到100块。\n\n### 排队降温，网友调侃\n第二天，排队的人就少了，等1小时就能买到了。很多人觉得奇怪：\"都2026年了，还排这种队？\"好像去赶时髦，而不是买奶茶。\n\n### 对奶茶界的意义\n虽然其他奶茶店也常开新店，但茶颜悦色这次不同。它代表了一种特别的奶茶文化，即使很多人不理解，还是有人愿意花时间和钱排队。这就像小时候抢着玩某个流行玩具，即使现在看来没什么特别，但那段经历让人印象深刻。\n\n### 核心观点\n茶颜悦色在深圳的火爆，不只是奶茶店的成功，更是一种文化现象。它让人们愿意为了\"网红店\"体验而排队，这种热情甚至让黄牛都参与进来。虽然后来排队的人少了，但茶颜悦色已经证明了自己的吸引力。",
-      "summarized_at": "2026-05-02T09:14:19.887Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777713187929",
-      "title": "又一算力独角兽，冲击IPO",
-      "summary": "作者丨韦香惠\n来源丨东四十条资本\nA股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。\n主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。\n这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大股东则为河南国资平台豫信电子科技集团。此外，超聚变第二大股东系中国移动旗下中移资本，持股15.14%。成立至今，核聚变已至少完成8轮股权融资，身后VC/PE超过30家。\n超聚变之所以受资本青睐，离不开“算力即国运”的时代背...",
-      "url": "https://36kr.com/p/3791796527602951?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T07:38:58.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 超聚变数字技术要上市了！\n\n### 公司背景\n河南有个叫超聚变的公司，最近要上市了，估值已经超过500亿。这家公司不是新开的，以前是华为做电脑服务器的一部分，后来因为市场变化从华为分离出来，单独运营。\n\n### 谁在背后支持\n- 超聚变的大老板是河南的超聚能科技，持股31.38%\n- 超聚能的大老板又是河南国资平台豫信电子科技集团\n- 中国移动旗下中移资本也投了15.14%\n- 超聚变已经融了8轮钱，背后有30多家投资机构\n\n### 为什么这么火\n现在大家都觉得“算力很重要”，就像手机需要处理器一样，国家也需要强大的计算能力。超聚变正好做这个，所以资本很愿意投它。\n\n### 上市速度\n从提交上市材料到辅导完成，只用了4个多月，比很多公司快多了，这说明它准备得很充分。\n\n总之，超聚变是个有实力的公司，得到了很多大公司和投资人的支持，马上就要正式在股市上交易了。",
-      "summarized_at": "2026-05-02T09:14:30.851Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777713187929",
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "summary": "梦晨 发自 凹非寺\n苹果大失误！把自用的Claude.md打包到了官方App里。\n这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。\n这么大的公司，也在Vibe Coding？\n\n苹果内部在使用Claude Code构建生产级应用\n项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……\n这家全球最注重保密的科技公司，还是把自己的秘密泄露了。\n事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。\n等一下。\n这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。\n该不会这两个事故，罪魁祸首都...",
-      "url": "https://36kr.com/p/3791662444911617?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T06:52:34.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 苹果App意外泄露内部使用秘密\n\n### 事件经过\n苹果官方App不小心把内部用的Claude.md文件打包进去了。这个文件就像项目说明书，写着怎么开发、遵守什么规则、避免什么错误。结果这个说明书被公开了，相当于把苹果内部的开发过程暴露了。\n\n### 核心问题\n苹果被曝出用Claude Code开发产品，这和他们之前源码泄露事件很像。当时也出现了类似问题，让人怀疑是不是同一个原因导致事故。\n\n### 后果与反应\n苹果发现后24小时内紧急撤回了问题版本，但内容已经外泄。这就像你写作业时，不小心把草稿纸放到了提交版本里，结果被同学看到了你的思路。\n\n### 通俗解释\nClaude.md就像菜谱，告诉你怎么做这道菜。苹果把菜谱放错位置，别人就看懂了苹果是怎么做菜的。虽然他们撤回了，但已经有人看到了。\n\n### 关键信息\n- 苹果内部用Claude Code开发产品\n- Claude.md泄露等于暴露开发过程\n- 类似事件可能由同一原因导致\n- 苹果快速反应但已造成影响",
-      "summarized_at": "2026-05-02T09:14:27.351Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777713187929",
-      "title": "9.35万, 威马破产大甩卖",
-      "summary": "作者 | 冯晓亭 编辑 | 吾人\n来源 | 融中财经\n4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。\n拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35万元”成了这笔“亿元债权”的新主人。\n\n威马对外应收款项拍卖\n消息传出，舆论哗然。昔日的造车新势力“四小龙”之一、公开累计融资350亿元的资本宠儿，如今旗下子公司的亿元债权竟被当成“白菜”甩卖。更令人咋舌的是，这1.2759亿元的债权，没...",
-      "url": "https://36kr.com/p/3791546608049152?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T03:24:44.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 威马汽车卖债权，9万块买到1亿\n\n- **拍卖事件**：威马汽车旗下公司欠了别人1亿多元，后来这家公司破产了，就把这笔债权放到淘宝拍卖。起拍价只要100块钱，最后有100人参与竞价，一个人花了9万块，成了这笔债权的老板。\n\n- **让人意外**：威马以前是个很热门的汽车牌子，花了350亿元融资，还被叫做“造车新势力四小龙”之一。现在居然有人用9万块买到1亿多的债权，就像你欠朋友100块钱，后来朋友破产了，你花9块钱就买回了这100块钱的债权。\n\n- **原因分析**：这是因为破产公司的债权很难要回来，所以价格才这么低。就像你借给别人的钱，如果对方破产了，你可能连本钱都拿不回来，所以出价的人知道很难拿回钱，就只愿意出很少的钱。\n\n- **影响**：这个消息让很多人惊讶，因为威马以前很风光，现在却落到卖债权的地步。这也说明，即使是热门的创业公司，也可能因为经营不善而陷入困境。",
-      "summarized_at": "2026-05-02T09:14:37.823Z",
       "summary_status": "success"
     },
     {
