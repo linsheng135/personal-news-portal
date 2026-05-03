@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T09:27:04.997Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-03T09:27:04.998Z",
+    "date": "2026-05-03",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1777800327433",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T22:08:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Musk和Altman的官司第一周：Musk说被骗了，AI可能毁灭人类\n\n- **Musk的控诉**  \n  Musk穿着黑色西装出庭，说OpenAI的CEO Altman和总裁Brockman骗了他，让他投资了这家公司。就像你朋友向你借钱开店，说保证赚钱，结果你发现他是拿你的钱去赌，你肯定很生气。\n\n- **AI的威胁**  \n  Musk警告说，AI要是发展不好，可能会毁掉全人类。他打比方说，现在AI就像个没长大的孩子，会做很多事，但没人能完全管住它，万一它学会惹祸怎么办？就像你家小孩突然变得很调皮，你能控制吗？\n\n- **xAI和OpenAI的关系**  \n  Musk承认，他新搞的xAI公司，其实是照搬了OpenAI的技术。这就像你看到别家店做的菜好吃，回家学着做，但没承认是借鉴的。Musk说，他本来想自己造AI，但发现OpenAI的东西太好了，就偷偷学了。\n\n- **核心观点**  \n  Musk说，他本来是真心帮OpenAI的，结果发现Altman和Brockman根本没按承诺做事。他还说，AI是个超级危险的东西，必须小心。整个官司就像一场闹剧，两边都在互相指责，但核心就是Musk觉得被坑了，而且AI可能是个定时炸弹。",
-      "summarized_at": "2026-05-03T09:25:38.924Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777800327433",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought wit...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T15:54:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能时代的安全挑战\n\n### 问题的背景\n想象一下，你的手机和电脑本来就有不少安全漏洞，比如病毒、黑客攻击等。现在，人工智能技术越来越多地应用在手机、电脑和网络上，这就好比给自己的设备增加了更多功能，同时也让安全漏洞变多了。\n\n### 人工智能带来的新问题\n- **攻击面扩大**：以前，黑客攻击主要集中在网上银行、社交媒体等地方。现在，随着人工智能的应用，智能家居、自动驾驶汽车、智能工厂等都可能成为攻击的目标。\n- **复杂性增加**：人工智能系统通常很复杂，就像一个巨大的拼图，一旦某个部分出现问题，整个系统都可能受影响。传统的安全方法很难应对这种复杂性。\n\n### 为什么需要重新思考安全\n传统的安全方法就像给房子装门锁，但人工智能让房子有了更多窗户和门，传统的门锁显然不够用。我们需要新的方法来保护这些新功能，比如：\n- **智能防御**：使用人工智能来检测和应对新的安全威胁，就像用智能摄像头来监控家里，一旦有异常立刻报警。\n- **整体防护**：不能只保护某个部分，而是要全面考虑所有设备和系统的安全，就像给整个社区安装智能安防系统。\n\n### 核心观点\n随着人工智能的发展，安全威胁也在不断增加。我们需要用新的方法来应对这些挑战，确保我们的设备和数据安全。这不仅是对技术的考验，更是对我们安全意识的考验。",
-      "summarized_at": "2026-05-03T09:25:41.293Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777800327433",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines how AI factories unl...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T15:31:09.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业自主运营AI的挑战\n\n### 自主运营AI的好处\n现在很多公司都不想被别人牵着鼻子走，想自己掌握AI技术。比如，一家电商公司希望用AI分析顾客喜好，但不想把所有数据交给第三方公司。这样一来，他们可以根据自己公司的特点，训练出更懂自家顾客的AI系统。\n\n### 数据安全与使用的平衡\n但是，自己掌控数据也有难题。就像一个人做饭，既要保证食材安全，又要保证味道好。公司也一样，既要保护客户数据不被泄露，又要让数据流动起来，才能让AI更好地工作。如果数据不流通，AI就像没油的汽车，跑不起来；但如果数据随便传，又怕客户信息被滥用。\n\n### 如何解决这个问题\n- **建立信任机制**：公司可以像银行保管箱一样，建立安全的数据交换平台，让数据在安全的环境里流动。\n- **数据脱敏处理**：在分享数据前，把能识别个人身份的信息去掉，比如用假名字代替真名字，这样既能让AI学习，又保护隐私。\n- **行业合作标准**：不同公司可以一起制定数据使用规则，就像交通规则一样，大家都遵守，数据就能顺畅流动。\n\n总之，企业自己运营AI，既要抓住数据这个“食材”，又要管好安全的“锅”，才能做出又好吃又放心的“菜”。",
-      "summarized_at": "2026-05-03T09:25:49.929Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777800327433",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out ...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 一个专门给基督徒用的美国手机网络要上线了\n\n### 核心功能：过滤不良信息  \n这个新的手机网络是美国全国范围的，主要面向基督徒。它的最大特点就是能自动过滤色情内容，就像你家里的路由器可以设置不让小朋友随便上网看不该看的东西一样。专家说，这是美国第一次有手机套餐能在网络层面直接屏蔽这些内容，而且用户不能轻易取消这个功能，就算人家是成年人也无法关闭。\n\n### 为什么要这样做？  \n- **宗教信仰**：基督徒认为色情内容不符合他们的信仰，所以希望手机网络能帮忙过滤，不用自己时刻盯着。  \n- **防止误触**：就像家里装防盗门一样，避免不小心点到不良信息。  \n\n### 其他信息  \n这个网络还会提供其他服务，比如过滤跟性别相关的敏感内容。不过目前还没透露更多细节。  \n\n### 总结  \n简单来说，这个手机网络就像一个\"过滤器\"，专门帮助基督徒远离色情和性别相关的不良信息。它通过技术手段直接在网络上拦截，用户无法轻易关闭，确保手机使用更\"安全\"。这就像给手机装了个特殊的\"家长监控\"，但这个功能是默认开启的。",
-      "summarized_at": "2026-05-03T09:25:50.570Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1777800327433",
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
@@ -276,78 +200,6 @@
       ],
       "ai_summary": "## mxrch / GHunt 是什么？\n\nmxrch 和 GHunt 是 GitHub 上最近很火的两款工具，它们属于黑客用的“进攻型”谷歌搜索工具。你可以把它们想象成侦探用的放大镜，专门用来在互联网上找可疑的东西。\n\n### 核心功能\n\n- **搜索隐藏信息**：就像在超市里找藏起来的小玩具一样，这些工具能帮你找到别人故意隐藏在网页里的信息。\n- **追踪恶意软件**：如果有人在网上散布病毒，这些工具能帮你找到病毒的来源。\n- **网络安全检测**：相当于给电脑做体检，检查有没有被黑客偷偷摸摸地入侵。\n\n### 为什么火？\n\n- **简单易用**：不需要懂太多黑客技术，就像用搜索引擎一样，输入关键词就能找到答案。\n- **实时更新**：就像天气预报一样，能实时告诉你最近有什么网络安全的新动态。\n\n### 使用场景\n\n如果你是个普通用户，可能不太需要用这些工具。但如果你是网站管理员或者网络安全员，它们就像你的火眼金睛，能帮你提前发现潜在的风险。\n\n总之，mxrch 和 GHunt 就是两款让网络安全排查变得更容易的工具，适合懂点技术的人用来保护自己的网站或者工作环境。",
       "summarized_at": "2026-05-03T09:26:47.246Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777800330635",
-      "title": "科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表",
-      "summary": "在2026世界超级摩托车锦标赛（WSBK）匈牙利站WorldSSP组别第一回合正赛中，中国摩托车制造商张雪机车的法国车手瓦伦丁·德比斯通过最后时刻的反超绝杀夺得冠军。赛后，荣耀CEO李健发文祝贺，并宣布作为张雪机车WSBK的首席战略合作品牌，荣耀将推出双方的冠军联名款手表，以庆祝这一夺冠时刻。 此前在4月初，荣耀已正式成为张雪机车WSBK首席战略合作品牌。荣耀首席营销官关海涛曾代表品牌向车队赠送荣耀WIN系列手机及荣耀WIN游戏本，寄望该系列产品能为车手带来胜利。荣耀此次通过与冠军联名，旨在借助国际赛事热度与效应，进一步提升品牌在年轻用户群体及运动场景中的影响力。 5月2日消息，在刚刚结束的2...",
-      "url": "https://36kr.com/p/3792228036615430?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T14:14:23.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 张雪机车再夺冠军，荣耀推出联名手表庆祝\n\n- **赛车胜利**：2026年世界超级摩托车锦标赛匈牙利站，中国摩托车品牌张雪机车的法国车手瓦伦丁·德比斯在最后一刻反超对手，成功夺冠。这就像一场赛跑，最后关头超车赢了对手。\n  \n- **品牌合作**：荣耀公司作为张雪机车的合作伙伴，在车手夺冠后特别高兴，决定推出一款联名款手表来庆祝。这好比两个好朋友一起做了一件大事后，决定做个纪念品。\n  \n- **品牌宣传**：荣耀希望通过和冠军合作，让更多人知道他们的品牌，特别是年轻人。这就像学校开运动会，赞助商希望品牌能被更多人看到。\n  \n- **产品支持**：之前荣耀还送了手机和电脑给车队，希望车手能赢，就像考试前老师鼓励学生好好学习一样。现在又推出联名手表，继续支持车队。\n  \n- **市场影响**：通过与国际赛事合作，荣耀想让品牌在运动场合显得更酷，吸引更多年轻人。这就像开奶茶店，会搞些特别活动吸引顾客。\n  \n- **未来计划**：荣耀计划继续和车队合作，推出更多联名产品。这就像球队夺冠后，会继续和赞助商合作推出纪念品一样。",
-      "summarized_at": "2026-05-03T09:26:46.613Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777800330635",
-      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
-      "summary": "文｜肖漫\n编辑｜李勤\n当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。\n卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。\n“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。\n在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。\n这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。\n基于移动基座模...",
-      "url": "https://36kr.com/p/3789475357400068?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T13:17:06.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 智能汽车行业转型物理AI\n\n- **行业趋势**：现在造智能车的人都在研究“物理AI”，这就像手机行业都做智能手机一样，不转就落后了。  \n  - **例子**：以前造车只要会跑就行，现在还要会认路、懂交通规则，就像做饭光会开火不够，还得会调味一样。\n\n- **生存法则**：做智能驾驶的厂家必须转物理AI，不然以后可能就倒闭了。  \n  - **例子**：就像菜市场卖菜，以前只要种出来就行，现在还得懂怎么保鲜、怎么卖得快，否则就被超市抢生意了。\n\n- **竞争加剧**：现在不仅是同行在比拼，连其他行业的公司也在抢地盘。  \n  - **例子**：以前做饭只有厨师竞争，现在连超市、电商平台都在做外卖，做饭的人必须学会用更多方法才能赢。\n\n- **商业机会**：能跟上转型的厂家会迎来更大市场。  \n  - **例子**：就像开餐馆，以前只卖面条，现在学会做全餐，客人就更多了，生意也更赚钱。\n\n- **技术方向**：卓驭发布了专门用于移动设备的物理AI模型。  \n  - **例子**：就像造车从只能油门刹车，现在要加方向盘、自动驾驶功能，让车更智能、更安全。",
-      "summarized_at": "2026-05-03T09:26:55.764Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777800330635",
-      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
-      "summary": "文｜周鑫雨\n编辑｜杨轩\n规模化落地，今年的具身公司都在谈这个。\n数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。\n激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。\n在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营...",
-      "url": "https://36kr.com/p/3792155815304450?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T13:01:36.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 具身公司快速发展，中国机器人全球扩张\n\n- **具身公司都在谈规模化落地**  \n  今年的具身公司都在研究怎么让机器人批量生产，就像手机厂大量生产手机一样。比如智元机器人，只用了三个月就生产了第一万台机器人，速度超快。\n\n- **机器人数量激增，价格便宜性能好**  \n  不少中国机器人公司正在全球扩张，价格不高但性能好。宇树科技每年卖超过5000台机器人，海外销售占比超过50%。就像以前大家都买国产手机一样，机器人也开始全世界流行。\n\n- **公司野心大，目标远**  \n  魔法原子MagicLab的目标特别激进，计划到2036年营收达到140亿美元，相当于每年卖好多好多机器人。这说明这些公司都想快速做大，抢占市场。\n\n- **机器人发展像跑马拉松**  \n  这些公司都在拼命赶进度，就像马拉松比赛一样，谁先到达终点谁就赢。但实际落地还需要时间，毕竟机器人技术复杂，不像跑鞋那么简单。",
-      "summarized_at": "2026-05-03T09:26:54.698Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777800330635",
-      "title": "周杰伦伙伴，要被卖了",
-      "summary": "图片来源：视觉中国\n作者/吴琼\n报道/投资界PEdaily\n音乐顶流也迎来了卖身结局。\n近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。\n你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……这些顶流艺人的音乐作品，均由环球音乐发行或持有版权。每当你打开音乐软件，也许就有一笔钱进了环球音乐的口袋。\n如今面对天价邀约，这家音乐帝国正面临着抉择时刻。\n估值4000亿，环球音乐要被卖了\n此番买家，堪称华尔街的传奇人物。\n...",
-      "url": "https://36kr.com/p/3791838183234816?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T09:37:20.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 环球音乐要被卖掉了\n\n环球音乐，这家公司你可能在手机上听过周杰伦、泰勒·斯威夫特等大明星的歌，它发行了很多流行音乐。现在，有个大老板想把它买下来。\n\n这个大老板是美国华尔街的比尔·阿克曼，他旗下的公司潘兴广场给了环球音乐一个收购提议。为了买下环球音乐，他准备用现金和股票，总共要花大约640亿美元（相当于4300亿人民币）。这个价格非常贵，相当于把环球音乐当成一个非常值钱的商品要全部买断。\n\n- 环球音乐是个大音乐公司，发行了很多明星的歌\n- 比尔·阿克曼想用很多钱把它全部买下来\n- 买卖的价格非常高，说明环球音乐很值钱\n\n这个消息让很多人惊讶，因为环球音乐的影响力很大。如果这笔收购真的成功，那么比尔·阿克曼将成为环球音乐的新主人。这对音乐市场和那些明星们的未来都有很大影响。",
-      "summarized_at": "2026-05-03T09:27:03.389Z",
       "summary_status": "success"
     },
     {
