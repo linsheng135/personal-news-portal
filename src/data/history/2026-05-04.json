@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-04T10:20:08.561Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-04T10:20:08.561Z",
+    "date": "2026-05-04",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1777889927707",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T22:08:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 伊隆·马斯克告 OpenAI：被骗了！AI 可能很危险！\n\n### 马斯克告状\n上周，马斯克和 OpenAI 的大法官开庭了。马斯克穿了一套黑西装，到法庭上告 OpenAI 的老板。他说，OpenAI 的 CEO 阿特曼和总裁布克曼骗他投资了 OpenAI。就像你朋友借钱给你，结果发现对方根本没打算还你一样，马斯克觉得 OpenAI 答应他的事情没做到。\n\n### AI 的危险\n马斯克还警告大家，AI 可能会害了我们。他说，AI 就像一把刀，用得好是帮手，用不好就可能伤到自己。就像你有一把水果刀，可以切水果，但如果被坏人拿去，就可能伤人。马斯克觉得，如果 AI 掌握了太多权力，可能会失控。\n\n### OpenAI 的秘密\n马斯克还说，OpenAI 的 AI 模型其实是照搬他的公司 xAI 的。就像你写了一篇作文，结果发现别人拿去发表了，还说是自己的原创一样。马斯克觉得，OpenAI 抄袭了他的成果。\n\n### 总结\n总的来说，马斯克在法庭上翻旧账，说 OpenAI 骗了他，还提醒大家 AI 有危险。这场官司估计还会持续很久，就像两个朋友因为借钱的事情闹矛盾，非要打官司解决一样。",
-      "summarized_at": "2026-05-04T10:18:55.936Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777889927707",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought wit...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T15:54:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# AI时代的安全挑战\n\n## 背景问题\n想象一下你的家门本来就有锁，但最近家里添了智能设备，比如智能音箱、自动门禁等。这些设备虽然方便，但也增加了新的安全隐患。现在的情况就像这样，网络安全本来就已经很吃力了，现在AI技术加入进来，又让问题变得更复杂。\n\n## AI带来的新问题\n- **攻击面扩大**：以前黑客攻击主要集中在网络，现在连家里的智能设备都可能成为被攻击的目标。AI技术让攻击手段更多样，比如通过AI生成虚假信息来骗人。\n- **传统方法不够用**：老式的安全措施就像用一把旧锁防现代防盗技术，根本不匹配。AI技术太灵活了，老方法对付不了它。\n- **安全设计需变**：就像以前造房子没考虑防盗窗，现在必须重新设计。AI安全问题需要从源头上重新考虑，不能只靠老办法修修补补。\n\n## 核心观点\n安全专家们认为，AI时代需要彻底改变安全策略。不能只靠老的防御方法，必须像设计智能设备时考虑安全一样，从一开始就设计AI系统的安全机制。比如，在开发AI应用时，就要提前想到可能被黑客利用的地方，设置多重保护。这样才能真正解决AI带来的新安全问题。",
-      "summarized_at": "2026-05-04T10:18:56.446Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777889927707",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines how AI factories unl...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T15:31:09.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业自己做AI，但数据怎么管？\n\n现在很多公司都不想再依赖别人提供的AI技术了，想自己掌控。这就像自己家里做饭，以前买现成菜，现在想自己种菜、自己买菜、自己炒菜。\n\n### 为啥要自己做？\n\n- **个性化需求**：就像你去餐馆吃饭，别人做的菜可能合你口味，但自己做的才最知道想吃什么。公司也是，客户数据在自己手里，才能做出最符合自家情况的AI。\n- **数据安全**：把数据交给别人，就像把家钥匙给陌生人。自己掌控，才放心。\n\n### 难处在哪里？\n\n- **数据要流通，但不能乱**：就像家里来客人，既希望客人方便，又怕他们乱动东西。公司数据要让大家都能用，但又要保证安全。\n- **质量要高**：数据质量差，就像做饭时菜不新鲜，做出来的菜肯定不好吃。AI也需要高质量数据，才能做出靠谱的分析。\n\n### 怎么解决？\n\n- **AI工厂**：可以想象成一个大厨房，专门负责处理数据，做出适合各家的菜（AI）。这样既能统一标准，又能让各家根据需要调整。\n- **平衡安全与开放**：就像家里设置小门或密码，既方便又不失安全。公司可以通过技术手段，让数据在安全的前提下流动。\n\n总之，企业自己做AI，关键在于处理好数据的安全和利用问题，既要保证数据不乱跑，又要让数据能发挥作用。",
-      "summarized_at": "2026-05-04T10:19:06.833Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777889927707",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out ...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 美国推出专为基督徒设计的手机网络\n\n- **核心功能**：这个新的美国手机网络专门为基督徒设计，最大的特点是能自动过滤色情网站和与性别相关的内容。\n\n## 为什么重要？\n\n- **首创**：专家表示，这是美国首次有手机套餐直接在系统层面阻止这类内容，而且这种过滤功能成年人也无法自行关闭。就像你买了个手机套餐，别人直接帮你把所有不良网站都过滤掉，自己没法再打开。\n\n## 如何运作？\n\n- **网络级过滤**：不同于安装软件或设置路由器，这个网络会在数据传输时直接拦截不合适的内容。这就像快递公司在派送包裹前，先帮你把所有破损或有害的包裹都挑出来。\n\n## 用户反馈\n\n- **基督徒欢迎**：很多基督徒觉得这个服务很实用，能帮助他们远离不良信息。但也有一些人担心，这种做法是否侵犯了个人自由。\n\n## 未来发展\n\n- **持续优化**：运营商表示会不断改进过滤技术，确保能更准确地屏蔽不合适内容，同时尽可能减少误封。这就像外卖平台不断改进算法，让你点外卖时不会总是点到不喜欢的菜。\n\n## 总结\n\n这个手机网络通过技术手段帮助基督徒远离色情和性别相关内容，是网络服务创新的一种尝试，但也引发了关于个人隐私和自由的讨论。",
-      "summarized_at": "2026-05-04T10:19:06.134Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1777889927707",
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
@@ -276,78 +200,6 @@
       ],
       "ai_summary": "## 这款软件帮你管理个人笔记，保护隐私\n\n- **核心功能**：它是一款个人笔记软件，可以帮你记录和整理生活中的各种信息。比如，你可以用它记购物清单、旅行计划，或者工作上的想法和资料，就像一个超级智能的抽屉，把所有重要东西都放得井井有条。\n  \n- **隐私保护**：和别人共享笔记时，不用担心信息泄露。因为这款软件是你可以自己安装在家里的电脑上（或其他设备），数据完全由你自己控制，就像自己家里放保险箱一样，只有你能打开。\n  \n- **开放透明**：软件的代码是公开的，任何人都可以查看、修改和使用。这意味着它不会偷偷做坏事，而且会不断改进，就像一群朋友一起维护一个公共俱乐部，大家都能参与进来。\n\n- **技术背景**：它用两种编程语言（TypeScript和Go）写成，这两种语言都特别适合开发高效、稳定的工具。简单来说，就像用两把不同的精巧锤子，把软件开发得既聪明又可靠。\n\n- **为什么受欢迎**：现在很多人喜欢用这类软件来整理生活和工作，因为它既方便又安全。这款软件因为注重隐私保护和开放性，所以最近在GitHub上很受欢迎，就像大家都觉得这个俱乐部很靠谱，纷纷加入一样。",
       "summarized_at": "2026-05-04T10:19:52.427Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777889930513",
-      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
-      "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。\n \n\n豆包\n \n目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。”\n据接近豆包的人士透露，付...",
-      "url": "https://36kr.com/p/3794799114476809?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-04T09:49:40.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 豆包App要收费了\n\n豆包App准备在免费服务之外，推出付费订阅，让用户花钱能获得更多好处。这个消息是通过App Store页面里的服务声明透露出来的，但目前App里还没看到具体选项。\n\n豆包官方解释说，他们一直提供免费服务，现在想通过付费方式，满足不同用户的需求。就像理发店既有免费修眉，也有收费的全身护理。付钱的人能享受更高级的服务。\n\n官方透露了三种付费套餐：\n- 标准版：每月68元（连续包年688元），像是基础版VIP\n- 加强版：每月200元（连续包年2048元），像是豪华版VIP\n- 专业版：每月500元（连续包年5088元），像是私人定制服务\n\n目前这些付费内容还在测试中，正式上线时会通过官方渠道通知用户。有内部人士说，付费服务可能会包括更多功能，比如更快的响应速度、更丰富的模板等。总之，以后想用豆包的高级功能，可能需要掏钱了。",
-      "summarized_at": "2026-05-04T10:19:52.344Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777889930513",
-      "title": "科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表",
-      "summary": "在2026世界超级摩托车锦标赛（WSBK）匈牙利站WorldSSP组别第一回合正赛中，中国摩托车制造商张雪机车的法国车手瓦伦丁·德比斯通过最后时刻的反超绝杀夺得冠军。赛后，荣耀CEO李健发文祝贺，并宣布作为张雪机车WSBK的首席战略合作品牌，荣耀将推出双方的冠军联名款手表，以庆祝这一夺冠时刻。 此前在4月初，荣耀已正式成为张雪机车WSBK首席战略合作品牌。荣耀首席营销官关海涛曾代表品牌向车队赠送荣耀WIN系列手机及荣耀WIN游戏本，寄望该系列产品能为车手带来胜利。荣耀此次通过与冠军联名，旨在借助国际赛事热度与效应，进一步提升品牌在年轻用户群体及运动场景中的影响力。 5月2日消息，在刚刚结束的2...",
-      "url": "https://36kr.com/p/3792228036615430?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T14:14:23.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 张雪机车再夺冠军，荣耀推出联名手表庆祝\n\n- **赛车夺冠**：张雪机车在2026世界超级摩托车锦标赛匈牙利站中，车手瓦伦丁·德比斯在比赛最后时刻反超对手，成功夺得WorldSSP组别冠军。这就像跑马拉松，最后冲刺超过了最前面的人，赢得了比赛。\n\n- **荣耀品牌合作**：荣耀作为张雪机车的首席战略合作品牌，一直支持车队。他们之前送了荣耀手机和电脑给车手，希望帮助车手取得好成绩。现在车手夺冠了，荣耀特别高兴，决定推出联名手表庆祝。\n\n- **推出联名手表**：荣耀这次和冠军合作推出联名款手表，就像你和好朋友一起设计了一个特别的纪念品，用来纪念你们共同的成功。这个手表不仅纪念夺冠，也代表荣耀和张雪机车的关系。\n\n- **提升品牌影响力**：荣耀希望通过这个联名手表，吸引更多年轻人关注。就像学校开运动会，得了奖牌的同学会特别受欢迎，荣耀也希望自己的品牌因为和冠军合作而更出名。\n\n- **庆祝时刻**：这次夺冠和推出手表，都是庆祝张雪机车在摩托车赛事中的胜利。这也是荣耀作为赞助商的回报，他们支持车队，车队取得了好成绩，荣耀也跟着发光发热。",
-      "summarized_at": "2026-05-04T10:19:59.983Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777889930513",
-      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
-      "summary": "文｜肖漫\n编辑｜李勤\n当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。\n卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。\n“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。\n在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。\n这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。\n基于移动基座模...",
-      "url": "https://36kr.com/p/3789475357400068?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T13:17:06.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 物理AI是智能汽车行业的必经之路\n\n在智能汽车领域，现在大家都忙着搞“物理AI”，就像现在做自媒体都要学短视频一样，成了大趋势。卓驭科技在北京车展上发布了新的技术，就是专门为移动设备设计的物理AI基础模型。他们公司的副总裁于贝贝说，这不是为了讨好投资者，而是关系到能不能活下去的大事。\n\n### 为什么必须转型物理AI？\n\n- **生存压力**：不搞物理AI，以后可能就出局了。就像手机行业，不升级不会有竞争力。\n- **新对手出现**：以前竞争的是同类公司，现在还要防着从数字AI领域转过来的大公司，甚至是专门做机器人身体的公司。这就像以前打架只跟邻居打，现在全城都可能是敌人。\n\n### 竞争升级\n\n- **淘汰赛加剧**：以前是比谁算法好，现在得考虑整个智能系统的运作，技术门槛更高了。这就像学开车，以前只练开车技术，现在还要学修车、学路况分析。\n- **商业机会**：能成功转型的公司，未来市场空间会非常大。比如，现在做物理AI的公司，未来可能不仅卖技术，还能提供整个智能驾驶解决方案。\n\n总之，智能汽车行业正在进入一个新阶段，物理AI不再是选项，而是必须走的路。转型的公司才能活得更久，赚得更多。",
-      "summarized_at": "2026-05-04T10:20:00.345Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777889930513",
-      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
-      "summary": "文｜周鑫雨\n编辑｜杨轩\n规模化落地，今年的具身公司都在谈这个。\n数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。\n激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。\n在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营...",
-      "url": "https://36kr.com/p/3792155815304450?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T13:01:36.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 具身公司争分夺秒赶产量\n\n*   具身公司现在都在拼命提高生产效率，像开 races 一样比谁先造出更多机器人。  \n*   智元机器人用3个多月就造出了第1万台，相当于你3个月就能学会做饭，但只做了1道菜就获奖了。  \n*   宇树科技去年卖出了5500台机器人，营收17亿，相当于一家餐馆一年赚的钱全买机器人了。  \n\n## 中国机器人全球抢生意\n\n*   中国的机器人公司特别便宜又好用，像打折商品一样吸引外国客户。  \n*   宇树科技一半以上的收入来自国外，就像你去超市买零食，外国顾客买了你一半的商品。  \n*   魔法原子公司想2036年赚140亿美元，目标就像一个小朋友立志要当世界首富。  \n\n## 大家都在想办法如何卖更多\n\n*   智元和宇树都急着赚钱，像赶着投胎生娃一样想快速完成任务。  \n*   魔法原子更大胆，像赌徒一样敢下重注，但也有人觉得太疯狂了。  \n*   具身公司现在都研究怎么把机器人卖得更便宜、更快，比如开工厂比开餐馆更省人工。",
-      "summarized_at": "2026-05-04T10:20:07.993Z",
       "summary_status": "success"
     },
     {
