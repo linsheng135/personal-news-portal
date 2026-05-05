@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-05T10:08:53.627Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-05T10:08:53.628Z",
+    "date": "2026-05-05",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1777975666485",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele...",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI如何帮助民主进步\n\n### 信息传播与政治变革\n几千年来，信息传播方式的改变总会影响社会如何管理自己。就像印刷机让更多人学会读书写字，促进了宗教改革和民主政府的出现。电报让美国这样的大国能够有效管理。现在，人工智能正在改变信息传播方式，也会影响民主。\n\n### AI如何增强民主\n- **信息透明化**：AI能快速处理大量数据，帮助人们看清政府和社会的真实情况。比如用AI监测选举是否公平，就像用摄像头看考场一样。\n- **公民参与**：AI可以帮人们更好地表达意见。比如通过手机App收集民意，就像社区公告栏大家留言一样。政府也能更快了解民众需求。\n- **反虚假信息**：AI能识别网络谣言，就像老师检查学生作业。防止有人用假消息操纵选举，保证大家投票时能看真信息。\n\n### 如何使用AI助力民主\n- **建立AI伦理规范**：就像交通规则保证道路安全一样，需要制定规则防止AI被滥用。\n- **提升数字素养**：让更多人学会用AI工具，就像学用电脑一样，避免被技术淘汰。\n- **政府数据开放**：让AI有足够信息分析，就像医生需要病历才能诊断。\n\n### 未来展望\nAI就像新的信息工具，既能帮助民主进步，也可能带来风险。关键在于如何用好它，就像用火既能做饭也能伤人。通过合理设计和规范使用，AI可以成为民主的助推器。",
-      "summarized_at": "2026-05-05T10:07:56.011Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777975666485",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging tha...",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-04T15:51:27.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 艾隆·马斯克和山姆·奥特曼对簿公堂：法庭上的交锋\n\n### 背景介绍\n上周，人工智能领域的两位大人物——艾隆·马斯克和山姆·奥特曼，在加州奥克兰的法庭上开始了他们的正面交锋。马斯克起诉了OpenAI，指控这家公司做了一些不道德的事情。\n\n### 法庭现场情况\n法庭就像一个超级严格的课堂，所有人都要遵守规则。马斯克和奥特曼坐在对立的位置上，就像两个准备辩论的学霸。旁听席上坐满了记者和AI行业的观察者，大家都想看看这场“神仙打架”的精彩程度。\n\n### 马斯克的指控\n马斯克认为OpenAI背离了最初的承诺，就像朋友突然变了心。他原本想和OpenAI一起做对人类有益的事情，但现在发现这家公司似乎在暗地里搞小动作。马斯克担心OpenAI的技术会被滥用，比如被坏蛋用来制造危险武器。\n\n### 奥特曼的回应\n作为OpenAI的领导者，奥特曼显得很冷静。他解释说，OpenAI一直都在努力让AI变得更好用，但马斯克误解了他们的计划。就像两个朋友因为想法不同而吵起来，奥特曼表示愿意坐下来好好谈谈，但前提是马斯克先停止法律诉讼。\n\n### 旁听者的反应\n在法庭外，记者们纷纷猜测这场官司的结果。有人觉得马斯克可能是想夺回OpenAI的控制权，就像家长担心孩子交了坏朋友一样。也有人认为奥特曼会赢得这场官司，因为OpenAI毕竟是一群顶尖科学家组成的团队。\n\n### 未来走向\n这场官司可能会持续很长时间，就像一场漫长的考试。无论结果如何，这场对决都将影响AI行业的发展方向。就像两个科学家争夺一个重要的实验结果，胜者将主导未来的研究方向。\n\n### 要点总结\n- 马斯克起诉OpenAI，认为对方违背承诺\n- 法庭就像严格的课堂，双方激烈交锋\n- 奥特曼冷静回应，表示愿意和解\n- 旁听者关注这场对决对AI行业的影响",
-      "summarized_at": "2026-05-05T10:07:56.191Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777975666485",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T22:08:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 詹姆斯·马斯克和OpenAI的头号人物闹掰了\n\n### 背景介绍\n最近有个大新闻，就是詹姆斯·马斯克和OpenAI公司的CEO山姆·奥特曼打官司了。这场官司很重要，因为OpenAI是个研究人工智能的公司，詹姆斯·马斯克曾经投过钱，后来又退出了。\n\n### 马斯克的爆料\n在法庭上，詹姆斯·马斯克穿了一套黑西装，看起来很正式。他爆料说，奥特曼和OpenAI的另一个高管格雷格·布罗克曼骗了他，让他白白给公司投了钱。他说，这两个人就像两个骗子，把他当傻瓜一样使。\n\n### AI的可怕\n詹姆斯·马斯克还警告大家，人工智能要是发展得太快，可能会伤害到人类。他举了个例子，就像汽车刚开始出现的时候，谁也没想到后来会出这么多车祸。他说，AI就像一把双刃剑，用得好是好事，但用不好就可能摧毁人类。\n\n### 突出的关键信息\n- 詹姆斯·马斯克说奥特曼和布罗克曼骗了他，让他投资了OpenAI。\n- 他担心人工智能可能会变成人类的威胁。\n- 他承认OpenAI的新公司xAI其实是照搬了他们以前的做法。\n\n（总结字数：约450字）",
-      "summarized_at": "2026-05-05T10:08:01.484Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1777975666485",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought wit...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T15:54:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI时代的安全挑战\n\n### 现状描述\n以前网络安全就已经挺吃力了，现在AI一加入，情况更复杂了。AI就像突然多了一个新开关，让黑客有了更多下手的地方。\n\n### 为什么有问题\n想象一下，你家门窗本来就有漏洞，现在又多了个智能设备。如果这个设备没好好保护，黑客就能通过它闯进去。AI就是那个新设备，既方便又危险。\n\n### 老办法不行了\n以前对付黑客靠的是老套路：比如装防火墙、换密码。但现在AI让攻击方式变化太快，这些老办法就像拿着锤子去修水管——不对症。\n\n### 新思路\n- AI让黑客工具更智能，比如能自动破解密码\n- 安全措施需要跟着进化，比如用AI来防AI攻击\n- 企业和政府需要更重视这种\"AI对AI\"的攻防战\n\n### 核心观点\n安全工作必须彻底改变，不能只靠老方法。就像学开车，光会踩油门刹车不够，还得学会避坑和反击。现在就是到了重新学开车的时候。",
-      "summarized_at": "2026-05-05T10:08:01.132Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1777975666485",
       "title": "Operationalizing AI for Scale and Sovereignty",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# Tailscale 简单易懂的解释\n\n## 什么是Tailscale？\n\nTailscale就像一个超级安全的家庭网络管家，让你家里所有设备都能轻松连接，而且特别安全。它用到了WireGuard和2FA这两个技术。\n\n### WireGuard是啥？\n\nWireGuard就像一条加密的隧道，你家里的网络数据通过这条隧道传输，别人根本看不懂你在干嘛。比如你在家用手机看视频，这条隧道就能保证视频内容不被别人偷看。\n\n### 2FA是啥？\n\n2FA就像你家大门的密码加指纹识别。每次你登录Tailscale时，除了密码，还需要输入一个动态验证码（比如手机收到的短信验证码），这样即使有人知道你的密码，也进不来。\n\n## Tailscale怎么用？\n\n### 1. 轻松连接\n\n就像手机连Wi-Fi一样简单。你只需要在手机或电脑上安装Tailscale App，输入一个邀请码（别人可以发给你），就能快速连接到对方的网络。比如你朋友在家办公，你可以在公司直接操作他家的电脑。\n\n### 2. 安全防护\n\n- 所有数据都自动加密，类似快递用保险箱运输\n- 只有你知道的密码和验证码才能进入\n- 手机可以随时远程管理家里的设备，但必须通过验证\n\n### 3. 用途广泛\n\n- 家庭成员共享文件、打印机\n- 办公室和家里的电脑无缝切换\n- 小团队远程协作，就像每个人都坐在同一个办公室\n\n## 适合谁？\n\n- 喜欢简单操作又担心安全的用户\n- 经常需要远程操作设备的人\n- 需要家庭网络和公司网络互联的小团队\n\nTailscale就像把所有设备用一条\"超级隐形丝线\"连接起来，别人看不见也摸不着，但你自己可以自由控制。",
       "summarized_at": "2026-05-05T10:08:41.225Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777975670270",
-      "title": "五月，适合想清楚一件事｜幕启",
-      "summary": "图源：公众号「有三思  U  Sense」\n5月4日，一个被默认为“青年专属”的日期。\n但在我看来，“青年”一词从来不只和年龄挂钩，每一个还在试探人生的节拍与正轨的人，身体里都住着一位渴望力量的青年。\n[1]\n敲定新品牌命名的那一刻其实很轻。在讨论方案的脑暴会上，我夸了实习生一句“有Sense”，他眼神一亮：“这个词好诶。”\n许多年前，我还是一个初入职场的新人，在猎头行业学习如何阅读简历、判断人、理解组织。那时候，我的老板总时不时夸团队里的同学“有Sense”。\n“有Sense”是咨询行业爱用的职场黑话，也是一句高度浓缩的赞美。努力是苦劳，聪明是天赋，而Sense，是前辈不必手把手教你，你也能...",
-      "url": "https://36kr.com/p/3794961189821698?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-04T12:41:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 五月，适合想清楚一件事\n\n### 5月4日的特别意义\n5月4日常被看作青年的专属日子，但实际上，每个还在摸索生活方向的人都像青年一样，内心住着一个渴望成长的自己。\n\n### \"有Sense\"的职场智慧\n作者团队决定用\"Sense\"作为新品牌名，源于一个实习生被夸\"有Sense\"的经历。\"有Sense\"是咨询行业的一种赞美，指的是一个人不用别人教就能明白事理，就像你朋友突然懂了你的意思，不需要多解释。\n\n### 意义深远的\"Sense\"\n- \"努力\"是埋头苦干，\"聪明\"是天生的才智，而\"Sense\"是那种让人一看就信服的通透力。\n- 就像你妈突然理解了你的烦恼，不需要你细说；或者你发现某个产品设计很贴心，点到了你需求上。\n- 在职场中，\"有Sense\"的人就像老司机开车，不用别人指挥就能走对路。\n\n### 五月的意义\n五月适合每个还在成长路上的人，想清楚自己真正想要什么，就像突然明白某个道理时的顿悟。",
-      "summarized_at": "2026-05-05T10:08:39.963Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777975670270",
-      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
-      "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。\n \n\n豆包\n \n目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。”\n据接近豆包的人士透露，付...",
-      "url": "https://36kr.com/p/3794799114476809?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-04T09:49:40.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 豆包App要收费了\n\n豆包App准备在免费服务之外，增加付费订阅功能。他们计划推出三种不同档次的月度和年度付费方案，主要针对那些需要更多功能的用户。\n\n### 付费方案详情\n- **标准版**：月付68元，年付688元。相当于你每月多付一点，就能得到更全面的服务。\n- **加强版**：月付200元，年付2048元。这个版本提供更多特权，适合需要高级功能的用户。\n- **专业版**：月付500元，年付5088元。这是最顶级的版本，适合专业用户，能用到更多特殊功能。\n\n### 目前情况\n目前，豆包App里面还没有出现这些付费选项，相关功能还在测试中。官方表示，他们始终提供免费服务，只是想通过付费模式，满足不同用户的个性化需求。\n\n### 官方回应\n豆包官方说，免费服务不会消失，只是会测试新的付费方案。正式推出时，会通过官方渠道公布详细信息。有知情人士透露，付费功能可能会在某些特定领域提供额外帮助，比如更专业的文档处理或个性化推荐等。\n\n总之，豆包App即将增加付费订阅，给需要更多功能的用户带来额外选择，而免费用户暂时不受影响。",
-      "summarized_at": "2026-05-05T10:08:47.631Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777975670270",
-      "title": "科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表",
-      "summary": "在2026世界超级摩托车锦标赛（WSBK）匈牙利站WorldSSP组别第一回合正赛中，中国摩托车制造商张雪机车的法国车手瓦伦丁·德比斯通过最后时刻的反超绝杀夺得冠军。赛后，荣耀CEO李健发文祝贺，并宣布作为张雪机车WSBK的首席战略合作品牌，荣耀将推出双方的冠军联名款手表，以庆祝这一夺冠时刻。 此前在4月初，荣耀已正式成为张雪机车WSBK首席战略合作品牌。荣耀首席营销官关海涛曾代表品牌向车队赠送荣耀WIN系列手机及荣耀WIN游戏本，寄望该系列产品能为车手带来胜利。荣耀此次通过与冠军联名，旨在借助国际赛事热度与效应，进一步提升品牌在年轻用户群体及运动场景中的影响力。 5月2日消息，在刚刚结束的2...",
-      "url": "https://36kr.com/p/3792228036615430?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T14:14:23.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 张雪机车在摩托车比赛中夺冠，荣耀品牌推出联名手表庆祝\n\n- **比赛情况**：2026年世界超级摩托车锦标赛匈牙利站，中国摩托车品牌张雪机车的法国车手瓦伦丁·德比斯在最后一刻反超对手，赢得WorldSSP组别第一回合冠军。这就像跑步比赛，跑到最后关头突然加速超过了前面的人，拿到第一名。\n\n- **荣耀品牌合作**：荣耀作为张雪机车的首席战略合作品牌，一直在支持这个车队。他们之前送了荣耀手机和笔记本电脑给车手，希望帮助车手取得好成绩。现在车手夺冠了，荣耀很高兴，决定推出一款和冠军联名的手表。\n\n- **推出联名手表目的**：荣耀希望通过这个联名手表，让大家知道他们和冠军团队的关系，同时也吸引更多年轻人关注荣耀品牌，特别是喜欢运动的朋友。这就像你喜欢的球队赢了比赛，球队会出纪念品，品牌也跟着沾光，让大家更认识他们。\n\n- **庆祝意义**：这次夺冠是张雪机车在国际赛事中的重要胜利，也是荣耀品牌支持的成果。推出联名手表，既庆祝了胜利，也展示了荣耀和顶尖运动团队的紧密合作。",
-      "summarized_at": "2026-05-05T10:08:47.191Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1777975670270",
-      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
-      "summary": "文｜肖漫\n编辑｜李勤\n当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。\n卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。\n“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。\n在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。\n这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。\n基于移动基座模...",
-      "url": "https://36kr.com/p/3789475357400068?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-02T13:17:06.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 智能汽车行业的转型\n\n### 物理AI的重要性\n现在做智能驾驶的，大部分都在研究“物理AI”。这不是赶时髦，而是生死大事。卓驭科技在北京车展上发布了新模型，专门用于移动的物理AI。公司高管于贝贝说，不搞这个，以后可能就做不下去了。\n\n### 转型的原因\n以前做数字AI的，现在也想来做智能汽车。比如，以前做手机的科技公司，现在也想做智能汽车。这意味着竞争变大了，不光是原来同行之间竞争，还有跨界来的大公司。所以，不转型就可能被淘汰。\n\n### 新的竞争\n现在智能汽车行业，竞争进入了新阶段。以前可能只是比谁算法好，现在还要看谁对物理世界理解更深。比如，以前可能只关注屏幕显示，现在还要考虑路面情况、车与人互动等。这种新竞争会让行业洗牌，跑出来的公司会赚更多钱。\n\n### 未来趋势\n卓驭的新模型是基于移动的物理AI，这说明行业趋势是让AI更懂物理世界。比如，AI不仅要会认路，还要知道车怎么开才安全。这种转型是必须的，否则在未来的竞争中会被淘汰。",
-      "summarized_at": "2026-05-05T10:08:53.376Z",
       "summary_status": "success"
     },
     {
