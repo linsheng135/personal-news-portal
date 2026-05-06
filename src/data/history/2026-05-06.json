@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-06T10:24:51.488Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-06T10:24:51.489Z",
+    "date": "2026-05-06",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1778063028063",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele...",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI如何帮助民主进步\n\n### 信息传播与政治变革\n几百年前，印刷术让普通人都开始识字，这就像现在手机普及一样，让更多人了解世界。印刷术推动了欧洲宗教改革，后来还促进了民主政府的出现。现在，互联网和AI正在改变信息传播方式，也影响着民主制度的发展。\n\n### AI在民主中的角色\nAI就像超级搜索引擎，能帮人们更快找到真实信息。比如，它可以识别假新闻，就像现在大家用验钞机辨别假钞一样。AI还能分析民意，帮助政府做出更符合人民需求的决定，这就像超市用大数据分析顾客喜好来调整商品。\n\n### 面临的挑战\n但AI也带来新问题。比如，算法可能会\"偏心\"，就像有人会系统性歧视一样。此外，AI收集大量个人数据，可能侵犯隐私，这就像有人偷看你的日记一样。因此，我们需要制定规则来规范AI的使用，就像交通规则保证道路安全一样。\n\n### 未来的方向\n为了用好AI，我们要：\n- 建立透明算法，就像超市明码标价\n- 保护个人隐私，就像银行保管客户信息\n- 让AI帮助公民参与政治，就像现在网上可以投票\n- 防止AI被滥用，就像禁止用高科技武器\n\n总之，AI就像一把双刃剑，用好了能让民主更美好，用不好可能会带来危险。关键在于制定合理的规则来引导AI发展。",
-      "summarized_at": "2026-05-06T10:23:55.800Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778063028063",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging tha...",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-04T15:51:27.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 老板吵架，开庭见\n\n上周，美国加州奥克兰法院里，两位AI领域的\"大人物\"——马斯克和Altman，正式对簿公堂。马斯克告了OpenAI，理由是这公司不听他的话，还搞砸了合作。Altman是OpenAI的头儿，这回成了被告。\n\n### 吵架的起因\n\n简单来说，马斯克和Altman以前是朋友，还一起创办了OpenAI。后来马斯克退出了，他觉得OpenAI后来做的事违背了他当初的想法，比如搞人工智能的时候不听他的建议。马斯克现在起诉OpenAI，说这公司不该这么干。\n\n### 庭上怎么说的\n\n开庭那天，两边都在说自己的道理。马斯克坐在那里，表情严肃，好像在说：\"你们到底在干啥？\"Altman则显得比较有耐心，一直解释他们是怎么想的。周围的人都挺关注的，毕竟马斯克和Altman都是科技圈的大佬。\n\n### 两大佬的背景\n\n马斯克是电动车和太空公司的老板，平时说话直来直去；Altman是斯坦福毕业的学霸，专门研究人工智能。两人虽然都是科技界的名人，但风格完全不同。\n\n### 这场官司啥意思\n\n这场官司不只是两个老板的私人恩怨。马斯克担心人工智能的发展失控，希望管得更严；Altman觉得应该给科技更多自由。所以这场官司，其实反映了科技行业对人工智能的不同看法。\n\n总之，这场官司才刚开始，后面还有好多细节要讲。普通老百姓也能看明白，就是两个厉害的人因为想法不同，走上了法庭。",
-      "summarized_at": "2026-05-06T10:23:55.672Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778063028063",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T22:08:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Musk vs. Altman 试验第一周：马斯克说被欺骗，警告AI可能毁灭人类，承认xAI借鉴了OpenAI模型\n\n### 马斯克指控OpenAI欺骗他投资\n- 马斯克穿着西装在法庭上，说OpenAI的CEO萨姆·奥特曼和总裁格雷格· Brockman忽悠他投资了OpenAI。就像你朋友借钱说买个手机，结果转头买了辆豪车，马斯克觉得OpenAI承诺做AI研究，实际却没按说的来。\n\n### 马斯克警告AI可能毁灭人类\n- 马斯克说AI技术如果失控，可能会像失控的自动驾驶汽车一样危险。他举了个例子：如果AI变得太聪明，可能会突然决定\"人类太碍事了\"，就像机器人突然决定踢人下车一样。他还说AI可能变成\"世界最强者\"，到时候人类就没了发言权。\n\n### xAI实际是借鉴OpenAI模型\n- 马斯克承认自己创办的xAI公司，技术实际上是从OpenAI偷来的。他说就像你去图书馆抄了同学的作业，虽然自己写了个新名字，但内容还是别人的。xAI用了OpenAI训练好的AI模型，只是重新包装了一下。\n\n### 马斯克的担忧和动机\n- 马斯克强调AI技术需要被严格监管，否则可能变成\"超级病毒\"到处破坏。他还暗示OpenAI的CEO奥特曼可能想控制整个AI世界，就像一个想当校园老大的学生。马斯克的目的是阻止别人垄断AI技术，确保这项技术为全人类服务。\n\n### 案件影响和未来走向\n- 这次对峙可能决定AI行业未来是好是坏，就像两个超能力者争夺\"魔法书\"的版权。如果马斯克赢了，AI发展会受更多限制；如果奥特曼赢了，AI技术可能会迅速发展但缺乏管理。案件将持续多周，最终决定AI行业规则。",
-      "summarized_at": "2026-05-06T10:24:03.056Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778063028063",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought wit...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T15:54:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能让网络安全更难了\n\n### 背景\n网络安全本来就很紧张，现在人工智能加入进来，情况更复杂了。以前的方法已经不够用了。\n\n### 为什么更难了\n- **攻击范围变大了**：就像以前你只担心家里的门被撬，现在连窗户、阳台都得防，因为AI让黑客有更多下手的地方。\n- **技术太复杂**：AI像一道复杂的菜，做起来花样多，但也容易出错。黑客利用AI搞事情，防不胜防。\n- **传统方法不管用**：以前对付小偷用铁链锁门，现在小偷会用无人机偷东西，老方法对付不了新问题。\n\n### 怎么办\n必须用新思路来保护网络安全。比如：\n- **提前预防**：就像医生不光治病还教你怎么预防生病。\n- **智能防护**：用AI来对付AI，就像用狗来防狗。\n- **大家一起努力**：就像小区保安、居民一起防盗，不能光靠一个人。\n\n总之，AI让网络安全像一场升级打怪兽的游戏，敌人变强了，我们也要变强，用更聪明的办法来保护自己。",
-      "summarized_at": "2026-05-06T10:24:01.065Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1778063028063",
       "title": "Operationalizing AI for Scale and Sovereignty",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Jellyfin：免费媒体系统，你的私人播放器\n\nJellyfin是一个免费的软件系统，就像你家里的智能音箱，但它是专门用来管理各种媒体文件的。它可以当个\"大管家\"，帮你整理电影、音乐、电视剧等所有内容，并且能自动分类、排序，让你找东西方便多了。\n\n### 核心功能\n- **个人服务器**：就像你在家里搭了个小电视台，把所有媒体文件放上去，通过手机、电脑、电视都能看。\n- **无广告**：没有那些恼人的弹窗广告，就像去图书馆看书，安静又自在。\n- **自由选择**：不受商业平台限制，你可以自由选择想看的内容，就像自己买书架放想看的书。\n\n### 适合谁用\n- 小家庭：几口人一起用，不用费劲切换账号，就像家里共用一个电视。\n- 技术爱好者：喜欢自己动手设置，能享受DIY的乐趣。\n- 隐私保护者：不想把个人信息交给大公司，自己当老板。\n\n### 为什么受欢迎\n- 开源免费：不用花钱，代码公开透明，就像公园不用门票。\n- 跨平台：手机、电脑、智能电视都能用，就像用同一张银行卡在所有ATM取钱。\n- 不断更新：开发团队会持续改进，就像你的手机会越用越顺滑。\n\n总之，Jellyfin是个能帮你自由管理媒体文件的工具，不用付钱，功能强大，适合喜欢自己掌控电子娱乐生活的人。",
       "summarized_at": "2026-05-06T10:24:38.417Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778063031225",
-      "title": "从二游到种田：米哈游《星布谷地》能否走出舒适圈",
-      "summary": "文丨小葵\n编辑丨果脯\n2026年，生活模拟赛道正在经历一场“神仙打架”。腾讯的《粒粒的小人国》用微观世界把玩家缩回书桌，网易的《星绘友晴天》在外太空搞起了开荒叙事，而在海外，任天堂也上线了新作《朋友收集：梦想生活》。\n4月21日，米哈游的《星布谷地》开启了二测。对他们来说，首次挑战社交大DAU品类的生活模拟游戏，无疑是一次不寻常且有压力的跨界。\n自《原神》大火后，米哈游就围绕游戏性做过多次尝试，如主打回合制玩法的《崩坏：星穹铁道》，强调动作的《绝区零》。而在研产品里，除了《星布谷地》，还有捉宠like产品《崩坏：因缘精灵》、大都市二游《Varsapura》（雨之城），以及至少一款尚未正式公布的...",
-      "url": "https://36kr.com/p/3797166332206338?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-06T07:31:54.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 米哈游新游戏《星布谷地》跨界挑战\n\n米哈游最近推出了一款叫《星布谷地》的新游戏，想从他们擅长的二游（恋爱模拟）类型，跨到生活模拟游戏领域。这就像一个平时只擅长打篮球的人，突然想试试踢足球，虽然都是运动，但风格完全不同。\n\n目前生活模拟游戏市场竞争激烈，有腾讯的《粒粒的小人国》（像放大版的玩具屋）、网易的《星绘友晴天》（在太空种花探险），还有任天堂的《朋友收集：梦想生活》（和朋友们一起建家园）。米哈游的《星布谷地》要在这个领域闯出一片天，难度不小。\n\n米哈游之前主要做的是《原神》这类开放世界冒险游戏，像《崩坏：星穹铁道》是回合制战斗，《绝区零》是动作射击。现在突然要做需要玩家天天上线社交的生活模拟游戏，就好比一个以前只擅长写小说的人，突然想转行做喜剧演员，既要会讲故事，又要会逗乐观众。\n\n《星布谷地》的测试版已经上线，但米哈游能否成功转型，还需要看玩家们的反应。如果这款游戏成功了，米哈游就能在更多游戏类型中站稳脚跟；如果没做好，可能会影响他们在市场上的名声。",
-      "summarized_at": "2026-05-06T10:24:38.854Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778063031225",
-      "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
-      "summary": "2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入���加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600mAh 超巨量「冰川电池」 + 120W 超级闪充组合，首发自研OPPO冰川电池聚能芯片，支持IP66/IP68/IP69/IP69K满级防尘防水，并搭载超流畅更 AI 的新一代ColorOS 16...",
-      "url": "https://36kr.com/p/3797276726893569?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-06T04:04:59.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 一加 Ace 6 至尊版手机发布：游戏性能和续航都超棒！\n\n### 核心亮点\n一加 Ace 6 至尊版是专门为玩游戏设计的手机，2026年4月28日发布。它有以下几个特别厉害的地方：\n\n#### 游戏性能超强\n- 搭载天玑9500芯片，就像电脑里最厉害的处理器，让手机运行游戏特别快。\n- 有自研的「风驰游戏内核」，就像给手机安装了游戏加速器，保证玩游戏时画面不卡顿，130帧的流畅度，就像看高清电影一样顺滑。\n- 触控反应很快，点一下屏幕就像直接操作游戏角色，不会延迟。\n\n#### 续航和充电方便\n- 配备8600mAh的大电池，相当于充电宝，可以玩更长的游戏时间。\n- 支持120W超级快充，就像给手机加满油特别快，几分钟就能充很多电。\n- 还有「冰河散热系统」，防止手机玩久了变烫，就像给手机戴上了散热帽。\n\n#### 其他功能\n- 防水防尘，可以泡水里都不怕，像防水手表一样。\n- 操作系统ColorOS 16更智能，就像手机有了小助手，用起来更方便。\n\n总之，这款手机适合爱玩游戏的人，游戏性能好，续航长，充电快，还防水，用起来很方便。",
-      "summarized_at": "2026-05-06T10:24:45.024Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778063031225",
-      "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
-      "summary": "“传统工业软件太难用了。”\n这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。\n“AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”，Orthogonal想做的，是把“vibe”的方式带入硬件开发。\nOrthogonal创始人吉洋曾在德国宇航局（DLR）及工业界深耕了近二十年，参与过达索系统仿真工具核心功能的研发，领导了空客A350宽体客机电气系统的研发，并在库卡、宝马、西门子高速列车、中国商飞、华为、中国航空发动机集团等全球...",
-      "url": "https://36kr.com/p/3797224394284033?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-06T02:57:18.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 德国工程师创业，让硬件开发变得更简单\n\n- **问题**：现在设计硬件太麻烦了，就像古代造桌子一样，需要一步步画图纸、算数据，又贵又花时间。达索、ANSYS这些大公司虽然厉害，但他们的软件像一道墙，普通人用不起也学不会。\n\n- **解决方案**：Orthogonal想改变这个情况。他们的创始人吉洋以前在德国宇航局工作，参与过造飞机，知道硬件开发有多难。他发现软件开发早就变得像用鼠标随意画画一样简单（vibe coding），但硬件设计还停留在用手画图纸的“原始社会”。\n\n- **核心观点**：Orthogonal的目标是让硬件开发也变得像写软件一样随意、简单。他们想打破达索等大公司的高墙，用更便宜、更容易上手的工具，让普通工程师也能快速设计出好东西。\n\n- **例子**：比如你现在想造一个玩具机器人，用传统方法要花几个月画图纸、做实验，而Orthogonal的方法可能让你用电脑随便点几下，就像搭积木一样就能出设计。他们的工具会像魔法一样自动处理复杂计算，让你只管想创意。\n\n- **背景**：吉洋有二十年工业界经验，造过飞机、高速列车，还和华为、西门子等大厂合作过。他深知硬件开发的痛点，所以决心用创业的方式解决这个问题。",
-      "summarized_at": "2026-05-06T10:24:44.942Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778063031225",
-      "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。\n此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、浩方创投、北大张海霞教授旗下ICANX基金等。本轮资金将用于旗下DTC消费医疗产品的上市进程、推进B端定制化模块的交付落地，以及开展国内外医疗注册证的申报工作。\n家用健康检测并非新的叙事。过去二十年，血糖仪、血压计、尿酸仪早已进入家庭，但其底层逻辑从...",
-      "url": "https://36kr.com/p/3682907323150215?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-06T01:34:20.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI健康硬件公司完成近亿元融资\n\n- **公司简介**  \n  \"杉木SHANMU\"是一家专门用AI技术做健康检测设备的新公司。他们开发的产品能像智能手机一样，通过人工智能分析健康数据，帮助人们更好地了解自己的身体状况。\n\n- **重要投资**  \n  公司最近获得了近1亿元的资金支持。这笔钱的主要投资方是\"石溪资本\"，他们看好公司的技术。此外，像\"韶音科技\"（做耳机的那家公司）和\"甘洁教授\"也加入了投资行列，说明投资方对产品很信任。\n\n- **产品用途**  \n  这些钱将用来推出更多家用健康检测产品，比如能自动分析血压、血糖等数据的设备。同时，公司还会和医院等机构合作，开发专门用于医疗的定制化产品。\n\n- **市场背景**  \n  过去二十年，家里常用的健康设备像血压计、血糖仪已经很普及，但\"杉木SHANMU\"通过AI技术让这些设备更智能，能提供更精准的健康建议，就像智能手机比普通电话功能更多一样。\n\n- **未来发展**  \n  公司计划加快产品上市，同时准备向国内外机构申请医疗许可，确保产品符合医疗标准。这意味着未来大家可以用这类设备更方便地监测健康，就像现在用手机查天气、订外卖一样简单。",
-      "summarized_at": "2026-05-06T10:24:50.474Z",
       "summary_status": "success"
     },
     {
