@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-08T09:29:54.838Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-08T09:29:54.839Z",
+    "date": "2026-05-08",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1778232512193",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele...",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能如何帮助民主进步\n\n### 历史启示\n几百年前，印刷术让普通人都能读书写字，这促进了宗教改革和民主政府的发展。后来电报让美国这样的大国也能有效管理。现在，人工智能正改变信息传播方式，可能像印刷术和电报一样，推动民主进步。\n\n### AI的作用\n- **信息公平**：AI能帮弱势群体获取信息，就像当年印刷术让普通人接触知识一样\n- **反虚假信息**：AI可以识别网络谣言，避免像中世纪那样被错误信息误导\n- **更高效民主**：AI能分析民意，帮助领导人做出更符合民众需求的决策，类似古代信鸽传信\n\n### 实际应用\n1. **给穷人发钱**：一些国家用AI自动识别并资助贫困家庭，就像古代地主自动分地\n2. **自动化投票**：AI可以帮老人或残疾人远程投票，就像古代信使代传书信\n3. **公民参与**：AI能收集并整理市民意见，形成政策建议\n\n### 注意事项\n虽然AI像当年的印刷术一样有潜力，但需要小心使用：\n- 避免被富人控制，就像中世纪印刷术曾被教会垄断\n- 保持人类监督，别让AI完全替人做决定，就像古代信鸽也需要人指挥\n\n总之，AI就像历史上的新技术，既能促进民主，也可能带来问题。关键在于如何使用它。",
-      "summarized_at": "2026-05-08T09:28:42.249Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778232512193",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging tha...",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-04T15:51:27.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 聊聊马斯克和Altman的法庭对峙\n\n上周，两个在人工智能领域很有名气的人——马斯克和Altman，在加州奥克兰的法庭上见了面。马斯克告了OpenAI这个公司，说他们没做好事情。\n\n### 法庭里到底发生了什么？\n\n想象一下，你和好朋友因为一件大事吵翻天，最后不得不去找法官评理。这就是马斯克和OpenAI现在的情况。马斯克觉得OpenAI的做法让他很受伤，所以在法庭上要求公正。\n\n### 为啥这事这么重要？\n\n这俩人都是AI领域的领头羊。马斯克最近对AI挺担心的，觉得有些公司搞AI可能会出问题。他希望法庭能管管OpenAI，别让他们乱来。Altman是OpenAI的头儿，自然不会承认自己有错。\n\n### 这场官司会怎样？\n\n现在还不知道结果。不过，大家都很关注这场官司，因为它关系到AI的未来。如果法庭支持马斯克，可能会让AI的发展变得更严格；如果支持OpenAI，那就说明现在的发展方向是对的。\n\n总之，这场官司就像一场大人的争吵，但影响可不小。不管结果怎样，AI的未来都会因为这次对峙而改变。",
-      "summarized_at": "2026-05-08T09:28:41.723Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778232512193",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T22:08:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Musk对Altman的指控与AI警告\n\n### 案件背景\nElon Musk和OpenAI之间正在进行一场重要官司，Musk在庭审第一周出庭，直指OpenAI的CEO Sam Altman和总裁Greg Brockman欺骗了他，让他出了钱却没得到应得的回报。\n\n### Musk的指控\nMusk穿一身黑西装出庭，说Altman和Brockman把他当傻子使了。他举例说，就像朋友借钱说存银行赚利息，结果偷偷拿去放高利贷，最后连利息都没给。Musk认为OpenAI当初成立时说好要开放技术，结果现在却变成了商业公司，让他感觉被蒙了。\n\n### AI的潜在危险\nMusk还警告说，人工智能要是发展不好，可能会带来灭顶之灾。他打比方说，就像小孩学骑自行车，刚开始还行，但要是没教好，可能一摔就重伤。AI如果失控，人类可能也会遭遇不幸。\n\n### xAI与OpenAI的关系\nMusk承认，他新成立的xAI公司与OpenAI的模型很像，有点像两家餐厅用同一家供应商的食材。他承认xAI确实借鉴了OpenAI的技术，但强调这是为了竞争和创新，就像两个对手都偷了同一家公司的菜谱。\n\n### 总结\n这场官司的核心是Musk觉得被OpenAI欺骗了，同时他也提醒大家AI技术发展太快，要小心控制风险。",
-      "summarized_at": "2026-05-08T09:28:50.370Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778232512193",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought wit...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T15:54:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI时代的安全挑战\n\n### 安全问题越来越严重\n想象一下，你家的大门以前只需要防小偷，现在却要防小偷、黑客还有无人机偷窃。AI技术就像这个无人机，让偷东西的人有了更多办法。以前的安全措施都是老一套，现在这些老办法对付新手段根本不管用。\n\n### AI让安全更复杂\nAI就像一个超级助手，能帮人类做很多事，但也会让事情变复杂。比如用AI写代码，本来想提高效率，结果可能写出漏洞百出的程序。黑客也能用AI制造病毒，或者用AI模仿你的声音骗钱，这些以前想都不敢想。\n\n### 传统方法行不通\n以前对付黑客，就像用锤子钉钉子，哪里出问题就修补哪里。现在AI会让整个安全系统像蜘蛛网一样互相连接，一个地方出问题可能全都要瘫痪。就像你手机里装了太多APP，结果某个APP出问题，所有应用都受影响。\n\n### 需要新思路\n现在的安全措施必须更新，就像汽车从马车时代进化到电动车时代。我们需要用AI来保护AI，比如用AI识别AI制造的病毒，或者用AI监控AI行为。这就好比用侦探来对付高智商罪犯，必须用更高明的手段。",
-      "summarized_at": "2026-05-08T09:28:48.608Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1778232512193",
       "title": "Operationalizing AI for Scale and Sovereignty",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Joplin：私密的笔记助手\n\nJoplin是一款适合各种操作系统的笔记软件，支持Windows、macOS、Linux、Android和iOS，就像手机和电脑都能用一样方便。它的最大特点是可以同步笔记，比如你在手机上写的内容，可以在电脑上继续编辑，就像把笔记存到了云盘里，随时随地都能访问。\n\n### 隐私保护很重要\n\nJoplin特别注重用户的隐私，就像银行保险箱一样，只有你知道密码才能打开查看。它不会把你的笔记内容泄露给第三方，让用户安心记录想法和重要信息。\n\n### 笔记管理很方便\n\n- 支持Markdown格式，方便记录和整理笔记\n- 可以创建文件夹和标签，就像家里的抽屉和标签一样，把笔记分类存放\n- 支持附件上传，比如照片和文件，就像在日记本里粘贴照片\n\n### 跨平台使用\n\n无论你用哪种设备，手机、平板还是电脑，Joplin都能帮你同步笔记。就像用同一个账号登录不同的社交媒体账号，都能看到一样的信息。\n\n### 免费开源\n\nJoplin是免费的，而且源代码是开放的，这意味着任何人都可以查看和改进它。就像开源的厨房用具，大家都可以一起设计和改进，让使用体验更好。\n\n总之，Joplin是一款适合所有人的笔记软件，特别是那些注重隐私和跨平台使用的用户。它简单易用，功能强大，是记录生活和工作的好帮手。",
       "summarized_at": "2026-05-08T09:29:42.177Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778232515807",
-      "title": "卡位黄金价格带，问界M6向下争夺年轻群体｜最前线",
-      "summary": "2026年的中国新能源SUV市场正经历着前所未有的内卷。\n问界依托华为技术体系，推出了定位更亲民的全新车型 M6， 瞄准主流家用消费群体。放在问界品牌整体销量连续数月下滑、赛力斯盈利能力承压的背景下，M6的到来既是“救兵”，更是一场不容有失的“大考”。\n卡位黄金价格带，向下争夺年轻群体\n从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距2950mm，属于标准的中大型五座SUV。官方定位为“新锐智慧SUV”，目标用户从问界以往的主力“30岁以上家庭用户和商务人群”向下延伸至25-35岁城市年轻群体。\n25-30万元是目前中国新能源SUV市场竞争最激烈的价格...",
-      "url": "https://36kr.com/p/3800183520091398?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-08T05:18:58.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "```markdown\n## 问界M6抢占市场\n\n问界汽车推出了新SUV M6，想抢在别的车之前吸引更多的年轻人。现在新能源SUV市场竞争激烈，价格在25-30万元区间最火。\n\n### 问界M6的目标\n\n- 问界以前主要卖车给30岁以上的家庭和公司用户\n- 现在M6要吸引25-35岁的年轻城市人\n- 车的大小适中，适合5个人坐，空间和舒适性都不错\n\n### 为什么重要\n\n- 问界现在卖的车有点少，需要M6来帮忙卖得更好\n- 问界之前的车价格有点高，M6让更多人买得起\n- 这是问界的一个大挑战，必须成功\n\n### 市场竞争\n\n- 25-30万元是新能源SUV最抢手的价位\n- 各种车都在这个价位竞争，谁的价格和功能更好，谁就更有机会\n- 问界希望M6能在年轻市场上占一席之地\n\n总之，问界M6想让年轻人也喜欢他们的车，在竞争激烈的市场里找到自己的位置。\n```",
-      "summarized_at": "2026-05-08T09:29:41.100Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778232515807",
-      "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
-      "summary": "作者 | 肖思佳\n编辑 | 乔芊 杨轩\n所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。\n在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法，始终像天平的两端。\n很长一段时间里，小红书既没有完全缺席技术探索，也没有像许多同行那样高调推进AI产品化。相反，这家公司始终在两股力量的拉锯和平衡中前行：一边持续投入模型能力，一边谨慎控制AI对社区生态的介入。\n但2026年，随着Agent叙事的升温，小红书开始显露出某种急迫。\n4月30日，小红书发送全员内部信，宣布成立AI一级部门Dots，“建立从模型研发、基础设施、工程到产品的完整技术体...",
-      "url": "https://36kr.com/p/3799028783439111?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-08T04:38:43.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 小红书和AI的故事：从慢慢来到现在有点急\n\n小红书这家公司，以前对AI挺谨慎的。他们做社区，让大家分享真实生活经验，觉得AI这种冷冰冰的技术和这种温暖的氛围不太搭。所以，他们既没完全不管AI，也没像很多公司那样急着把AI用到产品里。\n\n- **像天平的两端**：小红书觉得，社区需要真实的人味儿，AI靠冷冰冰的算法，这两者就像天平的两端，很难平衡。他们一直在两边拉锯，一边悄悄提升AI能力，一边又怕AI把社区搞砸了。\n\n- **2026年有点急了**：到了2026年，周围很多公司在AI方面都挺热闹的，小红书也开始有点着急了。特别是听说AI可以做各种智能助手（Agent），能帮人做很多事，他们觉得不能落后了。\n\n- **成立新部门**：4月30日，小红书内部发信，宣布成立一个专门做AI的部门叫Dots。这个部门要负责整个AI技术，从做模型到搞产品，一步到位，说明他们要加速AI布局了。\n\n总的来说，小红书以前对AI挺务实的，现在周围都卷起来了，他们也开始认真对待，准备大干一场。",
-      "summarized_at": "2026-05-08T09:29:48.886Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778232515807",
-      "title": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
-      "summary": "文 | 张冰冰\n编辑 | 阿至\n36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。\n「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难题。2023年4月在北京亦庄建成小试线，量产10Ah全固态电芯；2023年5月在河南兰考县国电投新能源产业园启动建设500MWh规模量产线；2024年10月实现50Ah全固态电芯量产。\n「纯锂新能源」于2025年推出第一代固态电池，全固态产品平均失重率0.0...",
-      "url": "https://36kr.com/p/3800022823951363?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-08T02:25:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 纯锂新能源拿到钱，做更好用的电池\n\n纯锂新能源是一家做全固态电池的公司，最近拿到了一笔钱，要搞大事情。他们用几千万元完成了Pre-A+轮融资，这笔钱主要用来做电池研究、卖电池和建工厂。\n\n这家公司成立于2022年，专门研究全固态电池。简单说，这种电池比现在用的锂电池更安全、更耐用。纯锂新能源通过自己研发的复合电解质和特殊工艺，解决了电池里不同材料接触不好的问题，就像给电池穿上了更好穿的\"衣服\"，让它们更贴合。\n\n去年，他们在北京建了一个小工厂，开始量产10Ah的全固态电池。今年又要在河南建一个大工厂，规模是500MWh，预计明年能生产50Ah的电池。他们计划在2025年推出第一代固态电池，这种电池特别轻，平均重量会减少很多。\n\n总的来说，纯锂新能源在电池领域取得了重要进展，并且得到了投资方的支持，未来可能会改变我们用手机、电动车的方式。",
-      "summarized_at": "2026-05-08T09:29:48.226Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778232515807",
-      "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。\nAI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效率不足，内存无法实现统一地址空间共享，整体算力利用率较低。\n容芯致远创始人石旭毕业于清华大学电子工程系，在芯片设计与AI领域从业多年，接受硬氪采访时，石旭表示，...",
-      "url": "https://36kr.com/p/3799984046333186?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-08T01:45:14.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 清华系AI公司获大额融资，用GPU改造电脑系统\n\n- 公司背景：容芯致远是一家做AI基础设施的公司，创始人来自清华大学，最近拿到了数亿元的天使轮融资，投资方都是大机构。\n- 问题现状：现在的电脑都是CPU当老大，但CPU处理AI任务效率低，就像做饭时一个人包揽所有活，导致厨房乱糟糟。GPU虽然算力强，但它们之间通信慢，内存共享也搞不定，整体效率不高。\n- 解决方案：容芯致远想用GPU来重新设计电脑架构，让多个GPU像团队一样高效协作，就像把厨房分成不同功能区，每个人分工合作。这样可以大幅提升AI算力，满足现在对算力需求激增的情况。\n- 投资意义：资本市场看好这个方向，认为改造电脑系统能解决现有瓶颈，未来AI应用会更多，这种创新值得投资。",
-      "summarized_at": "2026-05-08T09:29:54.838Z",
       "summary_status": "success"
     },
     {
