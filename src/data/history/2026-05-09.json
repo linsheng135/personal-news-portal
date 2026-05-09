@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-09T09:27:41.288Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-09T09:27:41.289Z",
+    "date": "2026-05-09",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1778318701626",
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t...",
-      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-08T23:59:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 没完没了的法庭纠纷：马斯克和OpenAI又杠上了\n\n最近马斯克和OpenAI的法庭较量进入第二周，两人之间的矛盾越来越大。马斯克在上一周上庭时，指责OpenAI的CEO Sam Altman和总裁Greg Brockman骗了他，让他白白捐了3800万美元。他抱怨说，OpenAI一开始说得很客气，后来却翻脸不认人。\n\n### 马斯克的心思被揭穿\n\n这周OpenAI反击了，他们拿出证据表明，马斯克其实早就想控制OpenAI，只是没说出口。OpenAI的副总裁Shivon Zilis在公开场合说，马斯克私下里试图挖走Sam Altman，想让他离开OpenAI加入自己的公司。这就像你平时请朋友吃饭，结果朋友说只来蹭饭，不想掏钱，你肯定也会生气。\n\n### 马斯克的真实目的\n\n马斯克上庭时说，他捐钱是因为相信OpenAI，结果发现对方根本没按承诺办事。这就像你借钱给朋友说好用来开店，结果朋友拿钱去买了彩票。现在你当然要找他算账了。不过OpenAI这边表示，马斯克从一开始就没安好心，只是想利用OpenAI的名气来为自己牟利。\n\n### 法庭上的交锋\n\n整个过程中，双方都在互相攻击。马斯克说OpenAI的科学家们都在偷偷研究危险的人工智能技术，而OpenAI则反驳说马斯克只是为了报复，因为他在OpenAI的投资没得到回报。这就像两个邻居因为一点小事吵起来，结果越吵越凶，完全忘了最初为什么打架。\n\n- 核心矛盾：马斯克感觉被OpenAI骗了，OpenAI觉得马斯克本来就没安好心\n- 关键证据：Shivon Zilis透露马斯克想挖走Sam Altman\n- 争议焦点：马斯克是否真的想控制OpenAI",
-      "summarized_at": "2026-05-09T09:25:28.676Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778318701626",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele...",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能如何帮助民主发展\n\n### 历史启示：信息传播改变社会治理方式\n\n几千年来，信息传播方式的变化总带动着社会管理方式的革新。比如，印刷术让普通人都看得懂文字，推动了宗教改革和民主政府的出现；电报则让美国这样的大国能高效管理。这说明，信息流通越顺畅，社会越容易进步。\n\n### 人工智能带来的新机遇\n\n现在，人工智能像是个新的\"信息加速器\"。它能快速处理海量数据，就像超市收银员用扫码枪能立刻算好账单。通过AI，政府可以更准确地了解民意，就像超市用销售数据知道顾客喜欢什么。这种高效的信息处理，能让民主决策更科学。\n\n### 具体应用案例\n\n- **民意分析**：AI可以分析社交媒体上的讨论，就像侦探分析线索找出真相\n- **资源分配**：用AI优化公共服务，比如用导航软件规划最节能的交通路线\n- **反虚假信息**：AI能识别网络谣言，像海关雷达发现走私货物\n\n### 重要提醒\n\n虽然AI很有用，但必须有人监督。就像家长要检查孩子的玩具一样，我们需要确保AI用得公平合理，不被滥用。民主发展需要技术创新，但最终还得靠人做决定。",
-      "summarized_at": "2026-05-09T09:25:24.784Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778318701626",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging tha...",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-04T15:51:27.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 老板之争：马斯克和Altman法庭对峙实录  \n\n上周，AI界的两位大人物——马斯克和Altman，在加州奥克兰的法庭上正式开战。马斯克起诉了OpenAI，理由是这公司不听他的话，干的活儿也不对。OpenAI是Altman的公司，专门研究AI技术。  \n\n### 法庭内外的真实情况  \n法庭里坐满了记者，大家都想知道这俩人到底在杠什么。马斯克是个热心肠老板，他希望OpenAI能按他的想法做事，比如少搞些可能威胁人类的东西。但他发现Altman不听劝，OpenAI反而越走越远，搞出了很多超出马斯克预期的东西。  \n\n马斯克说，当初他和Altman一起创办OpenAI时，本意是让AI帮人类，但现在OpenAI好像想变成一个独立王国。他就像个家长，希望管好自家孩子（OpenAI），结果发现孩子不听话。  \n\n### 马斯克的诉求  \n马斯克主要想两件事：  \n- 让OpenAI重新把公司股份还给他（他觉得现在股份不在他手里不公平）  \n- 限制Altman的权力（马斯克觉得Altman越权了）  \n\n这场官司到底是真有误会，还是权力斗争？法庭上的交锋让我们拭目以待。毕竟，AI这东西就像一把双刃剑，用得好能造福人类，但用不好也可能出大问题。马斯克和Altman的争斗，其实也是在争论怎么用好这把剑。",
-      "summarized_at": "2026-05-09T09:25:38.118Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778318701626",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T22:08:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 肚子疼的起诉\n\n- **Musk说被Altman骗了**：Elon Musk在法庭上说，他是被OpenAI的CEO Sam Altman和president Greg Brockman骗了，才投钱的。就像你帮朋友开餐馆，结果发现朋友早就偷偷把你的钱拿去投资别家店了，你肯定很生气。\n\n- **AI可能很危险**：Musk还警告说，人工智能要是发展不好，可能会毁了我们所有人。他打了个比方，说AI就像一个超级聪明但没心没肺的小孩，不知道会做些什么坏事。就像你家小孩可能突然学坏了，你不知道他会干啥。\n\n- **xAI借鉴了OpenAI**：Musk承认，他新搞的xAI公司，其实就是把OpenAI的技术拿过来用了一下。这就像你抄了朋友的作业，还假装是自己做的。不过Musk说，这是为了提高AI的安全性，就像你买了防盗门，其实还是怕邻居偷东西。\n\n- **法庭上的较量**：这场官司很重要，就像你和邻居吵架，最后要请法官来断案。Musk穿得整整齐齐上庭，说明他很认真。Altman和Greg Brockman那边肯定也很紧张，毕竟如果输掉官司，他们可能要还钱，就像你借了别人钱没还，最后被起诉一样。",
-      "summarized_at": "2026-05-09T09:25:45.035Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1778318701626",
       "title": "Cyber-Insecurity in the AI Era",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 画图工具的电脑版\n\n这个叫draw.io的画图工具，现在有了电脑版。它是官方出的，用了一种叫electron的技术做的。简单说，electron就像是个翻译官，把网页技术用到电脑程序上，所以这个画图工具在电脑上跑起来，既能像网页那样方便，又有点电脑程序的特点。\n\n### 主要特点\n\n- **功能齐全**：画图工具啥都有，流程图、思维导图、各种图表都能画，就像一个超级画板。\n- **跨平台**：不管用Windows、Mac还是Linux电脑，这个工具都能用，就像手机上的应用，换手机都不用重装。\n- **免费好用**：官方出的，不用花钱，而且界面简单，容易上手，就像小学生也能用。\n\n### 为什么受欢迎\n\n- **简单易用**：不用学复杂操作，点几下就能画图，就像用Word写文档一样简单。\n- **分享方便**：画好图可以一键分享到网上，别人不用安装就能看，就像发微信图片一样方便。\n- **开源社区**：很多人一起改进，功能越来越好，就像大家一起玩一个游戏，越玩越好玩。\n\n如果你需要画图，比如做工作流程图或者课堂笔记，这个电脑版 draw.io 非常合适，就像手机上的微信一样，谁都能用。",
       "summarized_at": "2026-05-09T09:27:22.277Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778318704960",
-      "title": "AI开始接管年轻人的「精神自留地」",
-      "summary": "撰文｜锅包柚\n封面来源｜Unsplash（AI辅助扩图）\n五一假期已经结束，但打工人的“节后综合症”并未消退。\n面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。\n屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。\n\n“老板被我fire了”\n这个让蝈蝈短暂“活过来”的应用，不是什么专业团队做的。而是一个同样被工作折磨的网友@二旬老人，在灵光APP免费花30秒随手“搓”出来的。\n这届年轻人，连发泄情绪都要精打细算。...",
-      "url": "https://36kr.com/p/3801461350702855?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-09T02:54:40.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 年轻人用AI解压：小游戏成精神避风港\n\n### - AI小游戏成情绪出口\n现在年轻人工作压力大，连玩个小游戏都要省钱。比如有个APP叫灵光，上面可以免费做个小游戏《老板被我fire了》。游戏里可以狠狠吐槽老板，体验一下把老板骂飞、自己发财的快乐。这个游戏不是大公司做的，而是有个网友@二旬老人，自己随便花了30秒就做出来了。\n\n### - 精打细算的解压方式\n这反映了年轻人连发泄情绪都要精打细算。以前大家可能直接骂老板，现在更倾向于用这种虚拟游戏。比如上班烦了，就打开这个游戏骂几轮老板，感觉爽了就关掉，既不用花钱，也不用真的惹麻烦。就像买了电影票，回家看个喜剧片放松一样。\n\n### - AI让发泄更方便\n关键是这种游戏是用AI快速做出来的。以前做游戏要找团队花很多钱和时间，现在随便找个APP就能几分钟生成。这就好比以前解压要约朋友喝酒，现在网上买个AI音箱就能听搞笑段子。AI让发泄情绪变得特别方便。\n\n### - 虚拟世界成精神自留地\n年轻人把这种虚拟游戏当成自己的\"精神自留地\"。就像在工位上摸鱼看视频一样，游戏成了他们暂时逃离现实的工具。比如有人工作压力大，晚上就打开游戏发泄，感觉好多了就关掉继续干。这种虚拟发泄成本极低，但效果立竿见影。",
-      "summarized_at": "2026-05-09T09:27:21.235Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778318704960",
-      "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。\n北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。\n电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及低空飞行器的发展，仪器布局与电气系统互联（电缆网）敷设设计及配套电气系统互联组件产品正迎来新的需求增长。\n据了解，北辰...",
-      "url": "https://36kr.com/p/3801398177324550?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-09T01:43:25.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 新科技公司获钱款，做航天飞机零件\n\n- 公司叫北辰航天，最近拿了几千万元钱，是专门做航天飞机零件的\n- 他们做的零件是电气系统互联组件，简单说就是航天飞机的“神经和血管”\n- 这些零件负责分配电源、传输信号、控制测量等，就像人的神经和血管一样重要\n- 航天飞机需要这些零件才能正常工作，要是没有这些零件，飞机就飞不动了\n- 随着商业航天越来越发达，对这种零件的需求也越来越大\n- 北辰航天是行业里做得最好的，市场占有率第一\n- 他们不仅设计零件，还负责组装，提供全套解决方案\n- 这次拿到钱后，他们可以做得更多，帮助航天飞机飞得更高更远\n\n## 航天零件的重要性\n\n- 航天飞机上的电气系统就像人的血液循环系统，负责输送能量和信号\n- 这些零件必须非常可靠，因为一旦出问题，整个航天飞机都会受影响\n- 北辰航天做的零件质量最好，所以很多航天公司都找他们合作\n- 商业航天发展快，对这种零件的需求越来越大，北辰航天正好能满足这个需求\n\n## 公司的发展前景\n\n- 北辰航天拿到钱后，可以扩大生产，做得更多\n- 航天市场前景好，他们有机会赚更多钱\n- 他们是行业里最好的，未来会越做越强",
-      "summarized_at": "2026-05-09T09:27:29.507Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778318704960",
-      "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下宁波智能技术研究院、清水湾二期基金及奇绩创坛的种子轮及天使轮投资。\n星识科技是一家专注智能影像技术研发与硬件制造的企业，以远景观测场景为切点，曾推出融合AI功能的Vizta智能望远镜，已在Kickstarter和I...",
-      "url": "https://36kr.com/p/3797202414820359?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-09T01:30:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 星识科技拿到大钱，要做智能望远镜\n\n- **公司做什么**：星识科技是家专门研究智能影像技术，还会造望远镜的公司。他们想用科技让望远镜更智能，比如能自动发现远处的物体，就像手机上自动识别人脸一样。\n\n- **投资人是谁**：这次投资了他们好几千万元，有高秉强教授、蓝驰创投等知名投资人。他们觉得星识科技的想法很有前景，就像买房时要看好地段和未来潜力。\n\n- **钱怎么用**：拿到的钱主要用来做三件事：\n  - 把望远镜的核心技术做得更厉害，就像把手机芯片升级一样。\n  - 设计更多功能的望远镜产品，比如能连WiFi看直播的望远镜。\n  - 让望远镜的生产更顺畅，就像开餐馆要保证食材供应稳定。\n\n- **之前怎么样**：公司之前已经拿到过投资，这次是更进一步的融资，证明投资人信任他们的能力。他们之前造的Vizta智能望远镜很受欢迎，就像苹果早期卖iPhone一样，大家都觉得是未来趋势。\n\n- **核心点**：星识科技用AI技术改造传统望远镜，瞄准的是能自动观星和观鸟的智能设备市场，就像让相机自动对焦一样简单。",
-      "summarized_at": "2026-05-09T09:27:30.422Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778318704960",
-      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-      "summary": "整理｜Kris \n今日热点导览\n香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局\n油价上调，加满一箱92号汽油将多花12.5元\n钱江摩托否认“围剿张雪机车”\n30条中日航线4月取消全部航班\nSpaceX冲刺上市，资本开支飙升数百亿\nTOP3大新闻\nDeepSeek拟募资最高500亿元\n据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。(财联社)\n“全国销冠”任晓敏被刑拘，泰康人寿回应\n5月7日，泰康人寿方面对记者表示，近日，泰康人寿青岛分公司个人代理人任某某被青岛市公安机关立案侦查，引发社会广泛关注。对此，公司高度重视，第一时间组织专项工作组派驻青岛...",
-      "url": "https://36kr.com/p/3801348046151428?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-09T00:57:59.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 今日新闻总结\n\n## DeepSeek想融资500亿\n\nDeepSeek这家做人工智能的公司想找最多500亿钱，这要是成功了，就是中国人工智能公司一次性拿到最多钱。想象一下，如果DeepSeek是个开工厂的，这500亿相当于一次性买了500台最新款的机器，能造出更多好东西。\n\n## “全国销冠”任晓敏被抓\n\n泰康人寿有个卖保险的人叫任晓敏，以前是销售冠军，但现在被公安局抓了，原因是涉嫌违法犯罪。泰康人寿公司知道后很重视，马上派了工作人员去帮忙处理。这就像任晓敏本来是卖车最厉害的销售员，突然被警察叫去问话，公司老板也赶紧跑过去帮忙。\n\n## 其他热点\n\n- 香港拿到世界杯转播权，但和央视谈价钱没谈妥，还在僵持中。\n- 加满一箱92号汽油要多花12块5，相当于平时买一瓶矿泉水多一点钱。\n- 钱江摩托说没想“打劫”张雪的机车公司，这是误会。\n- 中日航线取消了所有航班，相当于中日之间的交通工具停了。\n- SpaceX想上市，花了很多钱，比以前开销大很多，就像一个人突然开始买很多新衣服。\n- 有30条中日航线全部停飞，就像本来每天有30班车往返两个城市，现在完全没了。",
-      "summarized_at": "2026-05-09T09:27:37.405Z",
       "summary_status": "success"
     },
     {
