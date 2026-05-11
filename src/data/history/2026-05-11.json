@@ -1,36 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-11T11:31:30.477Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-11T11:31:30.477Z",
+    "date": "2026-05-11",
+    "items_count": 13,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1778498999445",
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t...",
-      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-08T23:59:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Musk和OpenAI的法庭争斗第二周：OpenAI反击，Shivon Zilis揭露Musk想挖Sam Altman\n\n### Musk的动机受审查\n- Musk在法庭上说自己起诉OpenAI是因为被Sam Altman和Greg Brockman骗了。他上周出庭时说，这两个人让他捐了3800万美元给OpenAI，但他觉得这钱花得不值，因为OpenAI后来方向变了。就像你借钱给朋友开店，结果朋友把店关了做别的事，你肯定会不高兴。\n\n### OpenAI反击\n- OpenAI反击说，Musk当初加入OpenAI时就清楚公司的目标，现在又来闹，根本就是因为他想控制OpenAI。这就像你请了个合伙人开公司，结果后来他总想当老板，还不按规矩办事。\n\n### Shivon Zilis的爆料\n- OpenAI的高管Shivon Zilis透露，Musk在决定起诉前，其实想挖Sam Altman当OpenAI的新CEO。这就像你发现合伙人偷偷想挖走你团队里的核心成员，于是决定用法律手段阻止。\n\n### 核心矛盾\n- 整个事件其实是在争OpenAI到底该不该保持独立。Musk想把它变成自己的工具，而OpenAI坚持要继续做独立的AI研究机构。这就像一个团队突然进来一个人，想把团队变成自己的公司。\n\n总结：这场官司的核心是Musk觉得OpenAI背叛了他，而OpenAI觉得Musk想控制一切。Shivon Zilis的爆料让事情更复杂，也让外界看清Musk的真实意图。",
-      "summarized_at": "2026-05-11T11:30:14.794Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1778498999445",
       "title": "A blueprint for using AI to strengthen democracy",
@@ -46,40 +21,6 @@
       ],
       "ai_summary": "## AI如何帮助民主进步\n\n### 信息传播与政府治理\n\n几百年前，信息传播方式的改变（比如印刷术让普通人能读书写字）催生了代表政府。后来电报让大国家也能高效管理。现在人工智能改变信息传播方式，也会影响政府运作。\n\n### AI的三个关键作用\n\n- **打破垄断**：过去信息被少数人控制（比如报纸由大公司发），现在AI让普通人也能发布信息，让更多人了解真相  \n- **提升效率**：AI能快速处理海量数据，比如用机器学习识别选举中的欺诈行为  \n- **防止操纵**：AI能发现虚假新闻和机器人攻击，就像用探测器找出藏在人群中捣乱的人\n\n### 如何利用AI保护民主\n\n1. **建立AI伦理规范**：像制定交通规则一样，给AI设定行为准则  \n2. **让公民参与**：成立\"AI议会\"，让普通人也能决定如何使用AI  \n3. **技术透明化**：把AI工作原理公开，就像商店要贴明成分表一样\n\n### 举例说明\n\n假设选举中有AI机器人投假票，传统方法要人工检查，现在AI能自动找出这些假票。又比如虚假新闻泛滥时，AI能像侦探一样找出谣言源头。\n\n### 未来展望\n\nAI就像新的\"信息工具\"，用好了能让政府更民主、更高效。就像手机让普通人也能拍新闻一样，AI能让每个公民都成为民主的守护者。",
       "summarized_at": "2026-05-11T11:30:14.275Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778498999446",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging tha...",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-04T15:51:27.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 詹姆斯·马斯克和萨姆·奥特曼对簿公堂：庭审现场实录\n\n上周，加州奥克兰法院里，人工智能领域的两大巨头——詹姆斯·马斯克和萨姆·奥特曼开始了他们的正面交锋。马斯克告上了法庭，指控人工智能公司OpenAI侵犯了他们的权益。\n\n### 庭审现场情况\n- 马斯克和奥特曼都是人工智能行业的领军人物，这场庭审就像两个武林高手在比武切磋。\n- 马斯克是特斯拉和SpaceX的老板，最近对人工智能领域很关注；奥特曼则是OpenAI的CEO，致力于开发安全的人工智能技术。\n- 庭审地点设在奥克兰，这里是个小城市，但因为这个案子，一下子成了焦点。\n\n### 马斯克的指控\n- 马斯克说OpenAI在开发人工智能时，没有遵守承诺，把技术用在了不该用的地方。\n- 他像是说：“你们答应过要好好开发，结果做出来的东西让我觉得不对劲。”\n- 马斯克还担心OpenAI的技术会失控，就像担心自动驾驶汽车突然乱跑一样。\n\n### 开放AI的回应\n- 开放AI表示自己没有做错事，坚持说是在按照计划发展。\n- 他们就像说：“我们开发技术是为了造福人类，不是故意要惹麻烦。”\n- 开放AI还强调他们一直和马斯克保持合作，只是后来有些分歧。\n\n### 庭审的意义\n- 这场官司不仅关系到两家公司，也影响着整个人工智能行业的发展。\n- 就像智能手机刚出来时，苹果和安卓之争一样，这次庭审会决定人工智能未来的方向。\n- 不管结果如何，这场官司让更多人关注到了人工智能的安全问题。\n\n### 总结\n这场庭审就像一场科技界的“法庭辩论赛”，马斯克和奥特曼各执一词，争夺人工智能技术的控制权。这不仅是一场商业纠纷，更反映了人工智能发展中的伦理和安全挑战。",
-      "summarized_at": "2026-05-11T11:30:23.996Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778498999446",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu...",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-01T22:08:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Musk和Altman的法庭对决第一周\n\n在Elon Musk和OpenAI的重要法庭官司第一周，Musk在法庭上穿了一套黑色西装打领带，他说Sam Altman和Greg Brockman欺骗了他，让他给OpenAI投钱。就像你朋友借钱给你做生意，结果发现他偷偷把你的钱挪用了。\n\nMusk警告说，人工智能如果发展不好，可能会毁灭人类。他举例说，就像小孩玩火，开始可能只是玩玩，但最后可能引发大火。他还承认，他创办的xAI公司，其实是从OpenAI学了很多技术。这就好比两个朋友一起做蛋糕，一个朋友把另一个朋友的配方拿去用，虽然自己也做了自己的蛋糕，但原料是别人的。\n\n这场官司的核心是Musk觉得自己被OpenAI利用了，就像你借钱给朋友开店，结果发现朋友把你的钱拿去做了别的事情。Musk还担心AI技术如果失控，可能会像失控的汽车一样，不知道会撞倒谁。",
-      "summarized_at": "2026-05-11T11:30:21.184Z",
       "summary_status": "success"
     },
     {
@@ -277,78 +218,6 @@
       ],
       "ai_summary": "## 开源媒体管理工具\n\n这个GitHub上的项目叫做seerr，是一个免费的管理工具，帮你整理和查找各种媒体文件。想象一下，你家里有很多电影、电视剧和音乐，如果乱七八糟地放，找起来会很麻烦。这个工具就像一个智能整理师，帮你把Jellyfin、Plex和Emby这些媒体平台里的内容都整理得井井有条。\n\n### 核心功能\n\n- **媒体查找**：就像搜索引擎一样，你输入电影名或电视剧名，它就能快速找到你想要的内容。\n- **自动识别**：它可以自动识别你的媒体文件是什么，不需要你手动分类。\n- **多平台支持**：不管你是用Jellyfin、Plex还是Emby，这个工具都能帮忙管理。\n\n### 为什么要用\n\n- **省时省力**：不用再花时间一个个找文件，工具帮你自动整理。\n- **提升体验**：找内容更快，看剧更爽，就像去超市购物时，货架上的商品都摆放得整整齐齐。\n- **免费使用**：因为是开源项目，所以任何人都可以免费使用，并且可以根据自己的需要修改。\n\n总之，这个工具适合所有喜欢看电影、电视剧和听音乐的人，特别是如果你有很多媒体文件，又懒得一个个整理的话，它绝对能帮大忙。",
       "summarized_at": "2026-05-11T11:31:13.234Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778499008421",
-      "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
-      "summary": "大公司：\n百济神州：第一季度净利润为16.08亿元，同比扭亏为盈\n36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。\n营收确认规则是否存在调整可能？贵州茅台回应\n5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要...",
-      "url": "https://36kr.com/p/3804795647729411?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-11T11:24:52.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 氪星晚报要点总结\n\n### AI购物大动作\n- 千问和淘宝联手搞了个大事情，现在可以直接用AI来买东西了。以后你只需要跟机器人说想要什么，它就能帮你找到合适的商品，省去了自己上网搜索的麻烦。\n\n### 百济神州扭亏为盈\n- 百济神州这个公司在一季度赚了不少钱，利原来还亏钱的，现在一下子变成了赚16.08亿元。这主要是因为他们卖产品的钱多了，而且花钱也更精明了，相当于一个原本经常请客吃饭的人，现在开始自己做饭，不仅省钱还吃得好。\n\n### 贵州茅台回应收入规则\n- 贵州茅台最近被人问，他们怎么算卖酒的收入是不是变了。公司的人回答说，他们一直按照国家的规定来算收入，没什么变化。这就像你去菜市场买菜，一直按标价付钱，没什么可怀疑的。\n\n### 泡泡玛特要开会\n- 泡泡玛特宣布在5月13日开一个电话会，告诉大家他们上半年的业务情况。这相当于一个学生要开家长会，跟家长们汇报自己最近的学习成绩和表现。",
-      "summarized_at": "2026-05-11T11:31:12.883Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778499008421",
-      "title": "理想整车研发负责人刘立国：说理想不重视技术，是大大的误解",
-      "summary": "理想汽车整车电动研发高级副总裁 刘立国\n文｜肖漫\n编辑｜李勤\n走过10年造车历程后，新势力阵营已经普遍从“轻盈”走向“厚重”。尤其是理想汽车，这家公司高呼成为“ 具身智能企业”，但也同时在垒高每一块整车技术能力。\n尤其是过去4年，理想汽车几乎重构了底盘系统，联合供应商深度共创了底盘三大项：EMB刹车+800V主动悬架+线控转向。\n理想在电池上也在进行自制布局，同时，在自身起家的增程技术上，理想也走到了自研自制阶段——其最新一代增程器，也即发动机，已经是理想汽车“自己生产”。\n上述技术能力成果几乎都将集中体现在最新的旗舰车理想L9 Livis上。这意味着，新一代理想L9，也将是理想新一代技术能力...",
-      "url": "https://36kr.com/p/3804380633554696?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-11T06:59:01.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 理想汽车很看重技术\n\n理想汽车的研发负责人刘立国表示，很多人觉得理想汽车不重视技术，这其实是个误会。理想汽车已经发展10年了，现在不仅造车技术越来越强，还提出了要做\"具身智能企业\"，意思就是要把车造得更智能、更人性化。\n\n### 技术进步很大\n\n- **底盘系统大升级**：理想汽车花了几年时间重新设计了底盘，现在刹车、悬挂、转向都是全新的系统。比如，刹车现在不用液压了，转向可以像手机一样用线控制，车开起来更稳、更灵活。\n- **电池和发动机自己做**：以前买的电池可能不是自己造的，现在理想汽车开始自己生产电池。就连发动机这种核心部件，理想也自己研发生产了，不用再依赖别人。\n\n### 新车会用到这些技术\n\n这些新的技术都会用在最新的理想L9 Livis车上。这意味着这辆车不仅更高级，而且开起来更舒服、更智能。刘立国说，理想汽车一直在努力提升技术，不是表面功夫。\n\n简单来说，理想汽车在技术上投入了很多，从刹车、悬挂到电池、发动机，都是自己研发的。新出的车会把这些技术用上，所以理想汽车的技术实力很强。",
-      "summarized_at": "2026-05-11T11:31:20.584Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778499008421",
-      "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
-      "summary": "作者 | 邱晓芬\n编辑 | 袁斯来\n余轶南似乎是那种总能提前踩中风口的冒险家。\n他总在追逐更新、更刺激，早期甚至带着些浪漫想象。博士毕业后，他没有如很多同侪一般，进入学术圈，过上平稳安定的一生，而是冲入互联网浪潮，2015年，他又因为余凯一句“我们一起去做 AI 芯片吧？” ，便追随余凯加入地平线创始团队，成为001号员工。此后几年，地平线逐渐成长为国际上自动驾驶领域最受关注的科技公司之一，并于2024年在港交所上市，成为当年港股最大的IPO。\n2024年底，他离开地平线，创立「维他动力」，希望把过去十年在自动驾驶领域积累的能力，迁移到消费级机器人上。\n\n（图源/企业）\n余轶南有种知识分子身上...",
-      "url": "https://36kr.com/p/3804282431659779?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-11T02:38:17.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 余轶南创业经历总结\n\n### 创业背景\n余轶南是个喜欢冒险的人，总喜欢赶时髦。博士毕业后，他没像同龄人那样进大学当老师，而是投身互联网行业。2015年，听朋友余凯说要做AI芯片，他就加入地平线公司，成了最早那批员工。几年后，地平线成了自动驾驶领域有名的公司，2024年在香港上市。\n\n### 转折点\n2024年底，余轶南离开地平线，自己开了家新公司「维他动力」。他想把做自动驾驶的经验用到消费级机器人上，比如让人家用得顺手的智能机器人。\n\n### 目标和态度\n余轶南觉得，虽然公司刚拿到一大笔钱，但这只是开始。他希望把过去十年的技术用到新领域，让机器人变得更好用。他觉得自己的创业之路还长，要继续努力。\n\n- 要点：余轶南从学术圈跳到互联网，再创业做机器人；强调技术迁移，从自动驾驶到消费机器人；认为拿到钱只是第一步，后面还有很多路要走。",
-      "summarized_at": "2026-05-11T11:31:20.882Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778499008421",
-      "title": "8点1氪丨SK海力士回应“员工人均奖金达610万元”传闻；世界杯中国转播费从3亿美元腰斩到1.5亿；曝三星中国家电部门裁员补偿N+4，还送手机",
-      "summary": "今日热点导览\n一季度全国结婚登记169.7万对\nbosie创始人刘光耀成为Kimi顾问？刘光耀回复“没入职”\n英特尔与苹果据悉达成初步协议，将为后者设备制造芯片\n业内人士称阿里未参与DeepSeek融资\n新华社调查“胖东来为啥总被黑”\nTOP3大新闻\n员工人均奖金达610万人民币？SK海力士回应\n近日有消息称，SK海力士韩国员工人均奖金将达610万人民币。该消息源于国际投行麦格理证券的预测。该投行认为，若SK海力士2027 年营业利润达到447万亿韩元，按营业利润的10%和去年年末约3.5万名员工总数简单计算，分红总规模将达到约44.7万亿韩元，人均可发放奖金约12.9亿韩元，接近610万人民...",
-      "url": "https://36kr.com/p/3804132892646919?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-11T00:06:43.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 今日热点总结\n\n### - SK海力士回应奖金传闻\n有人说SK海力士韩国员工每人能拿610万人民币奖金。这个消息是投资公司预测的，如果公司赚很多钱，员工奖金会很高。但SK海力士没有确认这个消息，所以别太当真。\n\n### - 中国转播费减半\n以前中国看世界杯转播要花3亿美元，现在只要1.5亿美元了。这意味着转播公司把钱省下来了，可能也会影响广告收入。\n\n### - 三星中国家电裁员\n三星在中国的家电部门要裁员，还给员工发补偿金，比正常的多4个月工资，还送手机。这表示三星可能要调整业务了，不想做太多家电产品。\n\n### - 其他新闻\n- 一季度中国结婚的人有169.7万对。\n- bosie创始人刘光耀没加入Kimi。\n- 英特尔和苹果可能在谈合作，让苹果用英特尔造芯片。\n- 阿里没有投资DeepSeek。\n- 新华社在调查为什么胖东来老被批评。\n\n这些新闻都是最近的热点，有的跟钱有关，有的跟工作有关，有的跟生活有关。",
-      "summarized_at": "2026-05-11T11:31:27.932Z",
       "summary_status": "success"
     },
     {
