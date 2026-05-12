@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-12T10:38:46.697Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-12T10:38:46.698Z",
+    "date": "2026-05-12",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1778582242788",
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to ...",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-11T17:35:12.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 获奖经济学家谈AI三大看点\n\n### 要点：\n\n- **AI可能带来的不平等问题**  \n  就像分蛋糕时，有人拿了大块，有人只能剩点渣渣。经济学家达龙·阿西莫格鲁警告说，AI发展可能让富人更富，普通人被甩在后面。比如，程序员和AI专家能赚大钱，但普通工人可能失业，生活更难。\n\n- **AI会取代哪些工作？**  \n  想象一下，超市里的机器人收银员，工厂里的自动化生产线。达龙认为，像驾驶、客服、数据录入这类重复性工作，最容易被AI取代。但像医生、老师、艺术家这些需要创造力和情感交流的活儿，AI还干不了。\n\n- **AI可能引发的社会控制风险**  \n  如果政府和企业用AI监控老百姓，比如通过人脸识别跟踪你去了哪，买了什么，那自由就会受到威胁。达龙提醒，不能让AI变成\"老大哥\"的监控工具，得有个说法限制它的权力。\n\n达龙还提到，AI就像一把双刃剑，用得好能提高生产力，但用不好会加剧贫富差距和社会矛盾。他呼吁政府制定规则，确保AI发展能惠及所有人。",
-      "summarized_at": "2026-05-12T10:37:31.092Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778582242788",
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a...",
-      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-11T13:33:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 数字化投资为何效果差\n\n麦肯锡的研究发现，很多公司花了很多钱搞数字化，结果只赚回了本金的不到三分之一。这是怎么回事呢？\n\n**问题出在方法不对**\n\n很多大公司都是先有了技术，比如做了个新软件，然后再想办法用在哪里，就像有人做了个三明治，但不知道该拿它当饭吃还是当零食。但正确的做法应该是先想想顾客需要什么，比如饿了想吃点东西，然后再去制作三明治。\n\n**从客户需求出发**\n\n所谓\"客户需求倒推\"，就是先了解顾客想要什么，而不是先有技术再找用场。比如做手机，不是先造个零件再想怎么卖，而是先问大家需要什么功能，比如要能拍照、能打游戏、能打电话。\n\n**为什么这个方法好**\n\n这样做更有效，因为直接解决了顾客的问题，顾客用得满意，自然愿意花钱。就像开餐馆，先调查大家喜欢吃什么菜，再决定做什么菜，这样生意才会好。\n\n**怎么操作**\n\n1. 先去了解顾客的真实需求\n2. 用这些需求来指导技术研发\n3. 做出真正能解决问题的产品\n4. 最后再推向市场\n\n这种方法能让公司少走弯路，把资源用到最需要的地方，最终获得更好的回报。",
-      "summarized_at": "2026-05-12T10:37:31.457Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778582242788",
-      "title": "Implementing advanced AI technologies in finance",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of...",
-      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-11T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 金融业中的AI技术实施\n\n### AI的悄然进入  \n在金融业这种讲究精确和掌控的领域，AI的到来更像是一场悄悄的革命。员工们已经不知不觉中开始使用AI工具，而领导层还在拼命追赶，试图后来居上地制定规则和策略。这就像一个班级里，有些学生已经偷偷学会了新技巧，老师还在一本正经地讲课。\n\n### 员工与领导的不同步  \n- 员工：就像一群小孩，已经自己在玩新玩具，比如用AI分析数据、预测市场，但没告诉老师。  \n- 领导：老师发现后，赶紧要制定新规矩，比如怎么用、用多久，但有点滞后。  \n\n### 产生的矛盾  \n这种情况下，问题就来了：一方面，AI确实帮了大忙，提高了效率；另一方面，没人管的话，可能出现乱用的情况。比如，一个人用AI炒股票赚了钱，但不一定懂得风险控制。领导们担心AI用得不好，会出大问题。\n\n### 解决问题的关键  \n现在，金融业需要在鼓励创新（让员工继续用AI）和加强管理（领导制定规则）之间找到平衡。这就像家长既要让孩子自由探索，又要确保他们安全。具体做法可能包括：  \n- 建立AI使用规范  \n- 加强员工培训  \n- 设立专门监管AI的团队  \n\n总之，AI在金融业已经是大势所趋，但如何用好它，还需要领导层跟上员工的步伐，共同探索。",
-      "summarized_at": "2026-05-12T10:37:38.481Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778582242788",
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t...",
-      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-08T23:59:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 沙特和OpenAI的法庭争斗第二周：OpenAI反击，Zilis揭示Musk想挖走Altman\n\n### Musk告OpenAI的起因\n\n上周，Elon Musk在法庭上说，OpenAI的CEO Sam Altman和总裁Greg Brockman骗了他，让他捐了3800万美元给OpenAI。Musk说，他本来不打算捐钱，但这两个人把他忽悠瘸了，现在他想把这笔钱要回来。这就像你帮朋友搬家，结果朋友说搬完给你500块，搬完之后他说500块是开玩笑的，Musk觉得这就是在撒谎。\n\n### OpenAI的反击\n\nOpenAI这边不干了，他们在网上发文说，Musk是来捣乱的，根本不是来搞技术的。他们还举例说，Musk之前说支持人工智能要为人类服务，但现在又来告OpenAI，这双标得很明显。这就像你承诺帮邻居修屋顶，结果邻居搬家了，你反而要钱，邻居当然要骂你了。\n\n### Zilis的爆料\n\n更劲爆的是，OpenAI的副总裁Shivon Zilis说，Musk其实想挖走Sam Altman，也就是OpenAI的CEO。她说，Musk本来想给Altman一大笔钱，让他离开OpenAI去自己公司工作。这就像你看到别人店的老板特别厉害，想挖他过来帮你开分店，结果老板没同意，你反而告他。\n\n### 核心观点\n\n整个事件的核心就是Musk觉得被OpenAI骗了，想把钱要回来，但OpenAI觉得Musk是来捣乱的，还曝光了Musk想挖走CEO的阴谋。这就像两个朋友因为一点小事闹掰，一个说是误会，另一个说是故意使坏。",
-      "summarized_at": "2026-05-12T10:37:40.472Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1778582242788",
       "title": "A blueprint for using AI to strengthen democracy",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 简单说yt-dlp\n\nyt-dlp是一个能在电脑上用的工具，专门用来下载网上的视频和音频。就像手机里的下载音乐、视频一样，但这个工具更厉害。\n\n### 它有什么用？\n- 能从各种网站下载视频，比如抖音、B站、YouTube等\n- 下载速度快，而且不会占用太多电脑资源\n- 可以自定义下载质量，比如要高清还是普通清晰度\n- 支持批量下载，一次可以下载多个视频\n\n### 为什么好用？\n- 操作简单，用命令就行，比如输入\"yt-dlp链接\"就能下载\n- 不需要安装复杂软件，一个小文件就能用\n- 能自动处理网站上的各种小陷阱，比如防下载的设置\n- 支持各种格式，下载的视频、音频都能直接用\n\n### 生活例子\n想象你要保存网上的一个搞笑视频，用这个工具就像用手机下载APP一样简单。点一下命令，视频就自动保存到电脑里了。比平时用浏览器下载更快更省事。\n\n### 关键点\n- 适合喜欢折腾电脑的朋友\n- 下载各种视频网站的内容很方便\n- 不需要复杂设置，新手也能用\n- 非常适合收集视频素材的人",
       "summarized_at": "2026-05-12T10:38:27.910Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778582246516",
-      "title": "Walulu：用六个月撕开一条新赛道",
-      "summary": "文丨果脯\n近日，成都雨之灵动科技有限公司（后称雨之灵动）宣布完成总额数千万人民币的天使轮及Pre-A轮融资。\n目前其投资方阵容已颇为亮眼，包含KK集团、4399、科大讯飞和一家知名财务投资机构，涵盖了财务资本、渠道资源、游戏行业及AI技术四大维度。做到这种程度，基本已经覆盖了一家AI消费品公司的所需的核心拼图。\n雨之灵动能同时吸引到这四类资方，一定程度上说明他们的项目不仅打动了财务投资人的直觉，也获得了产品方对其产品的市场期望。\n雨之灵动的核心产品是AI仿生毛绒宠物Walulu。在公司创始人兼CEO顾小毛的愿景中，他们希望将Walulu打造成“AI时代的宝可梦”。\n这并非雨之灵动最早的想法。2...",
-      "url": "https://36kr.com/p/3805761383751427?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-12T03:46:38.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## Walulu：用新方法做毛绒玩具\n\n### 公司和产品\n- 成都有一家叫雨之灵动的公司，他们造了一种叫Walulu的AI毛绒玩具。Walulu有点像动画片里的宝可梦，能和你聊天、互动，还会学习你的喜好。\n- 公司创始人想把这个玩具做成“AI时代的宝可梦”，让更多人喜欢。\n\n### 融资成功\n- 最近雨之灵动拿到了好几个投资人的钱，总共有好几千万。投资方包括KK集团、4399游戏公司、科大讯飞（做语音技术的）和一个有钱的投资机构。\n- 这些投资人来自不同领域，说明Walulu既有人买账，又有技术支持，是个靠谱的项目。\n\n### 投资人看好的原因\n- 投资人喜欢Walulu，是因为它结合了四个关键点：有钱、有渠道（卖货的地方）、懂游戏、会AI技术。就像一个团队里有销售、技术员、懂娱乐的，还很有钱一样。\n- Walulu不仅好玩，还能赚钱，所以吸引人。\n\n### 未来目标\n- 公司想用6个月时间，让大家知道Walulu是个新奇的玩具。他们计划先做小范围测试，然后慢慢推广，让更多人知道这种能像宠物一样互动的AI玩具。",
-      "summarized_at": "2026-05-12T10:38:28.965Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778582246516",
-      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。\n熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同��立，核心团队成员来自清华大学、华中科技大学，���京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。\n目前，熵约科技的首款产品针对家庭空间设计，为全球首款家庭飞行机器人Flyer O1。\n\n（图源/企业）\n曾武介绍称：“家庭环境中，地面环境其实是多障碍的，设备活动受限；而空中空间相对开阔，因此我们选择从飞...",
-      "url": "https://36kr.com/p/3805672617959173?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-12T02:11:24.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 一家新公司拿到投资，要做会飞的家里助手\n\n最近，一家叫熵约科技的公司拿到了几百万美元的早期投资。这家公司主要做一款会飞的机器人，想帮家里的人解决问题。\n\n### 创始团队背景\n\n熵约科技有三个人一起创办，都是博士级别的专家。他们分别来自新加坡、马来西亚和中国，学的是人工智能、物理和无人机这些方向。公司的其他成员也来自清华、北大等名校，还有字节跳动和比亚迪这样的公司。\n\n### 会飞的机器人\n\n这家公司的第一款产品叫Flyer O1，是一款可以飞来飞去的机器人。它主要解决家里地面空间不够用的问题。比如，家里有小孩、宠物或者杂物，地面活动会不方便。而机器人可以在空中飞，空间更自由。\n\n### 机器人的用途\n\n曾武是公司的创始人之一，他说：“家里地面地方有限，但空中空间大，机器人可以从上面帮忙做事。”比如，它可以帮忙查家里的情况，或者拿东西，让生活更方便。\n\n### 投资方\n\n这次投资是初心资本独家给的钱，说明市场对这种创新产品有信心。\n\n总之，熵约科技用科技让生活更方便，他们的会飞机器人是个新尝试，希望未来能帮到更多家庭。",
-      "summarized_at": "2026-05-12T10:38:34.618Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778582246516",
-      "title": "8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
-      "summary": "今日热点导览\n天舟十号货运飞船与空间站组合体完成交会对接\n国家广播电视总局：4月经备案国产电视动画片51部、9659分钟\n任天堂股价因Switch 2游戏前景不佳大幅下跌\n千问与淘宝打通，正式上线AI购物\nTOP3大新闻\n美国总统特朗普：非常期待中国之行\n外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问。\n当地时间5月11日，美国总统特朗普在其社交媒体“真实社交”发文表示，非常期待即将开启的中国之行，并称中国是“一个令人惊叹的国家”。(央视新闻)\nOPPO就母亲节文案事件发布问责通告，高级副总裁职级直降两级\n5月11日，界面新闻独家...",
-      "url": "https://36kr.com/p/3805557782486785?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-12T00:16:27.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 今日热点总结\n\n### 美国总统特朗普将访华\n美国总统特朗普说很快要来中国玩，他特别期待这次旅行，还夸中国是个很棒的地方。这次访问是应中国领导人邀请，预计在5月13到15日进行。\n\n### OPPO因文案事件道歉\nOPPO公司因为之前发的一则关于母亲的广告语被人吐槽，出来道歉了。他们还处罚了相关人员，把一位高管降了两个职级，相当于从公司重要成员变成了普通成员。\n\n### 其他新闻\n- **天舟十号飞船成功对接空间站**：就像把一个大货车（飞船）精准地开进了太空站（空间站），这是中国太空计划的新进展。\n- **国产动画片备案增多**：国家广播电视总局说，4月份有51部新动画片备案，总时长将近100小时，相当于小朋友可以看很久了。\n- **任天堂股价下跌**：因为大家担心任天堂新游戏机（Switch 2）卖不好，于是任天堂股票价格就掉下来了。\n- **AI购物上线**：千问这个公司跟淘宝合作，现在你可以用人工智能来买东西了，就像让电脑帮你挑衣服。\n- **快手要拆分AI部门**：快手打算把做人工智能的那个团队单独分出去，还打算融资20亿美元，相当于要找20亿美元来支持这个新团队发展。",
-      "summarized_at": "2026-05-12T10:38:39.654Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778582246516",
-      "title": "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例",
-      "summary": "文｜胡香赟\n编辑｜海若镜\n在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。\n按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场层面的热度同样高涨：据IT桔子数据，到今年4月，国内量子计算赛道中的企业已超过90家，TOP 10企业的总估值逼近500亿元。其中，那些拥有海外顶尖学术背景和成熟产业经历的市场化团队，在这一轮资本竞逐中更受青睐，估值水...",
-      "url": "https://36kr.com/p/3804356346879495?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-12T00:00:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 量子计算不再是科幻\n\n量子计算以前只在科幻电影里出现，像《流浪地球2》里的“MOSS”电脑，能算各种超级复杂的问题。但现在，量子计算真的走到我们身边了，开始用到实际生活里。\n\n- **量子计算是什么？** 想象一下，普通电脑像一个人一样一步一步做事情，而量子计算就像一群人同时做，速度超快。它特别适合解决医学、人工智能这些需要大量计算的问题。\n\n- **量子计算的应用** 比如，波色量子公司利用量子计算帮助肿瘤治疗，找到更有效的药方；还用在脑机接口技术上，让大脑和电脑直接交流。这些都不是想象，已经有上百个实际案例了。\n\n- **市场热度高涨** 国家把量子科技当成未来重要产业，像规划里说的“十五五”计划，就专门支持量子技术。现在国内做量子计算的公司超过90家，最厉害的10家公司总价值快500亿了。\n\n- **投资趋势** 有海外学术背景和产业经验的团队更受欢迎，说明大家都在抢这个技术。量子计算正从实验室走向市场，未来可能改变很多行业。",
-      "summarized_at": "2026-05-12T10:38:45.403Z",
       "summary_status": "success"
     },
     {
