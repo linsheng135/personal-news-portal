@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-13T10:36:16.713Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-13T10:36:16.714Z",
+    "date": "2026-05-13",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1778668496107",
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to ...",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-11T17:35:12.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 获奖经济学家谈AI的三个重点\n\n- **AI会像电一样改变生活**  \n  想象一下，电刚出现时，没人知道它能干啥。现在的AI也是这样，虽然不知道未来具体用途，但肯定会对生活产生巨大影响。就像以前的电灯、电视，AI以后可能也会出现各种意想不到的应用。\n\n- **AI可能加剧贫富差距**  \n  就像开车一样，有人会开，有人不会。AI技术掌握在少数人手里时，可能会让已经有钱的人更富，而没机会接触的人会更落后。这就像有人会开车赚钱，有人只能走路。\n\n- **AI监管需像交通规则一样细致**  \n  现在开车要遵守交通规则，否则会发生事故。AI的发展也需要类似规则，比如防止AI歧视（就像不能因为性别或颜色选司机）、确保数据安全（不能像快递包裹一样随意丢）。否则，AI可能会被坏人利用，造成大问题。",
-      "summarized_at": "2026-05-13T10:35:03.893Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778668496107",
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a...",
-      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-11T13:33:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业如何让AI创新更成功\n\n- **现状：** 工厂盖了很多机器，但生产的产品根本卖不出去，就像你买了新手机却不知道怎么用，最后闲置浪费了。麦肯锡研究发现，很多大公司花大价钱搞数字化，最后只用了不到三分之一的价值。\n\n- **问题根源：** 大多数公司都是先造出技术工具（比如造电脑），再硬塞一些功能（比如装软件）给客户用，而不是先问问客户需要什么。这就好比先造了一辆没有方向盘的汽车，再想方设法装上去。\n\n- **正确做法：** 想象一下开餐馆，不能先建厨房再想吃什么菜。应该先了解顾客想吃什么（比如想吃麻辣烫），然后设计能让顾客吃上麻辣烫的厨房和流程。同样，做AI创新要像开餐馆，先了解客户需求，再设计技术方案。\n\n- **关键转变：** 把技术当成厨师，把客户需求当成菜谱。现在很多公司是先有厨师再找菜谱，但正确的做法是先研究客户想吃什么，再培养能做这种菜的厨师。\n\n- **成功案例：** 有些公司从客户抱怨中发现商机，比如发现客户觉得某个软件太复杂，就专门开发简单易用的版本，结果大受欢迎。这就是先有需求再有技术，最后技术帮助满足需求。\n\n- **核心建议：** 企业做AI创新时，别急着开发技术，先去了解客户到底需要什么，然后把技术当成满足需求的工具，而不是目的本身。",
-      "summarized_at": "2026-05-13T10:35:06.670Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778668496107",
-      "title": "Implementing advanced AI technologies in finance",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of...",
-      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-11T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 金融领域AI技术的应用：意外中的变革\n\n### 常规操作和AI的碰撞\n在金融行业，人们习惯了按部就班、一丝不苟的工作方式。但AI的到来却有点出其不意，就像突然在家庭账本里混入了一个智能记账助手。员工们早就开始偷偷用AI处理数据、分析市场，而管理层还在忙着制定规则、规划战略。这就好比家长发现孩子已经在用手机查资料，但家长还在讨论要不要给孩子买手机。\n\n### AI的\"游击战\"\n- 金融行业的AI应用就像一场悄悄的革命，员工们自发地使用AI工具，而管理层却还在思考怎么管好这个新工具\n- 就像很多人开始用智能音箱回答家庭问题，但家里的大人还在争论该不该买智能音箱一样\n\n### 矛盾的后果\n金融行业现在面临一个难题：一方面AI帮着提高效率，另一方面又不知道怎么合理使用。就像突然买了台智能冰箱，结果不知道怎么设置才能既省电又保鲜。员工们掌握了新工具，但管理层还在摸索怎么规范使用。\n\n### 未完成的挑战\n- AI已经改变了工作方式，但规则还没定好\n- 就像网上购物已经普及，但怎么保护个人信息的问题还在讨论中\n- 金融行业需要平衡创新和规范，就像学骑自行车要敢摔跤，但也要学会刹车",
-      "summarized_at": "2026-05-13T10:35:14.073Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778668496107",
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t...",
-      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-08T23:59:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Musk和OpenAI的法庭大战第二周：OpenAI反击，Shivon Zilis揭露Musk想挖Sam Altman\n\n### Musk的动机受质疑\n- Musk在法庭上说他之所以告OpenAI，是因为被CEO Sam Altman和总统Greg Brockman骗了。他说自己被忽悠捐款3800万美元给OpenAI，但心里其实另有打算。\n- 像是你朋友借你钱，嘴上说是买房，其实是为了买跑车，等你反应过来想撤回，朋友已经把钱花光了。Musk觉得OpenAI就跟他这情况一样。\n\n### OpenAI反击\n- OpenAI不认账，说Musk根本没被骗，他当初捐款就是真心实意的。OpenAI还拿出证据，证明Musk团队内部就有几个人想挖走Sam Altman。\n- 这就好比你去借钱给朋友，朋友说钱肯定还你，但你发现朋友在找别人借钱，还暗示你那笔钱可能不用还了。\n\n### Shivon Zilis的爆料\n- OpenAI的副总裁Shivon Zilis在法庭上透露，Musk其实想挖走Sam Altman，甚至私下里提出给高额工资和其他好处。\n- 就像老板A派你去给老板B打工，老板B表面欢迎你，结果老板A偷偷跟老板B说：“你要是跟我干，给你加三倍工资。”老板B犹豫了，老板A又说：“你现在的老板也在偷偷挖你。”于是老板B动摇了。\n\n### 核心冲突\n- Musk想证明自己被OpenAI坑了，但OpenAI觉得Musk根本不是受害者，而是想利用OpenAI赚钱。\n- 像是你和哥们合伙开公司，你投资时以为他是合伙人，结果他偷偷在背后想卖公司股份，还怪你没早点明白。\n\n### 法庭的走向\n- 这场官司现在变成了一场“谁在说谎”的辩论，Musk和OpenAI各执一词。\n- 就像两个邻居吵架，一个说对方偷了他的菜，另一个说对方偷了他的鸡，警察来问话，两边都说对方在撒谎。\n\n### 关键信息\n- Musk捐款3800万美元给OpenAI，但后来反悔想撤回。\n- Musk团队想挖走OpenAI的Sam Altman。\n- OpenAI不认Musk是被骗，反而指责Musk想占便宜。",
-      "summarized_at": "2026-05-13T10:35:18.132Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1778668496107",
       "title": "A blueprint for using AI to strengthen democracy",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 开源异常检测工具Anomalib简介\n\nAnomalib是一个专门用来发现异常情况的开源工具，就像家里装了烟雾报警器，能及时发现火警一样。它包含了一些最先进的技术，能帮我们在各种数据中找出不寻常的部分。\n\n### 核心功能\n\n- **异常检测算法**：就像警察叔叔破案用的工具，能通过数据找出可疑的地方。比如超市的系统发现有人把商品放回货架而不是结账，这就是异常情况。\n- **实验管理**：相当于做实验的笔记本，能记录每次检测的结果，方便我们比较哪种方法更好。\n- **超参数优化**：就像调咖啡的糖量，通过调整各种参数，让检测结果更准确。\n- **边缘推理**：可以直接在手机或电脑上运行，不用等服务器处理，就像外卖小哥直接送到你桌上，不用等菜从厨房送到餐厅。\n\n### 生活中的例子\n\n想象一下，你每天买菜，突然发现蔬菜价格比平时贵很多，这就是异常情况。Anomalib就像一个智能助手，能帮你自动发现这些异常，比如价格突然上涨、商品库存异常减少等。\n\n### 为什么要用Anomalib\n\n- **简单易用**：就像用手机拍照一样，不用学复杂的技术，就能快速上手。\n- **效果出色**：能准确识别各种异常情况，比如金融交易中的欺诈行为、工业设备故障预警等。\n- **开源免费**：任何人都可以使用，就像开源软件一样，大家共同改进，功能越来越强大。\n\n总之，Anomalib是一个强大的异常检测工具，适合各种场景使用，无论是企业还是个人，都能从中受益。",
       "summarized_at": "2026-05-13T10:36:03.089Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778668499911",
-      "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
-      "summary": "文｜周鑫雨 邓咏仪\n编辑｜杨轩\n林俊旸以创业者的身份，重新加入AI模型的战场。\n《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。\n目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等。\n截至发稿前，有关上述信息，林俊旸尚未回复。\n时间距离3月初的那场“闪电”诀别，已经过去了两个月。\n2026年3月4日凌晨，林俊旸在X上宣布离开千问：“me stepping down. bye my beloved qwen（我卸任了。再见了，我深爱的千问）。”更早前，3月3日下午，他在Qwe...",
-      "url": "https://36kr.com/p/3807382930251523?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-13T07:24:16.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 林俊旸新创业公司估值20亿美金\n\n林俊旸，之前在阿里巴巴负责AI模型，现在自己出来创业了。他加入了AI模型这个竞争激烈的领域，准备做新公司。他的新公司主要研究两种技术：世界模型和具身大脑。世界模型就像是给AI画一张大地图，让AI更懂世界；具身大脑则是让AI像人一样感知和行动。\n\n为了支持新公司，林俊旸已经找来了几位有经验的同事，他们来自字节跳动、腾讯和海外公司。现在，他的公司估值已经达到20亿美金，正在找投资人。据说，像红杉中国、高榕创投这些有名的基金都对他感兴趣。\n\n林俊旸离开阿里巴巴的时间还不久，才两个月前。当时他在社交媒体上宣布要离开，还特别提到了他心爱的AI项目“千问”。现在，他带着一帮人重新出发，要在AI领域再创佳绩。",
-      "summarized_at": "2026-05-13T10:36:00.584Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778668499911",
-      "title": "6月上海，这场论坛聊透出海真问题",
-      "summary": "副标题：韧性全球化，AI向未来｜EqualOcean2026出海全球化百人论坛（GGF2026）将于6月11日在上海举行\n\n出海这件事，已经变了。\n如果今天还把出海理解为“寻找增量市场”，大概率已经慢了一步。\n 如今，中国企业出海已经进入一个全新的阶段。真正拉开差距的，早已不是“是否出海”，而是：\n· 下一阶段最值得重仓的区域市场在哪里？\n· AI应该优先进入哪些关键环节，才能形成真正差异化？\n· 在资本趋于理性、增长更重质量的背景下，什么样的公司还具备穿越周期的可能性？\n· 对于具身智能、自动驾驶、AI硬件等新技术企业而言，如何跨越从技术验证到场景落地、从产品展示到规模商业化的关键门槛？\n这...",
-      "url": "https://36kr.com/p/3807234971131656?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-13T05:04:56.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 6月上海论坛聊出海新挑战\n\n### 出海变了样\n以前觉得出海就是找新市场，现在可不一样。现在大家比的是：去哪个地方最有赚头？AI技术该怎么用才能比别人强？资金不多了，哪些公司还能持续发展？新技术公司怎么把实验室里的东西变成大家日常能用的产品？\n\n### 核心问题\n- 哪些地方最值得去？就像找新小区盖房子，得看哪个地方未来最有潜力。\n- AI怎么用最厉害？比如用AI帮工厂管理，得找到最能省钱的点。\n- 哪些公司能扛过难关？就像股票市场跌了，哪些公司不会破产。\n- 新技术怎么变成产品？比如自动驾驶，怎么从测试阶段直接卖车给消费者。\n\n### 未来趋势\n论坛要讨论的是，现在出海怎么玩才不落后。重点是找对地方、用好AI、让公司活下去、让新技术快速变成商品。这就像比赛，光会出发已经不够了，得知道怎么赢得比赛。",
-      "summarized_at": "2026-05-13T10:36:08.833Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778668499911",
-      "title": "36氪专访 | 安克创新eufyMake负责人：众筹超4000万美金后，还在红海寻找缝隙",
-      "summary": "作者 | 张子怡\n编辑 | 袁斯来\n那是一个价值5000万美元成功故事诞生的夜晚。\neufyMake的产研负责人Cheney Xie仍然记得狂喜带来的多巴胺。那是2025年4月29日晚上十点，eufy MakeUV打印机E1上线众筹。\n首个100万美元的记录用时不过一分钟。“感觉像爆金币一样，金额哗啦啦涨上去。”\n当夜无人入眠。直到凌晨四五点，组内的同学还在不停更新着众筹金额的实时截图。\n时至今日，eufyMake E1仍以4670万美元的众筹金额，维持着Kickstarter历史上融资额最高的项目记录。\neufyMake E1走过了近一年，产品在海外已接近完全交付。eufyMake E1在国...",
-      "url": "https://36kr.com/p/3806507139390984?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-13T01:30:19.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## eufyMake众筹超4000万美元，还在竞争中找机会\n\n### 众筹爆火\n2025年4月，安克创新推出UV打印机E1，在 Kickstarter 上发起众筹。第一个100万美元只用了1分钟就抢光，最后总金额达到惊人的4670万美元，创下该平台历史记录。大家兴奋得像中了彩票，凌晨还在抢着发截图庆祝。\n\n### 产品进展\nE1众筹成功后近一年，产品已经在海外顺利交付。但这并不意味着可以松懈，因为市场上同类产品多，竞争激烈。\n\n### 寻找市场缝隙\neufyMake负责人表示，虽然生意好，但他们还在激烈的市场竞争中寻找自己的位置。就像超市里卖水果，虽然水果卖得好，但还是要找到自己独特的卖法，比如卖特别的品种或提供更好的服务。eufyMake希望通过创新和优质产品，在竞争中找到自己的小天地。",
-      "summarized_at": "2026-05-13T10:36:10.472Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778668499911",
-      "title": "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，近日，光子芯力（北京）科技有限公司（以下简称“光子芯力”）宣布完成数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投。\n光子芯力成立于2024年，总部位于北京，是一家专注于光电融合计算芯片的硬科技初创公司。公司创始人杨其晟博士毕业于清华大学集成电路学院，具备光电融合交叉背景，核心团队亦主要来自清华大学，成员覆盖光学、算法、半导体及产业资源等方向。\n当前，光计算正被视为突破电子芯片“功耗墙”“存储墙”的重要方向之一，行业也逐渐进入产业化前夜。光子芯力的核心产品聚焦于光电异构计算芯片及配套软件工具链。\n硬件层面，光子芯力创新性...",
-      "url": "https://36kr.com/p/3807043342475009?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-13T01:26:14.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 清华系光计算芯片公司完成融资，要用光来计算\n\n## 公司和融资情况\n- 成立于2024年的光子芯力公司，专门做能发光和计算结合的芯片\n- 最近拿到了几千万元的天使投资，投资方包括苏州芯阳基金等\n- 创始人是清华毕业的博士杨其晟，团队里很多都是清华人\n\n## 公司的业务\n- 光子芯力做的是光电融合计算芯片，简单说就是用光来算题\n- 目前的电子芯片越来越热、越来越慢，像电脑用久了会发热\n- 用光来计算可以解决电子芯片的这些问题，就像夏天用空调比扇子凉快\n\n## 行业前景\n- 光计算被认为是未来的大趋势，能解决电子芯片的两大难题\n- 整个行业马上就要开始赚钱了，就像小孩马上要长大成人\n- 光子芯力的产品包括能发光的芯片和配套的软件工具\n\n## 为什么重要\n- 用光计算可以让设备更小、更快、更省电\n- 比如现在的手机很热很慢，用光计算以后可以更凉快更快\n- 这项技术未来可能用在各种设备上，从手机到超级计算机",
-      "summarized_at": "2026-05-13T10:36:16.713Z",
       "summary_status": "success"
     },
     {
