@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-16T09:46:48.581Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-16T09:46:48.581Z",
+    "date": "2026-05-16",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1778924731003",
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w...",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-15T23:39:35.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Musk和Altman的法庭辩论进入最后一周\n\n在Musk和Altman的法庭对决中，律师们把这场辩论推向高潮。他们互相攻击对方，试图证明自己一方更可信。\n\n**关键争论点：**\n\n- **Altman被质疑：** Altman是OpenAI的CEO，律师们质疑他过去在与其他公司合作时是否经常撒谎或为个人利益行事。这就像有人指控邻居经常说谎，还利用邻居的身份牟私利一样。\n\n- **Musk的反驳：** Altman反击说，Musk是个权力欲望很强的人，总是想控制一切。这好比有人说朋友总是想当老大，控制别人的行为。\n\n**法庭的最终决定：**\n\n现在，所有证据都摆在了法官和陪审团面前。他们需要在这两位CEO中选出一位更可信的人。这就像一场比赛，选手们都展示了自己的能力，评委要根据表现选出一个赢家。\n\n**案件的走向：**\n\n陪审团的决定将决定Musk和Altman谁的指控更有力。如果陪审团相信Musk，那么Altman可能会面临法律后果。反之亦然。这场辩论的最终结果，会让人们看清这两位科技领袖的真实面目。\n\n**核心观点：**\n\n这场法庭辩论的关键在于谁更可信。律师们通过揭露对方的弱点，来证明自己一方的可信度。陪审团的最终决定将直接影响这场官司的胜负。",
-      "summarized_at": "2026-05-16T09:45:41.236Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778924731003",
-      "title": "How Chinese short dramas became AI content machines",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an hei...",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-15T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 中国短剧变成AI内容生产线的秘密\n\n### AI如何批量生产短剧？\n\n想象一下，你让电脑写1000个不同版本的\"霸道总裁爱上我\"故事。AI就像个超级抄写员，能快速模仿热门剧情，比如一个男人突然把女人扔到床上，然后给她的身上贴个龙纹身，要求她两月后为他做某事。AI不需要灵感，只需要检测大量已有剧本，就能复制出类似风格的内容。\n\n### 为什么AI能火？\n\n- **市场需求大**：现在短视频平台只要几分钟的剧情，AI一天能写几十集，比人工快10倍以上\n- **成本低**：不用请演员、搭场景，只靠电脑就行，一部剧的成本不到传统剧的1%\n- **模板化生产**：像填空题一样，填入不同人设和情节，就能生成新剧\n\n### 对行业的影响\n\n- **优点**：快速满足观众想看新剧的需求，像快餐店随时能给你做份饭\n- **缺点**：剧情同质化严重，很多剧都像\"换皮肉麻剧\"，内容千篇一律\n- **未来趋势**：AI会负责写剧本，人类导演负责加入特殊创意，就像厨师做菜既要懂配方又要会创新\n\n现在有些团队用AI写完200集的短剧后，再找人工改几个词，就当成新剧上线。这种生产方式已经让中国短剧行业变成\"内容流水线\"，不过观众到底是吃香饽饽还是吃剩菜，还得看创作者能不能把AI写的内容变得有新意。",
-      "summarized_at": "2026-05-16T09:45:41.446Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778924731003",
-      "title": "Data readiness for agentic AI in financial services",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of...",
-      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-14T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 金融业让AI更智能的关键：数据准备好了吗？\n\n### 金融业和AI的特殊关系\n\n想象一下你去银行办事，银行需要既严格遵守规定，又快速应对客户的各种需求。金融行业就像这样，既要遵守各种复杂的规则，又要随时应对市场变化，比如股票价格突然波动、政策突然调整等。这种情况下，让AI像人一样自主决策（也就是\"自主AI\"）就不太容易了。\n\n### AI成功的关键不是技术多先进\n\n很多人以为让AI更智能就要让它更复杂，但实际上不是这样。金融行业的AI要成功，关键在于数据够不够好，够不够及时，而不是技术本身多厉害。就像做饭一样，厨艺再好，食材不好也不会做出好菜。\n\n### 数据要像新鲜蔬菜一样\n\n金融业的数据更新速度很快，可能一秒钟就有新消息。这就好比菜市场里的蔬菜，必须新鲜才能做菜。如果数据陈旧，AI做出的决策就像用过期蔬菜做的菜，味道肯定不好。\n\n- 金融业AI要成功，数据更新速度和准确性比技术本身更重要\n- 数据就像金融业的\"食材\"，必须新鲜、可靠\n- 自主AI需要的是能快速处理实时数据的能力，而不是更复杂的算法\n\n所以，金融业的AI要发展，首先要确保数据够新够好，这样才能做出正确的决策。",
-      "summarized_at": "2026-05-16T09:45:48.457Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1778924731003",
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u...",
-      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-14T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 生成式AI的隐私问题\n\n生成式AI刚从实验室走向商业应用时，企业和AI服务商有个心照不宣的协议：先享受AI的强大功能，数据控制权的事以后再说。就像你把家里的照片交给美图公司做修图服务，虽然照片变漂亮了，但照片的保管权和使用权其实不在你手里。同样，企业把自家的商业数据交给第三方AI公司，虽然能获得精准的分析结果，但这些数据就像借给朋友帮忙做事，最后处理权在朋友手里。\n\n### 数据安全问题\n\n- 企业把核心数据交给AI服务商，相当于把家里的钥匙交给陌生人保管\n- 数据在传输和处理过程中可能泄露，就像快递包裹在运输途中可能被拆开\n- 如果服务商倒闭或被收购，企业可能连数据都拿不回来\n\n### 正确做法\n\n- 用加密技术保护数据，就像给文件加锁，别人看不到内容\n- 选择信誉好的服务商，就像找靠谱的邻居帮忙\n- 定期检查数据使用情况，就像定期查看水电账单\n\nAI技术发展太快，但数据安全是根本。企业既要利用AI的便利，也要守住数据底线，否则就像把银行卡密码告诉陌生人，好处没享受到，风险却自己承担了。",
-      "summarized_at": "2026-05-16T09:45:49.082Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1778924731003",
       "title": "The shock of seeing your body used in deepfake porn ",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Nuclei：互联网安全的\"侦探\"\n\nNuclei是一个快速、灵活的漏洞扫描工具，就像互联网世界的\"侦探\"，能帮你找出各种应用、网络、云配置中的安全隐患。它由全球安全专家共同开发，使用简单的YAML语法（就像用文字写规则），让更多人能一起发现和处理最新的网络安全问题。\n\n### 怎么工作的？\n\n- **简单规则，快速扫描**：用类似写便条的语法，就能定义要检查的问题，扫描速度比传统工具快很多。\n- **社区协作**：就像大家共享线索，安全专家把发现的问题写成\"规则\"，其他人可以直接用或改进，共同应对网络安全挑战。\n\n### 适合谁用？\n\n- **程序员**：检查自己写的代码或网站有没有漏洞。\n- **IT人员**：看看公司网络、服务器配置是否安全。\n- **安全爱好者**：测试自己搭建的系统是否容易被攻击。\n\n### 能查什么？\n\n- 应用程序：比如网站登录框、文件上传功能\n- API接口：手机App和后台服务器之间的数据通道\n- 网络设备：路由器、防火墙等\n- DNS设置：域名解析是否正确\n- 云服务配置：AWS、Azure等平台的设置\n\n### 为什么推荐？\n\n- **免费开源**：不需要花钱，任何人都能用。\n- **高度可定制**：可以根据自己的需求修改检查规则。\n- **持续更新**：总能发现最新的安全问题。\n\n总之，Nuclei就像一个开放的网络安全工具箱，每个人都能轻松上手，共同保护互联网安全。",
       "summarized_at": "2026-05-16T09:46:31.922Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778924735455",
-      "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
-      "summary": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。\n据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。\n在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。\n调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计到2025年将增长到16.11亿美元，到2033年将超过81.5亿美元，复合年增长率为22.8%。\n不过，该市场集中度较高，少数头部品牌...",
-      "url": "https://36kr.com/p/3810520138243593?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-16T02:00:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 骨传导耳机的新玩家要来了\n\n## 背景和融资情况\n苏州有一家叫索迩电子的公司，他们做骨传导耳机，品牌叫Mojawa。最近他们拿到了一笔几千万元人民币的A+轮融资，这笔钱是正海资本投的。拿到钱后，他们打算用这笔钱去国外开更多卖耳机的店，同时把耳机做得更智能，比如能听歌的时候自动翻译外语。\n\n## 市场机会很大\n现在大家都喜欢用无线耳机，而且喜欢那种耳朵上不戴东西就能听到声音的骨传导耳机。市场调研公司说，2024年骨传导耳机市场规模已经到12.8亿美元了，相当于中国一年的咖啡消费量这么大的市场。预计以后每年都会涨得特别快，到2033年市场规模会超过81.5亿美元。\n\n## 独特的竞争优势\n虽然现在骨传导耳机市场已经有几个大牌子了，但索迩电子不一样。他们有个厉害的地方，就是自己研发了特别的技术，不是照搬别人的。这就像做蛋糕，别人都是用传统方子，他们非要自己发明一种新口味的配方，结果味道特别好。正因为这个技术，他们能打破大公司专利的壁垒。",
-      "summarized_at": "2026-05-16T09:46:30.001Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778924735455",
-      "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
-      "summary": "今日热点导览\nOpenAI正考虑采取法律手段起诉苹果公司\n三星电子开发下一代HBM封装技术，或用于智能手机等移动设备\n海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群\n世界银行首席经济学家英德米特・吉尔将于8月卸任退休\n“海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示\nTOP 3大新闻\n央视确认获得2026年世界杯版权，费用为6000万美元 \n5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。\n根据双方合作意向，中央广播电视总台确认获...",
-      "url": "https://36kr.com/p/3811265856626440?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-16T01:03:11.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 央视花6000万美元买世界杯版权\n\n央视花了6000万美元（差不多人民币4.5亿），获得了未来几年世界杯的播放权。这就像你买了邻居家的足球赛电视转播权，以后能一直看世界杯比赛，包括2026年世界杯和2030年世界杯，还有女足球赛。这笔钱是给国际足联的，相当于租了他们的比赛播放权。\n\n## 英伟达公司市值超过德国经济总量\n\n英伟达这家做电脑芯片的公司，现在值的钱比德国整个国家的经济总量还要多。这好比说，英伟达就像一个超级富有的公司，它的股票值钱到能让全世界都注意到它。其实它主要是做游戏和人工智能芯片的，现在生意这么好，说明大家都离不开它的技术。\n\n## iPhone 17 Pro全系降价1000元\n\n苹果公司最新的iPhone 17 Pro手机，现在全都要便宜1000元。这就像你去超市买一瓶原价100元的果汁，现在可以95元买到，省下的钱可以买杯奶茶。苹果这么做可能是想吸引更多人买新手机，市场竞争激烈了，所以降价促销。\n\n## 其他热点消息\n\n- OpenAI想告苹果：OpenAI是做人工智能的，他们觉得苹果公司用了他们的技术没给钱，准备去法院告苹果。\n- 三星开发新技术：三星在开发一种新的芯片包装技术，以后可能用在手机上，让手机更厉害。\n- 海南要发展火箭和卫星产业：海南计划发展火箭、卫星和数据网络，还要造制造风电设备的工厂。\n- 世界银行经济学家要退休：世界银行的经济学大佬英德米特・吉尔8月要退休了。\n- 智能穿戴设备可能有风险：国家安全部提醒大家，“海淘”的智能手表、手环等，可能被植入了偷数据的装置，买的时候要小心。",
-      "summarized_at": "2026-05-16T09:46:40.395Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778924735455",
-      "title": "理想出牌：全新L9上市，45.98万元起｜最前线",
-      "summary": "理想汽车CEO 李想\n能让李想豁出去跳舞挣眼球的发布会，仅在全新一代理想L9上市。\n5月15日，理想发布会了全新一代理想L9，推出两个版本——理想L9 livis，售价 50.98万元；理想L9 Ultra版，售价45.98万元。且理想给出了现金2万元的首销权益，截止于6月30日。\n36氪汽车曾报道指出，理想今年第一目标就是加固增程和高端市场的基本盘。今年产品重心将回归增程市场，用换代产品拿回增程领先的位置。\n全新一代理想L9就是第一枪。\n上市前夕，我们体验了全新理想L9 livis，一个比较直观的感觉是，无论是外观和内饰的质感，车辆的性能相较于上一代产品都有了质的提升。\n外观方面，理想L9 ...",
-      "url": "https://36kr.com/p/3810562142445058?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-15T14:28:10.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 新理想L9来了：更贵但更值\n\n理想汽车发布了新款理想L9，售价从45.98万到50.98万不等，还送2万元优惠，截止到6月30日。这次发布会动静挺大，CEO李想都亲自跳舞宣传了。\n\n### 产品升级\n全新L9比旧款更好，外观内饰都更有档次，开起来也更顺手。就像你穿了一件新衣服，不仅好看，穿着也更舒服。之前试驾过，感觉动力、空间都比以前强不少。\n\n### 市场策略\n理想汽车今年重点发展增程式电动车，想重新成为这个领域的领头羊。L9就是他们打响第一枪的武器，相当于在说：“我们回来了，而且更厉害！”他们之前的车型比较火，这次想继续在高端市场站稳脚跟。\n\n### 购车建议\n如果预算充足，想买辆豪华电动车，L9是个不错的选择。现在买还能省2万块，相当于直接买了个打折的豪华玩具。不过价格不便宜，相当于你要花45万以上才能买到，相当于买辆中档轿车加一辆电动车一起用。",
-      "summarized_at": "2026-05-16T09:46:37.475Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1778924735455",
-      "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
-      "summary": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。\n\n官方图片\n锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人...",
-      "url": "https://36kr.com/p/3810607581634056?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-15T13:50:58.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 韶音2026发布会：让耳朵更自由\n\n### 活动概况\n5月15日，韶音耳机公司在深圳办了一场叫\"随我动听\"的发布会。他们展示了三款新耳机：OpenDots 2、OpenSwim Pro 2和OpenDots Air，还介绍了\"随我动听\"的品牌理念。\n\n### 核心概念解析\n韶音中国CEO杨云说，我们的世界一直在变，声音就像流水一样到处跑，人也需要灵活应对。所以他们的耳机要像\"空气一样自由\"，让人随时随地都能听到想听的声音。\n\n### 产品亮点\n- **OpenDots 2**: 比以前更轻便，戴上像没戴一样，运动时也不容易掉。适合跑步、跳舞等运动场景。\n- **OpenSwim Pro 2**: 防水的，游泳时也能用。就像给耳朵穿了个防水小外套。\n- **OpenDots Air**: 价格更亲民，适合日常通勤。就像公交车上用的蓝牙小音箱。\n\n### 品牌理念\n\"随我动听\"的意思是，不管你在哪里，做什么事，都能轻松听到音乐或者通话。比如你在逛街、跑步、游泳时，都不用摘耳机，声音就像跟着你跑。\n\n### 艺术合作\n韶音还和设计大师合作推出了一个叫\"缮己新声\"的艺术礼盒。这个礼盒就像一个漂亮的耳机护套，打开时能听到特殊的声音，让人感觉听觉和视觉都享受。\n\n### 总结\n这次活动主要想告诉大家，韶音的新耳机更自由、更方便。不管你是运动达人还是日常通勤族，都能找到适合的款式。他们想创造一种生活方式，让每个人都能随时随地沉浸在好的声音里。",
-      "summarized_at": "2026-05-16T09:46:48.503Z",
       "summary_status": "success"
     },
     {
