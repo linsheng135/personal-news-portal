@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-17T09:53:04.318Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-17T09:53:04.319Z",
+    "date": "2026-05-17",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1779011495639",
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w...",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-15T23:39:35.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Musk和Altman的法庭辩论进入最后一周\n\n上周，Elon Musk和OpenAI的CEO Sam Altman在法庭上互相攻击，谁也不让谁。律师们把矛头对准了两个人，质疑他们的可信度。\n\n- **Altman被质疑**：他的律师说，Altman以前经常撒谎，而且和OpenAI合作的很多公司，他从中捞好处。比如，他既当裁判又当球员，自己说了算。\n\n- **Altman反击**：Altman不干了，他说Musk才是那个想搞大权的人，总是想把事情搞砸。这就好比两个人打架，一个人说对方偷了东西，另一个人说对方先动手。\n\n现在，法庭上的法官和陪审团要选边站了。他们得看看谁的话更可信，谁的行为更诚实。这场官司就像一场拔河比赛，最后看谁能赢。",
-      "summarized_at": "2026-05-17T09:51:45.035Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779011495639",
-      "title": "How Chinese short dramas became AI content machines",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an hei...",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-15T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 中国短剧变成AI内容生产线的秘密\n\n### 1. 快速生产的秘密\n中国短剧像工厂流水线一样，用AI批量生产内容。编剧不需要一个字一个字写，AI直接根据模板生成剧情。比如恐怖片，AI自动把黑暗房间、打斗、怪异特效组合起来，像按按钮一样简单。观众要的是刺激，AI就给刺激的，根本不用考虑好不好看。\n\n### 2. 聚焦猎奇元素\nAI特别擅长制造猎奇场景。比如文章里那个女孩被烧龙纹身的故事，AI能快速组合各种奇怪元素——突然出现的人物、怪异动作、诡异特效。这种内容用传统方法要花几个月，AI一天就能生成。观众就是喜欢看这种猎奇，AI就拼命造。\n\n### 3. 模板化内容\n短剧公司把所有爆款元素做成模板，AI直接套用。比如爱情剧必须分手复合，悬疑剧必须反转，恐怖剧必须血腥。观众看多了套路，AI就不断重复，反正大家不介意。就像快餐店做汉堡，调好料，按顺序放进去就行，效率最重要。\n\n### 4. 观众没选择\n观众习惯了快餐式剧情，根本不在乎内容质量。AI把所有选项算过了——血腥、刺激、快速反转，这些最能抓住注意力。就像超市货架摆满零食，卖得好的永远是一样的，大家也懒得挑。短剧平台用AI拼命生产，观众拼命刷，两方都很满足。",
-      "summarized_at": "2026-05-17T09:51:47.245Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779011495639",
-      "title": "Data readiness for agentic AI in financial services",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of...",
-      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-14T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 金融机构的AI应用关键点\n\n金融机构使用AI时，和其他行业不太一样。金融业是管得最严的行业之一，同时市场变化非常快，就像菜市场买菜，价格一秒一变。所以，要让AI在金融业好用，关键不在于AI多高级，而在于数据准备得怎么样。\n\n### 数据准备的重要性\n想象一下，你想让AI帮你分析股票。如果数据乱七八糟，就像一本没整理的日记，AI怎么分析？所以，金融机构的AI能用不好用，主要看数据是不是干净、完整、及时。\n\n### 金融业的特殊要求\n- **监管严格**：金融机构就像开餐馆，得遵守卫生条例，AI也得符合各种规定。\n- **信息变化快**：市场行情瞬息万变，就像天气说变就变，AI需要实时更新数据才能跟上。\n\n### 核心观点\n要让AI在金融业发挥作用，重点不是技术多牛，而是数据多好。数据准备得好，AI就能更好地帮助金融机构做决策，就像老师教得好不好，关键看学生学得怎么样。\n\n总之，金融机构的AI成功，关键在于把数据整理好，让AI能看清局势，做出靠谱的建议。",
-      "summarized_at": "2026-05-17T09:51:54.548Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779011495639",
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u...",
-      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-14T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 生成式AI的隐忧\n\n### 企业的“快进”策略\n起初，很多公司为了让AI更快见效，做了一个秘密约定：先用别人的AI工具，以后再考虑控制权。就像你去餐馆吃饭，图省事点外卖，但菜是别人做的，你只是消费者。公司把自家的数据交给第三方AI公司，能快速得到好结果，但数据安全就交给别人了。\n\n### 数据的“旅行”风险\n你的数据就像寄快递，寄给了不认识的人。虽然他们能帮你解决问题，但数据经过他们的系统，可能被复制、被分析，甚至泄露。比如你把照片发给修图软件，修完后照片还在对方手里，谁也不知道他们会不会偷偷存下来。\n\n### 自主系统的困境\n现在AI越来越能独立工作，比如自动驾驶汽车。但数据如果一直不在自己手里，怎么确保AI不会乱来？就像你把车钥匙交给朋友代开，万一他开着开着突然变坏，你连刹车都控制不了。\n\n### 如何破局\n企业需要重新设计系统，把数据控制权拿回来。比如自己建数据中心，或者用加密技术保护数据。就像自己在家做饭，安全又放心。不过这需要投入更多时间和成本，是个两难的选择。\n\n- 核心观点：企业用AI不能只图快，安全更重要\n- 关键信息：数据交给别人用，就像把家门钥匙给人\n- 生活例子：外卖方便但安全风险大，自己做饭更安心",
-      "summarized_at": "2026-05-17T09:51:57.670Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1779011495639",
       "title": "The shock of seeing your body used in deepfake porn ",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## RustDesk：免费的远程桌面工具\n\nRustDesk 是一款免费的开源远程桌面软件，它和 TeamViewer 类似，但不需要付费。你可以把它想象成两个人在同一个房间里有两台电脑，但一台电脑在千里之外，RustDesk 就能帮你远程操作远方的电脑，就像你在眼前操作自己的一样。\n\n### 核心功能\n- **免费使用**：不用花钱，所有人都能用，适合个人和小团队。\n- **自托管**：你可以把软件放在自己的服务器上，而不是用别人的服务器，这样更安全，也避免被别人监控。\n- **开源免费**：代码是公开的，任何人都可以查看、修改和分享，就像开源蛋糕的配方，大家都可以根据自己的口味调整。\n\n### 为什么选择 RustDesk？\n- **安全可靠**：数据传输是加密的，就像用一把锁把你的信息锁起来，别人偷看不了。\n- **跨平台支持**：可以在 Windows、Mac、Linux、Android 和 iOS 上使用，就像手机和电脑都能互相连接。\n- **轻量高效**：用起来不卡顿，就像用自己家电脑一样流畅。\n\n### 适合谁用？\n- **个人用户**：家里电脑坏了，远程让朋友帮忙修。\n- **小公司**：团队里有人在家办公，需要远程协作。\n- **开发者**：需要远程调试和管理服务器。\n\n总之，RustDesk 是一个免费、安全、好用的远程桌面工具，特别适合不想花钱又需要远程操作电脑的人。",
       "summarized_at": "2026-05-17T09:52:47.693Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779011499283",
-      "title": "又诞生一位千亿女富豪",
-      "summary": "示意图\n自4月初以来，立讯精密股价上涨超过55%。\n5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。\n如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。\n5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际约59.50%股份，有望成为其最终控股股东。这是立讯精密继两年前收购德国莱尼后，在汽车领域的又一关键资本动作。\n郭台铭门 徒\n立讯精密的故事通常被描述为“打工妹”逆袭成为女富豪的爽文剧本。实际上，只单纯地给创始人王来春贴上...",
-      "url": "https://36kr.com/p/3813040859258373?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-17T07:45:47.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 立讯精密创始人王来春成千亿女富豪\n\n- **背景**: 立讯精密是一家做电子产品、汽车零件的公司。最近公司股价大涨，市值超过5500亿人民币。\n- **王来春的财富**: 她持有公司18.75%的股份，股价上涨让她身价突破千亿，成为中国又一位白手起家的女富豪。\n- **股价上涨原因**: 可能与公司宣布收购一家叫京西智行集团有关，像是买了邻居的股份，可能还会控制另一家叫京西国际的公司。\n- **公司发展**: 立讯精密以前是从小公司一步步长大的，现在在汽车领域也加大投资，像是在玩更大的游戏。\n- **王来春的故事**: 她的经历就像一个励志故事，从普通打工妹成了大老板，代表了中国女性创业的突破。",
-      "summarized_at": "2026-05-17T09:52:44.965Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779011499283",
-      "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
-      "summary": "Peter Steinberger\n编辑：所罗门\n【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。\n别人晒工资条，他晒账单——一个月130万美元！\n也就是将近900万人民币/每月。直接把网友们看傻了。\nOpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。\n\nPeter Steinberger\n但截图上的数字，属实不淡定：\n30天花费：$1,305,088.81。吞掉6030亿个token。发起760万次请求。\n你没看错，是130万美元。也不是哪家大厂的季度AI预算...",
-      "url": "https://36kr.com/p/3812925591887368?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-17T06:08:32.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# OpenAI资助AI项目烧钱130万美元\n\n## 项目概况\n有个叫Peter Steinberger的人，带着3个同事，用100个AI助手忙了一个月。他们搞出的东西很特别，把开发软件的过程变成了\"AI流水线\"，OpenAI愿意为这个项目买单。\n\n## 花费惊人\nPeter晒出的账单显示，他们一个月花了130万美元，相当于将近900万人民币。这个数字太大了，让网友们都看傻了。具体数字是：30天花了130万美元，用了6030亿个AI指令，发起760万次请求。这不是大公司一个季度的AI预算，而是一个月的花销。\n\n## 项目创新\n这个项目把软件开发变成流水线，让AI助手分工合作。比如有人负责写代码，有人负责测试，还有人负责修改。这种模式效率很高，但需要大量资金支持。OpenAI觉得这个想法有潜力，所以愿意出钱资助。\n\n## 启示\n这个项目说明，AI发展需要大量资金支持。虽然AI助手能提高效率，但训练和运行这些AI需要巨额投入。未来可能需要更多资金支持AI创新，否则好想法可能因为没钱无法实现。",
-      "summarized_at": "2026-05-17T09:52:56.409Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779011499283",
-      "title": "28亿，肯德基也要被卖了？",
-      "summary": "肯德基\n作者 | 王涛\n编辑 | 吾人\n来源 | 融中财经\n路透社报道，怡和集团正打算卖掉自己手里经营了十多年的快餐相关资产，这部分资产里，包含了香港、澳门、台湾、缅甸、越南这五个市场的肯德基和必胜客门店，再加上香港本土的外卖披萨品牌PHD，加起来大概有1000家门店、2.5万名员工，这笔交易的金额差不多有4亿美元（折合人民币28亿左右）；非约束性报价的截止时间就在本周，而参与竞购的买方阵容也挺有意思，有百胜中国、凯雷集团、台湾统一企业，还有好几家私募基金。\n怡和集团是一家19世纪就已经在中国开展业务的英资老牌洋行，业务范围特别广，从地产、零售、酒店一直到运输，几乎什么都做，2009年的时候，...",
-      "url": "https://36kr.com/p/3812816225459713?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-17T05:33:17.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 肯德基可能要被卖了\n\n怡和集团，一个在中国做了很久的外国公司，可能要卖掉手里的一些快餐店。这些店包括香港、澳门、台湾、缅甸、越南的肯德基和必胜客，还有香港的PHD外卖披萨店，总共大约1000家店，有2.5万人工作。卖掉这些店估计能拿到4亿美元，差不多相当于咱们人民币28个亿。\n\n### 卖的原因\n\n怡和集团是个大公司，做的东西好多，比如盖房子、开商店、开酒店、搞运输等等。他们可能觉得，快餐这块生意不太适合自己，想把精力放在更赚钱的领域。\n\n### 谁想买\n\n有几个公司想买这些店，分别是百胜中国（就是肯德基在中国的老板）、凯雷集团（一个投资公司）、台湾统一企业（卖方便面的），还有几个私人投资公司。\n\n### 什么时候决定\n\n买方要在本周前表态，看看谁出价最高。这个价格还没定，现在只是个初步的报价。\n\n### 以后会怎样\n\n如果有人真的买了这些店，那以后我们在香港、澳门、台湾等地吃的肯德基和必胜客，可能就不是怡和集团运营的了。买方会重新管理这些店，也许会调整菜单或者改变营业时间，总之我们会慢慢感觉到变化。",
-      "summarized_at": "2026-05-17T09:52:57.094Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779011499283",
-      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-      "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI\n用Claude Code写论文的一整套流水线，有人打包开源出来了。\n完全戳中了学生党的痛点，github星标直达6.4k。\n\nacademic-research-skills\n项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。\n里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。\n只需两行命令安装，直接一条龙串起整套学术研究流水线。\n\nacademic-research-skills\n只能说，我读研的时候怎么没碰到这种好东西呢…\n\n示意图\n4个skill，跑通整套科研流程...",
-      "url": "https://36kr.com/p/3812800346742274?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-17T04:59:08.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 一个开源工具让写论文变得简单\n\n最近有个叫academic-research-skills（简称ARS）的开源项目火了，GitHub上直接收获了6.4k个星标。这个工具专门帮学生写论文，完全解决从研究到定稿的全流程问题。\n\n### 核心功能：论文写作流水线\nARS就像一个论文生产线的工具包，里面包含4个\"技能包\"：\n1. **研究技能**：帮你找资料、整理思路\n2. **写作技能**：自动生成论文初稿\n3. **审稿技能**：检查语法和逻辑问题\n4. **定稿技能**：优化最终版本\n\n### 使用方法超简单\n安装只需要两行命令，比装个软件还容易。用这个工具，写论文就像按\"一键下单\"模式，直接从找资料到定稿全搞定。\n\n### 为什么这么受欢迎\n很多学生党都表示：\"要是研究生时有这么个工具就好了！\"这个工具直接把找资料、写论文、修改这些繁琐工作全自动化，省时又省力。\n\n现在很多研究生写论文时还在手动整理资料、反复修改，有了这个工具就像有了论文\"外挂\"，直接把整个流程优化了一遍，难怪这么多人点赞。",
-      "summarized_at": "2026-05-17T09:53:03.601Z",
       "summary_status": "success"
     },
     {
