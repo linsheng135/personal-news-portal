@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-20T10:59:44.609Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-20T10:59:44.610Z",
+    "date": "2026-05-20",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1779274653771",
-      "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announc...",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-19T00:53:10.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 艾隆·马斯克告OpenAI案件败诉总结\n\n### 案件核心\n艾隆·马斯克起诉OpenAI太晚了，法院判决他输掉了官司。法院说，按照法律规定的\"时效期限\"，他早就该起诉了，现在再告已经晚了。\n\n### 什么是\"时效期限\"？\n就像你借了朋友的钱，朋友提醒你一个月内还。如果超过一个月你再说要还，朋友可能会说\"早就该还了，现在不认账\"。法律上的\"时效期限\"也是这样，过了规定时间再告，法庭就不会管了。\n\n### 具体情况\n马斯克和OpenAI曾经是朋友，后来闹翻要打官司。但法院发现，马斯克在闹翻后等了很久才起诉，错过了法律规定的\"时效期限\"。所以即使他有理，也因为起诉太晚而被法庭驳回。\n\n### 法院决定\n法官们一致认为马斯克起诉太晚，他的所有要求都被法律挡住了。这个决定就像别人借了你钱，你过了很久才说要还，银行说\"太晚了，我们不管了\"。\n\n### 总结\n简单说，就是马斯克打官司输在\"太晚\"。法律就像倒计时的闹钟，过了时间就不响了，不管你后面怎么喊都白搭。",
-      "summarized_at": "2026-05-20T10:57:45.354Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779274653771",
-      "title": "What to expect from Google this week",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G...",
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-18T17:35:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 谷歌本周要做什么\n\n谷歌下周要开一个重要的开发者大会，叫I/O。这个会议就像是谷歌的科技\"年货会\"，平时他们都会在这里公布新东西。不过这次有点意思，谷歌在人工智能领域已经落后了，像是跑马拉松时，其他两个选手领先很远，谷歌只能跑第三。\n\n### 谷歌的情况\n\n- 谷歌现在在人工智能领域就像是在跑步比赛里落后的选手，其他两个对手已经跑到前面很远的地方了。\n- 上次开会的时候，谷歌还排在第一，但今年就落后了。\n\n### 大会可能的内容\n\n- 谷歌可能会公布一些新的技术或者产品，但很可能不是颠覆性的大新闻。\n- 他们可能会重点介绍一些已经做出来的东西，比如改进的搜索功能或者更智能的助手。\n- 谷歌可能会强调自己的一些优势，比如安全性或者隐私保护，因为这是他们现在比较强的方面。\n\n### 为什么重要\n\n- 这次大会对谷歌来说很重要，因为这是他们展示自己实力的时候。\n- 虽然可能不会出现什么惊天动地的大新闻，但谷歌还是要让大家看到他们在努力跟上其他对手。\n\n### 生活例子\n\n想象一下，你平时跑步都不算慢，但最近遇到了两个特别厉害的对手。上次比赛你赢了，这次你却只能排在第三。虽然你还是不错的，但大家还是会担心你是不是落后了。所以谷歌这次开会，就是要让大家知道，他们虽然现在落后了，但还是在努力加油。",
-      "summarized_at": "2026-05-20T10:57:58.106Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779274653771",
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a c...",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-18T16:01:39.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 智能眼镜助力军事行动\n\n### 项目背景\n国防科技公司Anduril和Meta正在研发一款用于军事的增强现实眼镜。这副眼镜能帮助士兵在战场上更方便地指挥和作战，就像现在人们用手机导航一样，但功能更强大。\n\n### 核心功能\n- **用眼睛和声音控制**：戴上眼镜后，士兵可以通过眨眼或看向特定方向来下达指令，同时用语音说话。比如，看到敌人时，只需盯着敌人方向眨一下眼，并说\"攻击\"，系统就会自动锁定目标。\n- **无人机指挥**：眼镜能直接控制无人机，让士兵远程打击目标。就像打游戏时用鼠标瞄准一样，但这里是用眼睛和声音来控制无人机飞行和攻击。\n- **战场信息显示**：眼镜能显示周围环境信息，比如敌人位置、地形情况等，就像手机地图显示导航路线一样，但这里显示的是实时战场信息。\n\n### 应用场景\n这款眼镜未来可能用于战场指挥、侦察、医疗救助等场景。比如，士兵需要找伤员时，眼镜会显示伤员位置；需要开枪时，系统会提示安全距离和方向，避免误伤。\n\n### 技术意义\n这项技术让士兵能更专注地作战，不用分心操作设备。就像现在外卖员用导航APP送餐一样，未来士兵也能用眼镜更高效地完成任务，减少操作难度和体力消耗。",
-      "summarized_at": "2026-05-20T10:58:04.888Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779274653771",
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk’s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’...",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-15T23:39:35.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Musk和Altman的法庭对决进入最后阶段\n\n最近，Elon Musk和Sam Altman因为OpenAI公司的事情闹上法庭。这场官司已经持续了一段时间，现在到了关键时刻。上周五，法官和陪审团对案件进行了最后审理。双方律师都拿出看家本领，互相攻击对方的可信度，就像两个小朋友吵架时互相说对方不讲理。\n\n核心问题是Musk告OpenAI侵权，但OpenAI反击说Musk已经没有法律权利告他们了，因为过期了（相当于借你东西，过期了你就不能再逼你还了）。陪审团最后裁决，Musk的指控因为时间过了，法律上已经不管用了。法官也同意了这个裁决。\n\n这场官司的结局是，陪审团认为Musk说的理由站不住脚，所以无法追究OpenAI的责任。但要注意，这只是给双方的建议，不是最终的法律判决。这场争斗说明，有时候即使有理，时间也可能成为你的敌人，就像你借朋友东西，时间一长可能就忘了要回来。",
-      "summarized_at": "2026-05-20T10:58:09.598Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1779274653771",
       "title": "How Chinese short dramas became AI content machines",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Transformers框架：让AI更聪明的工具箱\n\n### 核心功能\nTransformers是一个强大的工具箱，专门用来处理各种类型的AI模型，包括文字、图片、声音以及它们的组合。无论是让AI读懂文章，识别照片，还是理解语音，这个工具箱都能派上用场。它不仅能帮AI进行训练，还能直接用于实际应用，比如聊天机器人或者图片识别软件。\n\n### 为什么要用？\n想象一下，你要做一个能听懂话的智能音箱。如果没有Transformers，你可能需要从零开始拼装各种零件。而Transformers就像一个现成的乐高套装，把最厉害的AI零件都准备好了，你只需简单组装，就能快速做出效果。它集合了当前最顶尖的AI技术，省去了自己摸索的麻烦。\n\n### 生活中的例子\n比如翻译APP，以前可能需要单独开发文字识别、语言理解、翻译输出等环节。现在有了Transformers，这些功能都可以一键调用，大大提高了开发效率。又比如自动驾驶，它需要同时处理摄像头拍到的图片、麦克风听到的声音和GPS信号，Transformers就能把这些信息整合起来，让汽车更聪明地做出判断。\n\n### 总结要点\n- Transformers是处理文字、图片、声音等AI模型的通用工具箱。\n- 它集合了最先进的AI技术，让开发者像搭积木一样轻松使用。\n- 不仅适用于训练AI，还能直接用于实际应用，效率高、效果好。",
       "summarized_at": "2026-05-20T10:59:23.975Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779274657328",
-      "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
-      "summary": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。\n2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？\n正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。 \n\n嘉宾阵容堪称豪华：\n既有昆仑万维、商汤、百度...",
-      "url": "https://36kr.com/p/3817353357968516?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-20T08:22:01.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 第四届中国AIGC产业峰会总结\n\n## 大会主题和目的  \n大会主题是「@所有人，马上AI起来」，目的是帮助大家搞懂AI怎么用、怎么抓住机会。现在AI发展太快了，就像手机刚出来时大家都不知道怎么玩一样，很多人对AI Agent这些新东西感到迷茫。\n\n## 主要讨论内容  \n- **AI Agent怎么用**：就像你手机里的智能助手，怎么让它更好地帮你做事。  \n- **多模态技术**：比如AI既能听又能说还能看，就像人一样。  \n- **AI在各行业应用**：比如用在购物、教育、医疗上，让生活更方便。  \n- **算力基础设施**：相当于AI的“大脑”，要越来越强大才能跑得更快。  \n\n## 嘉宾阵容  \n来了很多行业大佬，比如昆仑万维、商汤、百度等公司的人，还有学术界和创业公司代表，都是懂AI的权威人士。  \n\n## 核心观点  \n- AI发展很快，普通人要跟上节奏，了解AI Agent这些新工具。  \n- 产业界在探索AI的商业化，比如怎么让AI帮企业赚钱。  \n- AI的未来是多元化的，会出现在各种地方，改变我们的生活。",
-      "summarized_at": "2026-05-20T10:59:23.312Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779274657328",
-      "title": "长鑫科技更新招股书，碧桂园错失300亿",
-      "summary": "地产行业内，曾有望跑出两家明星创投企业，一家是世纪金源，另一家是碧桂园。前者现在做得顺风顺水，收获一个又一个IPO，而碧桂园因为地产业务暴雷，需要大量资金保交楼，被迫中断了在科技领域的投资“大爆发”。\n01\n5月17日，计划登陆科创板的长鑫科技集团股份有限公司（以下简称：长鑫科技）更新了招股书。新招股书的财务数据显示，2026年第一季度，长鑫科技营收508亿元，同比增长719.13%；归母净利润247.62亿元，同比大增1688%，完成创历史的盈亏翻盘（2025年累计亏损366.5亿元）。\n可以预计，随着营收和利润的大幅增长，长鑫科技的估值将会再创新高。上市前，长鑫科技的估值已逼近3000亿元...",
-      "url": "https://36kr.com/p/3817039204139908?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-20T02:54:58.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 长鑫科技赚钱了，碧桂园没赶上车\n\n长鑫科技是个科技公司，最近更新了他们的财务报表，发现他们现在特别赚钱。2026年第一季度，他们赚了508亿元，比去年多了好多；净利润更是从亏钱变成了赚了247.62亿元，增长了将近一倍。这就像一个人以前工资很低，现在突然能赚很多钱一样，所以他们公司的价值也一下子变高了，可能要超过3000亿元。\n\n以前碧桂园也想在科技领域像种地一样投资很多项目，结果因为房地产不景气，他们手头没钱了，只能先停下投资。现在长鑫科技这么火，碧桂园本来有机会跟着赚一笔，但因为自己资金紧张，错过了这个机会，少赚了可能300亿元。这就像看到别人家生意好，自己却没钱开店一样，只能眼睁睁看着。",
-      "summarized_at": "2026-05-20T10:59:29.911Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779274657328",
-      "title": "理想新L9上市72小时：老车主复购占大头，仍需从“家庭”破圈",
-      "summary": "文 | 徐蔡钰 编辑 | 李勤\n“爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。\n这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。\n相较此前的年度改款，本次新L9的更新幅度更加显著：\n全系标配72.7kWh电池，纯电续航达到420公里，综合续航突破1600公里。理想自研马赫芯片首次上车，单颗芯片算力达到1280TOPS。线控转向系统与后轮转向技术的加入，带来了底盘能力的大幅升级；Livis版本额外搭载的800V主动悬架与EMB电子机械制动系统，更是...",
-      "url": "https://36kr.com/p/3709756082466949?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-20T02:24:46.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 理想新L9上市72小时总结\n\n## 首周火爆销售\n上市刚72小时，理想新L9就特别抢手，很多人直接约不上试驾。这款新车分为Ultra和Livis两个版本，价格从45.98万元到50.98万元不等。第一周买车的都是以前就买过理想车的老客户，说明大家对品牌挺满意的。\n\n## 新车大升级\n这次更新比以前更大。比如电池容量增加了，纯电能跑420公里，加上油能跑1600公里，相当于一个学生从家到外地旅游，中间不用停。还装了理想自己造的芯片，算力特别强，就像电脑CPU提速一样。底盘也升级了，转向更灵敏，后轮也能转向，开起来更稳当。\n\n## 核心卖点是家庭\n虽然车很高级，但主要还是卖给家庭用的。比如能坐六个人，后排空间大，适合全家出游。Livis版本还加了个能自动调节的悬架，走山路不会晃太厉害。但理想车目前主要还是卖给老客户，要打开更广泛的市场，还得下功夫。",
-      "summarized_at": "2026-05-20T10:59:29.648Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779274657328",
-      "title": "做出百万台割草机器人后，未岚大陆CEO决定让自己变得“不重要”｜硬氪专访",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n未岚大陆CEO任冠佼等了7年，等到了行业的爆发。\n他还记得，2019年刚进入无边界智能割草机器人赛道，自己“只是觉得这个方向一定能火”。到2021年第一代产品推出时，他们也只敢确定，这是一个能做到10-20亿的行业。\n直到2025年，增速超出他的预期。IDC数据显示，2025年全球无边界割草机器人出货量达到131.8万台，同比增长182.4%，占整个割草机器人市场出货量的66.2%。未岚大陆自身的累计实现量产，在今年突破100万台，公司营收迈入数十亿量级。\n但同时，高速增长的背后，也倒逼任冠佼完成了一场至关重要的认知破局。\n任冠佼意识到，行业迭代速度持续加快，以往相对...",
-      "url": "https://36kr.com/p/3814411349581316?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-20T01:30:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 未岚大陆CEO的转型之路\n\n- **割草机器人爆发**  \n  未岚大陆CEO任冠佼7年前就看好无边界智能割草机器人，2025年市场爆发，全球出货量131.8万台，同比增长182%。公司自己卖了100万台，营收过亿。\n\n- **从\"热门\"到\"重要\"的转变**  \n  以前觉得这个市场能火，现在发现发展比想的快很多。任冠佼意识到，行业变化快，自己不能只当\"领头羊\"，得学会让公司自己跑起来。\n\n- **CEO的\"退后\"策略**  \n  任冠佼决定让自己变得\"不重要\"，把更多权力交还给公司。就像开超市的老板，以前自己包揽所有，现在把收银、管理交给员工，自己专心看市场。\n\n- **为何要\"退后\"？**  \n  市场变化太快，CEO如果太强势，容易被细节绊住。好比学开车，教练一直扶着方向盘，最后根本不敢放手。现在任冠佼要放手，让公司自己开。\n\n- **未来目标**  \n  公司营收破亿后，任冠佼把重心从\"管事\"变成\"管方向\"。就像大船船长，以前亲自掌舵，现在船员技术过硬了，船长只要负责看海面有没有暗礁。",
-      "summarized_at": "2026-05-20T10:59:38.429Z",
       "summary_status": "success"
     },
     {
