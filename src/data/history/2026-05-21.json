@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-21T11:33:05.857Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-21T11:33:05.857Z",
+    "date": "2026-05-21",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1779363081243",
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in...",
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-19T20:15:18.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 拜托，别骗我：马斯克告OpenAI输了官司\n\n### 背景情况\n马斯克告了OpenAI，说CEO阿尔曼和总裁布罗克曼骗了他。马斯克觉得OpenAI本来是个非营利组织，但实际没这么做。就像你请朋友帮忙修自行车，说只是练手，结果他偷偷卖掉了。\n\n### 法庭审了啥\n法庭上，马斯克说OpenAI违背了承诺。阿尔曼和布罗克曼辩解说他们没骗人。这个案子就像你跟朋友借钱说只当玩玩，结果朋友把借来的钱去炒股票了，你想找他算账。\n\n### 律师怎么说\n报道这个案子的律师米歇尔·金说，马斯克输了官司。她就像法庭上的观众，看着这场好戏。她说，马斯克没证据证明OpenAI真的骗了他。\n\n### 为什么重要\n这个结果对OpenAI来说是个好消息，因为他们不用再担心被追究责任了。但对马斯克来说，可能有点失望，因为他本来想阻止OpenAI变成一个纯粹赚钱的公司。\n\n### 最终判决\n法官认为马斯克没证据，所以驳回了他告OpenAI的请求。这就好比说，你想告邻居偷了你的苹果，但没证据证明是他偷的，那法庭就不支持你。\n\n### 总结\n总的来说，马斯克告OpenAI输了官司，说明做事情要有证据。就像你怀疑朋友做了坏事，光说怀疑是不够的，还得拿出真凭实据。",
-      "summarized_at": "2026-05-21T11:31:33.944Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779363081243",
-      "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announc...",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-19T00:53:10.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 艾隆·马斯克告OpenAI输了官司，为啥？\n\n- **官司结果**：艾隆·马斯克起诉OpenAI的官司输了。法官说，他太晚才起诉，已经错过了法律规定的起诉时间。\n\n- **法律时间限制**：这就像你去商店买东西，发现是假货。如果过很长时间才去退货，店员会说“太晚了，我们不管了”。起诉也一样，有法律规定的时间限制，过了这个时间就不能再告了。\n\n- **具体时间**：马斯克的起诉时间比法律允许的时间晚了。就像约定明天还钱，你拖到下个月才说没还，对方可以合法拒绝。\n\n- **法官决定**：法官立刻接受了陪审团的判决，意思是认可了OpenAI没做错事，因为马斯克起诉太晚。\n\n- **为什么会这样**：OpenAI的一些早期协议里，可能早就规定了起诉的时间限制。这就好比签合同的时候，里面写了“一年内发现问题才能告”，一年过去了才说问题，自然就晚了。\n\n- **马斯克的反应**：虽然输了官司，但马斯克还在继续和OpenAI合作，说明这事还没完全结束，只是这个官司暂时输了。\n\n**总结**：这场官司的核心是时间问题，就像过期商品不能退一样，马斯克错过了法律规定的起诉时间，所以他的诉讼被取消了。",
-      "summarized_at": "2026-05-21T11:31:32.148Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779363081243",
-      "title": "What to expect from Google this week",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G...",
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-18T17:35:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 谷歌下周大会：AI领域的\"老三\"要登场\n\n### 大会背景\n谷歌下周要举办一年一度的开发者大会I/O，这就像每年的科技春晚。不过今年谷歌在AI领域有点尴尬，排位第三，前面有两大巨头领先。\n\n### 赛道分析\n一年前谷歌还是AI领域的老大，现在却掉到了第三名。这就像跑步比赛，原来第一名的选手突然体力不支，被后来者超过了。\n\n### 谁是竞争对手\n排在谷歌前面的都是谷歌的竞争对手，他们可能在AI技术上比谷歌更厉害。这就好比学习，你发现原来班里有两个同学比你更聪明。\n\n### 这次大会看点\n虽然谷歌现在不是第一，但这次大会还是挺重要的。就像考试没考好，但还是要去开家长会一样。谷歌可能会展示一些新功能或技术。\n\n#### 具体内容\n- 谷歌可能会宣布一些新的AI应用，比如让手机更智能\n- 可能会推出更好的搜索功能，就像现在的小度、搜狗一样\n- 也许会展示一些新硬件，比如更智能的音箱\n\n### 谷歌的未来\n虽然现在排第三，但谷歌毕竟是老牌选手，实力还在。就像小马哥当年被小霸王超过一样，现在小马哥又重新崛起了。谷歌也可能会有新的突破。\n\n### 总结\n这次大会对谷歌很重要，他们需要证明自己虽然现在不是第一，但依然很强。就像我们考试没考好，回家会加倍努力一样。",
-      "summarized_at": "2026-05-21T11:31:42.019Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779363081243",
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a c...",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-18T16:01:39.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 和Meta一起研发军用智能眼镜\n\n- **目标**：Anduril这家科技公司正在和Meta合作，开发一款军用的增强现实眼镜，像戴上虚拟现实眼镜一样，能在战场上提供战场信息，还能直接指挥武器。\n- **怎么用**：戴上眼镜后，士兵可以通过眼睛盯着目标，同时用嘴说命令，比如\"攻击这里\"，就能直接让无人机去轰炸。这就像打游戏时用眼睛瞄准、嘴喊操作一样简单。\n- **为啥要这样**：现在的指挥方式太慢了，需要打电话或者派人去，而智能眼镜能即时反应，随时随地指挥作战。比如，你在家里做饭时，眼睛看到窗外着火了，嘴喊一声\"119\"，消防车就能马上来。\n- **未来功能**：除了指挥无人机，这款眼镜还能显示周围环境信息，比如显示敌人的位置或者地形高度，就像在玩军事沙盘游戏时，眼睛看地图、嘴喊分析一样。\n- **合作意义**：Anduril和Meta强强联手，一个是军事技术专家，一个是做虚拟现实的，结合起来就像让厨师和厨师长一起研发新菜，能创造出更厉害的军事工具。",
-      "summarized_at": "2026-05-21T11:31:39.980Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1779363081243",
       "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# TwiN / gatus GitHub趋势总结\n\n## 这是个啥\n\nTwiN / gatus是一个能自动帮你管理团队工作状态的工具，就像一个智能的\"公司广播站\"，能自动更新大家在忙啥、哪个项目卡壳了。\n\n## 有啥用\n\n- **自动更新进度**：不用像追剧一样天天问同事\"忙完没\"，系统会自动同步大家的工作进展\n- **紧急情况快反应**：就像手机闹钟，有重要任务或紧急问题时会及时提醒所有人\n- **问题追踪器**：类似超市的\"问题商品追踪\"，能帮你记录哪个任务出了问题，谁负责解决\n\n## 谁适合用\n\n- 团队成员多的大公司\n- 经常需要远程办公的人\n- 总是忘记截止日期的学生党\n- 想让工作像外卖一样准时送达的人\n\n## 怎么比外卖系统\n\n想象你点外卖：下单后能实时看到快递员位置，饿了么还会用红点提醒你\"你的外卖快到了\"，这个工具就像把这种体验搬到了公司工作里。\n\n## 为什么受欢迎\n\nGitHub上这么多人推，说明现在大家都需要这样的工具，就像手机必须装微信一样，工作管理也需要这种智能工具来帮忙。",
       "summarized_at": "2026-05-21T11:32:45.066Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779363084459",
-      "title": "新石器New Claw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。\n新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变成“说话就行”。\n以下为演讲内容，经36氪整理编辑：\n\n颉晶华丨新石器无人车联合创始人兼CPO\n各位好，我是新石器的颉晶华，很荣幸跟大家介绍新石器和我们在AI方面的应用与思考。\n八年前新石器公司创立，到如今已经成长为...",
-      "url": "https://36kr.com/p/3818927367046018?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-21T10:55:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 无人车管理变得超简单\n\n- **过去难如登天**：以前管1000辆无人车，得请一大堆人围着电脑忙活，还得懂各种复杂操作。就像管理一个大型农场，得懂每种作物怎么浇水施肥。\n\n- **新工具来了**：新石器公司搞了个叫\"Neo Claw\"的AI助手，就像一个人工智能管家。你用手机说句话，比如\"车队开到东边去\"，它就能搞定整队无人车，一个人能轻松管100多台车。\n\n- **解放双手**：关键不是会写代码多厉害，而是把复杂操作变成简单说话。好比以前你得学修车、懂机械，现在只要会喊\"启动\"，汽车都能自己跑。\n\n- **效率暴涨**：以前10个人管10台车，现在1个人用Neo Claw就能管100多台。公司从8年前做无人车开始，已经成功把车开到量产，现在终于让管理变得跟玩游戏一样简单。\n\n- **未来趋势**：以后无人车管理会像指挥交通一样简单，只要会说话就能当指挥官。技术再厉害，不如让人不用学复杂知识就能轻松使用。",
-      "summarized_at": "2026-05-21T11:32:47.319Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779363084459",
-      "title": "业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额",
-      "summary": "5月21日美股盘前，唯品会发布2025年第一季度财报。一季度内，唯品会实现净营收266亿元（人民币，下同），Non-GAAP净利润23亿元。\n观察核心运营数据，一季度其实现商品交易总额（GMV）569亿元，同比增长8.6%，订单量1.73亿单，同比增长3.2%。同时，平台于该季度活跃用户数为4170万，同比实现正增长。\n在春节期间穿戴和年货需求集中释放、透支后续消费力的季节性特点下，相较于行业整体节奏，唯品会在交易规模与订单量增速上保持韧性，体现出其在货品供给、用户运营上的核心竞争力。\n在货品供给端，一季度唯品会持续挖掘重点客群消费特点并扩充优质供给。“限时狂秒”栏目引入雅诗兰黛、珀莱雅等品牌...",
-      "url": "https://36kr.com/p/3818915823764610?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-21T10:54:53.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 唯品会一季度成绩单：赚了266亿元，VIP会员贡献了过半销售额\n\n- **整体表现**：唯品会第一季度总共赚了266亿元，比去年多了8.6%，相当于一个普通超市一年营业额。虽然赚钱速度没这么快，但表现不错。\n- **订单量**：总共卖出了569亿元的商品，相当于每个人平均买了1000多元的东西。订单数也增长了3.2%，说明买的人比去年多了。\n- **用户情况**：平台上有4170万人在购物，虽然比去年只多了一点点，但都是回头客。特别是VIP会员，贡献了超过50%的销售额，说明他们买得多、买得贵。\n- **生意秘诀**：唯品会特别会选商品，比如给VIP会员送限时限量的好东西，像雅诗兰黛、珀莱雅这样的大牌经常来他们的平台搞促销。还特别懂过年期间大家要买什么，像穿戴、年货这些热门商品，他们总能提前准备好。\n- **行业对比**：其他电商平台可能放假或者慢半拍，但唯品会一直很忙，说明他们选商品和留住客户的方法比别家厉害。",
-      "summarized_at": "2026-05-21T11:32:58.326Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779363084459",
-      "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。\n演讲拆解了AI从概念到产线的落地路径：用自动化中台打通全链路协同，让AI在研发设计、工程预测、供应链管理、生产执行四个领域实现可量化的提效。针对不同制造业企业，给出分层方案。AI不是在某个环节帮你做得更好，而是从原生流程开始，重新定义制造业的生产力基准。\n以下为嘉立创云ERP负责人 杨超 演讲内容，经36氪整理编辑：\n\n杨...",
-      "url": "https://36kr.com/p/3818903062004870?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-21T10:29:53.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# AI让工厂变得更聪明\n\n## AI不只是帮忙\n\nAI在工厂里不是简单的辅助工具，而是像总司令一样重新规划整个工厂运作。就像电脑取代算盘一样彻底改变工作方式。以前是人等货，现在有了AI，货等人都很常见。\n\n## AI如何改变工厂\n\n- AI能像侦探一样快速找出生产中的问题，比如秒级识别出有缺陷的产品\n- AI能像经验丰富的老师傅一样，动态调整工具使用参数，提高效率\n- AI能连接设计、生产、供货等所有环节，让整个工厂像大乐队一样配合默契\n\n## AI落地三部曲\n\n1. 建立自动化中台，像中央控制系统一样连接所有部门\n2. 在研发设计、预测工程、供应链、生产执行四个环节提升效率\n3. 根据不同工厂情况提供不同方案，但目标都是重新定义生产标准\n\n## AI的实际价值\n\n每提升1%的效率，工厂就能多赚很多钱。AI带来的不是功能增加，而是整个生产流程的优化，让人工从被动等待变成主动安排，这就是AI真正的价值。",
-      "summarized_at": "2026-05-21T11:32:55.255Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779363084459",
-      "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "当Robotaxi还在为L4苦苦挣扎时，酷哇的环卫机器人、无人小巴、机器狗已经在50多个城市“上岗”赚钱了。\n具身智能最大的瓶颈不是算法，而是数据——没有量产就没有数据，没有数据就无法进化。酷哇的解法是“以战养战”：让机器人在真实运营中一边干活一边成长，用万台规模反哺模型迭代。李柯宏强调，中国是全球少有的支持机器人规模化应用的市场，酷哇正依托“一带一路”先行布点，用真实的运营数据驱动具身智能的持续进化。\n以下为酷哇科技联合创始人、COO 李柯宏 演讲内容，经36氪整理编辑：\n\n李柯宏丨酷哇科技联合创始人、COO\n非常感谢36氪和亦庄的邀请，今天我分享的主题是：作为一家以统一世界模型驱动的具身智...",
-      "url": "https://36kr.com/p/3818889074557829?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-21T10:15:31.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 城市里的机器人：从试验到普及\n\n### 机器人在城市里干活\n现在很多城市的街道上，已经有机器人在帮忙干活了。比如，酷哇公司的环卫机器人、无人小巴和机器狗，已经在50多个城市开始工作赚钱。这些机器人就像城市的“小帮手”，能做很多实际的事情。\n\n### 机器人怎么变得更聪明\n机器人要变得更好用，就像人需要学习一样。但是，机器人学习需要很多“经验”——也就是真实世界的操作数据。酷哇公司发现，让机器人在真实环境中工作，能帮助它们更快地成长。就像小孩在玩中学习一样，机器人也在工作中不断进步。\n\n### 中国市场特别适合机器人发展\n李柯宏说，中国是全球少数几个能让机器人大量应用的市场。酷哇公司正在利用这个优势，通过“一带一路”项目，让机器人在更多地方工作。这样，机器人就能收集更多真实数据，变得更聪明。\n\n### 机器人的未来\n酷哇的目标是让机器人像人一样，能适应各种环境，做各种工作。他们相信，通过不断让机器人在真实环境中工作，能让机器人技术更快发展，最终让机器人成为城市生活的一部分。",
-      "summarized_at": "2026-05-21T11:33:05.317Z",
       "summary_status": "success"
     },
     {
