@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-22T10:56:56.039Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-22T10:56:56.040Z",
+    "date": "2026-05-22",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1779447346052",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t...",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-22T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能要爆发了\n\n### 关键信息\n- Google DeepMind的CEO说，现在我们正站在一个特殊的时间点，叫做“奇点”的脚下。\n- 奇点就是未来某个时刻，人工智能会比人类聪明得多，科技会变得超级厉害。\n\n### 像什么意思？\n想象一下，你现在有一台智能手机，它已经很方便了。但未来可能会有个“超级智能手机”，它比你脑子还聪明，能帮你解决所有问题。现在，我们离那个时代不远了，就像爬山快要到山脚下一样。\n\n### 为什么重要？\nGoogle I/O是个大科技会，他们展示了最新的技术。这次他们特别强调了人工智能，意思是未来很多发明都会靠它。比如，以前医生看病靠经验，以后可能有AI助手帮你分析病情，比医生还准。\n\n### 生活里怎么体现？\n未来可能有：\n- 智能管家：帮你做饭、打扫、安排日程，比佣人还贴心。\n- 自动驾驶：汽车自己开车，你躺着也能去上班。\n- 超级医生：用AI诊断病，比人类医生还快还准。\n\n### 总结\n简单说，Google觉得人工智能马上要大爆发了，以后我们的生活会变得像科幻电影一样。他们正在努力让这个梦想成真，就像现在手机已经改变了我们的生活一样。",
-      "summarized_at": "2026-05-22T10:55:55.482Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779447346052",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T20:41:05.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI能否学会理解世界？\n\n### 背景介绍\n最近，人工智能公司开始尝试制造能理解外部世界的系统，它们想突破目前聊天机器人（类似大语言模型）的局限。就像你教孩子认识家里的猫和狗一样，AI也想学会识别和理解真实世界中的事物。\n\n### 什么是世界模型\n世界模型是AI用来预测和理解周围环境的技术。比如说，你教AI看一段视频，它会像人一样思考\"如果狗狗在这里跑，接下来可能会做什么\"。目前，AI只能做简单的联想，但世界模型能让AI更全面地理解情况。\n\n### 会议讨论\n在最近的一次讨论中，专家们提到：\n- AI现在的局限：只能处理文字或图像，但无法像人一样综合所有信息。\n- 世界模型的作用：就像给AI装上\"常识\"，让它知道\"下雨天地面会湿\"这类事情。\n- 现状与挑战：虽然进步很大，但AI依然难以像人类一样灵活理解复杂场景。\n\n### 未来展望\n未来，AI可能会像小孩学习走路一样，逐步掌握理解世界的能力。这可能需要更好的算法和更多的数据，但它将让AI从简单的信息处理者变成真正的\"思考者\"。就像你从认识单个汉字到能读懂整篇文章一样，AI也在努力学会\"看懂生活\"。",
-      "summarized_at": "2026-05-22T10:55:55.376Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779447346052",
-      "title": "Scaling creativity in the age of AI",
-      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representatio...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T19:16:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 人工智能时代如何激发创造力\n\n## 故事的魔力\n\n人类天生爱讲故事，就像孩子喜欢听童话一样。故事能让我们表达想法、提醒危险、分享快乐。从最早用石头画动物，到后来用文字写小说，技术总是帮我们更好地讲故事。\n\n## 技术改变游戏\n\n想象一下，古代猎人用骨头画动物，这就是最早的技术和故事的结合。现在我们用手机拍照、用电脑剪辑视频，技术让故事传播得更快更远。就像妈妈把故事录成音频，全家人都能听。\n\n## AI如何帮忙\n\n人工智能就像一个超级 assistant，可以帮你写故事大纲、设计海报。比如你想让写一篇关于环保的文章，AI可以马上给你几个开头思路。就像你买手机时，系统会根据你的喜好推荐歌曲，AI也是同样道理。\n\n## 创意需要人味\n\n虽然AI能帮忙，但故事的灵魂还是得靠人。就像同一个蛋糕，机器可以做好基础，但撒糖霜的创意只能是人来决定。好的故事需要真情实感，AI写不出妈妈讲述童年时的温柔。\n\n## 未来属于合作\n\n未来不是人跟AI比赛，而是大家一起合作。就像画家用画笔，设计师用电脑，我们用AI这个新工具。关键是要保持好奇心，勇敢尝试新技术，就像小朋友玩积木，不断组合出新鲜花样。",
-      "summarized_at": "2026-05-22T10:56:01.883Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779447346052",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T14:30:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Anthropic的Claude活动展示了编程的未来\n\n### 活动背景\nAnthropic在伦敦举办了一场名为\"Code with Claude\"的开发者活动，持续两天。这个时间点正好和Google的I/O大会在同一天开始。Anthropic的员工表示，这只是巧合，不是在炫耀。\n\n### 活动内容\n活动中，开发者们体验了Claude这个编程工具。你可以把它想象成一个人工智能助手，能帮你写代码、调试问题。活动的氛围很热烈，大家都在讨论这个工具的各种可能性。\n\n### 编程的未来\nClaude展示了编程可能会变成的样子：不再是程序员一个人埋头写代码，而是有一群智能助手帮忙。就像你装修房子时，有工人、设计师、项目经理分工合作一样，编程也可能变成人与AI的合作。\n\n### 争议与接受\n有人喜欢这种变化，觉得能提高效率；也有人担心，如果AI太强，会不会让程序员失业。但不管你喜不喜欢，这种变化正在发生。\n\n### 核心信息\n- 编程工具正在变得越来越智能，未来可能人和AI会一起工作。\n- 这种变化不是谁想不想的问题，而是科技发展的趋势。\n- 开发者需要适应这种变化，学会与AI合作。",
-      "summarized_at": "2026-05-22T10:56:01.825Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1779447346052",
       "title": "Roundtables: Inside the Musk v. Altman Trial",
@@ -276,78 +200,6 @@
       ],
       "ai_summary": "## 互联网应用安全测试指南\n\n### 这是什么？\nOWASP（一个网络安全组织）和wstg（网络安全测试组）联合出品的《Web Security Testing Guide》，是一本免费、开源的互联网应用安全测试指南。\n\n### 它有什么用？\n就像你搬家前要检查房子有没有漏水一样，这个指南教你怎么检查网站或网络服务有没有安全漏洞。比如，检查网站会不会被黑客攻击、用户信息会不会泄露、支付会不会出问题等。\n\n### 为什么重要？\n现在的网站、APP都离不开网络，安全漏洞就像家里的窗户没关严，坏人可能趁机进来。这本书能帮你提前发现这些问题，避免被黑客盯上。\n\n### 怎么使用？\n- **新手友好**：不需要懂编程，用生活例子解释复杂概念。\n- **全面覆盖**：从数据保护到防攻击，涵盖常见的安全问题。\n- **免费下载**：官网就能找到，不用花钱。\n- **持续更新**：根据最新的网络安全情况不断改进。\n\n### 核心要点\n- 检查网站会不会被黑客入侵。\n- 确保用户信息（如密码、银行卡号）不被偷走。\n- 防止恶意软件通过网站传播。\n- 学习如何修复发现的安全漏洞。\n\n这本书就像一本网络安全说明书，帮你保护自己的网站不受攻击，就像保护家不被小偷闯入一样重要。",
       "summarized_at": "2026-05-22T10:56:41.969Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779447350743",
-      "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。\nAI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。\n以下为演讲内容，经36氪整理编辑：\n\n赵晓鹏丨NIQ GfK创新事业部总经理\n大家好，很荣幸有这个机会，跟大家分享NIQ GfK对消费端的观点。我们公司专注研究消费者和终端产品，和大家的日常生活联系非常紧密。\n我今天的主题是AI时代核心终端生态定位与用户...",
-      "url": "https://36kr.com/p/3820318177841541?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-22T10:37:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "```markdown\n## AI时代终端生态怎么玩\n\nAI不只是某个单独的产品，比如手机里装个AI功能，而是像给生活配了各种智能小助手，大家一起配合干活。现在大家用手机里的AI功能越来越多，但还不是必须的，更多是觉得\"有更好\"。未来，AI会像分布式小管家一样，分布在眼镜、手机、电脑这些设备上，分工合作。\n\n### AI硬件发展的四个阶段\n\n1. **感知**：就像眼睛和耳朵收集信息，未来可能是眼镜负责看东西时提醒你\n2. **记忆**：手机现在主要记事，以后AI会帮你存更多生活信息\n3. **决策**：电脑现在主要做计算，AI会帮你做更复杂的判断\n4. **行动**：直接帮你执行，比如自动回复消息\n\n### 关键点\n\n- AI现在还只是手机上的小功能，不是必须的\n- 未来AI会分散到各种设备上，分工合作\n- 消费者的需求和担心会决定AI怎么发展\n- AI会从单一设备走向多设备协同工作\n```",
-      "summarized_at": "2026-05-22T10:56:41.236Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779447350743",
-      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。\n江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。\n以下为演讲内容，经36氪整理编辑：\n\n陈龙丨江行智能基模CTO\n各位嘉宾、行业伙伴下午好，我是来自江行智能的具身基模CTO陈龙，我的分享题目是从感...",
-      "url": "https://36kr.com/p/3820298219425924?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-22T10:23:21.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 江行智能：用AI让工厂更聪明的秘密\n\n## 中国工厂的AI优势从哪里来？\n中国工厂的AI技术厉害，不是因为电脑算得特别快，而是因为工厂里有更多的机器人、更多的电力设施和更密集的5G网络。就像你家小区路灯多、网络好，办事就方便一样。这些条件让AI技术更容易在工厂里落地应用。\n\n## 工业AI的三层模型\n江行智能发明了一套AI系统，像三道防线一样保护工厂。这套系统已经在很多地方的工厂里试用，比如贵州和内蒙古的新能源工厂，效果特别好，能准确发现工厂的问题。深圳大学教授陈龙说，检查一个地方虽然看起来简单，但实际上要做很多细致的工作，AI必须非常可靠才行。\n\n## AI在工厂的挑战\n在工厂里用AI，要求比家里用的电脑手机更严格。比如检查一个设备，AI要分成很多步骤来做，不能出错。这就好比炒菜，不是随便动动锅铲就行，每一步都要精准才行。\n\n## AI的未来应用\n江行智能的AI技术，未来会用在更广泛的工厂和工厂管理中，让工厂运行更高效。就像智能手机改变了人们的生活一样，AI技术也会彻底改变工厂的运作方式。",
-      "summarized_at": "2026-05-22T10:56:48.649Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779447350743",
-      "title": "小米YU7家族再推新车，雷军：标准版打特斯拉，GT版狙BBA",
-      "summary": "5月21日晚，小米正式发布YU7系列两款全新车型：标准版起售价23.35万元，GT版起售价38.99万元。至此，YU7车系已扩展至5款车型，价格区间覆盖23.35万元至38.99万元。\nYU7是小米于2025年6月推出的首款SUV，上市当晚3分钟内大定订单突破20万辆。发布会上，雷军展示了YU7与特斯拉Model Y的销量对比：2025年7月至2026年4月，YU7累计交付23.2万辆，Model Y则为35.8万辆。\n从月度交付表现看，今年1月YU7交付37869辆，成为中国汽车市场全品类销量冠军。然而，随着市场竞争加剧，YU7近几个月的交付量有所回落。\n在小米的调研中，特斯拉Model Y...",
-      "url": "https://36kr.com/p/3817022407181188?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-22T08:59:11.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 小米新推两款SUV，要和特斯拉、BBA比拼\n\n小米又出新车了！最近他们发布了YU7系列两款新车，一个是标准版，卖23.35万元；另一个是GT版，卖38.99万元。这样一来，YU7车系就有了5款车型，价格从23万到39万不等。\n\n这辆车是小米2025年6月出的首款SUV，当时很受欢迎，3分钟就卖出了20万辆订单。不过，最近市场竞争变大了，YU7的销量有点降了。雷军在发布会上还比了一下YU7和特斯拉Model Y的销量，说在2025年7月到2026年4月期间，YU7卖了23.2万辆，特斯拉卖了35.8万辆。\n\n虽然YU7去年1月卖得特别猛，成了中国汽车销量冠军，但最近几个月就没那么火了。小米想通过这两款新车型，重新拼一把，标准版要跟特斯拉打，GT版要跟奔驰、宝马、奥迪这些豪华品牌比。简单说，小米想让更多人买他们的车，不管是普通家用车还是高性能车。",
-      "summarized_at": "2026-05-22T10:56:47.161Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779447350743",
-      "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自主决策。\nAI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，大华股份构建了星汉大模型系列——V系列视觉大模型让系统“看得懂”物理世界，L系列行业模型打通业务逻辑。未来“基模+行业Know-how”将成为新范式，而AI的终局不是刷榜，是让每个行业、每个个体都不掉队。\n以下为大华股份研发中心副总裁 周文凯 演讲内容，经36氪整理编辑：\n\n周文凯丨大华股份研发中心副总裁\n非常感谢北京亦庄和36氪给我们这个机会来给大家做一个分享。\n我...",
-      "url": "https://36kr.com/p/3820220616495492?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-22T08:57:09.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 让智能体\"看见\"世界\n\n要让机器人或智能助手明白周围环境，不能只给它装摄像头。就像人要认识一个地方，光看不够，还要懂这个地方是怎么回事。这就是计算机视觉(CV)和AI Agent结合的厉害之处——让机器不仅能看，还能理解。\n\n### AI Agent不是聊天机器人\n\n很多人以为AI Agent就是能聊天的机器人，其实不是。它的真正价值在于能默默观察并自己做决定。比如家里的扫地机器人，看到脏地方能自己决定去打扫，不需要人吩咐。\n\n### 两大技术难点\n\n要让AI真正进入各行各业，还有两个大难题：\n- **看不懂物理世界**：就像让机器认出一张桌子，但不知道桌子是用来放东西的。\n- **不懂行业规矩**：比如让机器处理订单，但不知道订单流程是怎么样的。\n\n### 大华股份的解决方案\n\n大华股份推出了星汉大模型，包括：\n- **V系列**：让机器\"看懂\"现实世界。比如能认出行人、车辆。\n- **L系列**：让机器理解行业规则。比如明白电商订单处理流程。\n\n### 未来发展方向\n\n未来，AI的发展不会只是比赛谁跑得快，而是要让每个行业、每个人都能用到AI，让技术惠及所有人。就像现在手机人人都有，未来AI也要变得像水电煤一样普及。",
-      "summarized_at": "2026-05-22T10:56:54.813Z",
       "summary_status": "success"
     },
     {
