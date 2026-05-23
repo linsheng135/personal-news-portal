@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-23T10:00:08.160Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-23T10:00:08.160Z",
+    "date": "2026-05-23",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1779530326297",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t...",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-22T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Google I/O 大会：AI 科学未来的新方向\n\n### 核心观点\nGoogle DeepMind 的 CEO Demis Hassabis 在 Google I/O 大会上说，我们现在正站在人工智能（AI）快速发展的起点，就像站在一座大山的山脚下，未来会看到 AI 超越人类智能的奇迹。\n\n### AI 如何改变科学\n- **AI 像个超级助手**：想象一下，你有一个能帮你做所有家务的超级机器人，AI 也是这样。它能快速处理大量数据，找出人类容易忽略的规律。比如，科学家可以用 AI 来分析海量的基因数据，找出可能的治疗方法，这比人脑强很多。\n- **AI 帮科学家做实验**：以前科学家做实验需要大量时间和人力，现在 AI 可以模拟实验环境，快速测试不同条件下的结果。比如，研究新药时，AI 可以在电脑里模拟药物与病毒的相互作用，省去了实验室的繁琐步骤。\n\n### AI 科学的新趋势\n- **AI 让科学更高效**：以前科学家可能需要几年才能完成一个项目，现在 AI 可以把时间缩短很多。比如，研究气候变化时，AI 可以分析几十年的气象数据，找出气候变化的新模式，帮助人类提前做准备。\n- **AI 和人类合作**：AI 不是要取代人类，而是像伙伴一样一起工作。科学家提出问题，AI 提供数据和分析，人类再做出最终判断。就像做饭时，人类负责调味，机器人负责按食谱操作。\n\n### 未来展望\nDemis Hassabis 说我们正站在“奇点”的山脚下，奇点就是 AI 超越人类智能的那个时刻。未来 AI 会像人类大脑一样灵活，甚至能解决目前人类无法解决的问题。比如，AI 可能会破解癌症的密码，或者找到外星生命的证据。科学家们正在努力让 AI 更强大，人类只需要相信 AI，并给它机会展示它的能力。",
-      "summarized_at": "2026-05-23T09:58:58.903Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779530326297",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T20:41:05.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI 要学会理解世界\n\n最近，很多做 AI 的公司想造出能理解外面世界的机器。就像你学认字、懂别人说话一样，AI 也要学会看懂真实的世界，不只是玩文字游戏。\n\n以前 AI 主要靠聊天，比如你问我答，但遇到复杂问题就卡壳了。现在大家开始研究“世界模型”，就像给 AI 安装一个“脑补”功能，让它能像人一样想象周围环境会怎么变。\n\n比如你学开车，光背交通规则没用，得知道车会怎么晃、路怎么弯。AI 的“世界模型”就是让它也能“脑补”这些细节，这样遇到没见过的场景就不怕了。\n\n目前 AI 还在摸索阶段，有些公司把重点放在让 AI 理解因果关系上。比如你知道下雨会湿鞋，AI 也得学会这种联想。这就像你小时候学东西，先是死记硬背，慢慢才懂道理。\n\n- AI 目标：从“背单词”到“懂生活”  \n- 关键技术：世界模型和因果推理  \n- 类比：就像孩子从认字到理解故事  \n- 挑战：如何让机器像人一样思考",
-      "summarized_at": "2026-05-23T09:58:55.976Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779530326297",
-      "title": "Scaling creativity in the age of AI",
-      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representatio...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T19:16:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 故事的魔力\n\n故事是人类天生就会做的事情，就像呼吸一样自然。我们通过故事来表达自己的想法、提醒别人注意危险、分享希望，或者讲述自己的经历。比如，小时候父母给你讲睡前故事，这就是在用故事传递爱和生活经验。\n\n## 科技让故事更好玩\n\n从古时候开始，人们就发明了各种工具来讲故事。早期人类用炭笔在洞穴里画画，这就是最早的\"故事本\"；后来有了造纸术和印刷术，故事就能传给更多人了；现在有了手机和电脑，故事可以随时随地传播。科技就像给故事穿上了新衣服，让它变得更好玩。\n\n## AI如何帮我们讲故事\n\n现在人工智能开始帮忙创作故事了。AI可以分析大量数据，找出人们喜欢什么样的故事，然后生成新的故事。就像超市的推荐系统，它看你买了什么，就猜你想看什么书。AI能帮我们更快地创作故事，让每个人都能成为故事家。\n\n- 故事是人类表达自己的方式\n- 科技让故事传播更方便\n- AI正在改变故事创作的方式",
-      "summarized_at": "2026-05-23T09:59:04.275Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779530326297",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T14:30:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Anthropic的Claude活动：编程的未来来了\n\nAnthropic在伦敦举办了一场名为\"Code with Claude\"的开发者大会，时间正好和谷歌的I/O大会在同一天（纯属巧合，Anthropic的人特意告诉我）。这场活动主要是给程序员们看的，展示了编程未来的发展趋势。\n\n### 活动亮点\n- Anthropic展示了Claude这个编程工具，它能自动帮你完成代码，就像有人帮你修好了家里坏掉的电器一样。\n- 程序员们可以现场体验和Claude互动，就像试用了新手机一样，看看它能不能帮你干活。\n\n### 编程的未来\n- 未来的编程可能会越来越简单，就像现在用手机点外卖一样方便。\n- 以前需要花很多时间写的代码，以后可能让电脑自动完成，程序员只需要负责检查结果就行。\n- 这个工具让编程变得更高效，就像有人发明了自动洗衣机，洗衣服不用再手洗了。\n\n### 反应和看法\n- 虽然有些人可能不喜欢这种变化，觉得失去了掌控感，但技术总是要向前发展的。\n- 就像当年有人质疑汽车会取代马车一样，现在的编程工具也在不断进步。\n- 不管喜欢与否，编程的方式确实会变得越来越智能和自动化。\n\n这场活动展示了编程工具的进步，未来程序员的工作可能会变得更轻松，就像现在的办公族用电脑代替了手写文件一样。虽然有些人可能会担心自己被淘汰，但技术进步是不可阻挡的。",
-      "summarized_at": "2026-05-23T09:59:06.314Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1779530326297",
       "title": "Roundtables: Inside the Musk v. Altman Trial",
@@ -276,78 +200,6 @@
       ],
       "ai_summary": "## 网站安全测试指南是个啥\n\n这个指南叫“Web Security Testing Guide”，是个免费开源的东西，专门教你怎么检查网站和网上服务有没有安全问题。\n\n### 想象一下这样理解\n\n想象你开了一家小店，想确保小店的门锁不会被人轻易撬开，也不会让小偷随便进来看看你的宝贝。这个指南就像一本教你如何检查小店安全的小册子。\n\n### 指南里有啥\n\n- **全面检查**：就像做体检一样，从头到尾检查一遍，看看有没有哪里有问题。\n- **简单易懂**：不需要你懂很多技术，就像说明书一样，一步步教你怎么做。\n- **实际操作**：不是空谈理论，而是告诉你具体该怎么做，比如怎么检查密码是不是太简单，怎么测试能不能随便修改订单。\n\n### 为什么重要\n\n现在网上开店、办事都离不开网站，如果网站被黑客攻击，比如密码被偷、订单被篡改，那损失可能就大了。这个指南就是帮你提前发现问题，避免损失。\n\n### 谁能用到\n\n不管你是程序员、网站管理员，还是普通用户，只要关心网站安全，都能用这个指南。程序员可以用它检查自己写的代码有没有漏洞，管理员可以用它检查网站设置是否安全，普通用户也可以用它了解如何保护自己的账户信息。",
       "summarized_at": "2026-05-23T09:59:52.413Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779530330198",
-      "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？\n一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。\n以下为圆桌对话内容，经36氪整理编辑：\n\n郑王宇丨36氪基金投资副总裁（主持）\n龚毅丨尼尔森IQ 通信及科技业务总经理\n罗飞丨华科智能AI研究院院长\n林海卓丨卓源亚洲创始合伙人、董事长\n郑王宇：各位老师好...",
-      "url": "https://36kr.com/p/3821542483857801?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-23T07:14:29.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI人才稀缺性：AI技术人才正在贬值，懂业务的人更稀缺\n\n### 核心观点\n- **AI技术人才贬值**：现在很多公司招AI人才，其实是看中他们懂技术，但未来光懂技术的人会越来越不值钱。\n- **懂业务的人稀缺**：真正稀缺的是那些既懂AI，又懂具体业务的人。比如，知道怎么把AI用到具体的产品开发、市场推广上的人。\n- **低频决策比高频重复工作重要**：AI能做很多重复性高、频率高的事情，比如自动处理数据。但像决定开发什么产品、怎么打响品牌这种低频但影响大的决策，AI还做不了。\n\n### 例子说明\n- **AI就像厨师**：现在很多厨师会用智能厨房设备（AI），但设备本身不稀缺，稀缺的是知道怎么用这些设备做出独特美味菜肴的厨师（懂业务的人）。\n- **AI利润大头在基础设施**：现在AI领域大部分利润来自提供硬件和软件（基础设施），但真正能帮企业赚钱的是把AI用到具体场景（比如卖产品、做营销）的人。\n\n### 企业转型卡点\n- **最大的问题是“想不到应用场景”**：很多公司有AI技术，但不知道怎么用好，就像有工具但不知道怎么干活。\n\n### 未来趋势\n- **AI应用回报率即将爆发**：现在AI应用还没完全发挥作用，但很快就会看到效果，比如企业能通过AI赚更多钱。\n\n### 总结\n未来AI人才市场，光懂技术的人会越来越普通，而那些既懂AI又懂具体业务的复合型人才，才是真正的抢手货。",
-      "summarized_at": "2026-05-23T09:59:54.423Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779530330198",
-      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。\n只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。\n以下为圆桌对话内容，经36氪整理编辑：\n\n帮主丨36氪《AI局内人》主播（主持）\n郑鹏宇丨杭州颜柯教育科技有限公司创始人\n肖玛峰丨AI招聘平台TTC创始人\n帮主：各位下午好，我是这场圆桌的主持人帮主。这场圆桌不聊技术落地的事，聊一个在座很多老板都非常关心的事——AI人才从哪里来，以及能不...",
-      "url": "https://36kr.com/p/3821533415985283?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-23T07:05:47.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI人才怎么找和留？\n\n只有极少数公司是天生就会用AI的，大部分公司还在摸索中。但有些公司很积极，愿意花力气培养AI人才。怎么找到这些人才、怎么留住他们，是个大问题。\n\n- **企业现状**:  \n  - 1%的公司完全懂AI，20%的公司在学，80%的公司还在懵懂中。  \n  - 人才也一样，只有少数是\"AI小能手\"，大部分还在传统工作方式里。\n\n- **招人焦虑**:  \n  - 很多老板急着想招AI人才，但发现很难。就像想找个既懂电脑又会修车的全能师傅，市场上这种人少。  \n\n- **内部挖潜**:  \n  - 最好的方法是看看公司里有没有\"隐藏高手\"。比如，原来做数据统计分析的员工，可能适合转做AI。可以通过\"黑客松\"（集体挑战赛）的方式，让员工在业余时间尝试AI项目，发现人才。  \n\n- **留住人才**:  \n  - 光招人不够，还得让他们愿意留下。  \n  - 给他们足够的发展空间（比如学新技能、带项目），创造良好的工作氛围（比如互相帮忙、不搞办公室政治）。  \n\n简单说，AI人才就像稀有物种，找得到但难留住。企业需要既招人又育人，还要用好的环境让人愿意留下。",
-      "summarized_at": "2026-05-23T10:00:01.179Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779530330198",
-      "title": "对话王小川：离开通用人工智能的主干道之后",
-      "summary": "“如果没有转型，继续走主流道路，你也会有同等程度的焦虑。”王小川说，这次转型，让他真正回归到从创业第一天就最想做的事情：造AI医生。\n访谈｜邓咏仪 杨轩\n文｜邓咏仪\n编辑｜张雨忻\n一年前，王小川带着百川智能来了一次激烈的“大刹车”：大幅缩减通用模型团队，关闭金融等多条行业线，All in医疗大模型。但与此同时，整个大模型行业却热闹非凡，大厂和创业公司轮番进行“轰炸式更新”——过去半年里，平均3天就有一个新版本的通用大模型面世。\n而看起来沉寂的百川在做什么？5月22日，王小川安静地交出答卷：新医疗大模型M4，以及Agent产品“百小医”。\n过去3年里，百川逐渐从“要做中国最好的基础大模型”转向“...",
-      "url": "https://36kr.com/p/3821521291038856?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-23T06:53:35.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 王小川的AI之路大转弯\n\n- **曾经的目标：** 王小川原本想做个通用的AI大脑，就像造一台万能电脑，什么都能干。但这条路越来越拥挤，大公司和小公司都在拼命搞，让他觉得很累。\n\n- **转行的决定：** 一年前，他决定“刹车”，砍掉了通用AI团队，把所有精力都放在医疗AI上。这就像一个人本来想学修各种电器，突然决定只专修修电饭煲。\n\n- **新方向：** 现在的百川智能专门做“AI医生”，目标是开发一个能看病的AI助手。王小川觉得这才是他创业时最想做的事。\n\n- **同行竞争：** 其他公司在AI领域争得你死我活，三天就出个新模型，但百川智能在沉寂中闷声干大事。\n\n- **最新成果：** 5月份，百川智能推出了医疗大模型M4和AI医生助手“百小医”。这就像突然宣布：“看，我们专修电饭煲，造出全世界最好的电饭煲了！”\n\n- **核心观点：** 王小川认为，即使不转行，继续走老路也会很焦虑，不如做自己真正热爱的事。现在他专注医疗AI，反而更开心，也更有方向。",
-      "summarized_at": "2026-05-23T10:00:02.086Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779530330198",
-      "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
-      "summary": "AI浓度并非越高越好，转化率的秘密在于人机共生的平衡点。\n“AI应像手机一样贯穿全流程”，而面对亲子游客和老年群体，主动将AI浓度降至50%，却实现了超50%的转化率。浓度的关键是以人为本、文化温度先行。\n以下为圆桌对话内容，经36氪整理编辑：\n\n薛冰丨上海蜚语信息科技副总裁（主持）\n崔健南丨广州搞搞镇文化科技创始人兼CEO\n杨晟丨珀乐互动科技创始人\n薛冰：各位嘉宾大家下午好，我是主持人薛冰，很荣幸受到36氪以及北京亦庄的邀请主持下午的圆桌。今天非常开心能够邀请到和我同台的两位重量级嘉宾，崔总、杨总，现在我们直接进入圆桌环节，先请两位嘉宾做一下自我介绍，先从崔总开始。\n崔健南：谢谢主持人，大家...",
-      "url": "https://36kr.com/p/3821519307591811?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-23T06:53:25.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI浓度和转化率的关系\n\nAI技术不是越多越好，关键是要找到和人一起使用的平衡点。就像手机虽然功能多，但不是每个功能都用得上，要用得恰到好处。\n\n- **AI浓度不是越高越好**  \n  比如，对于带孩子的游客和老年人这些群体，直接用高强度AI可能让人不适应。降低AI的使用强度到50%，结果转化率反而超过50%。这说明AI要用得让人感觉舒服才行。\n\n- **AI要像手机一样融入全过程**  \n  但也不是完全不用AI，而是要像手机一样自然地出现在每个环节，帮人解决问题。比如购物时AI能推荐商品，但不会过度打扰。\n\n- **以人为本，文化温度先行**  \n  AI的使用不能只看技术，还要考虑人的感受和文化背景。比如，某些群体可能更喜欢传统的方式，这时AI就要退后一点，先让人感觉被尊重。\n\n总之，AI要用得让人感觉“刚刚好”，既不能太强也不能太弱，这样才能真正提高转化率和用户体验。",
-      "summarized_at": "2026-05-23T10:00:07.629Z",
       "summary_status": "success"
     },
     {
