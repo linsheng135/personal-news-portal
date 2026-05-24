@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T10:01:47.838Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-24T10:01:47.839Z",
+    "date": "2026-05-24",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1779616835940",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t...",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-22T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Google I/O的AI科学新方向\n\n### AI的快速发展\n谷歌的CEO Demis Hassabis在Google I/O大会上说，我们现在就像站在山脚下，马上要进入一个AI飞速发展的新阶段。这就像你正在学骑自行车，刚开始摇摇晃晃，但很快就能骑得飞快。\n\n### AI将超越人类\nHassabis提到“奇点”，这是指AI某一天会变得比人还聪明，就像你手机里的语音助手现在还做不了很多事，但未来可能比你更懂你。就像你小时候觉得电脑很厉害，现在发现AI还能画画、写诗，未来发展不可想象。\n\n### AI如何改变科学\n- **更快解决问题**：以前科学家做实验要花几个月，现在AI一天就能分析出结果，就像你做数学题时用计算器比用手算快很多。\n- **新发现机会**：AI能发现人类想不到的规律，比如医生用AI看CT片，比单纯看更准。\n- **人人都能参与**：普通人也能用AI做科研，就像现在很多人用手机App就能学英语，未来科学也可能变得像玩游戏一样简单。\n\n### 未来展望\nGoogle的演示让我们看到，AI正从实验室走向生活，就像网购从需要快递员送到现在扫码就能到家。科学家们正在用AI设计新材料、治疗疾病，未来可能连种菜都能交给AI。但要注意，AI太强大时要怎么管，就像孩子太聪明了家长怎么引导。\n\n总之，AI正带着科学走向一个任何人都能参与的新时代，就像智能手机改变了我们的生活一样，未来很值得期待。",
-      "summarized_at": "2026-05-24T10:00:46.234Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779616835940",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T20:41:05.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI能否学会理解世界？\n\n最近，AI公司都在努力打造能理解外面世界的系统，就像想让电脑像人一样看懂周围发生的事。以前AI只能聊天、写文章，但新发展的“世界模型”让它们开始学习怎么“看懂”真实世界。\n\n### 世界模型是什么？\n\n想象一下你第一次学骑自行车。刚开始，你只能记住“蹬、刹车、看前面”，后来你突然“学会”了平衡，不再需要一步步想。世界模型就是想让AI达到这种“顿悟”状态，能自动理解因果关系，比如知道“下雨了”就“地面湿了”。\n\n### AI公司的目标\n\n- 希望AI不仅能聊天，还能像人一样感知环境，比如让机器人知道“举起杯子”就能“接住水”\n- 目前的AI像“死记硬背”的学渣，只能记住固定套路，而世界模型想让它变成“学霸”，能灵活分析新情况\n- 比如，AI能通过看视频自动总结剧情，就像人能“看懂”笑话\n\n### 关键进展\n\n最近科学家们发现，给AI喂足够多的真实世界数据（比如成千上万小时的视频），它们就能像婴儿一样开始“形成常识”。就像你小时候看动画片，不知不觉就记住“小猫喜欢玩毛线球”。\n\n但挑战依然很大，现在的AI还像3岁小孩，知道“1+1=2”，却不懂“为什么”。科学家们正在努力让它们跨越这个“常识鸿沟”，未来我们可能会看到能理解世界的AI助手。",
-      "summarized_at": "2026-05-24T10:00:45.485Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779616835940",
-      "title": "Scaling creativity in the age of AI",
-      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representatio...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T19:16:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 故事是人类表达的本能\n\n人类天生爱讲故事，就像小时候喜欢听爸妈讲睡前故事一样。我们用故事来表达想法、提醒危险、分享快乐，这是刻在骨子里的习惯。从最早用炭笔在山洞画动物，到后来发明文字记录历史，技术一直帮我们更好地讲故事。\n\n## 技术让故事更精彩\n\n想想现在刷抖音、看短视频，各种特效和音乐让故事更有趣。就像小时候画画用彩色铅笔代替蜡笔，技术让故事的表现形式越来越多样。AI现在也能帮忙写故事，比如给你生成创意文案，就像有个超强的写作助手随时待命。\n\n## AI时代的新玩法\n\n有了AI，讲故事有了新可能。比如作家可以请AI当助理，一起创作；普通人也能用AI工具快速编出有趣的故事。就像手机让拍照变得简单，AI让创作更加轻松。但记住，再好的工具也需要人用心去用，AI只是帮我们更高效地表达想法。\n\n- 关键点：人类爱讲故事是天性，技术（包括AI）让故事传播更方便、更有趣，但最终还是要靠人创意。",
-      "summarized_at": "2026-05-24T10:00:51.221Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779616835940",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T14:30:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Anthropic的Claude活动展示了编程的未来\n\n### 活动背景\nAnthropic在伦敦举办了一场名为\"Code with Claude\"的开发者活动，时间正好和Google的I/O大会在同一天。虽然这只是一个巧合，但Anthropic的工作人员强调这只是正常安排，并非有意竞争。\n\n### 核心展示\n活动中，Anthropic展示了Claude这个AI编程助手。它就像一个超级聪明的助手，能帮程序员写代码、修改bug，甚至优化整个程序。活动现场有很多开发者试用Claude，大家都觉得它非常厉害，能大大提高编程效率。\n\n### 编程的未来\nClaude代表了编程的新趋势——AI将越来越多地参与软件开发。未来，程序员可能不再需要写每一行代码，而是像指挥家一样指挥AI完成工作。就像现在很多设计师用PS软件创作一样，未来程序员可能会用类似Claude的工具来开发软件。\n\n### 普通人的感受\n虽然这项技术听起来很酷，但也有人担心：如果AI太强，会不会让程序员失业？不过，目前来看，AI更像是工具，而不是替代品。就像汽车出现后，马车夫没有消失，而是变成了司机。\n\n### 关键信息\n- Claude能自动写代码、找错误，让编程更简单  \n- AI编程是未来的大趋势，但不会完全取代程序员  \n- 开发者需要学会与AI合作，而不是被它取代",
-      "summarized_at": "2026-05-24T10:00:51.809Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1779616835940",
       "title": "Roundtables: Inside the Musk v. Altman Trial",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# PowerShell让每个系统都更方便！\n\nPowerShell就像一个超级管家，能帮你轻松管理电脑的各种任务。想象一下，以前做系统维护要手忙脚乱，现在用PowerShell就像用智能手机的APP一样简单。它特别厉害的地方是能和Windows系统\"对话\"，让你不用看复杂的代码，就能直接下达指令。\n\n## 为什么它这么受欢迎？\n\n- **像聊天一样命令**：不用死记硬背，就像和朋友说话一样下达指令，电脑就能听懂\n- **万能工具箱**：无论是管理服务器、自动备份文件，还是修改系统设置，都能轻松搞定\n- **跨平台通用**：不管你是用Windows还是Linux系统，它都能来帮忙\n\n## 用法举例\n\n比如你想让电脑每天自动整理下载文件，用PowerShell就像说句话一样简单：\"每天晚上把下载文件夹里的旧文件转移到归档区\"。不需要懂编程，就像设置智能音箱一样方便。\n\n## 适合谁？\n\n- 办公室小职员：批量处理文件、自动发送邮件\n- IT技术员：远程管理电脑、一键修复系统问题\n- 程序员：开发系统工具、测试软件兼容性\n\n总之，PowerShell就像给电脑装上了\"万能遥控器\"，让所有人都能轻松搞定复杂的系统操作，现在它是GitHub上最流行的工具之一，说明大家都觉得它特别实用！",
       "summarized_at": "2026-05-24T10:01:32.937Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779616840279",
-      "title": "对话VITURE姜公略：什么才是XR眼镜该有的样子？",
-      "summary": "过去十年，XR（扩展现实）赛道始终陷在一种怪异的叙事里——\n在从业者高呼着“下一代计算平台”的宏大愿景时，资本市场也曾在元宇宙的热潮中疯狂押注，而一旦落地到消费端，这个行业却始终未能摆脱极客玩具的宿命。\n从Google Glass的黯然退场，再到一众VR/AR厂商的折戟，XR行业在跌宕中，迎来了前所未有的冷静时刻。\n行业的艰辛在于，尽管所有人都清楚技术终局，但抵达终局的路径却布满荆棘。在种种“不可能三角”中，行业在缺乏共识中蜿蜒前进。\n在略显沉闷的行业氛围中，XR厂商VITURE近日发布了一款全新产品——VITURE Beast。作为一个此前主攻海外游戏市场、鲜少发声的“隐形冠军”，VITUR...",
-      "url": "https://36kr.com/p/3823013049045380?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-24T09:09:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## XR眼镜的现状和未来\n\nXR眼镜（就是VR、AR和全息眼镜的结合）在过去十年里，就像一个被捧上天的孩子，大家都说它是\"下一代计算平台\"，投资者也疯狂投钱。但到了普通人手里，却发现它就像个玩具，没什么实用价值。Google眼镜失败过，很多厂商也倒闭了，现在整个行业都冷静下来了。\n\n### 行业的困境\n- 大家都明白XR眼镜最终会成功，但怎么走这条路，谁也不知道。就像造汽车，都知道要造出好车，但具体用哪种发动机、哪种材料，大家意见不一。\n- 现在的XR眼镜，要么太笨重，要么没清晰图像，要么太贵，完全达不到理想状态。这就好比想让一部手机既轻便又拍照好，又特别便宜，现在根本做不到。\n\n### VITURE的新尝试\n- VITURE公司之前主要做海外游戏，这次发布的新产品叫VITURE Beast。他们一直很低调，但这次终于要在中国市场发力。\n- 这款眼镜可能在解决XR眼镜的几个大问题上有所突破，比如更轻便、更清晰、更便宜。就像以前的手机，一开始又笨又贵，现在越来越轻薄好用。\n\n### 对未来的期待\n- XR眼镜最终会像智能手机一样，成为生活中的一部分。但需要时间解决技术难题，现在还处于早期阶段。\n- 消费者需要耐心等待，就像当年等待智能手机普及一样。未来可能会有更实用的XR眼镜出现，比如可以用来开会、看房、玩游戏等。",
-      "summarized_at": "2026-05-24T10:01:33.598Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779616840279",
-      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。\n硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+AI原生智能体+可穿戴硬件”三位一体，才能让AI从聊天框真正走进现实。\n以下为圆桌对话内容，经36氪整理编辑：\n\n刘子豪丨杭州颜柯教育联合创始人（主持）\n赵维奇丨乐奇全球开放生态负责人\n路少卿丨商汤科技研究院技...",
-      "url": "https://36kr.com/p/3821714896408713?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-23T10:10:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 下一个AI爆款产品什么样？\n\n### 关键观点\n- 只有能跟现实世界互动、能真正帮人解决问题的AI产品，才能火\n- 单纯把现有AI技术装进新设备，就像给旧手机装新壳，用不久\n- 未来成功的AI产品，需要硬件、软件和服务三方面结合\n\n### 具体说说\n想象一下，现在市面上很多AI产品就像把AI装进对话框里，只能聊天不能干别的。就像买个新手机，只换了个壳，里面的系统还是老的，用几次就懒得碰了。\n\n真正厉害的AI产品，得像AI眼镜那样，能随时看到外面的世界，还能根据需要提供帮助。比如走路时突然告诉你前面有红灯，或者提醒你忘带钥匙。这种能实时互动、帮人解决实际问题的产品，才是未来的大热门。\n\n### 怎样才算成功？\n1. **能跟现实互动**：不是光能聊天，得能感知周围环境、帮人办事\n2. **软硬件结合**：就像买车，光有车（硬件）不行，还得有导航（软件）\n3. **持续改进**：就像手机系统会更新，AI产品也得不断升级\n\n简单说，未来的AI产品得像个人助理一样，既能看懂你说的话，又能帮你做事情，还能随时待在身边随时用。",
-      "summarized_at": "2026-05-24T10:01:39.896Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779616840279",
-      "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？\n一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。\n以下为圆桌对话内容，经36氪整理编辑：\n\n郑王宇丨36氪基金投资副总裁（主持）\n龚毅丨尼尔森IQ 通信及科技业务总经理\n罗飞丨华科智能AI研究院院长\n林海卓丨卓源亚洲创始合伙人、董事长\n郑王宇：各位老师好...",
-      "url": "https://36kr.com/p/3821542483857801?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-23T07:14:29.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI时代的人才稀缺性\n\n- **懂AI的人会贬值**：现在很多公司招人时觉得会AI技术的人很厉害，但未来这种人才会越来越普通，就像现在人人都会用手机一样。\n- **关键决策者最稀缺**：生活中，比如买大件商品（像买房买车）这种不常做但影响巨大的决定，还是得靠人自己想明白，AI帮不上忙。公司里这种能做重要决策的人，未来会很抢手。\n- **AI主要赚基础设施的钱**：现在AI大部分利润来自提供AI工具和平台（比如让人工智能做基础计算），但真正让AI在具体工作中发挥作用的场景还不多，不过很快会变好。\n- **企业用AI的最大难点**：不是技术不够好或数据不足，而是想不到怎么把AI用到实际工作中。比如，知道AI能帮忙，但不知道具体用在哪个环节。\n- **低频高影响决策**：像开发爆款产品、做品牌推广这类不常做但很关键的事，人的想法比AI更重要。AI可以重复做很多简单事，但创意和战略需要人脑。",
-      "summarized_at": "2026-05-24T10:01:38.818Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779616840279",
-      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。\n只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。\n以下为圆桌对话内容，经36氪整理编辑：\n\n帮主丨36氪《AI局内人》主播（主持）\n郑鹏宇丨杭州颜柯教育科技有限公司创始人\n肖玛峰丨AI招聘平台TTC创始人\n帮主：各位下午好，我是这场圆桌的主持人帮主。这场圆桌不聊技术落地的事，聊一个在座很多老板都非常关心的事——AI人才从哪里来，以及能不...",
-      "url": "https://36kr.com/p/3821533415985283?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-23T07:05:47.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI人才招聘与留存实战手册\n\n### 企业AI转型现状\n- 只有极少数企业（1%）天生就会用AI，20%的企业在努力跟上，还有80%的企业还在犹豫不决\n- 找AI人才就像找会修电的师傅，但很多老板连找人的方向都没数\n\n### AI人才招聘方法\n- 招聘AI人才别只盯着外面的大牛，公司里可能就藏着能玩转AI的\"技术宅\"\n- 举办内部黑客松活动，让员工互相学习，说不定能发现隐藏高手\n- 现在网上AI招聘平台很多，但关键还是看能否找到真正懂业务的人\n\n### AI人才留存策略\n- 想留住AI人才，不能光靠高工资，更重要的是给人家发展空间\n- 建立像游戏升级一样的职业发展路径，让员工看到未来\n- 营造开放包容的文化氛围，让技术人员觉得在这里干得开心\n\n### 核心观点\n- AI人才就像稀有的种子，80%的企业连种子都找不到\n- 招聘AI人才要像找对象，不能光看外表，得看性格合不合\n- 留住AI人才就像养宠物，光喂饱是不够的，还得陪它玩",
-      "summarized_at": "2026-05-24T10:01:47.078Z",
       "summary_status": "success"
     },
     {
