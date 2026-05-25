@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-25T11:58:06.655Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-25T11:58:06.655Z",
+    "date": "2026-05-25",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1779710207792",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t...",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-22T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Google I/O 展示了 AI 带动科学进步的新方向\n\n### 关键信息\n- Google DeepMind 的 CEO Demis Hassabis 表示，我们现在正处于“奇点”的入口。奇点是指未来 AI 智力突然超过人类的时刻。\n- 这就像现在你正在学骑自行车，刚开始还摇摇晃晃，但马上就要学会，那个马上就要成功的感觉就是奇点。\n- Google 正在用 AI 帮助科学家更快找到新知识，就像用智能手机查天气比以前更快一样。\n\n### AI 如何改变科学\n- 以前科学家做实验像在黑暗中摸索，现在 AI 像个智能助理，能帮他们找到最佳方案。\n- 比如 AI 可以分析海量的基因数据，就像在超市里快速找到所有草莓，以前要花几个月，现在几天就搞定。\n- AI 还能预测材料性质，比如科学家想知道某种金属会不会生锈，AI 直接算出结果，比人工测试省时省力。\n\n### 未来展望\n- AI 将让科学进步速度加快，就像手机让通讯变得无比方便。\n- 未来我们可能会看到 AI 帮助医生诊断疾病，就像手机识别照片一样准确。\n- 但也有人说 AI 过于智能可能会失控，就像让机器人开车，万一它突然想自己决定路线怎么办？\n\n## 总结\nGoogle 的演示告诉我们，AI 正在让科学变得像用手机一样简单高效，未来科学进步的速度会超乎想象。不过也要小心，AI 越来越聪明可能会带来新问题，需要好好管理。",
-      "summarized_at": "2026-05-25T11:56:58.030Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779710207792",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T20:41:05.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI如何学会理解世界？\n\nAI现在就像一个刚学认字的孩童，虽然能读很多字（比如大型语言模型能处理大量文字），但只认得纸上的字，不知道字背后的意思。比如，一个AI能告诉你“苹果”是水果，但可能不知道苹果是甜甜的、可以吃的。AI公司现在想造一个能明白真实世界的AI，就像教孩子不仅认字，还要知道苹果是圆的、可以吃的。\n\n### 世界模型是什么？\n\n世界模型就像给AI装上一个“常识包”。比如，知道下雨天地面会湿、知道人不能穿墙而过。以前AI只能处理文字和图片，现在想让它也明白这些基本道理，就像教孩子知道“水是湿的”“人不能飞”。\n\n### AI公司的目标\n\n- 想让AI像人一样理解世界，而不仅仅是处理信息\n- 希望AI能解决现在只能处理简单指令的问题，比如复杂推理或预测\n- 世界模型能帮AI更智能，就像孩子通过经验学会判断\n\n### 为什么重要？\n\n- 让AI更实用，比如能自动处理复杂任务，就像能自己规划路线的机器人\n- 让AI更安全，因为它能明白哪些行为不合理\n- 推动AI发展，就像从能背古诗的小孩变成能独立思考的少年\n\n总之，AI现在想从“认字”阶段升级到“懂事”阶段，目标是让AI真正明白真实世界的规则和道理，就像让孩子从认字变成会思考的人。",
-      "summarized_at": "2026-05-25T11:56:57.335Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779710207792",
-      "title": "Scaling creativity in the age of AI",
-      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representatio...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T19:16:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 故事的力量与科技的变化\n\n### 人类离不开讲故事\n我们天生喜欢讲故事，就像小时候听妈妈讲睡前故事一样。故事能帮我们表达想法、提醒危险、分享快乐，就像用画笔在墙上画表情一样简单。人类从最早用石头画动物开始，就一直用故事记录生活。\n\n### 科技改变故事方式\n就像现在我们用手机拍照而不是烧木头画图一样，科技让故事形式不断变化。以前需要跑遍村子才能传遍的故事，现在通过视频能瞬间全世界传播。科技不是取代故事，而是给故事穿上新衣服。\n\n### AI时代的创作新可能\n现在有了人工智能，讲故事有了新工具。AI能帮我们写故事、画画、做视频，就像有了魔法笔一样。但真正的创意还是来自人，就像用AI写诗，也需要人的灵感。科技是助手，不是画师。\n\n### 故事永远不会过时\n无论技术怎么变，故事的核心不会变。就像手机取代了传声筒，但交流的本质没变。我们要学会用新技术讲好故事，就像用投影仪把故事投影到墙上，而不是只盯着投影仪本身。",
-      "summarized_at": "2026-05-25T11:57:03.845Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779710207792",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp...",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-21T14:30:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Anthropic的Code with Claude活动：编程的未来来了\n\n最近在英国伦敦，Anthropic举办了一场名为\"Code with Claude\"的开发者大会，连续两天给程序员们展示了编程的未来。虽然巧合的是，同一天Google也在美国加州举行了I/O大会，但这纯属巧合，Anthropic的人特意告诉我不要误会。\n\n### 活动亮点\n\n- 程序员们可以和Claude这个AI助手直接互动，就像请一个超级聪明的助手帮你写代码\n- Claude能理解自然语言，比如你可以说\"帮我写个发邮件的功能\"，它就能直接生成代码\n- 这个AI不仅会写代码，还能帮你调试和改进现有代码\n\n### 编程会变成什么样？\n\n- 想象一下，你只需要告诉AI\"我要开发一个电商网站\"，它就能帮你完成大部分工作\n- 程序员的工作会变成更多像设计师一样的创意工作，而不再需要写大量重复的代码\n- 这就像从骑自行车变成了开汽车，虽然需要学习新技能，但效率会高很多\n\n### 人们的态度很分裂\n\n- 有些人兴奋地说，这会让编程变得更简单，普通人也能做开发\n- 也有程序员担心，自己会被AI取代，工作机会减少\n- 但无论如何，AI正在改变编程行业，就像智能手机改变了拍照行业一样\n\n### 重点总结\n\n未来编程会越来越依赖AI助手，程序员需要学会如何与AI合作，而不是被AI取代。这就像厨师学会了使用智能厨具，反而能创造更好的美食。",
-      "summarized_at": "2026-05-25T11:57:05.499Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1779710207792",
       "title": "Roundtables: Inside the Musk v. Altman Trial",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 大型系统设计指南：像搭乐高一样设计系统\n\n这个资源教你如何设计超大规模的系统，特别适合准备系统设计面试。想象一下，给一个百万人的城市设计交通系统，这就是系统设计的核心工作——既要保证高效，又要灵活应对变化。\n\n### 核心概念解释\n- **拆分系统**：就像把一个大型餐厅分成厨房、服务员、收银台各部分，每个部分只管自己的事\n- **负载均衡**：把人流量平均分配到不同通道，比如超市结账口会设置多个收银员\n- **缓存**：把常用数据放在临时存储里，就像手机把常用APP放在内存里加快打开速度\n- **容错设计**：像电网有备用线路，系统要有备份机制防止崩溃\n\n### 实用方法\n- 先画草图：用纸笔画出系统基本框架，就像规划自家装修\n- 估算量级：比如预估用户访问量，用双十一购物狂欢节做参考\n- 考虑演进：设计时要像造船，要预留升级空间\n\n### 附加资源\n- 提供Anki闪卡：用记忆卡片帮助记住关键设计模式，类似背英语单词\n\n这个指南特别适合新手，通过生活化例子把复杂概念变简单。比如用《哈利波特》魔法学校解释分布式系统，用搭乐高说明模块化设计。每个概念都配有图示，看完就像参加了一场系统设计工作坊。",
       "summarized_at": "2026-05-25T11:57:49.555Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779710211810",
-      "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
-      "summary": "图源：公众号「有三思  U  Sense」\n做个测试。读一下这段话：\n“熊猫是最可爱的动物，它最爱吃竹子，样子最憨态可掬，是世界上最珍贵的宝藏。”\n如果你笑了，或者皱了眉，很明显，你的“鉴AI雷达”已经觉醒。 \n近期把网友笑到打鸣的“豆包体”里，“最”是高频词汇。大家纷纷晒出自己使用、调教AI，结果内容啼笑皆非的截图。这场围绕AI味写作的调侃就此出圈。 \n\n● 网友@也许像星星发布的AI味吐槽突破 \n微博AI味相关话题浏览阅读量不小，小红书相关笔记动辄近万点赞。豆瓣、抖音、微信公众号，都能搜到不少相关内容。能引发社交媒体的集体吐槽，说明“AI味”已经人人皆可感知，大家都不傻。同时这也意味着，在...",
-      "url": "https://36kr.com/p/3824601267196037?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-25T11:32:24.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 消除“AI味”写作指南\n\n- **现象解释**  \n  最近网上流行一种AI写出来的文字，比如“熊猫是最可爱的动物，它最爱吃竹子...”，这种句子因为用太多“最”字显得很奇怪，像AI在背书。网友把这种风格称为“豆包体”，大家都觉得好笑，还专门开微博、小红书等地方吐槽。\n\n- **为何搞笑**  \n  AI写东西像小学生作文，句子简单重复，用词死板（比如老说“最珍贵”“最可爱”），不像真人写作那样自然。就像你买了个新玩具，它只会机械地重复说明书，但不会像朋友那样生动有趣。\n\n- **社会反应**  \n  越来越多人能分辨AI写的文字，相关内容在网上一发就火。比如某网友发的“AI味”笑话图，微博阅读量爆表，小红书笔记点赞上万。这说明大家不买账，不喜欢AI的文字风格。\n\n- **写作建议**  \n  如果想让文字不像AI写出来的，可以试试：  \n  1. **少用绝对词**，别老说“最”“绝对”，可以换个说法。  \n  2. **加点个人情绪**，比如“我觉得”“我个人认为”，让文字显得真实。  \n  3. **多用比喻**，像“月亮像银盘”比“月亮是银盘”更自然。  \n  4. **断句灵活**，别像AI那样长句连着长句，可以分几段说。\n\n- **总结**  \n  写东西时，像AI那样把句子写死、用词重复，会让读者觉得别扭。想写出好文章，关键是要像真人聊天那样自然，多加点个人想法和生动例子。",
-      "summarized_at": "2026-05-25T11:57:51.177Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779710211810",
-      "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。\n麻亚炜将AI转型划分为四个递进阶段：\n第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。\n第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。\n第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖...",
-      "url": "https://36kr.com/p/3824164325412992?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-25T08:54:18.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI让公司变得更聪明：新通教育的转型故事  \n\n新通教育创始人麻亚炜分享了他们用AI改变公司的经历。其实，AI技术本身不难，难的是让大家真正接受并使用它。就像你第一次学用智能手机，开始觉得复杂，后来才觉得离不开。  \n\n麻亚炜把AI转型分成了4个阶段：  \n\n### **第一阶段（2021-2022）：打好基础**  \n相当于给公司装上水电管道。他们先整理好数据和信息，让系统跑得更顺，为后面的AI应用做准备。比如你家装修房子，先要通水电、铺管道，才能安装电器。  \n\n### **第二阶段（2023-2024）：让所有人知道AI**  \n他们给员工讲AI的好处，像学校开讲座一样，让大家明白AI不是领导的任务，而是每个人的事。他们还找出一两个部门做试点，比如让销售部先用AI写客户报告，成功后再推广到全公司。  \n\n### **第三阶段（2025）：AI无处不在**  \n现在AI已经像空气一样，渗透到公司所有工作里。比如客服用AI聊天，招生用AI分析学生需求，就像你用导航软件找路一样自然。  \n\n麻亚炜总结：AI转型最关键的是让所有人从\"要我学\"变成\"我要学\"。就像你刚开始学骑自行车，觉得别扭，后来才觉得好玩。",
-      "summarized_at": "2026-05-25T11:57:59.422Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779710211810",
-      "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月",
-      "summary": "大公司：\n番茄小说持续加强低质内容治理，5月处置低质书籍超15万本\n36氪获悉，近日，番茄小说发布《关于加强低质内容治理公告》。公告显示，5月以来，番茄小说已累计处置低质书籍超15万本，其中拒绝签约低质书籍112706本，处置低质违规书籍40275本。\n全国首单挂钩蓝色债券合约类信用衍生品交易落地山东\n36氪获悉，据上海清算所，近日，在中国人民银行山东省分行指导和推动下，山东省成功落地挂钩蓝色债券的合约类信用衍生品交易。该业务是全国首单以蓝色债券为保护标的的信用风险缓释合约。\n日本监管机构敦促上市公司将现金用于业务投资，而非提高股东回报\n日本金融监管机构敦促国内上市公司将更多现金储备用于长期业...",
-      "url": "https://36kr.com/p/3824439681520002?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-25T08:24:54.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 最近的大事\n\n### 番茄小说清理低质量小说\n番茄小说最近在努力清理质量不好的小说。5月份，他们处理了超过15万本低质量书，包括拒绝签约112706本，处理违规书40275本。就像图书管理员清理图书馆，只留下好的书，不让读者浪费时间。\n\n### 全国首单蓝色债券衍生品交易落地山东\n山东省成功做了全国第一笔和\"蓝色债券\"挂钩的金融产品。蓝色债券是帮助环保项目的债券，这个新产品可以保护投资人的钱。比如你借钱给环保公司修水库，如果水库没修好，这个产品能帮你保住一部分钱。\n\n### 日本公司要钱用在正途\n日本监管机构告诉上市公司，手里的钱不能只用来分红给股东，要多用来发展业务。就像你存钱不能只拿去请客，得留点钱买新工具提高工作效率。\n\n### 新加坡缩短富人开户时间\n新加坡想让富人开户更快，现在要一个月，以后想缩短到一个月内。就像银行办理业务，以前要等很久，现在想快点搞定，方便富人存钱投资。",
-      "summarized_at": "2026-05-25T11:57:56.989Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779710211810",
-      "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。\n广州因特智能科技有限公司孵化于西安电子科技大学广州研究院，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持软硬一体，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。\n以下为演讲内容，经36氪整理编辑：\n\n刘金硕丨广州因特智能科技CEO\n非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术解决工...",
-      "url": "https://36kr.com/p/3824158896312709?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-25T06:26:35.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI让工厂质检更智能\n\nAI视觉技术正在改变高端制造业的质量检测方式。想象一下，在制造超级精密的芯片时，哪怕是比头发丝还细的微小瑕疵，都会让整个产品报废。以前靠人眼检查太慢太容易出错，现在AI就像个超级显微镜，能自动找出这些看不见的问题。\n\n广州因特智能用AI技术打造了智能质检设备，帮助工厂自动检查产品缺陷。他们不搞空想，而是把AI算法和实际设备结合起来，真正用在工厂生产线上。比如给芯片、玻璃等材料检查微小的钻孔和划痕，就像用放大镜找纸上的小字一样精准。\n\n- **软硬结合**：不只是算法，还有实际设备，让AI真正落地\n- **解决卡脖子问题**：中国制造的重要技术，不用依赖国外\n- **服务大客户**：已经帮助国内顶尖公司和国外企业提升质量\n\n这套系统让工厂质检效率大幅提升，还能减少人为错误，就像让机器帮你做最细致的工作，保证每个产品都符合最高标准。",
-      "summarized_at": "2026-05-25T11:58:05.068Z",
       "summary_status": "success"
     },
     {
