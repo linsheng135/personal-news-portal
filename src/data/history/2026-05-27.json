@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-27T11:46:27.848Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-27T11:46:27.849Z",
+    "date": "2026-05-27",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1779882292160",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite ...",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-26T14:54:10.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业用AI遇大麻烦：想用不敢用\n\n### 现实情况\n现在很多公司都想用AI助手这种智能工具，就像大家手机里用的各种APP一样方便。但实际情况是，85%的公司嘴上说着\"我们三年内要全面用上AI\"，转头却说\"我们现在的电脑、网络连这点都搞不定\"。这就像你嘴上说要去三亚旅游，结果一看钱包、行李都没准备好。\n\n### 问题出在哪\n- 公司想的太美：就像很多人买了新手机却连Wi-Fi都不会连一样，知道AI好但不会用\n- 设备跟不上：就像你租的房子小得放不下新家具，现在系统太旧装不下AI\n- 人才跟不上：就像想学开车没教练，公司里没人懂怎么指挥AI干活\n\n### 真实例子\n就像你学骑自行车，光有车不行还得有教练场。现在很多公司连AI的\"教练场\"都没有，就急着让员工去\"骑\"AI。结果就像刚开始学就上高速公路，必 crash（出问题）。\n\n### 怎么办\n先别急着买AI，得先看看自己的\"路\"修好了没有，能不能支持AI这辆车。毕竟，工具再好也得配合环境才能发挥作用。",
-      "summarized_at": "2026-05-27T11:45:04.337Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779882292160",
-      "title": "A reality check on the AI jobs hysteria",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—...",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-26T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能会让白领失业吗？\n\n最近听说AI要抢走白领工作，就像超市收银员被自助结账取代一样。科技公司（比如Coinbase、Meta和Cisco）裁员的事传得沸沸扬扬，大家都担心自己的工作也会消失。\n\n但别急着辞职，咱们冷静想想。人工智能确实能做很多以前需要人的事，比如客服机器人可以回答简单问题，但它们还不会像人一样处理复杂情况。就像外卖机器人送餐，但点餐、选菜还得靠人。\n\n- **AI不是万能的**：它很擅长重复性工作，但创意、决策、沟通这些需要人情味的工作，AI还做不了。比如写报告可以靠AI，但报告里的建议还得老板定。\n- **工作会变，不会消失**：就像当年打印机出现，打字员的工作变了，但没人因此失业。现在AI会让一些任务自动化，但也会创造新工作，比如AI训练师、数据管家。\n- **关键看怎么用AI**：公司不是要完全取代人，而是让人干更重要的活。就像厨师不用切菜了，可以专心研究菜谱。\n\n所以别慌，AI会让工作变简单，但不会让人失业。与其担心，不如学点新技能，让AI帮我们干活。",
-      "summarized_at": "2026-05-27T11:45:02.843Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779882292160",
-      "title": "It’s time to address the looming crisis in entry-level work.",
-      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac...",
-      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-26T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能对工作的影响：潜藏危机\n\n### 人工智能没有直接导致大规模失业\n- 目前来看，人工智能并没有造成大量工人失业的情况。在发达国家，整体就业情况还算稳定，就像菜市场虽然有了智能售货机，但菜市场老板和摊主们还在忙活，生意并没有消失。\n- 最近的研究也发现，人工智能并没有对就业市场产生显著影响，就像手机没有让电话亭消失一样。\n\n### 潜在的就业危机正在暗中形成\n- 虽然表面上看就业市场没问题，但人工智能可能在悄悄改变工作性质。比如现在很多餐厅有了自助点餐机，服务员少了，但厨师和后厨的工作依然需要人。\n- 这种变化可能不会立刻显现出失业问题，但长期下来，一些基础岗位可能会逐渐被替代，就像以前需要大量人力搬运的快递，现在很多靠机器分拣。\n\n### 为什么值得警惕\n- 人工智能擅长做重复性工作，比如数据录入、基础客服等。这些活以前靠大量年轻人完成，现在机器可能会接手，年轻人找不到合适的工作，社会矛盾可能加剧。\n- 就像农业机械化后，很多农民转行做其他事，但不是所有人都能顺利转型，有些人可能面临失业。\n\n### 应对方法\n- 需要提前准备，比如加强职业教育，教人们使用新工具，而不是被新工具淘汰。就像学开车的人，不仅要会开车，还要学会使用导航和自动驾驶功能。\n- 政府可能需要调整政策，比如提供更多转岗培训机会，或者调整税收政策鼓励企业雇佣需要人类技能的岗位。\n\n简单来说，人工智能目前没有直接造成失业，但它在悄悄改变工作环境，未来可能让一些基础岗位消失。现在需要提前应对，避免未来出现大规模就业问题。",
-      "summarized_at": "2026-05-27T11:45:11.223Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779882292160",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t...",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-22T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Google I/O谈AI发展\n\n谷歌的最新技术大会Google I/O上，DeepMind的CEO Demis Hassabis说，我们现在正站在一个关键点上，就像爬山时到了山脚下，前方会有一场大变化。他预测，未来AI的发展会像汽车取代马车那样彻底改变世界。\n\n### AI即将超越人类\n\n- Hassabis说AI正在快速发展，很快就会超过人类的智慧。这就像你学会骑自行车后，突然发现自己比小时候更懂骑车技巧。\n- AI不仅能处理大量数据，还能像科学家那样提出新想法。比如，AI能发现药物分子，就像有人突然想到了新菜谱。\n- Google展示了AI在医学研究上的应用，比如预测蛋白质折叠（蛋白质是维持生命的关键结构），这就像AI在玩一个复杂的拼图游戏，但能比人类更快地找到答案。\n\n### 人工智能的未来\n\n- Hassabis认为，AI将像水电一样普及，成为每个人都能用的工具。就像现在人人都会用手机一样，未来大家都会用到AI。\n- AI的发展已经到了一个临界点，就像智能手机刚出来时，没人知道它会变成今天的样子。现在AI也到了这个阶段，未来会有更多突破。\n- Google强调AI要为人类服务，而不是像科幻电影那样威胁人类。这就像说，自动驾驶汽车会让人更安全，而不是更危险。\n\n总之，Google觉得AI正要迎来大爆发，就像互联网刚兴起时那样，未来会深刻改变我们的生活和工作。",
-      "summarized_at": "2026-05-27T11:45:10.373Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1779882292160",
       "title": "Roundtables: Can AI Learn to Understand the World?",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## NVIDIA/Cutlass：让电脑算得更快的小工具\n\n想象一下，你要办一个超大的派对，需要同时做很多事：订菜、布置场地、发邀请函……如果一个人忙不过来，你就需要找帮手。NVIDIA/Cutlass就是电脑里的\"帮手\"，专门帮忙做数学计算超级快的事。\n\n### - 核心功能\n这个工具能让电脑在做复杂的数学运算时，像流水线一样高效。比如，处理视频、玩游戏、或者做科学计算，它都能让电脑跑得更快。\n\n### - 为什么需要它\n现在的电脑运算越来越复杂，比如分析一张照片需要做成千上万的数学计算。没有Cutlass，电脑会像一个人手忙脚乱；有了它，就像请了好多工人一起干活，效率大大提高。\n\n### - 怎么用\n这个工具用的是模板和Python，就像用乐高积木自由组合。你可以根据需要，用Python写简单的指令，Cutlass就能自动变成高效的计算程序。\n\n### - 适合谁\n- 开发游戏的人\n- 做人工智能研究的人\n- 需要处理大量数据的科学家\n\n总之，NVIDIA/Cutlass就像给电脑请了个超级数学家团队，让各种需要大量计算的工作都能快速完成，无论是做游戏还是搞科研都特别有用。",
       "summarized_at": "2026-05-27T11:46:10.130Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779882297062",
-      "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
-      "summary": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。\n2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。\n5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场别开生面的“世界咖啡”AI+产业对接会。60位国内领军企...",
-      "url": "https://36kr.com/p/3826932509364869?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-27T02:38:25.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI发展新方向：实用比技术更重要\n\n最近AI发展有个新趋势，就像手机从追求颜值转向实用功能一样。以前大家比拼AI算力、速度，现在更看重实际用处。比如，AI成本大幅下降后，企业不再纠结技术多高级，而是看AI能不能帮他们省钱、提效率。\n\n### - 成本大幅降低\n以前用AI很贵，现在价格便宜很多。打个比方，以前一百万个AI处理量要花不少钱，现在几分钱就够了。这就像以前打车很贵，现在网约车便宜多了，大家就更愿意用了。\n\n### - 实际场景成关键\nAI现在要进入真实生活，比如医院、工厂、仓库等地方。以前AI可能只在实验室里表现好，现在要看它能不能解决实际问题。就像以前手机功能再多，但没人用，现在功能实用大家才喜欢。\n\n### - 2026 AI Partner大会\n最近有个AI大会，主题是“带着AI去前线”，意思是AI要真正进入各行各业。会上讨论了AI怎么在各行业应用，还开了对接会，让企业和AI公司直接交流。这说明AI正从实验室走向实际应用。\n\n### - 谁解决实际问题谁成功\n未来AI竞争的关键是看谁能解决真实问题。比如，AI能帮医院提高效率，或者帮工厂降低成本，才是真正的成功。就像以前买电器，大家看的是实用性，而不是广告多花哨。",
-      "summarized_at": "2026-05-27T11:46:13.285Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779882297062",
-      "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
-      "summary": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，AI母婴智能硬件品牌珂迪Coddie（以下简称“Coddie”）完成天使轮融资，融资金额数千万元，由钟鼎资本投资，向阳资本担任独家财务顾问。\nCoddie团队于2026年初组建，由95后连续创业者何鋡威创立。何鋡威毕业于德国慕尼黑工业大学，先后任职华为、传音控股、拓竹科技等全球化科技企业。技术负责人毕业于国内顶级高校计算机专业，曾就职半导体龙头上市公司，负责大疆与Insta360影像IC方案落地；后加入国家“小巨人”第三代半导体企业担任产品负责人，具备复杂产品研发的深厚技术背景，以及前沿方案的系统整合能力。\n当前全球母婴家庭面临养育压力大、成本高、...",
-      "url": "https://36kr.com/p/3826922264286083?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-27T02:27:05.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 95后创业团队Coddie获投资，打造AI母婴神器\n\n- **公司简介**：Coddie是一个专门做AI母婴智能硬件的品牌，最近拿到了几百万元的投资，投资方是钟鼎资本。\n- **团队背景**：Coddie的创始人是95后的小伙子何鋡威，他以前在华为、传音控股等大公司工作过，经验很丰富。技术负责人也很厉害，毕业于名牌大学，参与过大疆相机和无人机芯片的研发，还负责过高科技材料的产品开发。\n- **市场痛点**：现在很多家庭养孩子压力很大，开销也高，Coddie想用AI技术帮大家解决这些问题。比如，通过智能设备自动记录宝宝的成长，或者提供育儿建议，让养娃更轻松。\n- **产品特点**：Coddie的产品可能像智能婴儿监视器或者育儿助手，能自动识别宝宝的需求，比如哭声、体温等，然后提醒家长。这就像一个24小时在线的育儿顾问，但用起来更方便。\n- **未来目标**：团队希望把Coddie打造成母婴行业的“特斯拉”，意思是想用创新技术改变这个行业，让养娃变得更智能、更简单。",
-      "summarized_at": "2026-05-27T11:46:19.076Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779882297062",
-      "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
-      "summary": "文丨果脯\n2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。 \n\n  \nS2赛季上线前，这款产品更是被寄予厚望，腾讯方面称其“有望成为下一款长青产品”。此时，距离《三角洲行动》正式官宣跻身“长青游戏”，也才过去一个季度。 \n出乎所有人意料的是，5月21日S2赛季更新后，事情迅速脱离了轨道。 \n几天之内，玩家社区出现大量争议，游戏B站官方动态评论数一度突破百万。彼时...",
-      "url": "https://36kr.com/p/3826354349412992?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-27T02:05:05.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 《洛克王国：世界》给长青游戏的启示\n\n## 游戏爆火但出事\n\n腾讯出的《洛克王国：世界》原本是个爆款，上线9天就有3000万用户，预约6000万，每天活跃1300万。大家都觉得这游戏能像《王者荣耀》一样长久玩下去。\n\n## 更新后出问题\n\n但最近一次更新后，玩家突然不爽了。网上吐槽声一片，B站评论区有百万条留言。游戏好像一下子就凉了。\n\n## 为什么会这样？\n\n- **玩家太敏感**：现在大家玩游戏都讲究完美，一点点问题就炸锅\n- **更新没做好**：可能改动太大，玩家不习惯\n- **太想当长青游戏**：团队可能太急功近利，忘了玩家真正想要什么\n\n## 给长青游戏的建议\n\n想做个能玩 lâu lâu 的游戏，要像养孩子一样慢慢来。不能光盯着数据，得真心对玩家好。就像老牌奶茶店，几十年都在改进味道，才没人敢抢生意。",
-      "summarized_at": "2026-05-27T11:46:20.893Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779882297062",
-      "title": "36氪首发｜男士美妆品牌「GREENLAB绿所」获宝顶创投战略投资，张耀东出任公司董事",
-      "summary": "36氪获悉，无感化面部理容品牌「GREENLAB绿所」（以下简称“绿所”）近日宣布完成千万级新一轮融资，本轮由宝顶创投战略投资。融资完成后，宝顶创投创始合伙人张耀东将出任绿所公司董事，参与品牌战略、产品矩阵、渠道经营等方面的长期建设。\n这也是继2025年完成Pre-A轮融资后，绿所在半年左右时间内再次获得外部资本加注。据了解，本轮资金将主要用于新品研发量产、品牌建设、渠道经营及组织能力提升等方面。\n绿所是36氪持续关注的品牌，定位“无感化面部理容”，重点面向“精致懒”的年轻男性用户。所谓“无感化”，指的是用户在购买、使用和呈现效果上都尽量没有心理负担：产品要自然、方便、高效，不需要复杂技巧，也...",
-      "url": "https://36kr.com/p/3825817310368385?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-27T01:00:06.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 男士美妆品牌「GREENLAB绿所」获千万融资\n\n## 融资信息\n- 绿所这个男士美妆品牌最近又拿到一笔钱，是宝顶创投投的，金额有1000万\n- 投资方还派了一位叫张耀东的人当董事，负责帮忙做长期规划\n\n## 公司情况\n- 绿所专门做让男人变帅的产品，但不用费劲\n- 适合那些想变好但懒得化妆的年轻人\n- 产品特点是：用起来不麻烦，效果自然，不用花心思\n\n## 发展计划\n- 这笔钱主要用来：开发新产品、宣传品牌、找更多经销商、提升团队能力\n- 这是他们最近半年拿到的第二笔投资，去年也融过钱\n\n## 核心观点\n- 男人也需要美妆产品，绿所就是专门给不想太费劲的男生准备的\n- 投资方看好这个品牌，会继续帮忙发展",
-      "summarized_at": "2026-05-27T11:46:27.848Z",
       "summary_status": "success"
     },
     {
