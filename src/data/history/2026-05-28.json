@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-28T11:44:00.589Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-28T11:44:00.590Z",
+    "date": "2026-05-28",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1779968563905",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…...",
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-28T09:51:11.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 2026届毕业生不欢迎AI\n\n最近有件事挺有意思：2026届大学毕业生们对AI可没表现出多少热情。当前谷歌CEO Eric Schmidt在大学毕业典礼上说，这些学生要帮助塑造人工智能，结果台下响起一片嘘声。\n\n这就像你跟一群小朋友说：\"你们要帮造电脑！\"他们可能会觉得你在开玩笑，甚至觉得你抢了他们玩耍的时间。AI现在还处于发展阶段，很多人觉得它还不够成熟，离真正能帮我们搞定所有事情还早。就像小时候玩的玩具，你可能觉得它挺好玩，但不会认真对待它的承诺。\n\n- **毕业生态度**：学生们觉得AI现在还不太靠谱，需要改进\n- **AI现状**：虽然AI被捧得很高，但离真正改变生活还有距离\n- **例子**：就像很多父母给孩子报各种兴趣班，但孩子并不一定喜欢\n\n所以，虽然外面都在说AI要改变世界，但实际接触中，大家还是保持点距离。毕竟，技术再牛，也要看它能不能真正帮到我们。",
-      "summarized_at": "2026-05-28T11:42:51.369Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779968563905",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite ...",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-26T14:54:10.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业用AI遇大难题：想用但用不了\n\n### 核心问题\n现在很多公司都在想用AI帮手，但实际操作起来却很困难。就像你想请个超能干的家政阿姨，但家里房子太乱、规矩太多，根本住不下她。\n\n### 数据真相\n- 85%的公司说：“我们明年想用AI干大事！”\n- 但76%的公司又说：“现在家底太薄，根本撑不起AI这摊子事！”\n\n### 具体困难\n- 公司电脑系统太老旧，AI就像新手机插不上旧充电器\n- 公司流程像老式胶片相机，AI这种数码产品根本没法兼容\n- 员工都习惯用老方法，突然要学AI操作，相当于让老人用智能手机\n\n### 类比说明\n就像200年前有人想用手机，但当时连电都稀罕。现在公司想用AI，但连基本网络都还没搭好。员工培训就像教老人用微信，学了半天还是只会发朋友圈。\n\n### 解决思路\n公司得先升级“硬件”（设备）和“软件”（流程），才能让AI真正帮忙干活。别光说想用，得先看看家底够不够。",
-      "summarized_at": "2026-05-28T11:42:53.042Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779968563905",
-      "title": "A reality check on the AI jobs hysteria",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—...",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-26T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI会让白领失业吗？\n\n最近大家都听说，AI要抢走白领工作了。科技公司（比如Coinbase、Meta和Cisco）纷纷裁员，好像预示着各行各业的知识工作者都要遭殃了。有人吓得想马上辞职，但事实真的这么严重吗？\n\n**AI不是万能的**\n\n想想看，AI就像一个超级助手，能做很多重复性工作，比如整理文档、处理数据。但它不像人那样有创造力，搞不定需要想象力和判断力的活儿。就像扫地机器人再厉害，也 replacing 不了设计师画图纸。所以，不是所有白领工作都会被AI取代。\n\n**裁员是正常的**\n\n科技公司裁员，其实和行业周期、公司效益关系更大。就像服装店生意不好，可能就少开几家分店。这和AI有没有关系，得看具体情况。不能把个别现象当成整个行业的危机。\n\n**工作要升级**\n\nAI来了，确实有些工作会变。但更多的是工作内容会改变，需要我们学会和AI合作。就像农民有了拖拉机，还是要懂怎么种地。未来，人机协作可能会成为常态。工程师、分析师等职业，更需要提升自己的技能，而不是完全信奉\"AI要毁灭一切\"的说法。\n\n**别恐慌，保持学习**\n\n与其担心AI抢饭碗，不如想想怎么让自己更有用。多学点新技能，比如怎么用好AI工具，怎么处理复杂问题。这才是应对变化最靠谱的方法。",
-      "summarized_at": "2026-05-28T11:43:00.119Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1779968563905",
-      "title": "It’s time to address the looming crisis in entry-level work.",
-      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac...",
-      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-26T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能对工作的影响：潜在危机\n\n### 现状分析\n人工智能目前还没有让很多人失业。发达国家总的就业人数还算稳定，也没有明显证据表明AI改变了整体的就业情况。比如，你看看周围，大家找工作的情况好像并没有因为AI变得更差。\n\n### 隐患提示\n但问题可能没那么简单。就像水表下面藏着水管，就业市场表面看起来没事，实际上可能暗藏玄机。AI可能在悄悄改变人们的工作方式，比如让某些岗位变得不再需要人手，或者让现有工作变得更容易被机器替代。\n\n### 具体例子\n想想看，现在很多商店用自助结账，就是AI的应用。这样一来，收银员岗位就变少了。再比如，AI能做很多数据分析工作，以前需要人做的报表现在机器就能完成。这些变化看起来不大，但叠加起来，可能就会影响很多人的饭碗。\n\n### 未来可能\n如果这种变化继续下去，未来可能会有更多人找不到合适的工作。就像现在很多工厂被机器人取代一样，AI的发展可能会让更多传统工作被淘汰。这并不是说AI本身是坏的，而是提醒我们要提前做好准备，比如学习新技能，适应变化。\n\n总的来说，虽然AI还没造成大规模失业，但它在悄悄改变就业市场，潜在风险需要我们重视。",
-      "summarized_at": "2026-05-28T11:42:59.725Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1779968563905",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# 快又省内存的精确关注技术\n\n## 什么是精确关注？\n\n想象一下你在班级里找同桌，你会先看同桌，然后快速扫视周围同学，最后确认同桌的位置。这就是\"精确关注\"——在处理信息时，只关注最相关的部分，忽略无关的。\n\n## 生活中的例子\n\n比如你用手机查天气，软件会自动找到你所在的位置，而不是给你一堆无关的天气预报。这就是精确关注，它只关心最重要的信息。\n\n## 技术亮点\n\n- **速度快**：比传统方法快得多，就像查天气软件秒开一样\n- **省内存**：不用把所有信息都存下来，就像你不会记住全班所有同学的样子\n- **精准度高**：不会漏掉关键信息，就像一定能找到同桌\n\n## 为什么重要？\n\n在处理大量数据时，这种技术能帮电脑更快做出判断，就像你能在课堂上一眼找到老师一样。现在很多AI都在用这个技术，让机器学习更高效。\n\n## 应用场景\n\n- 语音助手理解你的指令\n- 机器翻译文字\n- 识别图片中的物体\n\n这个技术就像给电脑装上了\"火眼金睛\"，让它能快速准确地找到需要的信息，而且不会浪费资源。",
       "summarized_at": "2026-05-28T11:43:43.851Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779968566907",
-      "title": "氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭",
-      "summary": "大公司：\n格林生物创业板IPO过会\n36氪获悉，深交所上市审核委员会召开2026年第27次上市审核委员会审议会议，审议结果显示，格林生物科技股份有限公司首发符合发行条件、上市条件和信息披露要求。\n晨光股份：拟以5亿元至10亿元回购股份用于股权激励或员工持股计划\n36氪获悉，晨光股份公告，公司拟以自有资金通过集中竞价方式回购股份，回购资金总额不低于5亿元（含），不超过10亿元（含），回购价格不超过35元/股。回购股份将用于股权激励或员工持股计划，回购期限自董事会审议通过之日起12个月内。\n中国交建：附属公司拟参与设立10亿元交通信息科技基金\n36氪获悉，中国交建公告，公司附属公司中交资本及中交鼎...",
-      "url": "https://36kr.com/p/3828874222555782?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-28T11:35:17.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 氪星晚报要点总结\n\n### 财经新闻\n- 微博第一季度赚了4亿多美元，比去年多了6%\n- 格林生物科技股份有限公司在创业板上市审核通过，就像公司终于拿到开店的执照\n- 晨光股份准备花5到10亿回购自己的股票，分给员工当奖励，相当于公司用钱买自己的股份送给员工\n- 中国交建的子公司要参与成立一个10亿的交通科技基金，就像合伙开个基金专门投资交通黑科技\n\n### 科技新闻\n- 科大讯飞出了款AI眼镜，能听懂话、当翻译，就像带眼睛的智能助手\n- 日本有个太空公司叫AstroX，计划用气球把火箭送上天，比较节省成本，像用气球当火箭的\"电梯\"\n\n### 行业动态\n- 这些公司都在投资未来，有的搞科技产品，有的搞太空项目，有的帮员工赚钱\n- 网络公司赚钱了，说明大家还在用微博，像生活离不开手机一样\n- 上市和回购都是公司发展的重要手段，就像公司要扩大规模需要资金，也要奖励员工保持干劲",
-      "summarized_at": "2026-05-28T11:43:43.281Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779968566907",
-      "title": "科氪 | 一天连签10所高校！京东养车构建产教融合型技师培育体系破解人才缺口难",
-      "summary": "5月28日，2026京东养车合作伙伴大会在北京举行，全国各地超2000名加盟商合作伙伴及产业链合作伙伴齐聚一堂，围绕提升用户体验、增强用户信任、以创新驱动门店更高盈利空间等核心议题深入交流。京东养车宣布2025年年底其门店数量已突破4000家，且门店盈利能力保持稳健增长。京东养车也公布了最新招商政策，推出“3年加盟费低至0元、管理费至高减免12月”等扶持举措。活动现场，京东养车还与10所高校进行签约，旨在通过规模化校企合作，建立系统性人才招用育留体系，为行业持续发展注入动力。\n\n官方图片\n当前，新能源车渗透率已超50%，行业保持高速增长，为汽车后市场带来广阔发展机遇。与此同时，行业短板也逐步显...",
-      "url": "https://36kr.com/p/3828856781099910?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-28T11:14:39.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 京东养车快速扩张，和大学合作培养修车师傅\n\n京东养车发展很快，现在已经开了4000多家店，而且赚钱越来越稳。为了让更多人愿意加盟，他们推出了很多优惠，比如3年加盟费可能不用交，管理费也能少交好几个月。\n\n更重要的是，京东养车和10所大学达成了合作。他们想通过和大学一起培养修车师傅，解决汽车行业招人难的问题。现在新能源车越来越多，修车师傅特别抢手，但很多人不会修这些新式车子。京东养车和大学合作，就是想让学生们学到真本事，毕业就能直接上他们店里工作。\n\n## 关键信息\n- 京东养车店越来越多，越来越赚钱\n- 他们给加盟商很多优惠，比如免加盟费、少交管理费\n- 和10所大学合作，培养修车师傅\n- 汽车行业需要更多会修新能源车的人\n- 大学学生有机会学到新技术，毕业后好找工作",
-      "summarized_at": "2026-05-28T11:43:53.852Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779968566907",
-      "title": "科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
-      "summary": "2026 年 5 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）携手 TCL 好莱坞中国剧院举办夏季新品发布会，正式推出行业首款专业影视级 AR 眼镜雷鸟 GT 系列，以极致巨幕、影院级音画与轻盈佩戴，带来真正媲美影院的随身观影体验，售价 1899 元起；同时，新一代 AI 拍摄眼镜雷鸟 V4，在 AI 响应、超长续航、暗光拍摄、防水防尘等核心体验上全面刷新行业上限，带来真正具备替代传统眼镜的日常佩戴能力，售价 2199 元起。\n \n\n官方图片\n作为全球 AR 眼镜市场第一品牌，雷鸟创新凭借从底层光学设计到整机量产的全链路自研能力，全面布局覆盖 AR 观影、AI 拍摄与 AI...",
-      "url": "https://36kr.com/p/3828851140350592?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-28T11:08:59.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 雷鸟创新发布两大新品 AR 眼镜\n\n### 雷鸟 GT 系列：随身迷你电影院\n- 推出行业首款专业影视级 AR 眼镜，价格 1899 元起\n- 能把电影场景带到身边，戴上就像在电影院看大屏幕\n- 优点是画面清晰、声音好，戴起来还不重\n- 像把电影院装在眼睛里，随时随地都能看大片\n\n### 雷鸟 V4：AI 拍照神器\n- 新一代 AI 拍摄眼镜，价格 2199 元起\n- 拍照更智能、电池更耐用、晚上也能拍清楚\n- 防水防尘，戴着它拍照就像用专业相机\n- 功能强大到可以代替普通眼镜，日常都能用\n- 像带着一个微型摄影棚，随时随地拍出大片\n\n### 雷鸟创新的技术实力\n- 是全球 AR 眼镜市场的第一品牌\n- 从设计到生产都是自己搞定，技术很厉害\n- 不断推出新功能，让 AR 技术更实用\n- 目标是让 AR 眼镜像手机一样普及\n\n### 核心看点\n- 两个产品都很有特色，一个适合看片，一个适合拍照\n- 价格不算贵，功能却很强大\n- 代表 AR 技术终于进入普通人生活\n- 以后看电影、拍照、日常佩戴都能用上 AR 眼镜",
-      "summarized_at": "2026-05-28T11:43:51.164Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1779968566907",
-      "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
-      "summary": "文｜王欣逸 李嘉星\n编辑｜周鑫雨\n一家Day 1就在做多模态大模型的公司，无法拒绝参与到具身智能和世界模型热潮之中。\n2026年，随着Seedance 2.0、GPT Image 2.0等模型的爆火，多模态能力越来越成为行业内绕不开的关键词。5月19日，智象未来首届开放日上，智象未来给出了他们的判断和回答：“原生多模态是实现AGI的必经之路。”\n本场开放日活动主题为“Imaging the World”，不过，对于智象未来而言，「World」的重要性，几乎要放在「Video」和「Image」之前了。\n“我们的终极目标是打造世界模型。”智象未来CEO梅涛在活动中反复提及这一观点，在他的定义中，智...",
-      "url": "https://36kr.com/p/3820602297208966?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-28T08:20:12.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 智象未来CEO梅涛谈多模态AI\n\n### 多模态模型更赚钱\n智象未来的CEO梅涛说，他们做的那种能同时处理图片、声音、文字的AI（叫多模态模型），比只能处理文字的AI（语言模型）赚得更多。就像开杂货铺比只卖一种东西的店赚得多一样。\n\n### 多模态是AI未来\n从2026年开始，像能认图说话、看视频做反应的AI越来越火。智象未来觉得，这种能\"看懂世界\"的AI（叫原生多模态）是让AI变得超级聪明的必经之路。就像学英语不光学单词，还要学听说读写，才能交流一样。\n\n### 终极目标是\"理解世界\"\n智象未来的目标是造出能完全理解我们世界的AI（叫世界模型）。CEO梅涛说，他们觉得\"世界\"比\"视频\"和\"图片\"更重要。这就像玩游戏，不光要会看风景，还要会和人互动、懂规则。\n\n- **核心观点**：多模态AI更赚钱，是AI发展的必经之路  \n- **生活例子**：多模态AI就像开杂货铺，比只卖一种东西的店赚得更多  \n- **行业趋势**：从2026年起，能认图说话、看视频做反应的AI越来越火",
-      "summarized_at": "2026-05-28T11:44:00.589Z",
       "summary_status": "success"
     },
     {
