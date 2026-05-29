@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-05-29T11:36:05.323Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-05-29T11:36:05.324Z",
+    "date": "2026-05-29",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1780054459832",
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente...",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-29T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 教皇的AI指南：科技不是中立的\n\n教皇利奥十三世的新文件《Magnifica Humanitas》（伟大的人性）提醒我们，科技其实很“双刃剑”。比如，手机既能帮你联系朋友，也可能被坏人用来诈骗。教皇的意思是，科技本身没好坏，关键看人怎么用。\n\n- **科技不是中立的**：就像一把刀，可以切菜也可以伤人。AI也一样，能帮你找工作，也可能被用来制造假新闻。\n- **个人要勇敢行动**：教皇呼吁大家像对待家人一样，对待AI。比如开发AI时，要考虑会不会伤害别人，不能只顾自己赚钱。\n- **团结很重要**：单打独斗解决不了问题。就像治理污染，必须大家一起努力，政府、企业、普通人都要参与。\n\n教皇的这番话特别适合现在讨论AI的场合。毕竟AI正在改变我们的生活，就像互联网刚出现时一样。这时候，如果大家只顾着发展技术，不考虑后果，未来可能后悔。所以，无论是科学家还是普通人，都应该思考：我们希望用AI创造一个什么样的世界？",
-      "summarized_at": "2026-05-29T11:34:39.895Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780054459832",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…...",
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-28T09:51:11.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 2026届毕业生对AI反应冷淡\n\n最近，AI这个火得不能再火的技术，在大学毕业典礼上遇到了点小尴尬。有人问2026届的大学毕业生，你们以后打算怎么对待AI？结果毕业生们不但没鼓掌，反而用掌声表示反对。这到底是怎么回事呢？\n\n### AI被大家吐槽的原因\n\n- **AI的负面印象**：现在大家一提到AI，想到的不是智能机器人，而是各种让人不爽的软件。比如，购物网站总推荐你不需要的东西，地图导航总给你绕远路，这些让人感觉AI不仅没帮到忙，反而添堵。\n- **AI取代工作的担忧**：很多毕业生担心，等他们毕业，AI会把很多好工作抢走。就像工厂里的机器人，以前都是工人干活，现在机器一上岗，很多人就没饭吃了。\n- **AI不公平对待人**：有人觉得AI就像个偏见重的裁判，总把机会给某些人。比如，有些AI会自动筛选简历，结果很多优秀的人因为一点小错误就被淘汰了。\n\n### 毕业生对AI的态度\n\n- **不想被AI控制**：毕业生们觉得，AI虽然厉害，但不能让AI替自己做所有决定。就像开车，自己掌握方向盘总比被自动驾驶控制感觉踏实。\n- **希望AI更有用**：大家希望AI能帮解决实际问题，而不是像现在这样，只是个“花架子”。比如，AI能不能帮老师改作业时别那么死板，或者让外卖小哥别总迟到。\n\n### AI的未来\n\n虽然现在大家对AI有点意见，但毕业生们也明白，AI是好工具，关键是怎么用。就像一把刀，可以切菜也可以伤人，怎么用就看人了。所以，AI还是得靠大家好好引导，别让它乱来。",
-      "summarized_at": "2026-05-29T11:34:37.871Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780054459832",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite ...",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-26T14:54:10.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业AI转型遇难题：理想与现实差距大\n\n现在很多公司都在搞AI，但很多人心里想搞，手上却没动静。就像你想学做菜，但家里没锅没灶，光想没用。有85%的公司说3年内要搞AI，但76%的公司觉得现在这摊子事做不了。这些公司主要愁的是：\n\n- **钱不够**：搞AI要花大价钱，就像想盖新房但首付不够\n- **人不行**：员工不懂AI，就像请了师傅但没人能干活\n- **系统乱**：现在的技术老掉牙，就像用老式打字机想发微信\n- **流程死**：公司规矩太多，决策拖拖拉拉，就像排队买票但窗口关门\n\n举个例子：某公司想用AI帮客服自动回复，但客服部说\"我们连电脑都够用\"，IT部说\"系统改不了\"，最后只能继续人工客服。这种\"想干但干不了\"的情况很常见。\n\n**核心问题是**：公司都说要搞AI，但就像买手机时都说要当程序员，最后真正会编程的没几个。现在很多公司还没准备好，就像想开电动车但充电桩都没装。要解决这个问题，公司得先看看自己缺什么，是缺钱、缺人还是缺技术，不然光喊口号没用。",
-      "summarized_at": "2026-05-29T11:34:52.736Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780054459832",
-      "title": "A reality check on the AI jobs hysteria",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—...",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-26T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能不会让所有人失业\n\n最近，很多人担心AI会让白领工作消失。科技公司（比如Coinbase、Meta和Cisco）裁员的消息传得沸沸扬扬，让人以为所有知识工作者很快也会失业。但别急着辞职，这其实是个被夸大的恐慌。\n\n### AI真的会抢走所有工作吗？\n\n想象一下，超市收银员被自助结账取代了，但这不代表所有商店都没有收银员了。同样，AI可能会做很多以前由软件工程师或财务分析师做的事情，但不会完全取代这些职业。\n\n### AI更像是帮手，不是对手\n\nAI就像一个超级助手，能帮你处理重复性工作。比如，AI可以帮你写报告、处理数据，但写代码、做财务分析这种需要创造力和判断力的工作，目前还很难完全交给AI。\n\n### 科技公司裁员的原因\n\n科技公司裁员，更多是因为市场变化和成本考虑，而不是AI在作祟。就像一家餐馆因为经营不善裁员，不代表所有餐馆都会倒闭。\n\n### 知识工作者应该怎么做？\n\n与其担心被AI取代，不如提升自己的技能。学习新知识，多培养创造力、沟通能力这些AI很难复制的能力。就像学开车的人，不用怕自动驾驶，因为人机合作才是未来。\n\n总之，AI不会让所有人失业，它只会改变工作方式。与其恐慌，不如适应变化。",
-      "summarized_at": "2026-05-29T11:34:58.940Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1780054459832",
       "title": "It’s time to address the looming crisis in entry-level work.",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## UniGetUI：让软件管理更简单\n\nUniGetUI是一个图形界面工具，专门用来管理各种软件包管理器。你可以把它想象成一个大管家，专门负责打理家里的各种工具箱。\n\n### 核心功能\n\n- **统一管理**：就像一个总调度，把不同的软件安装工具（比如Windows下的Chocolatey、Linux下的Yum或APT）都整合到一个界面里。\n- **简单操作**：不用记住复杂的命令，点几下鼠标就能安装、更新或卸载软件，就像用手机下载App一样简单。\n- **跨平台支持**：无论你是用Windows、macOS还是Linux，都能用它来管理软件，不用为不同系统切换工具。\n\n### 为什么需要它？\n\n- **减少混乱**：很多系统有多个软件安装工具，容易记错或冲突，UniGetUI就像一个整理箱，把所有工具集中起来。\n- **提升效率**：直接在图形界面操作比打命令更快，尤其适合新手或不喜欢命令行的用户。\n- **扩展性强**：支持各种流行的软件包管理器，未来可能还会增加更多，相当于一个不断升级的工具箱。\n\n### 适合人群\n\n- **开发者和IT人员**：需要频繁切换系统或工具的人，可以用它统一管理。\n- **普通用户**：不喜欢记命令，希望简化软件安装过程的人。\n- **系统管理员**：需要管理多台机器或多种环境的用户。\n\n总之，UniGetUI让软件管理变得像用家电一样简单，不用再被命令行吓到，特别适合希望提升效率又不想太复杂的用户。",
       "summarized_at": "2026-05-29T11:35:50.124Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780054463087",
-      "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
-      "summary": "36氪获悉，北京穿越者载人航天科技有限公司（以下简称“穿越者”）近日完成Pre-A轮亿元融资，由某头部互联网战投领投，探路者集团等跟投，老股东中天汇富、彬复资本持续加注。光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻关。\n公司方面表示，引入互联网、人工智能、智能制造、户外装备及文旅场景等领域的产业资本，源于商业载人航天在科技、人文、消费与场景协同上的多重需求。这不仅有助于完善产业生态，也将推动太空旅游从“少数人的高端体验”逐步走向“大众化、普惠化”的新阶段。\n「穿越者」是36氪长期关注的企业。公司成立于2023年1月...",
-      "url": "https://36kr.com/p/3830254963517318?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-29T11:00:15.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 穿越者航天公司融资成功，要造太空巴士带普通人上天\n\n- 要点：载人航天公司\"穿越者\"最近拿到1亿人民币新资金，一个大牌互联网投资公司带头投，还有户外品牌和旅游公司跟着投，老投资也加钱继续支持。这笔钱主要用来研发第一艘载人飞船，做各种测试和解决技术难题。\n\n- 太空旅游要变便宜：公司说，请来这么多不同行业的投资者，是因为载人航天需要科技、文化、消费和实际应用结合起来。比如互联网可以搞智能化，户外品牌懂装备，旅游公司知道怎么推广。这样能帮太空旅游从只有富人玩，变成普通人也能上太空的新时代。\n\n- 公司背景：这家公司是2023年刚成立的，专门搞载人航天的。他们想造出像公交车一样的太空飞船，让普通人也能去太空旅游。这次融资成功，说明很多人看好他们的想法，觉得太空旅游未来会变成大众消费项目。",
-      "summarized_at": "2026-05-29T11:35:46.492Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780054463087",
-      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
-      "summary": "大公司：\n上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付\n36氪获悉，5月28日，上汽集团迎来全球第一亿辆整车交付，成为我国首家累计产销量突破一亿辆的汽车集团。其中，上汽通用五菱累计贡献超3200万辆。当日，上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付。\n特斯拉Optimus专属机器人工厂动工，规划年产能最高可达1000万台\n据报道，特斯拉位于得克萨斯州的超级工厂内，专属Optimus人形机器人工厂正式动工建设，规划年产能最高可达1000万台。该工厂将搭建第二代生产线，计划2027年夏季实现大规模量产，全面投产后日均产量约2.7万台。（界面）\n智元机器人在惠州成立新公司\n...",
-      "url": "https://36kr.com/p/3830194503526277?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-29T09:57:52.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 大公司动态\n\n### 上汽通用五菱新车在印尼交付\n- 上汽集团正式成为我国首家整车产销量突破一亿辆的汽车集团，上汽通用五菱贡献超3200万辆。\n- 5月28日，上汽通用五菱的全球车EKSION在印尼雅加达向首批用户交付，相当于一个大公司开始向国外卖车。\n\n### 特斯拉建机器人厂生产人形机器人\n- 特斯拉在德州建了一个专门生产人形机器人的工厂，像建汽车厂一样。\n- 这个工厂未来每年最多能生产1000万台机器人，相当于一个人工厂能造很多很多机器人。\n- 计划2027年夏天开始大量生产，每天能产2.7万台，相当于一个小镇每天能造很多机器人。\n\n### 智元机器人成立新公司\n- 智元机器人公司在惠州开了个新厂，相当于多了一个生产线的基地。\n\n### 联想等投资诺仕机器人\n- 联想等大公司投资了诺仕机器人，相当于给这个机器人公司很多钱，希望它发展得更好。\n\n### 苹果将在大会上展示AI能力\n- 苹果公司将在一个技术大会上重点展示手机等设备上的AI功能，相当于告诉人们，他们的手机能更聪明了。\n\n### 国家外汇交易额\n- 4月份中国外汇市场总共成交了25.3万亿元，相当于很多人在换外币，交易金额很大。",
-      "summarized_at": "2026-05-29T11:35:56.774Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780054463087",
-      "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
-      "summary": "2026 年 5 月 25 日，OPPO 举办 “Reno Land 奇幻夜”新品发布会，重磅发布多款新品，全新一代 OPPO Reno16 系列潮流手机、OPPO Pad 6 全能平板、 OPPO Pad Air5 学习平板、OPPO Enco Air5s 真无线降噪耳机、OPPO Bubble潮玩自拍屏同步登场。本次发布会围绕年轻用户学习、创作、社交、直播、游戏全场景需求，以潮流美学、实况影像创新、AI 智慧体验、跨设备生态协同为核心，实现手机、平板、耳机无缝联动；同时推出学生专属购机补贴，为学生群体打造一站式入学数码解决方案，重新定义年轻人的潮流移动智能生态。\n\n官方图片\n梦核星球美学全...",
-      "url": "https://36kr.com/p/3830038913558147?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-29T07:17:14.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## OPPO Reno16系列发布，引领潮流手机新风向\n\n### 核心发布\n2026年5月25日，OPPO发布了新款手机OPPO Reno16系列，还有平板电脑、耳机等数码产品。这次发布主要针对年轻人，满足他们在学习、创作、社交、直播、游戏等方面的需求。\n\n### 产品亮点\n- **3D悬浮星球设计**：手机外观采用独特的\"3D悬浮星球\"设计，就像把一个立体星球放在手机上，看起来很有科技感和时尚感。\n- **实况随心贴功能**：手机可以实时调整照片效果，比如动态滤镜、颜色调整等，让拍照更个性，就像用手机直接调电视画面一样简单。\n- **AI智慧体验**：手机内置AI功能，能智能识别场景自动调整设置，比如拍人像自动美化，像变魔术一样简单。\n- **跨设备生态**：手机、平板、耳机可以无缝连接，比如用手机开始直播，切换到平板继续操作，就像用同一个遥控器控制不同家电一样方便。\n\n### 针对学生\n- 推出学生专属购机补贴，学生可以优惠购买，解决开学买新机的烦恼，就像学生用优惠价买文具一样实用。\n\n### 总结\nOPPO Reno16系列通过独特设计和智能功能，重新定义了年轻人的潮流手机体验，让手机不再只是通讯工具，而是学习、创作、娱乐的全方位伙伴。",
-      "summarized_at": "2026-05-29T11:35:57.188Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780054463087",
-      "title": "铃木敏文去世，他与711的三个反常识故事",
-      "summary": "铃木敏文\n作者 | 钟艺璇\n编辑 | 乔芊\n5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。\n作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。\n1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，他第一次注意到了7-Eleven，这个小到不起眼的便利店，在北美已经开出了超过4000家。\n4年后，日本首家7-Eleven正式开业。仅过去1年，7-Eleven在日本迅速突破100家，而美国用了15年。1991年，日本7-Eleven反向收购母公司70%股份，...",
-      "url": "https://36kr.com/p/3829890126046851?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-05-29T05:40:55.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 铃木敏文与711的三个反常识故事\n\n## 1. 偶然发现的大商机\n- 铃木敏文去美国出差时，无意间看到一家叫7-Eleven的小便利店，发现它们在美国居然开了4000多家分店。这让他觉得不可思议，因为当时日本便利店还很少。\n- 就像你突然发现街角新开了一家特别受欢迎的小店，会好奇为什么那么火一样，铃木敏锐地察觉到7-Eleven有潜力。\n\n## 2. 日本开店的快速奇迹\n- 1974年日本第一家711开业，结果只用了1年就开了100家店，比美国花了15年还快！当时人们都说日本人买东西习惯去超市，没没想到便利店这么受欢迎。\n- 这就像你发现一个小吃摊突然排长队，第二天就跟着去尝，结果一传十十传百，很快火爆全城。\n\n## 3. 反向收购的逆袭\n- 1991年，日本711把美国总部反手收购了70%的股份，从一个\"小弟\"变成了\"老板\"。这在商业史上很少见，相当于你本来给老板打工，后来突然成了大股东。\n- 这证明只要眼光毒辣，小公司也能干翻大公司，就像你用几十块钱的投资，最后赚翻了几个亿。\n\n铃木敏文去世了，但他创造的711神话还在继续。他的故事告诉我们：别小看任何看似不起眼的机会，有时候转角遇到爱，就是成功的开始。",
-      "summarized_at": "2026-05-29T11:36:04.561Z",
       "summary_status": "success"
     },
     {
