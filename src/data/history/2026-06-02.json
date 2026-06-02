@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-02T12:11:40.756Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-02T12:11:40.756Z",
+    "date": "2026-06-02",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1780402194190",
-      "title": "Rehumanizing global health care with agentic AI",
-      "summary": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress ...",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T11:23:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 全球医疗太挤了，AI来帮忙\n\n全球的医疗系统现在压力特别大。一方面，钱投得少，医生护士招不到；另一方面，人老了，看病的人又越来越多。结果就是，很多人看病不方便，医生护士压力也大得要死。\n\n### 现在的问题\n- 医疗资源不够：就像餐馆客满，但厨师和服务员都不够，客人等很久。\n- 医疗服务不集中：有的地方有医生，有的地方没医生，病人只能跑远路。\n- 医生护士太累：就像超市收银员连续加班，容易出错或生病。\n\n### AI怎么帮忙\n人工智能（AI）就像一个超级助手，可以帮医生做很多事：\n- 快速看病历：就像AI帮你快速找到网上想要的资料。\n- 提醒医生注意重点：就像导航帮你注意路上的危险。\n- 处理重复工作：比如安排预约，就像智能音箱帮你设置闹钟。\n\n### AI的好处\n- 让看病更方便：就像手机让你随时随地查天气。\n- 减少医生压力：医生不用做所有事，就像开车的人不用修车。\n- 提高效率：就像外卖小哥比自己做饭更快拿到饭。\n\n总之，AI不是取代医生，而是帮他们分担工作，让大家看病更轻松。",
-      "summarized_at": "2026-06-02T12:10:05.116Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780402194190",
-      "title": "How small businesses can leverage AI",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu...",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 小型企业如何利用AI\n\n这篇文章讲了小型企业怎么用AI来帮忙干活。就像咱们平时用导航软件一样，AI能帮企业更聪明地做事。\n\n### AI能做什么\n- **记账和算账**：以前得请会计天天对账，现在AI能自动处理这些，就像电脑帮你自动填表格\n- **做设计**：比如你开个小店，AI能帮你设计海报、招牌，比请设计师便宜又快\n- **做市场调查**：以前得跑很多家店问顾客意见，现在AI能分析网上数据，告诉你大家喜欢什么\n- **开发产品**：就像你开奶茶店，AI能根据天气、顾客喜好建议卖什么口味\n\n### 怎么用AI\n1. 找对工具：现在网上有很多AI软件，不用买昂贵设备\n2. 从小处着手：先让AI帮忙做简单的事，比如自动回复客户消息\n3. 学着用：刚开始可能会卡壳，但多试试就会越来越顺手\n\n### 注意事项\n- AI不是万能的，得有人盯着它干\n- 别把所有机密信息都交给AI处理\n- 定期检查AI干的事对不对\n\n总之，AI就像个超级助手，能帮小型企业省钱又省力，但得学会怎么用它。",
-      "summarized_at": "2026-06-02T12:10:04.977Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780402194190",
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente...",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-29T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 科技不是中立的\n\n- 现在有个新科技，比如智能手机，它既能帮你联系朋友，也可能让你沉迷游戏。这说明科技本身没有好坏之分，关键看你怎么用。\n- 最近教皇利奥十三世发了个文件，叫《Magnifica Humanitas》，意思是\"伟大的人性\"，里面就说了：科技从来不是中立的。就像一把刀，可以用来切菜，也可以用来伤人。\n- 文件里提醒所有人，尤其是搞科技的和做政策的，要用科技的时候得想想后果。比如自动驾驶汽车，能救人命，但万一程序出问题呢？\n- 教皇还呼吁大家团结起来，好好管科技。就像班里的小组作业，一个人乱来大家都会受影响。\n- 文件的核心是：科技是好工具，但人得用好它。不能让工具控制人，要让人控制工具。比如用手机查资料，而不是整天刷短视频。\n- 这份文件给我们的提醒是：用新科技前，先想想它可能带来什么问题，再决定怎么用。毕竟科技是把双刃剑，怎么用在我们手里，得自己拿主意。",
-      "summarized_at": "2026-06-02T12:10:14.466Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780402194190",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…...",
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-28T09:51:11.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 2026届毕业生不买AI账\n\n最近有个事儿挺有意思的，就是人工智能（AI）现在这么火，但在大学毕业典礼上居然被毕业生们嘲笑了。不是说AI会改变世界，而是当前Google前CEO Eric Schmidt在亚利桑那大学毕业典礼上跟2026届学生说，他们的任务是要帮助发展AI时，学生们直接鼓起了倒掌。\n\n### 谁是AI？\nAI其实就是那种能像人一样思考、做事的机器。就像手机现在能帮你查天气、定闹钟，这就是AI在帮忙。不过现在AI还不太成熟，有时候会出错，这就让一些人觉得它没那么靠谱。\n\n### 学生为啥不高兴？\n- 毕业生们觉得，AI现在还不太智能，需要他们花很多时间去完善。\n- 有学生直接问Eric Schmidt：“我们怎么帮？AI都还不会自己走路呢！”\n- 大多数学生对AI的印象是，它只会抢工作，比如机器人来做超市收银员，让人失业。\n\n### AI现在像什么？\n想象一下，现在你买个新玩具，它只能做几件事。你期望它马上能跟你聊天、做家务，但它做不到。AI现在就像这个新玩具，看起来很酷，但离真正有用还差得远。\n\n### 未来的AI要怎么变？\n- 需要更多的科学家和工程师去改进AI，让它更聪明、更稳定。\n- 学生们觉得，与其让他们去抱大腿（帮AI发展），不如先让AI学会自己站稳脚跟。\n- 最重要的是，AI的发展不能只靠技术，还要考虑道德和公平，不能让机器成为新的不公平的源头。\n\n总之，现在AI还不太行，毕业生们觉得不该让他们背这个黑锅，得等AI真正强大起来再说。",
-      "summarized_at": "2026-06-02T12:10:16.088Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1780402194190",
       "title": "Rethinking organizational design in the age of agentic AI",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Qlib：AI帮着做投资研究\n\n### 什么是Qlib？\nQlib是一个专门用AI技术做投资的平台，就像一个智能助手，能帮你从发现投资想法到实际赚钱，整个过程都不用手动操作。它就像一个全自动的实验室，专门研究怎么用钱生钱。\n\n### 它能做什么？\n- **多种AI方法**：Qlib支持各种AI方法，比如教电脑认模式（像教小狗认骨头）、分析市场变化、甚至让电脑自己学习怎么操作（像教孩子自己找乐高拼图）。这些方法能帮你更快找到好投资。\n- **自动化研究**：现在Qlib还装上了GitHub上的“RD-Agent”，能自动帮你做研究和开发，就像一个机器人专门负责做实验，省得你天天盯着电脑。\n\n### 为什么实用？\n以前做投资研究得靠人一天到晚看数据、试方法，累又慢。Qlib用AI来帮忙，就像让电脑当人肉计算器，效率高多了。它还能自动记录实验过程，就像自动写实验报告，省得你记不住细节。\n\n总之，Qlib就是用AI技术帮你简化投资研究，让你不用当苦行僧，也能轻松玩转投资世界。",
       "summarized_at": "2026-06-02T12:11:21.621Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780402197982",
-      "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
-      "summary": "大公司：\n高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜\n36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出发前即可直观判断目的地是否符合预期。\n江西国家稀土技术创新中心成立，注册资本12.5亿\n36氪获悉，天眼查App显示，近日，江西国家稀土技术创新中心有限公司成立...",
-      "url": "https://36kr.com/p/3834354708031111?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-02T11:50:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 商业动态\n\n- **Ardian与Verne合作建数字园区**：一家叫Ardian的投资公司，和Verne这家公司一起，准备在法国花50亿欧元建一个数字基础设施的园区，专门搞高科技建设。\n- **快手平台新增职业**：快手这个短视频平台，现在一共帮助创造了189个新的职业，其中因为人工智能发展，又新增了15个职业，说明科技进步带动了新工作机会。\n- **中央发放育儿补贴**：国家财政给了999亿元，专门用来支持育儿补贴制度，帮助家长们减轻养孩子的经济压力。\n\n## 科技合作\n\n- **高德地图与新加坡旅游局合作**：高德地图和新加坡旅游局联手，推出了一个叫“新加坡扫街榜”的文旅榜单，这是国内首个和海外旅游局一起做的榜单。他们还把国内的高科技飞行街景技术带到了新加坡，让游客可以通过360度全景图提前看好想去的地方。\n- **江西成立稀土技术创新中心**：江西成立了一个叫国家稀土技术创新中心的公司，注册资本有12.5亿，目的是研究和开发稀土技术，推动这个领域的发展。",
-      "summarized_at": "2026-06-02T12:11:20.982Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780402197982",
-      "title": "美团在竞争中看清自己",
-      "summary": "作者｜任彩茹\n编辑｜乔芊\n参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。\n2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。\n业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股。\n值得关注的是，本季财报中美团还更新了两个关键的收入口径：\n一方面，将“商品销售收入”单列，主要来自食杂零售业务（以小象超市、快驴为主）以及药品、酒类等其他自...",
-      "url": "https://36kr.com/p/3835814792492416?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-02T09:20:31.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 美团搞得好，钱省了\n\n美团最近发了个季度成绩单，虽然比别的竞争对手晚点公布，但结果挺让人惊喜。他们说自己亏损少了，这是件好事。\n\n简单说，美团这个季度收入有910亿，比去年多了5.6%，差不多大家预想的。最厉害的是，他们花的钱少了，从上一季的161亿降到65亿。特别是做外卖这块生意，上个月还亏100亿，这回只亏20亿，比别人猜的还少。\n\n这消息一出，美团的股票价格立马涨了，最高超过了9%。这说明大家觉得美团做得不错。\n\n还有一个值得一提的变化，美团现在把卖杂货（比如小象超市那些）和卖药、酒这些收入单独列出来了。这就好比以前你买东西时，什么都混在一起算，现在把不同种类的收入分开看，更清楚自己哪些生意做得好。",
-      "summarized_at": "2026-06-02T12:11:26.990Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780402197982",
-      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
-      "summary": "文｜肖思佳\n编辑｜乔芊 杨轩\n5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。\n随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。”\n据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会...",
-      "url": "https://36kr.com/p/3835814391100550?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-02T09:13:50.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 豆包开始收费了，6月下旬正式上线付费内容\n\n豆包之前说会推出付费服务，现在终于要落实了。他们打算在6月下旬正式开始收费，让用户花钱买更高级的服务。就像你去理发，有些理发店免费帮你洗头，但如果你想做个复杂的发型，就要额外付钱。豆包也是这样，免费服务基础上，想体验更多好玩的，就得掏腰包。\n\n### 付费方案大公开\n豆包准备了四档不同的收费标准，就像选择手机套餐一样：\n- **基础版**：免费，提供基本功能\n- **标准版**：每月68元，比免费版多了些好东西\n- **加强版**：每月200元，更多特权\n- **专业版**：每月500元，最顶配\n\n如果一次性交一年，会更划算：\n- **基础版**：免费\n- **标准版**：688元/年\n- **加强版**：2048元/年\n- **专业版**：5088元/年\n\n### 官方说啥\n豆包官方解释说，他们一直有免费服务，现在只是想给愿意花钱的用户更多选择。就像公园免费开放，但如果你愿意，可以买门票进VIP区玩得更尽兴。\n\n### 后续计划\n知情人士透露，豆包的收费只是开始，他们会在6月下旬正式上线付费内容，并配合一场叫Force的大会搞活动。这说明豆包商业化动作不小，会逐步推出更多收费项目。\n\n总的来说，豆包开始收费了，用户可以根据自己的需求选择不同档次的付费服务。",
-      "summarized_at": "2026-06-02T12:11:29.449Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780402197982",
-      "title": "做了18年民宿的爱彼迎，开始卖酒店了？",
-      "summary": "爱彼迎的”进化“\n五月的旧金山，正在经历一场技术的集体癫狂。硅谷的各路AI新贵忙着为机器进化摇旗呐喊，把发布会开成一场场技术狂欢，仿佛人类的下一步就是被算法接管一切。\n同样的城市里，Brian Chesky——爱彼迎联合创始人兼首席执行官，站上爱彼迎旧金山总部2026夏季发布会的舞台，面对着坐满一楼中央大厅的全球媒体和围在办公大楼每层栏杆边上的爱彼迎员工，他拿应该是过去一年最让他兴奋的事开场了，不是爱彼迎如何利用AI来进化，而是——\n一位在巴黎专拍家庭和情侣的摄影师，去年靠爱彼迎体验赚了14.5万美元；一位意大利第三代意面传人，靠每场90分钟、收费70美元的手工意面课，赚了超过18万美元；一位...",
-      "url": "https://36kr.com/p/3835511712363657?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-02T04:23:41.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 爱彼迎的新方向\n\n爱彼迎的老大布莱恩·切斯基最近在旧金山搞了个发布会，他说现在最让他兴奋的不是搞什么AI技术。他讲了两个例子：  \n\n- 一个在巴黎的摄影师，专门给人家拍家庭和情侣的照片，去年通过爱彼迎赚了14.5万美元  \n- 一个意大利的爷爷，做手工意面，每场收费70美元，90分钟就能教会人做，一年赚了18万美元  \n\n切斯基的意思是，爱彼迎现在不光是让人家租房子住，还开始帮人做生意了。比如摄影师可以靠爱彼迎接活儿，意大利爷爷也能靠爱彼迎教人做面。  \n\n看来爱彼迎要转型了，以后不光是卖住宿，还要帮各种小老板通过爱彼迎赚钱。他们发现，很多人不只是想租个房子，还想体验当地人的生活，比如学做菜、拍照、或者看手工艺。所以爱彼迎决定，以后要给这些体验也搭个平台，让更多人能靠这玩意儿赚钱。",
-      "summarized_at": "2026-06-02T12:11:37.693Z",
       "summary_status": "success"
     },
     {
