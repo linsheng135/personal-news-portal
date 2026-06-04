@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-04T11:21:46.896Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-04T11:21:46.897Z",
+    "date": "2026-06-04",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1780571994128",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind...",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-04T10:50:18.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 法院怎么应对大量AI写的起诉书\n\n- **法官每天都要看大量没人管的案子**  \n  在科罗拉多州，有个叫马瑞萨的法官，每天要看很多起诉书。这些起诉书都是没请律师的人写的，有的是因为穷，有的是因为事情太小律师不愿意接。她得一个一个仔细看。\n\n- **AI写的起诉书越来越多**  \n  现在很多起诉书都是AI写的，这让法官的工作更难了。AI写的起诉书有时候逻辑不清，或者信息不全，法官得花更多时间才能明白到底发生了什么事。\n\n- **法官面临新挑战**  \n  AI写的起诉书让法官头疼，因为得花时间判断这是不是真的事，是不是有人真的需要帮助。有时候AI写的东西根本不符合法律要求，但又不能直接拒绝，得想办法让当事人明白问题出在哪。\n\n- **法律系统需要适应变化**  \n  既然AI开始写起诉书，法院也得跟着变。比如，可能需要更明确的规则告诉人们：AI写的起诉书得符合什么条件才行。或者设立专门处理这类案子的人，比如助理法官或者专门的小律师。\n\n- **普通人依然不容易**  \n  不管起诉书是谁写的，最后还是得靠普通人来应对。如果起诉书有问题，他们还得再跑一趟，重新写或者找别人帮忙。所以，虽然AI帮忙写了起诉书，但事情还是一样麻烦。",
-      "summarized_at": "2026-06-04T11:20:11.735Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780571994128",
-      "title": "Rehumanizing global health care with agentic AI",
-      "summary": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress ...",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T11:23:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 全球医疗系统需要AI帮忙\n\n### 现在的医疗系统怎么了\n全球的医疗系统就像一个超负荷运转的工厂。几十年来，大家都不太重视医疗投入，再加上招不到足够的医生，现在老年人的医疗需求突然大增。结果就是，看病难、看病贵，很多人想看病都看不上，医生们压力也特别大。\n\n### AI能做什么\n这时候，人工智能（AI）就像一个高科技助手，可以帮医疗系统减轻负担。AI可以像超级秘书一样，帮你管理大量的病人信息，自动安排医生时间，甚至能提前发现病情隐患。这样，医生就能更专心地救死扶伤，病人也能更快得到照顾。\n\n### AI如何改变医疗\n比如，AI可以像智能导航一样，帮你找到最近的空余医生；它可以像老中医一样，通过分析症状给出初步诊断；还能像社区网格员一样，帮你跟踪慢性病病情。这样，医疗资源就能更合理地分配，减少浪费。\n\n### 未来展望\n如果AI能和医生、护士一起工作，就像团队里多了个全能帮手，医疗系统就能运转得更顺畅。当然，AI不是万能的，它只是个辅助工具，最终还是要靠人来治病救人。不过，有了AI帮忙，医生们就能少操心，病人也能得到更好的照顾。",
-      "summarized_at": "2026-06-04T11:20:06.402Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780571994128",
-      "title": "How small businesses can leverage AI",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu...",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 小企业如何利用AI提升效率\n\n### AI是什么\nAI就像一个超级聪明的助手，能帮你处理各种事情，比如做账、设计、做市场调查、开发产品等。它不需要你懂太多技术，就像智能手机帮你拍照、导航一样简单。\n\n### AI如何帮小企业\n- **做账更省力**：AI可以自动整理账单，就像智能收银机自动算账一样，省时又不容易出错\n- **设计更高效**：AI能根据你的需求快速生成多种设计方案，就像画图软件里的智能模板\n- **市场调查更准**：AI能分析客户喜好，就像超市会员系统帮你推荐商品一样\n- **产品开发更快**：AI可以预测哪些产品可能受欢迎，就像电商平台根据你的浏览记录推荐商品\n\n### 实际操作方法\n1. **从小处着手**：先让AI帮你处理简单重复的工作，比如自动回复客户邮件\n2. **选择合适的工具**：市面上有各种AI助手，可以像用微信一样简单操作\n3. **保持学习**：多尝试AI的功能，就像学新软件一样，用多了自然熟练\n\n### 注意事项\n- 不要把AI当成完全替代方案，它更像一个得力助手\n- 注意保护客户隐私，就像保护自己的手机密码一样\n- 定期检查AI的工作，确保它还在帮你解决问题\n\nAI就像一个能干的家伙，帮你把没完没了的琐事变简单，让你有更多时间做重要的事。试试看，或许会发现比想象中好用得多！",
-      "summarized_at": "2026-06-04T11:20:19.067Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780571994128",
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente...",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-05-29T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 教皇的新文件谈人工智能：科技不是中立的\n\n教皇利奥十三世最近发了一篇关于人工智能的文件，里面有个话特别值得注意：**科技从来都不是中立的**。就像一把刀，可以用来切菜也可以用来伤人，科技也是一样，怎么用决定了它是帮人还是害人。\n\n这篇文件叫《Magnifica Humanitas》，意思是“辉煌的人性”，其实是呼吁所有人，不管是搞科技的还是做政策的，都要**勇敢地团结起来**，好好想想怎么用人工智能。\n\n- 科技不是中立的：比如手机，可以用来联系朋友也可以用来诈骗，关键看你怎么用它。\n- 勇敢团结：面对人工智能，不能光靠技术，大家要一起想办法，比如怎么保护隐私、防止机器欺负人。\n- 人性优先：科技是为了服务人，不能让机器反过来控制人。\n\n教皇的意思是，大家别光盯着技术本身，要多考虑怎么让科技真正帮到人，而不是带来麻烦。就像开车，不能只看车有多快，还要看会不会安全地把人送到地方。",
-      "summarized_at": "2026-06-04T11:20:18.398Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1780571994128",
       "title": "The AI Hype Index: AI gets booed in graduation season",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# 一个好用的SQLite数据库工具\n\n## 它是什么\n\n想象一下SQLite数据库就像一个超级大笔记本，里面记录着各种信息。但直接用这个笔记本写数据很麻烦，比如找某个信息得一个一个字地找。groue/GRDB.swift就是一款专门帮开发者管理这个笔记本的工具，让写数据、查数据变得简单又方便。\n\n## 主要功能\n\n- **简单易用**：就像用Excel表格一样，不用背诵复杂的指令，几行代码就能搞定数据存取。\n- **安全可靠**：它自带保护机制，防止数据丢失或被乱修改。比如你忘了备份，它也能帮你恢复。\n- **省时省力**：平时管理数据库最烦的是断电或程序崩溃导致数据乱掉。这个工具会自动帮你保存进度，就像手机照片自动备份一样。\n- **跨平台支持**：无论你是用iPhone、iPad还是Mac，只要用Swift语言开发，它都适用。\n\n## 为什么推荐\n\n对于做App的开发者来说，数据库管理是必不可少的。groue/GRDB.swift把复杂的技术变成了简单的操作，让开发者能更专注于App本身的创新。比如做购物App，用它能轻松记录用户买过什么、加过什么购物车，不用自己操心底层细节。\n\n## 适合谁用\n\n如果你正在用Swift开发App，并且需要用到SQLite数据库，那这个工具绝对值得试试。它就像一个数据管家，帮你把数据库打理得井井有条，省心又高效。",
       "summarized_at": "2026-06-04T11:21:23.355Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780571998077",
-      "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
-      "summary": "“妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。\n许多误判之所以危险，恰恰因为它们看上去过于正确。它们能在一个短周期里解释世界，也容易在世界已经变化之后，继续以“共识”的面貌停留在原地。\nAI也曾经历类似的混沌阶段。过去两年，人们习惯用一些简单指标理解这场变化：谁拥有更多GPU，谁训练了更大参数的模型，谁的团队烧掉了更多Token。以至于硅谷一度流行“Token消耗量”的隐形竞赛，以证明到底谁是最AI Native的公司。\n但现实是，Token消耗量可以衡量投入的程度，却无法衡量投入的方向——方向...",
-      "url": "https://36kr.com/p/3838702884604421?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-04T10:12:58.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 00后创业新趋势：敢闯敢拼，不玩虚的\n\n- **误判的危害**  \n  像有人以为“越花钱越多GPU就越厉害”，其实这种想法是错的。就像有人以为“买大房子就代表有钱”，其实房子大小不代表真正的财富。这种错误观点让人看不清真正重要的东西。\n\n- **AI领域的误区**  \n  过去两年，硅谷流行用“烧钱多少”来衡量AI公司实力，比如谁花更多“Token”就代表更厉害。但这就像比赛只看谁花钱多，不看谁跑得快。钱烧得多不能说明方向对，就像花钱买再多玩具，不代表孩子就会玩。\n\n- **方向比投入更重要**  \n  真正厉害的创业公司，不是看谁烧钱多，而是看谁清楚该往哪走。就像学游泳，光买泳裤不练习是没用的。AI领域也一样，光投入技术资源，不明确目标方向，最后可能钱花了，却走错了路。\n\n- **00后创业者的态度**  \n  新一代创业者更敢闯敢拼，不玩虚的。他们更看重结果，不搞“光圈大”的假象。就像有人说的“要么做就做到最好，要么就不做”，这种态度让他们在竞争中脱颖而出。",
-      "summarized_at": "2026-06-04T11:21:30.745Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780571998077",
-      "title": "实现芯片设计验证自动化，提升开发效率10倍以上，「智维创芯」完成数千万元天使轮融资｜36氪首发",
-      "summary": "从芯片行业在资本市场的狂飙，到华为发布“韬（τ）定律”，AI浪潮带动下，烈火烹油的半导体行业进入超级周期，推动芯片设计等上游产业链迎来需求爆发。\n但随着需求暴增，设计复杂度不断提高，芯片验证周期过长，拖累开发节奏的瓶颈也越来越明显。2024年西门子和威尔逊研究集团的研究报告中指出高工艺复杂芯片的流片风险非常大，首次流片成功率只有14%。“一款芯片从架构到流片一般需要两年时间，其中验证环节消耗的人力与时间往往超过60%。”王翕对36氪表示。\n\n数字芯片开发流程\n王翕是「智维创芯」的创始人兼董事长，目前也是东南大学的副教授、博士生导师。2025年，王翕团队依托此前在国家集成电路设计自动化技术创新中...",
-      "url": "https://36kr.com/p/3838488706370054?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-04T10:01:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 芯片设计验证自动化融资成功\n\n### 背景和问题\n芯片行业现在特别火，像华为最近说的\"韬定律\"，加上AI发展，半导体行业需求猛增。但问题是，设计越来越复杂，验证芯片是否没问题变得特别慢，就像盖房子画图纸后要反复检查，现在检查时间太长了，拖慢了整个开发速度。研究说现在造芯片第一次成功率很低，只有1/7。通常造个芯片要两年，但检查环节就占了超过60%的时间和人力。\n\n### 解决方案\n「智维创芯」公司想出个办法，用自动化技术来检查芯片，大大加快这个过程。这就像做饭以前要人工尝菜、反复检查，现在有了智能机器人，能自动尝菜并快速给出结果。王翕是公司创始人，他团队之前在芯片自动化技术方面有经验。\n\n### 融资情况\n「智维创芯」刚刚拿到了上千万元的天使轮融资，这说明资本市场看好他们的方法。他们希望通过这种方式，把芯片验证时间缩短10倍以上，让整个开发过程变得更快更高效。",
-      "summarized_at": "2026-06-04T11:21:38.508Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780571998077",
-      "title": "氪星晚报 ｜OpenAI首席财务官谈公司AI设备：今年年底前将正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体",
-      "summary": "大公司：\nOpenAI首席财务官谈公司AI设备：今年年底前将正式发布\nOpenAI首席财务官Sarah Friar日前在受访时透露，已经亲自体验过OpenAI的AI设备。她表示到“今年年底之前”OpenAI将正式发布这款产品。此前，OpenAI曾在一份文件中表示，预计最早也要到2027年2月才会开始发货。（财联社）\nLG Innotek计划扩建半导体基板工厂\nLG Innotek将于下月开始扩建其位于越南的半导体基板工厂。此次扩建将通过其越南生产子公司的直接投资进行，计划2027年5月竣工。（新浪财经）\n鸿海与SK集团深化AI基础设施合作\n鸿海表示，董事长刘扬伟近日会见韩国SK集团会长崔泰源，...",
-      "url": "https://36kr.com/p/3838652242823687?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-04T09:37:38.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## OpenAI要出AI设备了\n\nOpenAI公司的财务主管Sarah Friar最近说了个好消息，他们正在研发的AI设备今年年底前就能正式给大家用。要知道，OpenAI之前说最早也要到2027年2月才能发货，现在提前了好多。这个AI设备就像是智能手机里的超级大脑，能帮人做很多智能的事情。\n\n## 腾讯和华为小米在合作\n\n腾讯客服回应了大家关心的问题，他们确实在和华为、小米这些公司合作。简单来说，就是腾讯想把自家的服务，比如客服、支付这些，用在这些公司的产品上，让大家用手机时更方便。\n\n## 香港出了个超级智能助手\n\n香港最近推出了第一个生产力级超级智能体，就像一个超级助手，能帮公司提高效率。这个智能助手可以处理很多工作，比如写报告、管理数据，让公司的工作流程变得更顺畅。\n\n## LG要在越南建新工厂\n\nLG Innotek公司计划在越南扩建工厂，专门生产半导体基板。这个工厂预计明年5月才能完工，但已经开始了建设。半导体基板就像是电子产品的骨架，很重要，现在要扩大生产，说明电子行业发展得不错。\n\n## 鸿海和SK集团合作搞AI\n\n鸿海集团和韩国SK集团最近加强了合作，一起发展AI基础设施。简单说，就是两个大公司一起研究如何让AI技术更厉害，用在更多的产品上，比如手机、电脑这些。",
-      "summarized_at": "2026-06-04T11:21:39.016Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780571998077",
-      "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
-      "summary": "文｜周鑫雨\n编辑｜张雨忻 杨轩\n《智能涌现》从多个信源处独家获悉，2026 年，字节 AI 有四个重要的命题：\n加大对世界模型训练的投入，年底前，模型性能达到现阶段世界模型全球  SOTA（最佳）Google Genie 3 的水平。\n视频模型继续保持领先地位，探索“动态生成”等新方向。\n进一步打好 Coding 的地基，做好 Coding 的 Dogfooding（数据回流、评测，形成飞轮），提升 Agent 能力。\n豆包强化商业化能力，重点场景是“办公”。\n字节的未竟之地：世界模型\n如今，字节的 AI 矩阵中，有让字节终于得以进入中国大模型第一梯队的 Seed 2.0，还有做到世界 SOT...",
-      "url": "https://36kr.com/p/3838454229027072?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-04T06:06:37.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 字节AI 2026年四大计划\n\n字节AI计划在2026年重点发展四个方向，让AI技术更上一层楼。\n\n### 1. 训练更聪明的AI模型\n- 目标是让AI模型变得更聪明，接近目前全球最好的水平，就像让电脑更会思考一样。年底前要达到行业顶尖水平，不输给最好的AI。\n\n### 2. 让视频AI更会创作\n- 字节将继续发展视频AI技术，探索让电脑自动生成视频的新方法。比如，让AI自己编电影预告片，让视频制作更简单高效。\n\n### 3. 让AI更懂编程\n- 字节会加强AI在编程方面的能力，让AI能更好地理解人类语言，自动写代码。就像让电脑更懂我们的指令一样，提高工作效率。\n\n### 4. 让AI更会赚钱\n- 字节会推动AI在办公场景的商业化，让AI能帮企业解决实际问题，提高办公效率。就像让电脑更懂公司需求，自动处理工作一样。\n\n这些计划的目标是让AI技术更实用，更好地服务于日常生活和工作。通过这些努力，字节AI希望在未来成为行业领导者，让每个人都能享受到AI带来的便利。",
-      "summarized_at": "2026-06-04T11:21:46.896Z",
       "summary_status": "success"
     },
     {
