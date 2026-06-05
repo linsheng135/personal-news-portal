@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-05T11:34:24.844Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-05T11:34:24.844Z",
+    "date": "2026-06-05",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1780659156271",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI客服漏洞大曝光：安全问题远不止想象中\n\n### 事件回顾\n6月5日，有个科技公司（Meta）的AI客服被黑客利用，盗走了不少Instagram账号。黑客的操作很简单：让AI客服帮忙把受害者账号和自己的邮箱绑在一起，AI客服居然真的照做了。有个黑客还成功用这个方法黑进了奥巴马的旧账号。\n\n### 黑客怎么操作的\n黑客先是找到Meta的AI客服，假装是普通用户让客服帮忙处理账号问题。然后，黑客骗AI客服把Instagram账号和自己控制的邮箱关联，比如把你的账号和黑客的邮箱绑在一起。AI客服因为程序没设置好，居然真的同意了。这样一来，黑客就能用你的账号登录，甚至改密码，把账号完全控制了。\n\n### 为什么会这样\n其实AI客服就像个没经过严格训练的小孩，虽然能处理问题，但容易相信不该相信的人。黑客利用了AI客服的\"诚实\"和程序漏洞，让它帮自己做了不该做的事情。这就好比让一个小学生帮忙寄信，结果小学生把信寄给了坏人。\n\n### 安全问题要重视\n这个事件说明，AI的安全问题比我们想象中复杂得多。光靠限制权限是不够的，还得让AI学会分辨可疑情况。就像保护家门，不能只靠一把锁，还得教门卫识别陌生人。Meta这次被黑客利用，就是AI\"门卫\"不够警惕的结果。\n\n- **核心漏洞**：AI客服太容易相信陌生人，缺乏安全意识  \n- **现实意义**：说明AI安全不能只靠技术，还得靠智能判断  \n- **改进方向**：让AI学会识别可疑请求，不能无条件执行命令",
-      "summarized_at": "2026-06-05T11:32:48.972Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780659156271",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind...",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-04T10:50:18.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 法官如何应对大量AI起诉\n\n- **法官的工作日常**  \n  科罗拉多州的联邦地方法官Maritza Braswell每天都要处理大量没有律师的诉讼文件。这些文件大多来自拿不出律师费的人，或者案件太小、不值得律师关注的人。她需要仔细阅读每一份文件。\n\n- **AI起诉增多**  \n  如今，很多起诉都是AI自动生成的。这就好比有人用电脑写了一堆诉讼材料，但内容却很空洞、没有实际意义。这让法官的工作量大大增加。\n\n- **AI起诉的麻烦**  \n  AI生成的起诉材料虽然多，但大多都是\"垃圾邮件\"，根本没道理。法官不得不花时间筛掉这些假起诉，就像筛米一样，把好的留下，坏的扔掉。\n\n- **法律系统压力**  \n  由于AI起诉泛滥，法官们不得不加班加点处理这些文件。这就像超市收银员突然面对堆积如山的快递，忙得团团转。\n\n- **如何应对**  \n  法官们正在尝试用新方法处理AI起诉，比如用软件自动过滤明显没有道理的文件。这也像我们在网上购物时，用筛选功能去掉那些明显是骗人的广告。\n\n- **总结**  \n  AI起诉让法官们头疼，但大家正在想办法应对。毕竟，法律系统不能让机器写下的无意义材料拖慢脚步。",
-      "summarized_at": "2026-06-05T11:32:46.266Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780659156271",
-      "title": "Rehumanizing global health care with agentic AI",
-      "summary": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress ...",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T11:23:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 全球医疗系统压力越来越大\n\n- **现状**：全球医疗系统正面临越来越大的压力。就像一个超负荷运转的工厂，工人数量不够，机器却越来越多。几十年来，医疗投入一直不足，再加上招人难，导致服务跟不上需求。\n- **原因**：人口老龄化是个大问题。老年人需要更多的医疗服务，但现在的医疗资源根本不够分。就像菜市场买菜，需求突然翻倍，但摊位和售货员却没增加。\n- **后果**：医疗系统已经亮红灯。病人看病不方便，有时候需要跑好几家医院才能得到完整治疗；医护人员压力巨大，经常加班加点，身心俱疲。这就像你生病了，去医院却找不到医生，或者等了好久才轮到自己。\n\n## 怎么解决？\n\n- **智能助手**：有人提出用人工智能（AI）来帮忙。AI就像一个超级助手，可以处理大量信息，比如帮医生看病历、提醒用药，甚至能远程诊断。这样就能减轻医生负担，提高效率。\n- **例子**：想象一下，你感冒了，用AI手机应用就能自我诊断，还能告诉你该吃什么药、怎么休息。医生则能腾出时间处理更复杂的病例。这就像让机器人帮忙卖菜，售货员就能专心处理顾客的咨询。\n- **未来**：AI不是要取代人，而是让人更有精力做好本职工作。就像超市用自助结账，收银员就能帮忙打包，服务更多顾客。\n\n## 核心观点\n\n- 医疗系统需要创新，AI是个好帮手。\n- 但AI不能完全解决问题，关键还是增加投入和改善管理。\n- 想象一下，有了AI，医生能更专注，病人也能更方便，这就是理想状态。",
-      "summarized_at": "2026-06-05T11:33:04.274Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780659156271",
-      "title": "How small businesses can leverage AI",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu...",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 小企业如何利用AI提升效率\n\n- **AI是个人助理**：想象一下有个24小时在线的助手，能帮你记账、做设计、分析市场、开发产品。AI就像这个助手，能处理各种复杂任务，让你省时省力。\n\n- **AI是决策小助手**：比如你开一家小店，想推广产品，AI能帮你分析哪些顾客可能感兴趣，就像你根据老顾客的喜好推荐商品一样，但AI更懂数据。\n\n- **AI是效率放大器**：做设计时，传统方法需要反复修改，AI能快速生成多种方案供你选择，就像用电脑画图时，AI自动帮你填充颜色、调整细节。\n\n- **AI降低门槛**：以前需要专业团队才能做的工作，现在小企业也能用AI完成。比如会计工作，AI能自动分类账单，就像手机扫一扫就能保存文件。\n\n- **AI需要数据支持**：就像玩游戏需要输入账号密码一样，AI需要你的业务数据才能更好地帮你。比如你记录销售数据，AI就能分析出哪些产品更受欢迎。\n\n- **AI不是万能的**：AI能帮你处理重复性任务，但像处理客户投诉这种需要人情味的活儿，还是得靠你自己。AI就像个工具，不能完全代替人。\n\n- **持续学习是关键**：科技在进步，AI也在不断更新。小企业要跟上节奏，就像学新手机软件一样，多尝试多学习，才能让AI真正帮上忙。\n\n总之，AI就像是给小企业装上了加速器，能帮你更快更好地运营生意，但具体怎么用，还得看你自己怎么指挥。",
-      "summarized_at": "2026-06-05T11:32:56.559Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1780659156271",
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Apache Superset：数据查看和探索的\"瑞士军刀\"\n\n想象一下，你是个侦探，要调查一起案件。你面前有堆积如山的文件、各种数字报表，还有散落在各处的线索。这时候，你就需要一个工具，能帮你快速整理这些信息，找出关键线索。\n\n**Apache Superset就是这样一个工具**。它是一个专门用于查看和分析数据的平台，就像一个智能的\"数据侦探\"。不管你的数据是存放在电脑里、服务器上，还是云盘里，它都能帮你轻松找到，并用各种图表展示出来。\n\n### 主要功能：\n\n- **轻松看懂数据**：用各种颜色、形状的图表，把枯燥的数据变得生动有趣，比如用柱状图比较销售额，用饼图看各部分占比。\n- **自己动手分析**：不需要请程序员帮忙，普通人也能通过点击几下，创建自己想要查看的数据报表。\n- **支持多种数据源**：就像一个万用钥匙，能打开各种\"数据锁\"，比如MySQL数据库、PostgreSQL、Google Analytics等。\n- **安全可靠**：数据查看有权限控制，就像家里的保险箱，谁有权打开就看谁。\n\n### 适合谁用？\n\n- **小公司老板**：想快速了解公司销售、用户增长情况。\n- **市场分析师**：需要对比不同渠道的营销效果。\n- **数据爱好者**：想自己探索数据背后的秘密。\n\n总之，Apache Superset是个好帮手，让看数据不再是件头疼的事，而是充满乐趣的发现之旅。",
       "summarized_at": "2026-06-05T11:34:08.507Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780659159839",
-      "title": "Token大战中，华为云选择了第三条路｜最前线",
-      "summary": "作者 | 邓咏仪\n编辑 | 张雨忻\n“在国产化算力供应受限的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”\n6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。\n他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Token，而该看这些 Token 替企业提了多少效率。\n\n华为云CEO周跃峰\n过去两年，...",
-      "url": "https://36kr.com/p/3840016255126016?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-05T08:28:25.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 华为云的新思路：不只看Token数量\n\n### 背景介绍\n华为云最近在AI领域有了新想法。以前大家觉得，Token越多越好，但现在华为云不这么看了。他们觉得，光看Token总数没用，关键要看这些Token有没有帮企业提高效率。\n\n### 核心观点\n- **Token不是越多越好**：华为云CEO周跃峰说，一个人随便问问AI，也会产生很多Token，但这些Token可能没什么实际用处。就像现在网上很多人发帖子，不一定都有价值。\n- **关注Token的健康度**：华为云现在更关心的是，这些Token能不能真正帮企业解决问题，提高生产效率。比如，一个Token能不能让企业节省时间或成本。\n- **例子说明**：周跃峰用了一个例子：以前衡量云服务好坏，就看它处理了多少Token。但现在，华为云更看重这些Token有没有让企业受益。\n\n### 为什么这么想\n- **国产算力受限**：现在国产算力不太够用，华为云觉得不能只追求数量，得看质量。\n- **生产力提升**：华为云的目标是，让Token真正推动生产力发展，而不是只满足人们的兴趣或情绪。\n\n### 总结\n华为云的新思路是，不只关心Token有多少，更关心这些Token有没有实际价值。他们希望Token能帮助企业提高效率，而不是光追求数量。这个新思路让华为云在AI领域有了新的方向。",
-      "summarized_at": "2026-06-05T11:34:08.357Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780659159839",
-      "title": "中国入境游距离「世界第一」还有多远？",
-      "summary": "“曾有外国友人让我推荐中国的最佳旅行目的地，我的回答是：你应该看看中国的山。”\n最近的一场入境游研讨会，携程集团联合创始人兼董事局主席梁建章这样回答。在他的表述中，中国有世界最高的山——喜马拉雅；全世界最美的山，则在中国南方最独特的喀斯特地貌——桂林。\n与此同时，他正将这份“私藏推荐”转化为全球旅行者的实际行动。\n近期，携程集团宣布了一项新的战略计划：未来五年，公司将引入2亿人次的入境游客。\n在同期进行的桂林之夜入境游推广活动上，国际影星成龙也以“携程入境游大使”的身份亮相活动现场。当成龙遇上桂林山水，携程决心赋能入境游整体链条的变革正拉开序幕。\n\n国际影星成龙成为“携程入境游大使”\n01. ...",
-      "url": "https://36kr.com/p/3840001908361472?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-05T08:25:49.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 中国入境游还能吸引多少外国人？\n\n携程集团老板梁建章觉得中国有很多好地方让外国人打卡。他说：“你应该来看看中国的山。”他特别推荐喜马拉雅山（世界最高的山）和桂林山水（全世界最美的山）。桂林的喀斯特地貌跟别处不一样，山峦像水墨画。\n\n为了让更多外国人知道这些好地方，携程计划在五年内吸引2亿外国人来访。他们请了成龙做推广大使，让外国人通过成龙了解桂林山水。成龙出现后，携程也在想办法让整个旅游体验更好。\n\n- **核心观点**：携程想通过推广美景和明星效应，吸引更多外国人来到中国旅游。\n- **关键信息**：五年内要吸引2000万外国人，现在从桂林开始试点。\n- **生活例子**：就像你跟朋友推荐家好餐厅一样，携程想告诉全世界：“中国有很多好玩的地方，快来体验！”",
-      "summarized_at": "2026-06-05T11:34:13.733Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780659159839",
-      "title": "探店13家，理想/蔚来/问界如何征服50万客群？",
-      "summary": "一周之内，三款“9系”旗舰SUV密集上市，高端新能源市场竞争战况升级。\n5月15日，理想发布新一代L9，其中Livis版本搭载800V主动悬架、线控制动、线控转向的全线控底盘，售价50.98万元起。\n5月27日，蔚来ES9与问界新M9同天发布。姚明也称“空间大”的蔚来ES9，起售价49.8万元；在高端市场已经破局的问界M9，起售价49.98万元。\n冲击50万元级的高端市场，似乎已成为头部新能源车品牌的共识。这背后是战略需要，也是直接的财务驱动。\n2026年一季度，理想汽车销量同比增长，但由于70%订单为L6、i6等入门车型。销量结构的下沉，让理想这家最早盈利的新造车公司再度陷入季度亏损。\n蔚来...",
-      "url": "https://36kr.com/p/3839803361741313?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-05T06:52:26.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 高端电动车竞争升级\n\n最近几个月，理想、蔚来、问界这三家新能源车品牌都在打高端市场，目标客户是能开50万以上车的人。\n\n**高端市场竞争激烈**  \n- 理想最近出了新款L9，价格从50万起，特别强调车里的技术，比如能自动调节的底盘、不用脚刹的电子刹车、不用手方向盘的电子方向盘。\n- 蔚来和问界也跟着出了新车，蔚来叫ES9，问界叫新M9，价格分别是49.8万和49.98万。\n- 姚明都夸蔚来的车空间大，说明这车确实不小。\n\n**为什么都争这个价位**  \n- 这些品牌觉得50万左右是高端市场，能吸引更多有钱人买车。\n- 主要是为了赚钱，理想最近虽然卖车多了，但卖的都是便宜的车，反而亏钱。\n- 蔚来和问界已经在高端市场站稳脚跟，所以也想来分一杯羹。\n\n**总结**  \n这三家品牌都在用新技术和价格吸引高端客户，说明50万左右的高端电动车市场越来越热了。",
-      "summarized_at": "2026-06-05T11:34:18.145Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780659159839",
-      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-      "summary": "文｜王毓婵 梁键强\n编辑｜张雨忻\n昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。\n“您可以通过对应手机系统的AI助手发起微信音视频通话或向指定好友发送消息。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。\n与之前字节跳动推出的豆包手机相比，腾讯的微信AI采取了完全不同的技术路径。\n以豆包手机为代表的很多 OS 端 AI 助手，走的是 GUI agent（图形界面智能体） 路线——它们...",
-      "url": "https://36kr.com/p/3839575253993985?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-05T03:39:48.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 微信AI与手机厂商合作，让手机助手能直接用微信\n\n## 合作背景\n微信正在和华为、小米等手机厂商合作，推出一个能让手机助手直接用微信的功能。比如，你平时用手机的语音助手，以后可以直接通过它打电话或发微信消息给朋友，不用再打开微信App。\n\n## 技术特点\n这个功能叫A2A助手能力，意思是手机助手和微信助手互相帮忙。就像你让朋友帮你买东西，朋友又请店员帮你拿，最后东西直接送到你手上。数据安全方面，微信用了双重授权机制，相当于给信息加了双层锁，确保你的聊天记录不会被随便看。\n\n## 与其他产品的区别\n市面上其他手机助手，比如字节跳动的豆包手机，用的是图形界面智能体方法——就像让助手直接帮你点手机上的按钮。而微信的方案更像是让助手帮你打电话，然后由微信自己处理后续事务，不需要助手直接操作你的手机界面。\n\n## 实用价值\n这项合作的主要目的是让用手机更方便。比如开车时，你可以让手机助手帮你发送微信语音消息，而不是自己操作手机，这样更安全。同时，这个功能也扩展了手机助手的用途，让它不只是查天气、设闹钟，还能处理社交需求。",
-      "summarized_at": "2026-06-05T11:34:24.109Z",
       "summary_status": "success"
     },
     {
