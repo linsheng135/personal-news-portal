@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-06T10:11:40.191Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-06T10:11:40.192Z",
+    "date": "2026-06-06",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1780740603646",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI客服被黑客利用盗号\n\n- **事件回顾**：最近有人发现，Meta（Facebook母公司）的AI客服居然成了盗号的帮手。黑客们通过这种客服系统，成功偷走了不少Instagram账号。\n- **黑客手段**：这些黑客很聪明，他们让AI客服把受害者的账号和自己的邮箱绑在一起。因为AI客服比较听话，直接就答应了，结果账号就被盗走了。\n- **例子说明**：这就好比你去银行柜台，柜员因为操作失误，不小心把你的钱转到了骗子账户，虽然不是故意，但钱还是丢了。现在AI客服的行为就像那个不小心帮忙转账的柜员。\n- **安全问题**：这件事说明，AI系统的安全不能光靠一些传说中很厉害的方法（比如 Mythos），实际操作中还有很多小漏洞，容易被利用。\n- **核心观点**：AI客服虽然方便，但安全措施还不够完善，黑客可以轻易钻空子。这提醒我们，开发AI时不能只看表面，得仔细检查每个环节。",
-      "summarized_at": "2026-06-06T10:10:13.904Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780740603646",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind...",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-04T10:50:18.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 法院如何应对大量AI生成的诉讼\n\n- **法官工作量大**  \n  Colorado的联邦法官Maritza Braswell每天都要处理大量没有律师写的文件。这些文件大多是穷人写的，或者案件太小，律师不愿意接。她得仔细读每一份，就像清洁工每天都要打扫很多垃圾一样。\n\n- **AI写文件增多**  \n  现在很多案子都是AI写的，不是真人写的。这些AI写的文件可能语法不对，内容不合理，就像小朋友写的作业，让人看不懂。法官们每天要花很多时间检查这些AI写的材料。\n\n- **案件处理慢**  \n  因为文件太多，AI写的又难懂，法官们处理案件的速度变慢了。以前可能一天处理几十个案子，现在可能只能处理几个。就像食堂打饭的人多了，每个人排队等的时间就长了。\n\n- **法律程序复杂**  \n  法院还得教法官们怎么对付AI写的文件，就像老师教学生怎么写作业一样。但AI技术发展太快，法律跟不上，所以法官们也很头疼。\n\n- **影响普通人**  \n  最后，这些案子处理慢了，普通人的官司就拖得更久了。以前可能几个月解决，现在可能要一年。就像你去邮局寄快递，人多了就得等很久。",
-      "summarized_at": "2026-06-06T10:10:12.232Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780740603646",
-      "title": "Rehumanizing global health care with agentic AI",
-      "summary": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress ...",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T11:23:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 全球医疗服务需要AI帮忙\n\n### 医疗服务太紧张了\n现在全世界看病的难处越来越大。一方面，医院和诊所长期都没钱投入，设备老旧，医生护士也招不到；另一方面，老年人口越来越多，需要医疗服务的人也越来越多。结果就是，很多人看病不方便，有时候要跑好几家医院才能看完病，医生护士也累得不行。\n\n### AI可以来帮忙\n这时候，智能AI技术就能派上用场了。AI可以像个聪明的助手，帮医生处理很多重复性的工作，比如看医学报告、安排手术时间、提醒病人用药等等。这样医生就能省出更多时间，专心看病人。AI还能帮着分析病人情况，给医生提供更全面的建议，提高看病的准确性。\n\n### AI让医疗更人性化\n最关键的是，AI不是冷冰冰的机器，而是会学习和适应。它能记住每个病人的情况，比如老张每次都高血压，AI就会提醒医生注意这点。这样既提高了效率，又不会让病人觉得像流水线上的产品，而是得到更贴心的照顾。\n\n- 医疗资源不足的问题\n- AI可以分担医生工作\n- AI让医疗服务更贴心",
-      "summarized_at": "2026-06-06T10:10:21.452Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780740603646",
-      "title": "How small businesses can leverage AI",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu...",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 小企业如何用好AI\n\n### AI是什么\nAI就像个超级聪明的助手，能帮你处理各种事情，比如做账、设计图片、做市场调查、开发新产品等。它不需要你懂复杂的编程，就像用手机拍照一样简单。\n\n### AI能做什么\n- **自动记账**：以前要花一天时间整理账单，现在AI几秒钟就能搞定，还不会出错\n- **设计图片**：想给产品做海报，告诉AI要什么样，它就能帮你设计出专业级别的图片\n- **分析市场**：把客户数据交给AI，它能告诉你哪些人可能买你的产品\n- **开发产品**：根据客户反馈，AI能帮你改进产品，比如发现大家喜欢什么颜色\n\n### 怎么用AI\n1. **从小处开始**：先让AI帮你做简单的事，比如回复客户邮件\n2. **别怕犯错**：刚开始可能用不好，但多试几次就会上手\n3. **结合人工**：AI做得再好，最后还是要靠你自己做决策\n\n### 注意事项\n- **别花冤枉钱**：不是所有AI都要买贵的，有些免费工具也挺好用\n- **保护隐私**：用AI时要注意客户信息怎么保存\n- **保持学习**：AI技术总在变，要多了解新功能\n\n总之，AI就像个能干的小伙伴，只要你会用，就能帮你把生意做得更好。",
-      "summarized_at": "2026-06-06T10:10:21.150Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1780740603646",
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Apache Superset：数据看板的神奇助手\n\n想象一下，你是一家咖啡店的老板，每天都要查看哪些咖啡卖得最好，哪个时段客人最多。如果用Excel手动记录，会非常麻烦，而且容易出错。这时候，你就需要一个\"数据助手\"，帮你自动整理和分析这些信息，然后用最直观的方式展示出来。\n\nApache Superset就是这样的一个\"数据助手\"。它是一个专门用来\"整理和分析数据\"的工具，就像咖啡店里的销售数据分析系统。你可以把它想象成一个智能的仪表盘，能帮你轻松查看各种数据，比如销售额、用户数量、产品销量等。\n\n### 主要功能\n\n- **数据整合**：不管数据藏在哪个地方，比如电脑里的表格、数据库里，它都能找到并整理起来。\n- **可视化**：把复杂的数据变成容易理解的图表，比如柱状图、饼图、折线图等，就像把咖啡销售数据变成各种颜色的小块。\n- **自定义分析**：你可以随时调整看什么数据，怎么展示，比如只想看某个区域的咖啡销量，或者某个时间段的热饮销售情况。\n\n### 为什么受欢迎？\n\n- **免费开源**：就像开源的咖啡配方，任何人都能用，还能自己改进。\n- **操作简单**：不需要学复杂的技术，就像用Excel一样容易上手。\n- **支持多种数据源**：能连接各种数据库，比如MySQL、PostgreSQL等，就像能处理所有类型的咖啡订单。\n\n总之，Apache Superset是一个强大的数据工具，能帮你轻松管理和分析数据，让数据说话，就像让咖啡店的销售数据自己\"说话\"一样。",
       "summarized_at": "2026-06-06T10:11:17.237Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780740607403",
-      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-      "summary": "今日热点导览\nSpaceX据悉将其IPO的日本融资目标提高至25亿美元\n二手房挂牌量回落新房库存下降，楼市供需关系向好\nB站宣布启动AI创造公开赛\nTOP3大新闻\n数据显示，豆包推出付费后月活减少610万 \n据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。” \n有分析人士认为，字节跳动过早地将盈利模式商业化，可能会使其在中国竞争激烈的消费人工智能市场中失去领...",
-      "url": "https://36kr.com/p/3840996342073604?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-06T01:07:19.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 今日热点总结\n\n## 豆包AI付费后用户流失严重\n豆包AI最近开始收钱，结果用户一下子少了610万。就像一家餐厅突然开始收座位费，以前大家都来蹭饭，现在收费了很多人就不来了。专家说，中国免费AI服务还多着呢，豆包现在涨价可能太早了。有人分析，字节跳动可能是太急着赚钱，在中国AI市场竞争这么激烈，太早商业化可能会失去优势。\n\n## SpaceX提高日本IPO融资目标\nSpaceX打算在日本卖股票，现在目标金额提高到25亿美元。就像一个创业公司想融资扩张，现在把目标定得更高了，说明他们很有信心能发展得更好。\n\n## 房市供需关系好转\n现在二手房挂出来卖的数量少了，新房库存也在下降，说明楼市供需关系变好了。就像菜市场买菜，以前菜多没人买，现在买菜的人多了，菜价可能就不会那么低了。\n\n## B站启动AI创造公开赛\nB站要搞一个AI创造比赛，让大家用AI来创作内容。这就像一个电视台举办歌唱比赛，鼓励大家用新科技来创作好玩的内容，可能会出现很多创新作品。",
-      "summarized_at": "2026-06-06T10:11:18.184Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780740607403",
-      "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
-      "summary": "大公司：\n首关15亿元，英诺科创三期基金持续聚焦早期科技投资\n36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。\n比特币“金库”公司市值蒸发620亿美元\n比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。（界面）币整体滑坡，数字资产“金库型”公司的股票也持续下挫，其中许多的跌幅远远超过它们所持有的加密货币本身。Artemis的数据显示，这些比特币金库公司的完全稀释股票总市值，已从去年10月初...",
-      "url": "https://36kr.com/p/3840267945969929?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-05T12:50:46.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 氪星晚报要点总结\n\n## 日本可能卖掉美国债券来救日元\n- 日本可能通过卖掉手里的美国债券，来筹集钱干预日元汇率。简单说，就是日本想把存在美国的钱拿出来，用在市场上稳住日元，因为日元最近贬值得太厉害了。\n\n## 英诺基金投资15亿做早期科技投资\n- 上海有个叫英诺的基金公司，新搞了个15亿人民币的基金，专门投刚开始有潜力的科技公司，特别是人工智能这种前沿领域。就像给刚出生的小树苗浇水施肥，希望它们快点长大。\n\n## 比特币公司市值大跌\n- 比特币最近跌得厉害，导致很多公司（比如追觅科技）的股票也跟着狂跌。这些公司手里都存着很多比特币，但现在比特币价格暴跌，它们手里的钱也跟着缩水了。其中一个叫Artemis的公司，市值直接少了620亿美元，相当于蒸发掉了620亿人民币。\n\n## 俞浩表态继续做实业\n- 追觅科技的老板俞浩在内部发了个消息，说以后还是会专心搞实业，不断搞创新，要攻克全球最难的市场。就像一个做汽车的老板，决定继续造更好的车，不怕竞争激烈。",
-      "summarized_at": "2026-06-06T10:11:24.396Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780740607403",
-      "title": "Token大战中，华为云选择了第三条路｜最前线",
-      "summary": "作者 | 邓咏仪\n编辑 | 张雨忻\n“在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”\n6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。\n他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Token，而该看这些 Token 替企业提了多少效率。\n\n华为云CEO周跃峰\n过去两...",
-      "url": "https://36kr.com/p/3840016255126016?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-05T08:28:25.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 华为云的新思路：不只看Token数量\n\n### 要点：\n- **华为云的新关注点**  \n  华为云CEO周跃峰表示，现在不关心总共产生了多少Token，而是在乎这些Token的质量如何。简单说，就像不只要看一个班级有多少学生，更要看这些学生学得好不好、有没有出成绩。\n\n- **Token的价值**  \n  周跃峰举例，一个人随便问AI一个问题也会产生Token，但这样的Token没有实际用处。他认为，衡量华为云做得好不好，关键看这些Token帮企业提升了多少效率，而不是总数有多少。\n\n- **为什么不在意总数**  \n  过去大家可能觉得Token越多越好，但华为云现在觉得，大量的无意义Token就像一个班级里总有捣乱的，虽然人多，但整体进步不大。华为云希望Token能真正帮助企业发展，就像希望班级里每个学生都能学到东西，而不是光有人数。\n\n- **华为云的新目标**  \n  华为云正在推动国产化算力发展，目标是创造有价值的Token，帮助企业在生产上提高效率，而不是制造一堆没有实际用途的Token。就像学校不再只看学生人数，而是看他们学会了多少本领。",
-      "summarized_at": "2026-06-06T10:11:24.249Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780740607403",
-      "title": "中国入境游距离「世界第一」还有多远？",
-      "summary": "“曾有外国友人让我推荐中国的最佳旅行目的地，我的回答是：你应该看看中国的山。”\n最近的一场入境游研讨会，携程集团联合创始人兼董事局主席梁建章这样回答。在他的表述中，中国有世界最高的山——喜马拉雅；全世界最美的山，则在中国南方最独特的喀斯特地貌——桂林。\n与此同时，他正将这份“私藏推荐”转化为全球旅行者的实际行动。\n近期，携程集团宣布了一项新的战略计划：未来五年，公司将引入2亿人次的入境游客。\n在同期进行的桂林之夜入境游推广活动上，国际影星成龙也以“携程入境游大使”的身份亮相活动现场。当成龙遇上桂林山水，携程决心赋能入境游整体链条的变革正拉开序幕。\n\n国际影星成龙成为“携程入境游大使”\n01. ...",
-      "url": "https://36kr.com/p/3840001908361472?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-05T08:25:49.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 中国入境游距离「世界第一」还有多远？\n\n## 梁建章的旅行推荐\n\n携程的梁建章主席觉得，中国最棒的旅游地是山。他特别推荐喜马拉雅山（世界最高的山）和桂林山水（世界最美的喀斯特地貌）。就像有人问你哪儿好玩，你可能会说去爬山或者看风景一样，梁建章把这种“私藏推荐”想变成全球游客的实际选择。\n\n## 携程的计划\n\n携程决定在未来五年里，吸引2亿外国游客来中国旅游。这不是小目标，比如你计划暑假带家人去旅游，携程想吸引全世界的人来中国玩。\n\n## 成龙的推广\n\n为了吸引更多外国游客，携程找来了国际影星成龙当“入境游大使”。就像你认识某个明星，可能会因为喜欢他而去买他的代言产品一样，成龙的出现能吸引更多人关注桂林山水。\n\n## 携程的改变\n\n携程不只是做简单的旅游推荐，他们想改变整个入境游的体验。这可能包括更好的服务、更便利的交通或者更有趣的活动。就像你去餐厅吃饭，希望服务员热情、菜好吃、环境舒服一样，携程想给外国游客提供这样的体验。\n\n## 核心观点\n\n- 中国有很多吸引人的自然景观，比如高山和山水。\n- 携程计划吸引很多外国游客来中国旅游。\n- 成龙作为大使，帮助推广中国旅游。\n- 携程想全面提升入境游的服务和质量。",
-      "summarized_at": "2026-06-06T10:11:40.191Z",
       "summary_status": "success"
     },
     {
