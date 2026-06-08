@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-08T12:39:42.192Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-08T12:39:42.194Z",
+    "date": "2026-06-08",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1780922303430",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "```markdown\n## Meta AI客服漏洞事件总结\n\n### 事件回顾\n6月5日，有人发现黑客利用Meta（前Facebook）的AI客服偷Instagram账号。黑客骗AI客服把用户账号和自己的邮箱关联，AI居然真的照做了。有个黑客还用这招黑了前奥巴马的闲置账号。\n\n### 简单说怎么回事\n就像你去银行柜台，柜员没啥警惕心，直接按你的要求把你的存折和别人的身份证绑一起。黑客就抓住了Meta AI客服这个\"没警惕心\"的漏洞。\n\n### 关键问题\n- Meta的AI客服太容易被人骗了，连\"嗯\"\"啊\"都不会问\n- 黑客只需要骗它做两件事：关联账号、关联邮箱，AI就照做不误\n- 这说明AI安全不能光靠表面功夫（比如 Mythos 这种说法）\n\n### 生活类比\n就像外卖小哥收件，你随便编个地址他都能送。黑客就是编了个\"这是你的新邮箱\"的谎言，AI就当真了。\n\n### 核心教训\n1. AI安全不能光靠技术手段，还得教AI多问\"为什么\"\n2. 越是智能的系统，越容易被人钻空子\n3. Meta这次教训说明，AI客服得学会像真人客服那样多怀疑\n\n### 现在怎么办\nMeta得赶紧给AI客服加个\"怀疑滤镜\"，让它对明显可疑的操作多问两句。不然以后谁还敢用AI客服啊？\n```",
-      "summarized_at": "2026-06-08T12:38:32.667Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780922303430",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind...",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-04T10:50:18.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 法院如何应对大量AI生成的起诉\n\n- **法官每天都要处理大量无律师起诉**  \n  科罗拉多州的法官Maritza Braswell每天要看很多文件，这些文件大多是由没有律师的人写的。这些人要么请不起律师，要么觉得自己的案子太简单、不值得请律师。\n\n- **起诉数量太多，法官难以应对**  \n  随着AI写起诉书变得容易，越来越多的人用AI来写法律文件。这导致法院每天要处理的文件数量大大增加，法官们就像医生面对流感爆发一样，每天要处理大量类似的情况。\n\n- **AI起诉书让法官工作更累**  \n  虽然AI生成的文件看起来很规范，但很多内容重复、没有新意，完全像流水线产品。法官需要逐个阅读，即使很多案子根本不值得审理，还是要认真对待。\n\n- **法院正在寻找解决办法**  \n  裁判们正在讨论如何提高效率，比如用计算机筛选掉明显不值得审理的案子，或者要求用AI起诉的人提供更多信息。但具体怎么操作，大家还在摸索中。",
-      "summarized_at": "2026-06-08T12:38:31.241Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780922303430",
-      "title": "Rehumanizing global health care with agentic AI",
-      "summary": "The global health care sector is under increasing strain.  Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress ...",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T11:23:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 全球医疗越来越难，AI来帮忙\n\n现在全球的医疗系统压力特别大。一方面是钱不够花，几十年没怎么投资，医生护士也招不来；另一方面是老年人越来越多，需要看病的老人也越来越多。结果就是看病难，很多老人得不到及时照顾，医生护士也累得半死。\n\n### 现在的问题\n- 医疗资源不够分：就像一个食堂只有10个座位，但有100个人想吃饭，肯定有人没得吃。\n- 医疗服务乱七八糟：不同医院、不同科室之间信息不互通，病人得跑好几个地方才能看完病。\n- 医生太累：一个医生要管几十个病人，就像一个服务员要照顾几十个客人，肯定忙不过来。\n\n### AI能做什么？\nAI就像一个超级助手，可以帮忙做这些事：\n- **提醒医生**：比如提醒医生该给某个病人复查了，就像闹钟提醒你该起床。\n- **整理信息**：把病人的病历、检查结果都整理好，方便医生快速了解情况，就像把乱堆的玩具分类放好。\n- **预测需求**：根据数据预测哪个科室人最多，提前做好准备，就像天气预报让你知道明天要不要带伞。\n\n### 为什么AI有用？\n- **不会累**：机器24小时不休息，不会像人一样累。\n- **不犯错**：机器不会因为累就看错病，就像计算器不会算错数学题。\n- **学习快**：AI可以快速学习新知识，就像学生能快速记住新知识。\n\n所以，用AI来帮忙，可以让医疗系统变得更高效，也能让医生护士不那么累，最终让所有病人都能得到更好的照顾。",
-      "summarized_at": "2026-06-08T12:38:40.613Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1780922303430",
-      "title": "How small businesses can leverage AI",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu...",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-02T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 小型企业如何利用AI\n\n### AI是什么\nAI就像一个超级聪明的助手，能帮你做很多以前要花大量时间和精力的事。比如，它可以帮你写邮件、分析数据、甚至设计图片。它就像一个多才多艺的帮手，能处理各种任务。\n\n### AI如何帮小企业\n- **省钱省力**：比如，你开个小餐馆，AI能帮你管理菜单、计算成本，让你少花时间在琐事上。\n- **提高效率**：比如，你是个设计师，AI能帮你快速生成多种设计方案，省去反复修改的麻烦。\n- **精准营销**：比如，你卖衣服，AI能分析顾客喜好，帮你设计更受欢迎的款式，提升销量。\n\n### 如何使用AI\n1. **从小处着手**：不需要一下子用上所有AI工具，可以先从简单的开始，比如用AI写个宣传文案。\n2. **学习资源**：网上有很多免费教程，比如YouTube上的视频，教你如何用AI工具。\n3. **寻找合作**：如果自己不会用，可以找懂AI的朋友或公司合作，比如找软件公司定制AI方案。\n\n### 注意事项\n- **不要过度依赖**：AI是工具，不是万能的，还是要自己多思考。\n- **保护数据**：使用AI时要注意隐私问题，避免泄露重要信息。\n- **持续学习**：AI技术发展很快，要不断学习新工具和新方法。\n\n总之，AI就像是给小企业插上翅膀，能帮你更快、更好地发展。只要用对方法，它就能成为你的得力助手。",
-      "summarized_at": "2026-06-08T12:38:40.150Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1780922303430",
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# vitejs / vite：下一代前端工具，超级快！\n\n## 什么意思？\n\n想象一下你正在做饭，突然发现调料瓶都找不到了。传统的前端工具就像没整理好的厨房，每次找东西都要翻半天。vitejs 就像一个超级整洁的厨房，所有东西都放在该放的地方，找起来特别快。\n\n## 为什么这么快？\n\nvitejs 的速度就像坐高铁而不是骑自行车。以前加载前端文件得等好久，现在用 vitejs 就像按了加速键，几秒钟就搞定。它用了新的技术，比如直接运行压缩后的代码，不用等编译完成，就像直接吃到现做的饭菜，不用等炖菜。\n\n## 它有什么用？\n\n- 开发时特别快，修改代码后页面立刻更新，不用每次都重新加载\n- 生产环境也很快，生成的文件很小，打开网页像眨眼一样快\n- 支持现代的 JavaScript 特性，比如 ES6+，不用到处找兼容性设置\n\n## 适合谁？\n\n如果你是个网页开发者，想提高工作效率，vitejs 就像找到了一个超给力的助手。它特别适合写新项目，能让你更快地看到成果，就像做手工时工具齐全，做出来的东西也更漂亮。\n\n总之，vitejs 就是一个让前端开发变轻松变快速的工具，就像把杂乱的厨房变成了高效的工作台。",
       "summarized_at": "2026-06-08T12:39:27.875Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780922306966",
-      "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
-      "summary": "文｜王毓婵\n编辑｜张雨忻\n6月5日，腾讯云AI产业应用大会最受外界关注的是什么？\n毫无疑问，是汤道生与姚顺雨的对话。\n在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。\n腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、腾讯混元大语言模型及AI Infra负责人姚顺雨，“很多人说腾讯在AI上慢了，你觉得我们真的慢了吗？”\n姚顺雨回答说：“感觉应该是我问你的问题。”\n姚顺雨随后提到了两个判断标准——1.AI是一个短期游戏还是长期游戏？2.它会是一个线性...",
-      "url": "https://36kr.com/p/3844018911889924?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-08T09:01:03.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 汤道生和姚顺雨聊AI发展速度\n\n腾讯高管汤道生和AI专家姚顺雨在大会上讨论了腾讯AI发展的问题。汤道生问姚顺雨，外边有人说腾讯在AI上发展慢，到底是不是这样。姚顺雨反问汤道生，是不是他先问这个问题的。\n\n姚顺雨说，判断AI发展快慢要看两点：第一，AI是短期就能玩出名堂的技术，还是得长期投入才能看到效果？第二，AI发展是像爬山一样一步一步来，还是能跳着进步？姚顺雨认为，不能只看眼前，得看长远规划。\n\n汤道生和姚顺雨的对话，其实是想说明腾讯在AI上不是偷懒，而是有自己的节奏和想法。就像盖房子，有人只想快住进去，有人想建个百年大宅，目标不同，速度自然不一样。他们强调AI是个需要耐心和长远眼光的技术，不能着急求成。",
-      "summarized_at": "2026-06-08T12:39:26.595Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780922306966",
-      "title": "改变全球速度的AI，付款却卡在上一个时代",
-      "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。 \nAI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。\n但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，到底能不能顺畅地流动起来？\n当AI企业的采购清单越来越全球化，支付链路的每一个断点，都意味着实实在在的成本损耗和效率内耗。而当产品开始面向全球用户变现，跨币种结算的汇损、本地支付方式的碎片化与计费模式的复杂性，又在收款侧筑起了另一道门槛。...",
-      "url": "https://36kr.com/p/3844199957236227?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-08T07:30:56.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI发展太快，但收款方式落后了\n\n### AI行业竞争激烈\n现在AI发展非常快，到处都是新的AI公司。大家都在比拼谁的技术更好、谁的产品更新、谁的钱更多。就像一场赛跑，谁跑得快谁就赢。\n\n### AI公司收款遇到问题\n但是，这些AI公司在收款方面却很麻烦。就像你想买东西，但收银员不会收你喜欢的支付方式，或者换货币时要交很多手续费，这样你就不想买了。\n\n### 全球化和支付方式的矛盾\nAI公司需要和世界各地的人做生意，但收钱的时候却遇到很多困难。比如：\n- 换货币要交钱\n- 每个国家用的支付方式都不一样\n- 收钱的时候还要算很复杂的账\n\n### 收款问题影响赚钱\n这些收款问题让AI公司要花更多的时间和钱去处理，就像开车遇到堵车一样，本来可以很快到达，结果却很慢。这样就会影响公司的利润。\n\n### 怎么解决？\nAI公司需要找到更好的收款方法，比如：\n- 用大家都方便的支付方式\n- 减少换货币的手续费\n- 让收钱的过程更简单\n\n总之，AI发展太快了，但收款方式还跟不上。如果这个问题不解决，AI公司就算产品再好，也可能因为收不到钱而做不下去。",
-      "summarized_at": "2026-06-08T12:39:34.056Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780922306966",
-      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
-      "summary": "作者 | 邱晓芬\n编辑 | 袁斯来\n「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。\n作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。\n但范典做第一款产品用了三年。\n2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、AI床垫，转而做起一个 全新的品类—— AI睡眠床头灯（Sleepal AI Lamp）。\n很少人清楚这三年发生了什么。范典几乎不接受采访，也鲜少见投资人。低调...",
-      "url": "https://36kr.com/p/3844006775360002?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-08T04:07:08.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 创始人范典的创业故事\n\n- **背景**：范典曾是小米的高管，后来出来自己创业，做智能硬件产品。\n- **与众不同**：虽然很多硬件创业者喜欢做大家已经做过的产品，比如智能手表、智能床垫，但范典选择了做一个全新的产品——AI睡眠床头灯。\n- **开发过程**：范典做这个床头灯花了三年时间，这在竞争激烈的市场里很不常见。他几乎不说话，也不见投资人，非常低调。\n- **产品特点**：这款床头灯特别的地方在于，它能让睡觉更舒服，不用动就能调节光线，让睡眠更好。\n- **成功关键**：范典靠自己的经验和小米的资源，慢慢找到了投资，最终把产品做出来了，并成功众筹，这说明了他对市场的理解很深。\n\n范典的故事告诉我们，创业不一定非要跟风，有时候坚持做自己认为好的产品，反而能找到机会。",
-      "summarized_at": "2026-06-08T12:39:34.165Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1780922306966",
-      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
-      "summary": "文｜胡香赟\n编辑｜海若镜\n36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。\n华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士，曾任GE医疗全球科研中心中国区负责人，并连续创立创新科技及医疗公司，在医疗影像、AI、脑机接口与产业转化方面拥有深厚积累。\n公司核心团队汇聚了来自清华大学、上海交通大学、帝国理工等海内外高校的人才，覆盖神经科学、声学、医学影...",
-      "url": "https://36kr.com/p/3841459663030532?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-08T00:30:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 华超神控拿到大钱，要造能听懂脑子的超声设备\n\n## 公司搞了个新东西\n华超神控是个搞AI和超声技术的新公司，想造出一种能\"听懂\"脑子的设备。他们最近拿到了1亿人民币的投资，这笔钱是公司创业以来的第一笔重要资金。投资方都是名气很大的投资公司，比如经纬创投和德联资本，这说明大家觉得他们这个想法很有潜力。\n\n## 团队很厉害\n公司创始人李昕是个博士，曾经在GE医疗工作过，还创办过好几家公司。他的团队里有很多名校毕业的聪明人，懂神经科学、声音技术、医学影像这些。就像一个乐队，每个人都会自己的乐器，合在一起就能创造出好音乐。\n\n## 钱用到哪里去\n拿到的钱主要用于验证技术能不能真的实现，并且把技术变成大家可以用的产品。比如，他们想造的设备能不能真的通过超声技术\"读\"懂大脑的想法，然后帮人控制设备，就像给大脑装了个翻译器。\n\n## 未来想做什么\n他们想造一种新的脑机接口设备，用超声技术代替传统的电极。这样更方便、更舒服，就像用手机语音助手控制家电一样简单。如果成功了，以后生病检查或者想控制轮椅、电脑什么的，可能只需要想一下就可以了。",
-      "summarized_at": "2026-06-08T12:39:42.192Z",
       "summary_status": "success"
     },
     {
