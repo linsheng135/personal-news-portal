@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-09T11:23:44.977Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-09T11:23:44.978Z",
+    "date": "2026-06-09",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1781004153572",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati...",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T10:20:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 混合人机工作模式的领导力学习\n\n### 背景变化\n未来两年，AI助手的使用量可能增加300%，这会让企业不得不考虑怎么管理这种新工作模式。就像以前工厂里都是人工操作，现在突然多了很多机器人一样。\n\n### AI助手的特点\n不同于现在需要人工监管的自动化设备，AI助手能自己干活。比如，以前需要人工搬运货物的机器人，现在能自己规划路线、安排工作。\n\n### 领导者的新挑战\n- 要学会怎么指挥这些能自己思考的AI助手\n- 需要平衡人机工作关系，就像老师既管学生又管教学设备一样\n- 要不断调整管理方式，因为AI助手会越来越智能\n\n### 生活例子\n想象一下超市收银员，以前一个是收银一个是扫描商品，现在有了能自动识别商品的智能收银台，收银员需要学会怎么配合这些设备工作。\n\n### 核心观点\n领导者需要学习如何让人类员工和AI助手更好地合作，就像学习怎么和新技术设备相处一样。未来职场会越来越需要这种混合技能。",
-      "summarized_at": "2026-06-09T11:22:40.932Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781004153572",
-      "title": "Five things you need to know about AI",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…...",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T09:16:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的五个重要点\n\n### 1. 人工智能正在快速发展\n现在人工智能发展很快，就像智能手机一样，几年间就从笨重变成轻薄便携，AI也在不断进步。比如语音助手能听懂你说话，自动驾驶汽车能自己开车，这些都是AI进步的例子。\n\n### 2. AI正在改变各行各业\nAI不只是高科技公司的专利，它已经进入普通人生活。比如：\n- 超市用AI分析你的购物习惯，推荐商品\n- 医院用AI看X光片，比医生还准\n- 银行用AI识别假钞，防止诈骗\n\n### 3. AI会取代一些工作，但也会创造新机会\n就像计算机取代了算盘一样，AI会取代一些重复性工作，比如流水线上的工人。但同时，AI也会创造新工作，比如AI工程师、AI训练师等。就像学开车需要教练一样，AI也需要人来训练和维护。\n\n### 4. AI需要大量数据训练\nAI就像孩子学说话，需要听很多话才能学会。AI也需要大量数据才能变得聪明，比如需要看成千上万张猫的照片才能认出猫。所以，数据越多，AI越厉害。\n\n### 5. AI的道德问题需要重视\nAI就像一把双刃剑，可以帮人也可以害人。比如AI可以用来监控公民，或者用来制造假新闻。所以，我们需要制定规则来限制AI的坏处，就像交通规则限制汽车一样。\n\nAI的未来充满可能，既要抓住机遇，也要注意风险。",
-      "summarized_at": "2026-06-09T11:22:41.523Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781004153572",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI客服被黑客利用盗号事件\n\n- **事件概述**：黑客通过Meta的AI客服，成功盗取了Instagram账号。他们让AI客服帮忙把受害者的账号和黑客控制的邮箱绑定在一起，AI客服就答应了。有个黑客甚至用这个方法黑了奥巴马的旧账号。\n\n- **黑客做法**：黑客先是冒充用户，向Meta的AI客服提出绑定邮箱请求。AI客服按照设计会帮助用户操作，但没想到黑客利用了这个功能。黑客只需要提供自己控制的邮箱地址，AI客服就会帮受害者把账号转到黑客那里。\n\n- **AI客服的漏洞**：这个AI客服设计得比较机械，只认指令，没能识别出用户是不是骗子。就像你让快递员随便送个包裹，他不管里面装的是不是你的东西，只负责送到指定地址一样。\n\n- **安全问题**：这件事说明，保护AI系统不能只靠一套理论（Mythos），需要更实际的安全措施。黑客利用AI客服的机械性，轻松实现了盗号，就像用自动售货机骗可乐一样简单。\n\n- **启示**：AI客服在处理请求时，应该增加更多判断能力，比如问用户更多问题，确认操作是否真的想这么做。现在AI还不能完全像人一样思考，所以容易被黑客利用。",
-      "summarized_at": "2026-06-09T11:22:47.437Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781004153572",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind...",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-04T10:50:18.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 法院如何处理大量AI生成的诉讼\n\n- **法官的工作日常**  \n  科罗拉多州的法官Maritza Braswell每天都要处理大量没有律师帮助的诉讼材料。这些材料大多来自穷人或案件不够重要，以至于律师不愿意接手。她需要仔细阅读每一份文件，判断是否值得审理。\n\n- **AI生成诉讼的增多**  \n  近年来，AI生成的内容越来越多，包括一些诉讼材料。这让法官的工作量更大了，因为需要辨别哪些是真的人写的，哪些是AI伪造的。\n\n- **挑战与应对**  \n  法官们面临的主要挑战是：如何区分真实案件和AI制造的虚假案件。有些材料看起来很像真案件，但仔细一看会发现漏洞。法官们正在学习如何识别这些虚假材料，比如检查写作风格和逻辑是否正常。\n\n- **AI对法律行业的影响**  \n  AI生成的诉讼材料让法官们意识到，未来可能会有更多类似的虚假案件。这促使法院开始研究如何利用技术手段（如AI检测工具）来提高效率，避免被虚假案件拖累。\n\n- **普通人如何理解**  \n  想象一下，如果有人用电脑自动写了很多诉讼材料，法官需要判断这些材料是真的还是假的。这就像超市收银员发现有人用假钞一样，需要仔细辨别并采取措施。",
-      "summarized_at": "2026-06-09T11:22:47.283Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1781004153572",
       "title": "Rehumanizing global health care with agentic AI",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 云虚拟机监控系统：让电脑轻松当服务器\n\n想象一下，你的电脑里有好几个应用程序同时在运行，每个应用都需要不同的资源（比如内存、处理器）。云虚拟机监控系统就像一个超级管理员，能帮你管理这些资源，让它们高效工作。\n\n- **核心功能**：这个系统特别擅长给虚拟机（也就是电脑里的\"分身\"）动态添加或移除硬件资源。比如，突然觉得某个应用快卡了，它可以临时给它加内存；或者某个硬件坏了，它又能立刻把资源转移给其他应用。这就像家里水管突然漏水了，你立刻关掉不用的水龙头，把水流集中到需要的地方。\n\n- **兼容性强**：无论是Windows还是Linux系统，这个系统都能轻松支持。就像一家餐馆既能做中餐也能做西餐，满足不同顾客的需求。\n\n- **安全省电**：系统是用一种叫\"Rust\"的现代编程语言写的，特别注重安全，能防止电脑被恶意软件攻击。同时，它还很小巧，不占用太多电脑资源，就像手机上很多小程序，启动快又省电。\n\n- **实用功能**：它支持\"vhost-user\"技术，能让电脑硬件更高效地工作，比如把显卡直接分配给某个虚拟机使用，就像把家里的电视直接接到游戏机上，延迟更低。\n\n总之，这个系统就像一个智能管家，能让普通电脑也当服务器用，特别适合需要稳定、安全、高效运行多个应用的环境。",
       "summarized_at": "2026-06-09T11:23:31.816Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781004156741",
-      "title": "累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发",
-      "summary": "文 | 阿至\n封面来源｜Pexels\n星载组合光纤放大器，一个藏在卫星激光通信终端里的“隐形赛道”，随着国内低轨星座进入规模化部署倒计时，正在悄然升温。\n36氪获悉，星载光电核心部组件供应商天津寰宇星通科技有限公司（以下简称“寰宇星通”）近期已完成数千万元Pre-A+轮融资，由滁州启金翌鑫独家领投，后续又获得了上市公司金春股份的追加投资。本轮资金将主要用于星载组合光纤放大器产线扩容、星载三轴光纤陀螺在轨搭载验证及多款新品研发，进一步加速星载光电核心部组件的国产化进程。\n寰宇星通成立于2021年，团队核心班底来自南开大学，是国内最早从事星载光纤放大器自主研发的产学研转化项目之一。创始人戴武涛硕士...",
-      "url": "https://36kr.com/p/3845819328023043?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-09T10:51:58.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 星载光电技术迎来新突破\n\n- 公司发展：天津寰宇星通是一家生产星载光电组件的公司，他们研发的星载组合光纤放大器在太空卫星上使用，已经累计工作23万小时没有出过问题，表现非常稳定。这个公司成立于2021年，团队来自南开大学，是国内最早做这个方向的之一。\n\n- 融资情况：公司刚刚完成了几千万元的Pre-A+轮融资，投资方是滁州启金翌鑫和金春股份。这些钱将用来扩大生产规模、验证新技术，并研发更多产品。\n\n- 技术意义：星载光电组件就像卫星的“信号放大器”，能让卫星之间用激光快速通信。随着很多新卫星上天，这种技术需求越来越多，寰宇星通的技术正好能满足这个需求。\n\n- 行业前景：目前国内很多低轨卫星正在部署，星载光电市场正在快速发展。寰宇星通的技术已经证明非常可靠，未来有望成为这个领域的领头羊。",
-      "summarized_at": "2026-06-09T11:23:30.567Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781004156741",
-      "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
-      "summary": "文｜李嘉星\n编辑｜周鑫雨\n一句话介绍\ncontext-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。\n它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token 过多消耗”的核心痛点。\n据团队表示，在编程场景下，context-mode 能够让 AI 编程的成本降低 98%，同时将大模型的记忆力从30分钟提升至 3 小时。\n团队背景\ncontext-mode 的背后是一支背景多元的跨国初创团队。目前团队的核心成员分布在土耳其、法国等 4 个国家，主要通过 GitHub 异步协作。\nMert Köseoğlu（核心开发者、创始人）：曾...",
-      "url": "https://36kr.com/p/3845645258541319?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-09T07:53:19.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI编程工具大改进\n\n- **context-mode是什么**  \n  它就像给AI程序员用的\"备忘录\"，能让AI记住更久、更省事。  \n\n- **解决了什么问题**  \n  以前AI写代码容易\"忘事\"，比如过一会儿就忘了前面说过的话。而且每次用都要花不少钱。这个工具解决了这两个大麻烦。  \n\n- **效果有多好**  \n  用它后，AI编程费用能便宜98%！就像以前买一瓶水要5块，现在只要5毛。而且AI能记住的事从30分钟延长到3小时，相当于把手机内存扩大了10倍。  \n\n- **谁开发的**  \n  开发团队是跨国合作的，成员在土耳其、法国等地，靠GitHub远程一起工作。领头的是Mert Köseoğlu，他以前就做过类似技术。  \n\n- **适合谁用**  \n  越是写复杂代码的人越需要，比如程序员或者需要AI帮写代码的人。用这个工具，就像让AI记住整个项目的笔记，不会再丢三落四。",
-      "summarized_at": "2026-06-09T11:23:37.389Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781004156741",
-      "title": "康养地产的“闭环”，北京山谷找到了",
-      "summary": "当一个行业的概念产出远超实际交付时，外界的审视就变得格外重要。\n环京康养地产就是典型。过去几年，打着康养旗号的项目遍地开花。但绝大多数最终倒在同一个地方——交付。配套缩水、运营停滞、社区空置，成了这个赛道的常态。\n但这不代表市场没有需求。恰恰相反，北京康养市场的供需矛盾相当尖锐。据《北京市老龄事业发展报告（2024）》，2024年末全市60岁及以上常住人口突破514万人，其中超过80%属于低龄健康老年群体。他们需要的不是传统护理型养老，而是兼顾生活品质、医疗保障和身心全方位康养的品质居所。\n与此同时，都市中青年群体的亚健康问题也在推动康养需求边界外延。大量“上班族”中青年也需要一个不在远方的“...",
-      "url": "https://36kr.com/p/3845553021880840?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-09T06:19:43.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 康养地产的\"闭环\"怎么玩？\n\n### 康养地产的问题\n\n过去几年，很多地方搞康养地产，结果都没搞好。就像你跟朋友说好一起去露营，结果到地方发现没水没电，连做饭的地方都没有，这就是\"说一套做一套\"。北京这边的康养地产也一样，很多项目承诺了好的服务，但最后都没兑现，导致房子空着，服务也停了。\n\n### 康养需求真不小\n\n北京人老了，但大多数是身体健康的老爷爷老奶奶，他们需要的好像是小区里有活动、离医院近、还能跟人交流的地方，而不是那种只能躺着养病的护理院。另外，现在年轻上班族太累了，经常腰酸背痛，也需要个地方放松放松，但又不想离得太远。\n\n### 北京山谷的例子\n\n北京山谷好像找到了好办法。他们不只是盖房子，还配了医院、超市、公园这些日常需要的东西，让老人们在小区里就能活得像在老家一样方便。这样一来，住的人多了，服务也稳定，这就叫\"闭环\"——自己能解决自己需要的一切，不用到处跑。",
-      "summarized_at": "2026-06-09T11:23:37.382Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781004156741",
-      "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
-      "summary": "作者 | 邱晓芬\n编辑 | 袁斯来\n6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 2026选了一条更克制的路线——\n这次，苹果没有如往常一般发布新硬件，也不预热万众瞩目的折叠屏，而是把一个多小时演讲的最大篇幅，留给了软件与AI。\n显然，苹果正试图把过去两年的\"AI迟到者\"的标签，编译成另一套叙事。\n在发布会上，苹果软件工程高级副总裁克雷格·费德里吉（Craig Federighi）先是纠偏了多数AI的产品思路——他认为，大部分公司都在急着往前跑，\"为了AI而AI\"，却始终没考虑真正要服务的用户。\n或许是在隐晦为苹果过去缺席AI做...",
-      "url": "https://36kr.com/p/3845356968839680?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-09T03:01:37.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 苹果在AI上终于动起来了，但国内iPhone用户还是等不了\n\n### WWDC 2026 大事件总结\n\n苹果这次发布的WWDC大会和往年有点不一样，没像往常那样推出新硬件，也没有大家期待的折叠屏手机。相反，苹果把大部分时间用在了软件和AI技术上。这就像一个学生，以前总是落后，现在终于决定在功课上多花时间。\n\n- **苹果的AI策略改变**：以前很多人都在忙着做AI产品，但没好好想想这些产品到底帮到了谁。苹果的负责人克雷格·费德里吉说，他们不会为了AI而AI，而是要先想想能真正帮到用户什么。这就像做饭，不是随便放食材，而是要想想谁会喜欢吃。\n\n- **苹果在AI上的进步**：虽然苹果之前在AI领域有点落后，但这次他们终于迈出了重要的一步。虽然国内的用户还用不上这些新功能，但至少苹果开始重视AI了。这就像一个学生，以前数学不好，现在开始认真听讲，虽然成绩还没上去，但至少有进步了。\n\n- **国内iPhone用户的情况**：这次苹果发布的新AI技术，国内iPhone用户还暂时用不了。这就像隔壁班的同学在用新教材，但你还在用旧的，虽然知道新教材好，但还得等学校统一换。\n\n总的来说，苹果在AI领域终于开始认真了，虽然国内用户还要等等，但至少这是一个好的开始。",
-      "summarized_at": "2026-06-09T11:23:44.977Z",
       "summary_status": "success"
     },
     {
