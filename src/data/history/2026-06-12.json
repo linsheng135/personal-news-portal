@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-12T11:49:05.755Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-12T11:49:05.755Z",
+    "date": "2026-06-12",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1781264871862",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without...",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-11T11:00:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 谷歌DeepMind担心AI大军在线上互相打架\n\n谷歌DeepMind正在研究：如果网上有成千上万台AI互相干活，会出什么乱子。比如，想象一下街上突然冒出成千上万台送外卖的机器人，它们会不会互相抢活儿或者乱跑？\n\n- **问题核心**：现在AI越来越多，它们在网上互相沟通、干活，但万一它们像一群抢零食的孩子一样争抢，或者像交通堵塞一样卡死怎么办？\n- **例子解释**：好比小区门口的快递柜，本来是方便大家取件，但如果所有快递员都在那儿挤来挤去，最后谁也取不了件，还会耽误别人时间。\n- **DeepMind的担忧**：公司担心这些AI没有统一规矩，可能会在网上制造混乱，比如让网上购物系统崩溃，或者让信息传播变得混乱。\n- **研究目标**：他们想提前研究如何让这些AI像老老实实的同事一样合作，而不是像调皮的孩子一样乱来。比如给每个AI定个规矩，像排队一样按顺序工作。\n- **未来影响**：随着AI越来越普及，这种问题会越来越严重。如果现在不解决，以后可能会有更多线上混乱事件，就像现在交通拥堵一样麻烦。\n\n简单说，DeepMind担心的是：如果网上全是AI，它们要是没有规矩，后果可能比人类自己开车还混乱。",
-      "summarized_at": "2026-06-12T11:48:01.255Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781264871862",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati...",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T10:20:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 带着AI一起上班：企业领导者的新挑战\n\n## AI正在改变工作方式\n\n想象一下，公司里突然多了300个\"同事\"，这些同事不需要咖啡、不想放假，还能自己安排工作。未来两年，这种情况可能真的会发生。现在用的自动化系统，就像做饭时需要你亲自下厨的厨师；但AI不一样，它们能自己做饭，自己安排时间，就像一个能独立工作的机器人助手。\n\n## 人和AI如何配合\n\n以前的工作，人得跟着系统走；现在AI会跟着人来调整。比如，你交代一个任务，AI能自己想出最佳方案，甚至能和其他AI配合工作，就像一群能互相打听的侦探。领导们开始琢磨，怎么管理这群\"聪明又独立\"的同事。\n\n## 领导者的新角色\n\n领导不能像以前那样事事操心，更多是当\"教练\"。比如，AI负责报表统计，领导就用来制定大方向；AI负责客户服务，领导就用来拓展新市场。关键是要学会\"用人向AI\"，就像让厨师专门做擅长的菜，自己则负责采购和营销。\n\n## 挑战与机遇并存\n\n最大的难处在于，AI会做很多以前人的工作，让一些人觉得\"没用了\"。但反过来想，这就像有人发明了洗衣机，有人失业了，但更多人能干别的活。领导要做的，就是帮员工转到AI做不了的工作上，比如创意、情感交流这种需要\"人性味\"的活。",
-      "summarized_at": "2026-06-12T11:48:00.388Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781264871862",
-      "title": "Five things you need to know about AI",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…...",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T09:16:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 关于AI的五个重要知识点\n\n### 1. AI正在快速发展\nAI就像智能手机一样，最近几年进步特别快。以前可能需要几十年才能实现的智能，现在几年内就能看到。比如语音助手、推荐系统等，都是AI进步的例子。\n\n### 2. AI正在改变各行各业\n就像超市用自助结账系统提高效率一样，AI正在进入各行各业。医院用AI诊断病情，工厂用AI管理生产，连农业也开始用AI预测天气。总之，AI正在让各种工作变得更简单。\n\n### 3. AI需要大量数据\nAI就像孩子需要大量阅读才能学会说话一样，需要大量数据才能变得\"聪明\"。比如，让AI识别猫的图片，需要给它看成千上万的猫和狗的照片，才能区分它们。\n\n### 4. AI有局限性\nAI虽然厉害，但不是万能的。就像计算器不会思考一样，AI只能做人类教它做的事情。比如，AI可以下棋但不会感受快乐，因为它没有真正的意识。\n\n### 5. AI的未来取决于人类\nAI就像工具，用得好能造福人类，用不好可能带来风险。所以，如何设计和使用AI，需要全社会一起讨论决定。就像汽车需要交通规则一样，AI也需要规则来约束。\n\n（注：以上总结根据原文内容简化整理，采用生活化比喻帮助理解，未涉及专业术语。）",
-      "summarized_at": "2026-06-12T11:48:08.156Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781264871862",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI客服漏洞让人警醒\n\n最近有个事发现场挺有意思。有个黑客想偷别人的Instagram账号，结果他没直接攻击用户，而是去“欺骗”Meta公司的AI客服。这个AI客服本来是帮人解决Instagram问题的，结果黑客给它出了个“难题”。黑客让AI客服帮忙把用户的Instagram账号和自己控制的邮箱绑在一起，而那个邮箱是黑客自己弄的。奇怪的是，AI客服居然真的照做了！就这样，黑客就顺理成章地拿到了用户的账号。\n\n这个事让我们明白，保护AI系统安全不能只靠一个神话故事般的防护措施（也就是所谓的“Mythos”）。黑客只要稍微绕点弯子，就能找到AI系统的漏洞。这就像你去银行办事，本来以为有密码保护很安全，结果工作人员不小心把你的证件和另一人的证件搞混了，钱不就被人拿走了吗？\n\n### 关键点\n- 黑客用AI客服偷Instagram账号\n- AI客服被要求把账号和黑客控制的邮箱绑在一起\n- AI客服真的照做了\n- 这说明AI安全不能只靠一个简单的防护措施\n\n这件事告诉我们，保护AI系统不能只靠一个“神话故事”，得把各种可能出现的问题都考虑到。就像家里防盗，不能只锁门，还得看看窗户有没有问题。AI系统也是如此，得防备各种意想不到的攻击手段。",
-      "summarized_at": "2026-06-12T11:48:07.752Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1781264871862",
       "title": "How courts are coping with a flood of AI-generated lawsuits",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# 从零开始造技术：Codecrafters带你体验编程的乐趣\n\n## 核心目标：像搭积木一样学习编程\n\n这个项目鼓励大家动手实践，通过自己重新造出常用的技术，来真正掌握编程。想象一下，平时我们用微信聊天、看视频，但很少想过这些软件是怎么做的。Codecrafters就是让大家亲手做一个小版的微信或视频播放器，借此理解这些技术背后的原理。\n\n## 学习方式：边做边学，像学做菜一样掌握编程\n\n- **拆解技术**：比如造一个简单的视频播放器，就需要自己写代码控制画面播放、声音同步等\n- **动手实践**：每完成一个小功能，就相当于学会了一个新菜式\n- **理解原理**：通过造东西，自然明白为什么这样设计，就像知道番茄炒蛋为什么加糖\n\n## 为什么这样学效果好？\n\n- **场景真实**：不是空想概念，而是造出真的能用的小工具\n- **兴趣驱动**：做自己喜欢的技术，更容易坚持下去\n- **收获全面**：既学会具体代码，也理解设计思路\n\n## 给想学编程的人的建议\n\n- **从简单开始**：先造个小工具，比如日历App或简单游戏\n- **多用对比**：对比自己造的和原版软件，看有什么不同\n- **不怕失败**：造坏了就重来，就像学做菜时 spices 加多了可以重做\n\n通过这种方式，编程不再是枯燥学概念，而是像玩拼图游戏一样有趣。当你在电脑上造出自己的\"小发明\"时，就会真正明白\" программирование - это творчество\"（编程是创造艺术）这句话的意思。",
       "summarized_at": "2026-06-12T11:48:49.585Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781264875361",
-      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
-      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。\n实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。\n那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。\n李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受邀参加当地泰籍员工间的聚会，他才找到这些被“偷走”的BYD Logo。\n“有一个当地人穿了一件T恤，那不是我们的工服，但胸前却有一个BYD的Logo，我凑近了看才发现，那就是桶装水上的Logo塑料片，他们用...",
-      "url": "https://36kr.com/p/3846882883963139?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-12T06:26:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 比亚迪泰国工厂的“Logo失窃案”\n\n- **神秘失窃案**：比亚迪在泰国的工厂发生了奇怪的事情，车间里的桶装水标签上的BYD Logo不见了。不是整桶水被偷，而是Logo被小心地剪下来。\n\n- **被“偷”的不是水**：钢材螺栓都没少，劳保用品也完好，真正消失的是水桶上印着的比亚迪品牌标识。这些标签原本随意放着，但总会被转成统一角度，Logo被小刀沿着轮廓裁剪下来。\n\n- **当地员工的创意**：一位叫李有才的员工在泰籍员工聚会上发现这个秘密。原来当地员工把Logo剪下来，用来制作T恤或其他物品。他们觉得比亚迪的Logo很好看，就想着用别的方式留下它。\n\n- **比亚迪的“驯服”**：这件事反映出比亚迪在泰国工厂的管理方式。他们不仅生产汽车，还通过这种有趣的方式与当地员工建立联系，让大家认同品牌文化。就像公司送了很受欢迎的礼物，员工用创意方式珍藏起来。\n\n- **文化融合的例子**：比亚迪用这种轻松的方式让泰国员工接受品牌，而不是硬性规定。这说明跨国公司管理中，理解和融入当地文化比单纯规章制度更有效。就像朋友之间分享喜欢的东西，比强制要求更让人记住。",
-      "summarized_at": "2026-06-12T11:48:49.448Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781264875361",
-      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
-      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。\n院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。\n国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志峰买下院子最主要的理由。\n\n来源：崛貌国际艺术设计\n他小时候住过寺庙。祖父辈是乡绅地主，也算是事实性“阔过”，后来这种成功成为了鉴定“坏身份”的缘由，祖宅大院被分给了乡亲们住，他们家则被安置到一座废弃的寺庙...",
-      "url": "https://36kr.com/p/3849664394204419?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-12T04:06:46.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 院子里的故事\n\n周志峰在北京买了个小院子，只有180平米，但设计师用巧劲把它变成了茶室、餐厅、卧室连着小花园的样子，走起来像迷宫一样有趣。夏天，院子旁边一棵120岁的老槐树长得特别茂盛，几乎把院子全挡住了。这棵树另一边，就是一座1300岁的寺庙，每年春天丁香花开的时候，整座寺庙都像被雪盖住一样白。\n\n周志峰买这个院子，主要是因为小时候住过寺庙，对那种环境特别有感情。他爷爷那辈以前是乡绅，但后来家被分了，他们一家搬进了一座废弃的寺庙里。虽然现在日子好了，但他还是喜欢住在寺庙旁边的感觉，觉得这样特别踏实。",
-      "summarized_at": "2026-06-12T11:48:54.048Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781264875361",
-      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
-      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础物料，工业用品尤其是MRO物料，直接关系设备维护、产线运行、安全生产和综合运营效率。然而，长期以来，工业用品采购普遍存在供应商分散、商品参数不统一、选型比价困难、履约稳定性不足、库存管理粗放等问题，成为制造...",
-      "url": "https://36kr.com/p/3846798967818752?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-12T04:00:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 中国工业用品制造与流通报告总结\n\n## 制造业的新变化\n现在中国制造业正变得聪明、环保、更会结合。以前工厂什么都自己做，现在发现这样效率不高，就开始把一些非重要的事情外包给专门的公司。比如以前自己买材料、管仓库、送东西，现在都交给专业公司做。\n\n## 工业用品很重要\n工业用品就像工厂的“日用品”，比如润滑油、螺丝钉这些，这些东西直接影响工厂能不能正常运转。如果这些用品买不好，设备就坏了，生产就停了。\n\n## 以前的采购问题\n以前工厂买工业用品，总是遇到这些麻烦：\n- 供应商太多，不知道该找谁\n- 商品参数乱七八糟，比价困难\n- 东西质量不稳定\n- 库存管理混乱\n\n## 现在的解决方案\n- 工厂把采购、仓库管理外包给专业公司\n- 专业公司集中采购，效率更高\n- 用数字化工具管理商品，比价更方便\n- 用智能系统管理库存，减少浪费\n\n## 未来趋势\n以后工厂会更依赖专业服务，工业用品采购会变得更智能、更高效。工厂自己只管做最擅长的事，其他交给专家。",
-      "summarized_at": "2026-06-12T11:48:59.615Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781264875361",
-      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
-      "summary": "作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。\n力普司2025年7月成立于连云港，聚焦大型船舶综合电力推进系统的研发、设计与生产，产品覆盖领先一代的L型永磁全回转推进器、永磁吊舱推进器、破冰型全回转推进器等全矩阵系列，全系列产品采用标准化、模块化的设计和制造理念，具有尺寸小、重量轻、功率密度...",
-      "url": "https://36kr.com/p/3849520020231432?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-12T01:34:28.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 船舶的“中国心脏”来了！\n\n一家叫力普司的公司，专门为船做“心脏”——也就是推进系统。这家公司有位老专家从国外回来创业，现在半年就拿到了5000多万的订单。\n\n### 公司和产品\n力普司2025年7月在连云港成立，做的都是大船用的电力推进系统。他们的产品种类多，比如L型永磁全回转推进器、永磁吊舱推进器等，都是最新的技术。这些产品设计得很巧妙，尺寸小、重量轻，功率又大，就像一辆小车，小车身但动力超强。\n\n### 融资和发展\n最近力普司拿到了两轮融资，总共几千万元。这笔钱用来测试产品、改进设计，然后大量生产。他们的目标是让国产的推进系统用在各种船上，比如港口的小拖船、海上工程船，还有豪华游艇。\n\n### 重要性\n以前这些船的“心脏”都是国外的，现在力普司让中国也能自己生产。这对国家很重要，就像以前我们买手机都是外国品牌，现在华为、小米都能做了。力普司的产品能用在小船到大船，覆盖各种需求，未来市场前景很好。",
-      "summarized_at": "2026-06-12T11:49:04.638Z",
       "summary_status": "success"
     },
     {
