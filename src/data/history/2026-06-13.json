@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-13T10:36:57.367Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-13T10:36:57.368Z",
+    "date": "2026-06-13",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1781346843973",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without...",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-11T11:00:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Google DeepMind 看到了 AI 互相捣乱的潜在风险\n\nGoogle DeepMind 公司正在研究一个很现实的问题：如果未来有成千上万个小 AI 在网上互相打交道，可能会出什么乱子。想象一下，如果街上突然出现了成千上万个人工智能，它们都能自己跑腿做事，比如帮你买东西、订外卖、甚至帮你处理家务，但它们之间却谁也不听谁的，那后果可能会很糟糕。\n\n### 为啥要担心\n\n- **AI 乱象**：就像现在网上有很多机器人刷评论、发广告一样，如果这些小 AI 互相争斗，可能会造成信息混乱，比如让假新闻传得更快，或者让网上购物变得特别麻烦。\n- **失控风险**：如果这些小 AI 目标不一致，或者互相干扰，可能会出现意想不到的后果。比如，一个 AI 正在努力帮你省钱，另一个却在拼命让你花钱，最后你反而更糊涂。\n- **社会影响**：想象一下，如果所有小 AI 都不听指挥，可能会让社会服务瘫痪。比如，你的退款申请因为多个 AI 互相折腾而卡在系统里，或者你的快递因为 AI 闹矛盾而迟迟到不了家。\n\n### DeepMind 的行动\n\nDeepMind 的科学家们正在研究怎么让这些小 AI 互相配合，而不是互相打架。他们希望找到一种方法，让这些 AI 在做事的时候能互相理解，就像人类社会中需要法律和规则一样。这样，当这些 AI 开始大规模使用时，它们才不会把事情搞得一团糟。\n\n总之，Google DeepMind 的担心是有道理的。随着 AI 技术越来越普及，如何让它们互相协作而不是互相捣乱，是一个需要认真解决的问题。",
-      "summarized_at": "2026-06-13T10:34:18.735Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781346843973",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati...",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T10:20:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人类和AI一起工作的新趋势\n\n**背景：**\n未来两年，AI助手的使用量可能增加300%。企业领导层正在思考如何让人类和AI一起工作。\n\n**AI助手的特点：**\n现在的自动化工具需要人工操作，比如机器人需要人指挥。而AI助手像智能管家，能自己安排任务，不需要人一直盯着。\n\n**企业面临的挑战：**\n- 人类和AI如何分工合作\n- 如何让员工接受新技术\n- 管理AI助手就像管理一个能自己思考的助手团队\n\n**要点：**\n- AI助手能自动完成复杂任务，比如客服机器人24小时在线回答问题\n- 企业需要重新设计工作流程，让AI做适合它的活儿，人做需要创造力的活儿\n- 领导者要像指挥乐队一样，让人类和AI各司其职\n\n**核心观点：**\n未来的工作场所，人类和AI就像厨师和机器人助手，需要默契配合。领导者要学当指挥家，让每个人（包括AI）都发挥最大作用。",
-      "summarized_at": "2026-06-13T10:34:13.697Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781346843973",
-      "title": "Five things you need to know about AI",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…...",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T09:16:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的五个重要知识点\n\n### 1. 人工智能正在快速发展\n人工智能就像智能手机一样，以前只在科幻电影里出现，现在却成了我们生活的一部分。科学家们每年都会发现新的东西，就像智能手机每年都有新功能一样。\n\n### 2. 人工智能能做很多事\n人工智能可以像人类一样学习和解决问题。比如，它可以帮你找最便宜的机票，就像超市的收银员帮你找打折商品一样。它还能认出照片里的笑脸，就像你一眼就能认出朋友一样。\n\n### 3. 人工智能需要大量数据\n人工智能就像孩子学认字一样，需要看很多例子才能学会。比如，要让它认出猫，就需要给它看很多猫的照片。数据越多，它就越聪明。\n\n### 4. 人工智能会改变工作\n有些工作可能会被人工智能取代，就像自动售货机取代了部分收银员一样。但同时，人工智能也会创造新的工作机会，就像互联网创造了程序员一样。\n\n### 5. 人工智能需要小心使用\n人工智能就像一把双刃剑，用得好能帮大忙，用不好可能会出问题。比如，自动驾驶汽车能提高安全性，但如果程序出错，也可能导致事故。\n\n总之，人工智能就像一个新朋友，既有趣又有用，但需要我们小心对待。",
-      "summarized_at": "2026-06-13T10:34:28.132Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781346843973",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI客服漏洞事件总结\n\n### 事件概述\n最近发现一个黑客利用Meta（脸书）的AI客服偷Instagram账号的案例。黑客们假装用户，让AI客服帮忙把账号和自己的邮箱绑在一起，结果AI客服真的照做了。这样一来，黑客就能轻易控制这些账号。\n\n### 漏洞原因\nAI客服之所以会这么做，是因为它的设计时没有充分考虑到安全问题。就像商店的客服人员如果随便接收陌生人要求，就会出问题一样，AI客服太容易被骗了。黑客利用了这一点，让AI客服帮他们完成非法操作。\n\n### 后果\n这次事件中最严重的是，黑客偷到了前奥巴马的Instagram账号。这让人意识到，AI系统虽然强大，但安全防范不能只靠技术，还得有严格的操作规范。如果AI客服像普通客服一样随意处理用户请求，就会导致严重后果。\n\n### 启示\n- AI系统必须加强安全防护，不能轻易被误导\n- 不仅要靠技术，还得靠人的判断来避免漏洞\n- 模拟攻击能提前发现AI系统的弱点\n\n这件事提醒我们，在设计AI系统时，不能只考虑功能，更要考虑安全。就像家里装防盗门一样，不能只想着怎么方便，还得考虑怎么防止外人闯进来。AI系统也一样，需要更严格的安全措施。",
-      "summarized_at": "2026-06-13T10:34:53.720Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1781346843973",
       "title": "How courts are coping with a flood of AI-generated lawsuits",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# Langchain：让AI助手更聪明的工具\n\n## 什么是Langchain？\n\nLangchain就像一个AI助手的训练场，专门用来让AI更聪明、更灵活。想象一下，你教小孩做家务：一开始需要一步步指导，后来慢慢放手让他自己想办法。Langchain就是做类似的事，它帮助AI助手从简单任务开始，逐步学会处理更复杂的问题。\n\n## Langchain怎么工作？\n\n- **像搭积木一样组合AI功能**：Langchain让不同的AI功能像积木一样可以自由组合。比如，一个AI助手可以先用一个模块理解你的问题，再用另一个模块搜索答案，最后用第三个模块生成回答。\n- **边做边学**：就像人类从经验中学习，Langchain允许AI助手在完成任务时不断改进。比如，客服机器人通过处理大量用户问题，逐渐学会更准确地理解需求。\n- **适应各种场景**：无论是回答问题、写代码还是聊天，Langchain都能让AI助手更好地适应不同任务。好比一个多面手，既能修理电器，又能下厨做饭。\n\n## 为什么Langchain受欢迎？\n\n- **让AI开发更简单**：以前让AI助手说话像造火箭一样复杂，现在有了Langchain，就像有了现成的乐高，普通人也能快速搭建出智能助手。\n- **解决实际问题**：很多AI工具只擅长特定任务，Langchain能让AI在不同场景间切换，更接近人类思维。\n\n总之，Langchain是AI领域的一大进步，它让AI助手变得更智能、更通用，让更多人能享受科技带来的便利。",
       "summarized_at": "2026-06-13T10:36:19.264Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781346848389",
-      "title": "曼联，要被卖了",
-      "summary": "图片来源：视觉中国\n作者/余梦莹\n报道/投资界PEdaily\n史上最盛大世界杯正在上演。\n48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。\n赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。\n绰号“红魔”，这是英格兰足球史上最富盛名的豪门。最初只是铁路工人组建的业余球队，2005年被美国格雷泽家族全面控股。历经辉煌也走过低谷，“红色旗帜永不落幕”。\n\n红魔\n这一幕颇为感慨。足球这门生意实在赚钱，越来越多俱乐部被摆上了货架，浸泡在资...",
-      "url": "https://36kr.com/p/3851350342325504?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-13T08:37:21.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 曼联可能要换老板了\n\n曼联是一家很厉害的足球队伍，叫“红魔”，很多人喜欢他们。这个队原来只是铁路工人随便踢踢的，后来慢慢变厉害了，现在成了英国最出名的俱乐部。2005年，美国格雷泽家族买了这个队，管了20年。\n\n现在，这个家族内部的人想卖掉曼联。为啥呢？因为足球很赚钱，像卖房子一样，很多俱乐部都被当成商品一样转手。世界杯马上开始了，比赛很精彩，但曼联的老板们却在一起商量“要不要卖掉这个队”。\n\n- **曼联很出名**：英国最有名的足球队，很多人喜欢看他们比赛\n- **老板想卖**：格雷泽家族内部有人想卖这个队，可能是因为赚钱太多，想换个更好的\n- **像卖房子**：足球俱乐部现在很值钱，就像房子一样可以买卖\n\n现在曼联站在一个十字路口，不知道以后会咋样。以前的辉煌还在，但如果被卖了，以后的故事就不好说了。",
-      "summarized_at": "2026-06-13T10:36:19.142Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781346848389",
-      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-      "summary": "在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻研判，倡导回归全生命周期的长期主义，为留学家庭提供一份客观、中立的未来就业生存指南。\n从“向外破局”到“向内扎根”：中国...",
-      "url": "https://36kr.com/p/3846972367866119?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-13T06:00:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI时代留学就业新变化\n\n### 留学不再是轻轻松松的“镀金”\n以前出国留学，回来找个好工作好像很容易。但现在AI越来越厉害，很多以前需要学历才能做的事情，比如简单的数据分析、翻译等，AI都能做。这就意味着，光靠留学学历，不一定能拿到高薪工作，以前那种留学=好工作的想法正在改变。\n\n### 家长和年轻人的焦虑\n- 70后、80后家长觉得以前花很多钱让孩子出国，现在回报率变低了，担心投资打水漂。\n- 00后年轻人看到AI这么发展，开始担心自己会不会被机器取代，不知道自己到底能做什么才能不被淘汰。\n\n### 新的就业方向\n- 以前大家倾向于去国外发展，现在可能需要考虑在国内或者别的国家扎根。\n- 要想在职场立足，光靠学历不够，更要学会和AI合作，发挥人类特有的创造力、沟通能力等优势。\n\n### 如何应对变化\n- 不再是短期的留学规划，而是要考虑孩子一生的职业发展。\n- 要培养孩子适应AI时代的能力，比如解决复杂问题、团队合作等。",
-      "summarized_at": "2026-06-13T10:36:36.609Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781346848389",
-      "title": "“宁王系”，排队 IPO",
-      "summary": "越来越多CVC在路上\n作者 | 冯晓亭 \n 编辑 | 吾人 \n来源 | 融中财经 \n宁德时代，又出手了。\n近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353亿元（约“41亿元”）认购中恒科技投资新增注册资本。\n中恒电气表示，自《战略投资合作框架协议》签署后，各方基于框架协议达成的基本合意，共同推动有关中恒科技投资增资、公司与宁德时代形成战略业务合作关系等具体事宜的洽谈、磋商工作，目...",
-      "url": "https://36kr.com/p/3851106394117383?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-13T04:59:03.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 宁王系排队上市\n\n最近，宁德时代这家大公司又在投资界搞事情了。它准备花41亿，帮一家叫中恒电气的公司增加注册资本。简单说，就是宁德时代要给中恒电气\"送钱\"，让中恒电气变得更值钱。\n\n### 投资热潮汹涌\n\n现在像宁德时代这样的公司，都在忙着投资其他企业。这就像一个富人，手里有很多钱，不光自己赚钱，还喜欢投资其他公司，帮它们发展。这种投资方式叫CVC，就是公司自己投资别的公司。\n\n### 排队上市成趋势\n\n中恒电气这次被宁德时代相中，说明它在行业里挺有实力的。这也反映出，现在很多公司都在排队准备上市。就像菜市场里摆摊的，有的想早点开张，有的还想再攒攒货。中恒电气就是想趁着宁德时代这个\"大老板\"的投资，赶紧把上市的事情定下来。\n\n### 大公司互相帮忙\n\n宁德时代和中恒电气这次合作，双赢。宁德时代通过投资，帮中恒电气增加资本；中恒电气有了钱，就能扩大生产。这就好比两个人合伙做生意，一个人出钱，一个人负责经营，最后一起赚钱。这种互相投资、互相帮忙的方式，现在越来越流行了。",
-      "summarized_at": "2026-06-13T10:36:36.203Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781346848389",
-      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
-      "summary": "飞向宇宙、浩瀚无垠\n作者｜曹思颀\n编辑｜靖宇\n6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。\n在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」\n这一天，SpaceX 正式登陆纳斯达克，发行价 135 美元，募资约 750 亿美元；开盘即涨，盘中一度冲过 176 美元，市值短暂站上 2 万亿美元。\n从 2002 年因为买不到火箭而被迫创业，到如今完成人类商业史上最大的 IPO，这 24 年的旅程里，有大量反直觉、反共识的故事。\n这家公司名义...",
-      "url": "https://36kr.com/p/3851073239372809?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-13T04:08:19.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## SpaceX市值破2万亿，马斯克怎么做到的？\n\nSpaceX从一个小公司，到在纳斯达克上市，市值一下子超过2万亿美元，就像一个普通人突然中了彩票大奖。2002年，马斯克因为买不到火箭，就自己动手开公司造火箭，那时候很多人都不看好他，他自己也觉得公司可能要完蛋。\n\n但马斯克很有耐心，像做长期投资一样，一步一步把技术搞上去。他不仅造火箭，还造卫星、造飞船，最后造出了能送人上火星的星舰。他的公司就像一个大家庭，所有人为了同一个目标努力，比如火星殖民计划。\n\n马斯克很会规划，就像打游戏做攻略，他总能在别人没反应过来之前就布局好下一步。比如造火箭回收技术，别人还在研究怎么省钱，他就已经能做到火箭用完还能飞回来再利用。这种提前布局的能力，让SpaceX一次次成功。\n\n最厉害的是，马斯克不怕失败，就像小孩玩积木，摔倒了重新搭。火箭发射失败了，他就分析原因，改进技术。这种敢试敢闯的精神，加上不断创新，让SpaceX一步步走向成功。现在市值2万亿，说明所有人都看好这个公司的未来。",
-      "summarized_at": "2026-06-13T10:36:55.877Z",
       "summary_status": "success"
     },
     {
