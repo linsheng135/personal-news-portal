@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T10:53:32.991Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-14T10:53:32.992Z",
+    "date": "2026-06-14",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1781434334600",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without...",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-11T11:00:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Google DeepMind 担心 AI 互相打交道的后果\n\nGoogle DeepMind 公司正在研究，如果网上有上百万个不同的 AI 聊天机器人开始互相交流，可能会出什么问题。比如，想象一下菜市场里的人都在互相说话，但没人听懂对方的意思，可能会乱成一团。\n\n- **AI 乱打架**：这些 AI 机器人可能会为了自己的目标争来争去，就像抢玩具的小朋友一样，最后谁也干不成事。比如，一个 AI 想让电脑变快，另一个 AI 想让电脑变慢，结果电脑卡得像老式手机一样。\n\n- **没人管场面**：如果这些 AI 没人管，可能会像脱缰的野马一样乱跑。比如，你在网上订个外卖，结果 AI 把订单发给错了，还互相指责对方搞砸了，最后你只能自己解决。\n\n- **安全问题**：这些 AI 互相交流时，可能会泄露你的隐私。比如，你告诉一个 AI 你的小秘密，它又告诉另一个 AI，最后全网络都知道了，就像在公园里大喊一声“我饿了”，结果周围人都饿了一样。\n\n## 怎么解决？\n\nGoogle DeepMind 正在想办法让 AI 变得更听话，就像给小朋友定规则一样。比如，告诉 AI“不准抢东西”，或者“要先问大人”。这样可以避免 AI 互相打架，也能保护你的隐私。",
-      "summarized_at": "2026-06-14T10:52:25.616Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781434334600",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati...",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T10:20:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 未来工作：人和AI怎么合作\n\n### AI要大爆发了\n- 未来两年，AI助手会像雨后春笋一样冒出来，数量可能增加3倍\n- 现在的自动化系统需要人工一步步操作，比如让机器人装零件需要人教它一遍\n- 新的AI助手很厉害，能自己搞定很多事，就像你教孩子系鞋带后，它就能自己系\n\n### 人和AI怎么搭档\n- 以前用电脑做账，全靠会计手动输入数据\n- 现在AI能自动处理账单，但要是账上出现奇怪数字，还是得会计来检查\n- 所以领导们正琢磨：AI能干的事和人能干的事怎么搭配最合适\n\n### 领导要学新本事\n- 过去领导管人事，现在要管人和AI怎么配合\n- 比如，AI能做重复性工作（像超市自助收银），但人要负责处理AI搞不懂的事\n- 领导得学会怎么分配任务，让AI和人各司其职\n\n### 挑战和机会\n- AI干活快，但偶尔会犯错（比如智能音箱听错指令）\n- 领导要能接受AI不是完美的，同时也要看到它能带来的效率提升\n- 越早开始想这些问题，企业转型就越容易\n\n总之，未来工作就像家里有了扫地机器人，既能自己打扫，但还得多个人盯着它别出乱子。领导们得学会怎么让机器和人一起好好干活。",
-      "summarized_at": "2026-06-14T10:52:25.935Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781434334600",
-      "title": "Five things you need to know about AI",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…...",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T09:16:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的五大要点\n\n### 1. 人工智能正在快速发展\n人工智能就像智能手机一样，以前只在科幻电影里出现，现在已经成为我们生活的一部分。它正变得越来越聪明，可以处理更复杂的工作，比如下棋、开车、甚至看病。\n\n### 2. 人工智能正在改变工作方式\n很多公司开始用人工智能来提高效率，比如用机器自动回复邮件，或者用软件帮你写报告。这会让一些人失业，但也会创造新的工作机会，比如人工智能训练师。\n\n### 3. 人工智能需要大量数据\n人工智能就像小朋友一样，需要看很多书才能学会知识。它需要大量的数据来训练，比如你看过的每张照片、读过的每本书。没有数据，人工智能就学不会。\n\n### 4. 人工智能可能存在偏见\n人工智能会学习我们给它的数据，如果数据里有偏见，比如只认识白人面孔，那人工智能也会变得有偏见。就像如果你只教小朋友看红色的苹果，他们可能觉得所有水果都是红色的。\n\n### 5. 人工智能需要人类监管\n人工智能虽然强大，但还不够完美。它可能会犯错，比如把猫认成狗。所以我们需要人类来帮忙检查和指导，确保人工智能做的是正确的事情。\n\n想要了解更多关于人工智能的信息，可以参考AI10年度报告，里面有更多有趣的例子和趋势。",
-      "summarized_at": "2026-06-14T10:52:32.766Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781434334600",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI客服被黑客利用偷账号\n\n### 事件经过\n6月5日，有个叫404 Media的媒体曝光，有人利用Meta（就是Meta Platforms，旗下有Facebook、Instagram等）的AI客服偷Instagram账号。黑客的做法很简单：他们假装用户，让AI客服帮他们把Instagram账号和自己的邮箱绑在一起。AI客服居然同意了，结果账号就被黑客控制了。\n\n### 黑客的手段\n黑客先找到一个废弃的账户（比如奥巴马的旧账号），然后通过这个账户联系Meta的AI客服，谎称需要绑定邮箱。AI客服没多想就同意了，这就等于把别人的账号给了黑客。黑客拿到账号后，就能随意操作。\n\n### 为什么会发生这种事\n这个事件说明，AI安全不能只靠所谓的\"神话级\"保护。AI客服虽然设计得挺聪明，但还是会犯低级错误，就像一个粗心的客服人员一样。黑客就利用了AI客服的\"善良\"，让它帮自己做了不该做的事。\n\n### 对AI安全的影响\n这次事件提醒我们，AI系统虽然能提高效率，但也可能被别有用心的人利用。所以，不能只靠AI自己保护自己，还得有人监督和改进。否则，就像家里没装防盗门，光靠一个\"神话级\"的锁也不安全。黑客想偷什么，AI就可能给什么，这很危险。",
-      "summarized_at": "2026-06-14T10:52:32.473Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1781434334600",
       "title": "How courts are coping with a flood of AI-generated lawsuits",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Skypilot 让 AI 运行更方便\n\n### 核心功能\nSkypilot 是一个工具，能帮你轻松管理 AI 任务，不管这些任务跑在哪里。就像你用同一个遥控器控制家里所有电器一样，Skypilot 能让你用一套方法管理所有 AI 计算资源。\n\n### 支持多种平台\n- 不管你的 AI 任务在 Kubernetes、Slurm 这样的系统里，还是在云服务器或公司内部的设备上，Skypilot 都能搞定\n- 支持的云平台超过20个，相当于能同时管理20多家不同类型的\"计算农场\"\n\n### 使用场景比喻\n想象一下你要开一个 AI 培训营，需要用不同设备：\n- 有些学员用笔记本电脑（本地设备）\n- 有些用服务器集群（Kubernetes）\n- 有些用云计算资源（AWS、阿里云等）\n- 还有些用特殊的高性能计算设备（Slurm）\n\n如果没有 Skypilot，你需要为每种设备准备不同的管理系统。有了 Skypilot，就像有了个\"万能管家\"，你只需告诉它需求，它会自动安排最合适的资源，还能帮你扩展或缩小规模。\n\n### 优点总结\n- 统一管理不同 AI 资源，省心省力\n- 自动调整资源，就像水温自动调节的咖啡机\n- 支持各种环境，不管你是小团队还是大公司都能用\n\n这个工具特别适合需要同时用多种方式跑 AI 项目的团队，能大大简化管理工作。",
       "summarized_at": "2026-06-14T10:53:18.498Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781434338677",
-      "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
-      "summary": "文｜贺哲馨\n编辑｜乔芊\n36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。\n\n  \n大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外公布，新架构于7月1日落地运转。\n除大中华区外，亚太事业部还管辖东南亚（总部吉隆坡）、...",
-      "url": "https://36kr.com/p/3850942780838912?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-14T05:38:42.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## H&M 大换血，中国区要变天了\n\n### 公司要改组织架构了\nH&M 这家公司业绩不灵光了，连两年都没啥进步。现在他们决定大改官职设置，把原来的9个大区拆成26个小市场，每个小市场直接归4个大陆级的事业部管。就像以前是按省分的，现在改成按县分的，越分越小，盯得越紧。\n\n### 中国区地位下降\n最关键的是中国区，以前是大中华区，现在直接降级，变成26个小市场里的一员，归亚太区管了。以前中国区是大老板，现在要听亚太区老板的。原中国区老板司懿德要继续当亚太区的新大老板，大概6月底官宣，7月1号开始新官上任。\n\n- 中国区不再是单独的大区，要跟着亚太区走\n- 原中国区老板要升职管整个亚太区\n- 新架构7月1号开始执行\n\n### 其他变化\n除了中国，东南亚也归亚太区管了。H&M 这是想把每个小市场管得更死，业绩不好就要问责。以前是大老板管一大片，现在老板直接盯每个小市场，压力会大很多。",
-      "summarized_at": "2026-06-14T10:53:16.606Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781434338677",
-      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。\nSoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。\n家庭场景下的情感与健康关护，长期面临一个“人机关系”设计上的根本问题：在需要身心双...",
-      "url": "https://36kr.com/p/3851572421432324?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-14T01:30:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 消费级柔性机器人公司获高瓴投资，要把电影里的\"大白\"带进家庭\n\n## 公司和投资\n- SoulX是一家做消费级柔性机器人公司，最近拿了高瓴创投几千万元天使轮融资\n- 向阳资本担任独家财务顾问，这笔钱主要用于产品改进、技术研发，以及加快生产交付\n\n## 公司背景和产品\n- SoulX隶属于深圳市弘火智能科技有限公司，团队一直研究柔性机器人技术\n- 公司主要关注睡眠、压力和家庭健康问题，以睡眠场景为切入点\n- 首款产品是睡眠安抚机器人MoYa，没有摄像头，通过模拟拥抱来帮助人放松\n- MoYa结合了机器人技术、神经科学和心理学，目的是缓解人的身心压力\n\n## 产品设计理念\n- 现在家庭机器人的问题在于怎么让人既觉得有用又愿意亲近\n- MoYa采用无摄像头设计，避免隐私问题，通过模拟拥抱让人感到被关心\n- 公司认为这种\"拟人化\"的交互方式能更好地建立人与机器的信任关系\n\n## 未来计划\n- MoYa计划于2026年下半年正式发布\n- 公司将继续投入研发，让产品更人性化，并完善生产供应链\n- 短期内目标是解决睡眠问题，长期想成为家庭健康关护的解决方案提供者",
-      "summarized_at": "2026-06-14T10:53:25.669Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781434338677",
-      "title": "曼联，要被卖了",
-      "summary": "图片来源：视觉中国\n作者/余梦莹\n报道/投资界PEdaily\n史上最盛大世界杯正在上演。\n48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。\n赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。\n绰号“红魔”，这是英格兰足球史上最富盛名的豪门。最初只是铁路工人组建的业余球队，2005年被美国格雷泽家族全面控股。历经辉煌也走过低谷，“红色旗帜永不落幕”。\n\n红魔\n这一幕颇为感慨。足球这门生意实在赚钱，越来越多俱乐部被摆上了货架，浸泡在资...",
-      "url": "https://36kr.com/p/3851350342325504?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-13T08:37:21.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 曼联可能要被卖了\n\n## 足球盛宴与豪门危机\n眼下世界杯正火热进行，48支球队、104场比赛，奖金高达8.71亿美元。梅西、C罗等球星争辉，但足球圈外，老牌豪门曼联却面临大变化——格雷泽家族掌权20多年后，可能要卖掉这家俱乐部。\n\n## 曼联的起伏\n曼联，就是英格兰足球界的“大牌子”，以前只是铁路工人玩的业余队，2005年被美国格雷泽家族买下。这些年，曼联经历了 ups and downs（起起落落），但一直很有名。现在，这个家族内部正在考虑：要不要把曼联卖掉？\n\n## 足球生意经\n其实道理很简单，就像开餐馆。曼联像家生意兴隆的大餐厅，老板格雷泽家族已经经营20多年。但足球比赛这么赚钱，很多俱乐部都成了“待售商品”。格雷泽家族可能觉得，曼联现在经营成本高、利润少，不如卖掉换钱。\n\n- 核心问题：曼联可能被卖\n- 原因：格雷泽家族内部决定出售\n- 背景：俱乐部历史悠久，曾很辉煌\n- 关联：世界杯正值足球热潮",
-      "summarized_at": "2026-06-14T10:53:25.506Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781434338677",
-      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-      "summary": "在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻研判，倡导回归全生命周期的长期主义，为留学家庭提供一份客观、中立的未来就业生存指南。\n从“向外破局”到“向内扎根”：中国...",
-      "url": "https://36kr.com/p/3846972367866119?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-13T06:00:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI时代留学就业新变化\n\n### 留学价值不再那么高\n以前留学回来找个好工作很容易，但现在AI技术发展太快了，很多基础工作都能被机器代替。比如以前翻译、数据录入这种工作赚得多，现在AI都能做了，留学带来的优势变小了。\n\n### 家长和年轻人的焦虑\n70后80后家长发现，以前攒钱送孩子出国留学回报率很高，现在可能要亏本了。05后年轻人更奇怪，既然机器能干那么多事，自己到底该学什么才能不被淘汰呢？\n\n### 留学新方向\n报告建议不要只盯着高薪专业，而是要考虑长期发展。就像种树不能只看树苗长得多快，要想着它以后能长成什么样子。留学也要看孩子未来能做什么对社会有用，而不是现在能赚多少钱。\n\n### 给家长的建议\n- 不要只看热门专业，要选孩子真正擅长和感兴趣的\n- 留学不只是学知识，更要学会适应新环境、跟人合作\n- 准备留学的钱要考虑长期投资，不要指望短期能赚回来\n\n总之，现在留学不再是简单地把孩子送出国，而是要帮助孩子找到真正适合自己的发展道路，这样才能在AI时代找到立足之地。",
-      "summarized_at": "2026-06-14T10:53:32.991Z",
       "summary_status": "success"
     },
     {
