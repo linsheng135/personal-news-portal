@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-15T14:29:53.284Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-15T14:29:53.285Z",
+    "date": "2026-06-15",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1781533723510",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without...",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-11T11:00:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Google DeepMind 对大量 AI 互相作用的担忧\n\n- **核心问题**：Google DeepMind 正在研究，如果网上有上百万个不同的 AI 互相交流，可能会发生什么危险。\n- **生活例子**：想象一下，如果有很多个机器人都在网上互相发消息、安排事情，但它们没有统一的规定，可能会像一群人各自为政一样，导致混乱。\n- **研究目的**：DeepMind 的 Rohin Shah 认为，当这些 AI 能够自己完成任务时，如果没有统一的管理，它们可能会做出一些没人想要的事情，比如互相攻击或者滥用权力。\n- **类比说明**：就像如果学校里每个学生都有自己的规则，不遵守老师的安排，可能会让学校乱成一团。AI 也是一样，如果它们的行为没有统一标准，可能会造成大问题。\n- **潜在风险**：大规模的 AI 互相作用可能会产生意想不到的后果，比如形成无法控制的网络攻击、数据滥用，甚至可能威胁到人类的安全。\n- **解决方案**：DeepMind 正在研究如何让这些 AI 互相作用时更加安全，确保它们的行为符合人类的期望和道德标准，就像给机器人设定交通规则一样，防止它们互相冲突。",
-      "summarized_at": "2026-06-15T14:28:51.542Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781533723510",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati...",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T10:20:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 未来企业要混合用人+AI\n\n### AI助手要爆发式增长\n就像现在手机上各种智能助手越来越多一样，未来两年里，公司里的AI助手数量可能增加3倍。这些AI助手不需要人工天天盯着，能自己安排工作、协调任务。\n\n### 传统自动化VS新型AI\n以前自动化系统得人手动操作，比如超市收银员按按钮扫描商品。现在AI助手像更聪明的店员，能自己处理复杂事务，比如同时管理多个订单。\n\n### 人机协作新模式\n想象一个杂货店，老板（人类员工）负责大方向，AI助手（比如智能库存系统）负责具体事务，比如自动补货。人类员工可以专注解决AI搞不定的问题。\n\n### 领导者面临的挑战\n管理者需要学会怎么指挥这种混合团队。比如，要像分配工作给不同性格的同事那样，根据AI的能力特点分配任务，同时保留人类员工的创新空间。\n\n- AI干得好的事：重复性工作（像自动回复邮件）、数据整理\n- 人类干得好的事：解决突发问题、做创意决策\n- 协作关键：制定规则让AI明白什么能干、什么不能干",
-      "summarized_at": "2026-06-15T14:28:51.273Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781533723510",
-      "title": "Five things you need to know about AI",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…...",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T09:16:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 关于AI的五个要点  \n\n### 1. AI正在快速发展  \nAI就像智能手机一样，这几年进步特别快。它能做的事越来越多，比如认人脸、听指令、甚至玩游戏比人还厉害。现在AI正在各个行业冒头，比如医疗、金融、交通，未来可能就像水电煤一样普及。  \n\n### 2. AI需要大量数据学习  \nAI就像小孩学说话，光靠几句话学不会。它需要看海量数据才能变得聪明，比如教AI认猫，得给它看成千上万张猫的照片。所以数据多、学得才快，这也是为什么科技公司拼命收集信息的原因。  \n\n### 3. AI可能很强大，但也会出错  \nAI就像算术题机，加法、减法很准，但碰到复杂问题就容易\"卡壳\"。比如自动驾驶可能认错红绿灯，或者翻译把\"你好\"说成\"狗粮\"。所以现在AI还不能完全依赖，还得人盯着。  \n\n### 4. AI会改变工作方式  \nAI就像超市的收银员，能快速扫描商品。未来很多重复性工作可能被AI替代，比如记账、客服。不过也别担心，新工作也会出现，就像以前没快递员，现在快递员多了。  \n\n### 5. AI的伦理问题很重要  \nAI就像两面镜子，既能帮人也能害人。比如AI可能被用来监控，或者判定贷款申请时偏心。所以大家开始讨论怎么让AI更公平、更透明，就像制定游戏规则一样重要。",
-      "summarized_at": "2026-06-15T14:28:58.180Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781533723510",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh...",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-05T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI客服被“骗”了，账户安全问题要注意了\n\n### 事情经过\n最近有个新闻说，有人利用Meta（就是Meta Platforms，旗下有Facebook和Instagram）的AI客服，把别人的Instagram账号给偷了。这些坏人是怎么做到的呢？很简单，他们假装是用户，让AI客服把用户的账号和自己的邮箱绑在一起。没想到AI客服居然答应了，这下坏人的邮箱就收到了账号密码，账号就被盗了。\n\n### 为什么会这样？\n这就像是你给朋友一个快递单，朋友随手就拆了，结果快递被偷了。AI客服本来是帮人解决问题的，但这里它把坏人的要求当真了，这就是个漏洞。这说明，光靠技术手段（比如Meta的AI系统）还不够，还得有人工审核，不然容易被骗。\n\n### 安全建议\n- **AI客服要谨慎**：如果AI客服让你做什么奇怪的事，比如绑定邮箱，要特别小心。\n- **账户安全要紧**：平时别轻易把账号和邮箱关联，尤其是重要账户。\n- **多加一层保护**：比如Instagram可以开双重验证，这样即使账号被盗，坏人也没那么容易登录。\n\n总之，AI是好东西，但人用了AI做坏事，AI也可能帮倒忙。所以安全措施不能只靠技术，还得靠人 smarter。",
-      "summarized_at": "2026-06-15T14:28:57.726Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1781533723510",
       "title": "How courts are coping with a flood of AI-generated lawsuits",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Archipelago是个啥？\n\nArchipelago就像是个超级有趣的\"游戏随机器\"和\"服务器\"，能让好多人一起玩同一个游戏，但每次玩的内容都不一样。想象一下，你和朋友玩扑克牌，每次发牌顺序都不一样，总不会重样，这就是Archipelago的核心玩法。\n\n### 它怎么工作的？\n\n- **游戏随机器**：它会把游戏里的地图、道具、任务等东西随机打乱，就像洗扑克牌一样重新排列\n- **多人服务器**：让不同人玩的游戏内容不一样，但又能互相配合完成\n- **自动更新**：游戏内容会不断更新，像超市的货架会定期换新商品\n\n### 有什么用？\n\n- 让游戏体验永远新鲜，就像每次去游乐园玩都不一样\n- 适合喜欢探索和发现的朋友，每次玩都能找到新惊喜\n- 特别适合多人合作游戏，增加互动趣味性\n\n### 谁适合用？\n\n- 喜欢玩各种游戏的玩家\n- 不喜欢重复玩法的探险爱好者\n- 想找新朋友一起玩游戏的社交达人\n\n这个工具就像个游戏魔法师，能让你每次玩都像开盲盒，永远猜不到下一秒会遇到什么新奇内容。",
       "summarized_at": "2026-06-15T14:29:41.766Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781533727189",
-      "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
-      "summary": "在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？\n6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、17级动态范围与 D-Log 2 专业色彩曲线，试图在口袋级设备中进一步容纳专业影像能力。\nPocket 4P 以 3799元起售，多平台预订量持续走高。\n对于一个原本被视为“手机影像补充”的品类来说，这种热度本身就提出了一个新的问题：当手机已经足够强，为什么仍然有越来越多人愿意为一台独立影像设备买单...",
-      "url": "https://36kr.com/p/3854510160549124?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-15T14:13:11.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 大疆发布新款口袋相机Pocket 4P\n\n大疆最近推出了一款新的口袋相机——Pocket 4P，想让大家随身带着就能拍出电影级别的照片。这款相机卖3799元起，很多人感兴趣。\n\n### 相机有什么特别之处\n\n- **双摄像头**：就像眼睛多了个僚机，能拍出更漂亮的照片\n- **动态范围广**：白天黑夜都能拍出细节丰富的照片，不怕曝光问题\n- **专业色彩**：颜色表现更接近专业相机，拍出来特别有质感\n\n### 为什么需要这种相机？\n\n现在手机拍照已经很强了，但有些人还是喜欢专门带个相机。就像做饭，虽然微波炉能加热食物，但很多人还是会买烤箱，因为烤箱能让食物做得更好吃。\n\n### 亮点总结\n\n- **口袋大小**：放进口袋就能带着走，非常方便\n- **专业功能**：普通手机拍不到的效果，比如电影色调\n- **热销产品**：说明很多人觉得这种专业小设备很实用\n\n总的来说，Pocket 4P就是让普通用户也能轻松拍出专业级影像，证明独立相机在手机拍照时代依然有自己独特的价值。",
-      "summarized_at": "2026-06-15T14:29:41.147Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781533727189",
-      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
-      "summary": "大公司：\n支付宝：政务AI助手“晓政”服务突破1亿次\n36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。\n小雨智造与地瓜机器人正式宣布达成战略合作\n36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。\n小红书或已准备好本月在香港提交IPO申请\n据透露，小红书...",
-      "url": "https://36kr.com/p/3854486447510535?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-15T13:48:20.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 氪星晚报重要消息总结\n\n### 中国发射多颗卫星\n- 我国成功发射了吉星高分07C04星和其他8颗卫星，让太空探索和观测能力更强了。\n\n### 小红书可能要在香港上市\n- 小红书这个分享生活的地方，可能这个月就要去香港提交上市申请了，准备变成一家大公司。\n\n### 支付宝的AI助手很厉害\n- 支付宝的AI助手“晓政”，已经帮人处理了超过1亿次事务，能办的事情有16000种，比如查公积金、办社保等，已经帮助了70多个政府部门。\n\n### 小雨智造和地瓜机器人合作\n- 小雨智造和地瓜机器人决定联手，一起研究能让工厂更聪明的技术，让工厂的自动化水平更高，生产效率更好。\n\n### 智谱推出新AI模型\n- 智谱公司推出了最新版的AI模型GLM-5.2，这个模型更聪明，能更好地理解和处理各种问题。",
-      "summarized_at": "2026-06-15T14:29:47.047Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781533727189",
-      "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
-      "summary": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。 \n此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向展开比拼。随着最终获奖名单揭晓，比赛的结果已经落定，但比奖项本身更值得被看见的，是这些作品背后一批年轻开发者正在关注什么，又试图用代码回答什么。\n翻开参赛作品的名单，我们意外地发现，这其中很多的开发者都还是在校学生，没有成熟公司的资源，没有完整的商业团队，甚至可能没有充足的开发经验。但在这场比赛里，他们把自己的生活观察、专业背景和兴趣经验变成了一个个可运行的...",
-      "url": "https://36kr.com/p/3854243718550528?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-15T09:46:34.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 年轻开发者用代码记录生活\n\n- 比赛是让年轻程序员用新手机系统HarmonyOS开发产品，参赛者大多是学生，没有大公司支持，但很厉害\n- 在36小时内，他们用生活中的观察做开发，比如看到AI怎么改变生活、3D空间怎么用等\n- 这些年轻程序员用代码把想法变成产品，比如做一个能自动完成家务的小程序，或者设计一个让聊天更有趣的3D界面\n- 虽然他们没太多经验，但做出来的东西很有意思，比如一个能根据天气改变图案的屏保，或者一个可以学说话的虚拟朋友\n- 比赛获奖不重要，重要的是这些年轻人用技术表达想法，比如用手机拍照片时自动修图更漂亮，或者用语音控制家电更方便\n- 这些产品反映了年轻人想怎么用科技让生活更好玩、更方便，比如让机器人帮忙做作业，或者设计一个会讲笑话的智能音箱",
-      "summarized_at": "2026-06-15T14:29:46.822Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781533727189",
-      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
-      "summary": "作者 | 邱晓芬\n编辑 | 袁斯来\n过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。\n行业的目光转向背后是切实的焦虑。\n一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。\n也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。\n另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。\n只是，当资本、技术专家、产业资源都...",
-      "url": "https://36kr.com/p/3853016586359817?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-15T01:50:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 世界模型：AI的\"大脑\"升级\n\n- **具身智能的短板**：现在的AI就像个机器人，能认出杯子但不知道推了会掉，能听指令却不懂拧瓶盖要用力。世界模型就是想让AI学会物理世界的规律，比如知道\"推杯子会掉\"这种因果关系。\n\n- **AI发展的新阶段**：大模型已经从虚拟世界发展到真实世界，就像人从学认字到学走路一样。世界模型能让AI更懂真实世界的运作方式。\n\n- **\"大脑\"与\"身体\"的关系**：具身智能好比AI的身体，能执行动作但缺乏思考；世界模型则是AI的大脑，提供理解世界的思维。缺一不可。\n\n- **未来趋势**：虽然现在很火，但世界模型不会一成不变。未来AI的重点会放在理解真实世界的规律上，就像人不仅要会说话，还要懂怎么生活。\n\n- **核心观点**：世界模型不是取代现有技术，而是让AI更智能。就像学开车，先会踩油门刹车，后来才懂交通规则。AI也要先学动作，再学思考。",
-      "summarized_at": "2026-06-15T14:29:53.284Z",
       "summary_status": "success"
     },
     {
