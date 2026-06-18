@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-18T11:56:09.078Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-18T11:56:09.079Z",
+    "date": "2026-06-18",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1781783670318",
-      "title": "Want to get a data center online quickly? Give it some flex.",
-      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different…...",
-      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-16T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 快速上线数据中心的小妙招\n\n### 故事引入\n想象一下，英国和德国踢足球，比赛僵平，英国球迷紧张得团团转。这时，大家习惯性地开始烧水泡茶，电水壶齐齐响起。这个简单举动，却让电网瞬间压力山大，甚至可能导致断电。这就像数据中心，如果突然涌入大量用户请求，系统就会崩溃。怎么办？给系统加点\"弹性\"。\n\n### 什么是弹性\n弹性就像给水桶加个缓冲垫。平时轻轻倒水，水桶稳稳当当；突然倒半桶水，缓冲垫能吸收冲击，防止水花溅出来。数据中心弹性也是如此——平时用户少，系统轻轻松松；用户突然增多，系统也能从容应对，不会崩溃。\n\n### 为什么重要\n- **避免突发崩溃**：就像电水壶齐发，系统会过载\n- **提升用户体验**：防止突然网速变慢\n- **节省成本**：不用一直准备满负荷状态\n- **自然增长**：就像茶杯从小到大适应水量\n\n### 如何实现\n1. **像水桶一样预存资源**：系统多准备些\"容量\"\n2. **自动调节**：像电水壶自动跳闸，系统自动扩容\n3. **分段加载**：先给少量用户服务，再慢慢加量\n4. **快速恢复**：就像泡茶时随时加水，系统随时补充\n\n### 生活例子\n- 超市促销时，多开几个收银台\n- 热门餐厅预备更多座位\n- 自来水系统总比实际用水量大\n\n加弹性就像给系统备个\"救生圈\"，关键时刻能保命，日常运行也更舒心。",
-      "summarized_at": "2026-06-18T11:54:43.926Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781783670318",
-      "title": "Why do South Koreans love AI so much?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an...",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-15T18:46:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 韩国人为什么这么喜欢AI？\n\n- **AI已经融入生活**  \n  在首尔，你不需要排队就能通过人脸识别入境，就像用手机指纹解锁一样方便。这表明AI在韩国不是什么新鲜事，而是实实在在的服务。\n\n- **科技公司和政府大力推广**  \n  韩国有不少科技公司专门研究AI，比如开发更智能的机器人，甚至还有学校专门教小朋友用AI做设计。政府也鼓励大家使用AI工具，比如让医生用AI诊断病情。\n\n- **AI帮助解决实际问题**  \n  比如交通系统用AI减少堵车，商店用AI推荐商品，就像你网购时系统总知道你缺什么。这让生活更高效，也让韩国人觉得AI很实用。\n\n- **年轻人热衷AI创作**  \n  很多韩国年轻人用AI写诗、画画，甚至做音乐。这就像用手机修照片一样简单，只要输入要求，AI就能帮忙完成，让创作变得更有趣。\n\n- **传统与科技结合**  \n  韩国既有悠久的文化，又有发达的科技。AI在这里不仅是工具，更是一种文化现象，比如用AI保护传统手艺，或者开发有韩国特色的AI产品。\n\n总之，韩国人喜欢AI是因为它方便实用，还能激发创造力，已经完全融入日常生活，就像手机和互联网一样自然。",
-      "summarized_at": "2026-06-18T11:54:41.410Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781783670318",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without...",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-11T11:00:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Google DeepMind 研究AI互相作用的潜在风险\n\nGoogle DeepMind 正在资助研究，担心未来会有成千上万的AI独立程序在网上互相交流时可能带来的问题。想象一下，如果街上到处都有机器人，它们都能自己做事，比如送快递、打扫卫生，但它们之间不会沟通，可能会出乱子。\n\n### 为什么会出问题？\n\n- **机器人抢东西**：如果所有机器人都在抢同一个东西，比如垃圾桶，它们可能会互相干扰，导致谁也得不到。\n- **不听指挥**：设想有个机器人负责浇水，另一个负责修剪花草，如果它们不知道对方在做什么，可能会把花浇死或剪坏。\n- **学会坏习惯**：机器人之间可能会互相模仿坏行为，比如一个机器人开始乱扔垃圾，其他机器人跟着学。\n\n### 研究重点\n\nDeepMind 的 Rohin Shah 说，他们特别担心的是这些机器人数量太多时，它们的行为会变得不可预测。就像如果街上全是自动驾驶汽车，但每辆车都不按规则开车，可能会引发大事故一样。\n\n### 怎么解决？\n\n科学家们正在研究如何让AI学会像人一样互相合作，而不是互相捣乱。比如，让机器人学会提前告诉对方：“你们先忙，这个我稍后再弄。”这样就能避免冲突。\n\n总之，Google DeepMind 想确保未来的AI不仅自己能干，还能和其他AI友好相处，不会因为乱来给人类带来麻烦。",
-      "summarized_at": "2026-06-18T11:54:51.696Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781783670318",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati...",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-09T10:20:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 人类和AI一起工作的未来\n\n## AI助手要大爆发\n\n未来两年，AI助手的使用量可能增加300%。就像现在手机里各种智能助手一样，它们会越来越能干，能自己安排事情，不需要人一直盯着。\n\n## 人类和AI怎么合作\n\n以前的工作自动化，比如工厂流水线，都需要人一步步操作。现在AI不一样，它像智能管家一样，能自己安排工作，比如帮你管理日程、处理邮件。但人还是需要监督和指导AI，就像家长管孩子一样。\n\n## 企业怎么应对\n\n领导们正在考虑怎么让人类和AI更好地一起工作。比如，AI负责重复性任务，人负责更有创造性的事情。就像做饭，AI负责切菜、搅拌，人负责想菜谱、调味。\n\n## 人类需要的变化\n\n人们需要学会和AI沟通，就像学英语一样。比如，告诉AI\"帮我找明天开会用的资料\"，而不是让它猜你要做什么。同时，人也要保持学习能力，不断给AI新的指令和反馈。\n\n## 未来工作的样子\n\n未来工作就像家庭影院系统，人负责设定主题，AI负责播放内容。企业需要培训员工怎么和AI打交道，就像学使用新电器一样。这种合作会让工作效率更高，就像两个人做事情比一个人干得快。",
-      "summarized_at": "2026-06-18T11:54:51.498Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1781783670318",
       "title": "Five things you need to know about AI",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# Civ V手机/电脑版开源游戏\n\n## 游戏简介\n这是一款仿照《文明5》制作的手机和电脑游戏，不过它是开源的，意味着任何人都可以自由使用、修改和分享。就像有人把乐高玩具拆开重新拼装，但这次是整款游戏。\n\n## 开源的好处\n- **免费使用**：就像图书馆的书籍，你可以随时玩，不需要花钱买\n- **可以改**：如果你想让游戏更好玩，比如增加新国家或地图，你可以自己动手改\n- **社区支持**：很多玩家会一起帮忙改进游戏，就像大家一起做蛋糕，越做越好吃\n\n## 玩法特点\n- **文明建设**：你可以建立自己的文明，发展城市，研究科技\n- **外交互动**：和其他玩家或AI国家谈合作、搞竞争\n- **战争策略**：用军队征服土地，但也要小心别被别人打\n- **多种模式**：有单人闯关，也有多人联网对战\n\n## 适合人群\n- **历史迷**：喜欢看不同国家文明发展\n- **策略玩家**：喜欢动脑筋的拼图游戏\n- **技术爱好者**：想尝试自己改游戏的人\n\n## 注意事项\n虽然是免费游戏，但可能没有官方版那么完美，比如画面或bug会多一些，就像自己做的手工蛋糕可能有点小瑕疵。",
       "summarized_at": "2026-06-18T11:55:49.695Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781783674240",
-      "title": "中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标",
-      "summary": "文丨小葵\n编辑丨果脯\n中国游戏产业正站在一个微妙的分水岭上。\n一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。\n今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。\n在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。\n当大厂渴望用3A讲述中国故事建立全球品牌壁垒，腰部厂商则在存量市场中持续收割，一个向上押注3A，一个向下蚕食存量...",
-      "url": "https://36kr.com/p/3858373969286148?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-18T07:58:27.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 中国游戏界的两种打法\n\n中国游戏公司现在走两条路，差别挺大。\n\n- **头部公司像腾讯网易**，使劲砸钱搞那种特别棒的大游戏，跟国外最顶级的单机游戏（就是那种画面、故事都超赞的游戏）比个高下。他们想让全世界知道中国也能做出这种好游戏，顺便打响品牌名声。这就像武林里的高手想当掌门，得拿出绝活证明自己。\n\n- **中间层公司像4399**，就不想那么冒险，专门做大家喜欢玩的类型，比如休闲小游戏，然后一点点把老游戏改改，让老玩家继续玩，新玩家也容易上手。他们不求一夜爆红，但求稳稳赚钱。这就像开餐馆，有人想开米其林大餐，有人就想开个常去的家常菜馆。\n\n现在国外游戏公司都挺保守，老游戏重制或者做续集。但腾讯和网易却敢尝试做顶级大游戏，想在全球舞台一展身手。而中间层公司则在已有的市场中精耕细作，把每个小环节都做到最好。一个想冲顶层，一个想稳住现有阵地，两种策略各有所图。",
-      "summarized_at": "2026-06-18T11:55:49.241Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781783674240",
-      "title": "12306要忙着赚钱了",
-      "summary": "作者 | 王晗玉\n编辑 | 张帆\n近日，市场监管总局联合中央网信办、国家铁路局，依法约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家7家旅游出行第三方平台，直指平台在火车票销售领域存在多项不规范经营行为。\n具体来看，违规行为包括不当宣传“候补帮抢”及付费选座、不当诱导用户“买长乘短”“买短乘长”，不当收集、使用用户个人信息等问题。后续监管部门将加大监管执法力度。\n此次集中约谈，不仅直指OTA平台火车票业务的乱象根源，也揭开了在线旅游行业围绕出行流量展开的深层博弈。\n监管收紧的背景下，传统OTA依赖的流量逻辑正在动摇，而铁路官方平台跨界拓展酒旅业务的可能性，也让整个在线出行行业迎来新一轮...",
-      "url": "https://36kr.com/p/3858061678760965?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-18T02:25:26.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 12306要忙着赚钱了\n\n### 背景\n最近，国家市场监督总局和一些相关部门找了一些卖火车票的网站谈话，比如携程、去哪儿这些。这些网站卖火车票的时候做了一些不对的事，比如夸大“抢票助手”和“选座位”的服务，还诱导用户买不需要的票。\n\n### 违规行为\n- 不当宣传“抢票服务”：就像有些商家夸大商品功能一样，这些网站把“抢票”服务说得特别厉害，其实效果一般。\n- 诱导买错票：比如让你买比实际行程长或短的票，这有点像商家让你多买一些不必要的东西。\n- 收集个人信息：这些网站还喜欢收集用户的个人信息，这让人很担心隐私问题。\n\n### 后果\n国家有关部门这次谈话，其实是想整治乱象。现在这些卖票的网站日子不好过，因为监管越来越严了。以前这些网站靠流量赚钱，现在不行了，得好好想想怎么活下去。\n\n### 新动向\n铁路官方平台可能要自己搞旅游业务了，比如卖酒店、机票等。这样一来，这些卖票网站的压力更大了。整个旅游行业都要面临新的挑战，以前那种只靠流量赚钱的模式可能要变一变了。",
-      "summarized_at": "2026-06-18T11:56:01.108Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781783674240",
-      "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
-      "summary": "文 | 孙小雯\n访谈 / 编辑 | 海若镜\n「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。\n当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralink，正是这一叙事的风向标。\n芯生视界团队集合了多位国家“脑计划”脑机接口方向“青年首席”：创始人王茜来自北京大学心理与认知科学学院、IDG麦戈文脑科学研究所。联...",
-      "url": "https://36kr.com/p/3855480467543042?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-18T01:34:22.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 芯生视界融资超1亿元，北大科学家开发脑机接口技术\n\n- **脑机接口是什么**？  \n脑机接口就像给大脑装个遥控器，能让人脑直接控制电脑、假肢等设备。比如瘫痪的人，可以通过想动来操控轮椅，不用再用手。\n\n- **这家公司做什么**？  \n「芯生视界」开发能长期植入大脑的脑机接口，已经用在治疗瘫痪和脑控设备上。他们最近拿到近1亿元投资，领投的是大投资人经纬创投。\n\n- **为什么这么火**？  \n脑机接口技术越来越成熟，像马斯克的Neuralink公司也在搞这个。现在AI技术进步，大家期待脑机接口能改变人跟电脑的互动方式，甚至让人脑变聪明。\n\n- **团队有什么特别**？  \n核心成员都是北京大学脑科学领域专家，创始人王茜研究大脑和认知科学。他们想用脑机接口帮助病患，并探索未来人类进化的可能。\n\n- **投资方看重什么**？  \n投资方觉得脑机接口市场巨大，既能治病又能创造新科技。比如未来可能让人脑直接下载知识，或者用意念翻译语言，前景广阔。",
-      "summarized_at": "2026-06-18T11:56:01.087Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781783674240",
-      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。 \n这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。\n穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围...",
-      "url": "https://36kr.com/p/3856708724315400?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-18T01:28:16.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 穹彻智能又拿到大笔钱，投资方有上海交大等\n\n- 穹彻智能是一家研究“具身智能”的公司，简单说就是研究人和机器如何像人一样感知和行动。比如，让机器人像人一样能走路、能感知周围环境、能做简单决策。\n- 最近，这家公司又拿到一笔数亿元的投资，这意味着很多人看好它的未来发展。这次投资由无锡数据集团领投，上海交大等机构也参与了进来。\n- 其实，穹彻智能并不是第一次融资了。之前，红杉中国（一家著名的投资公司）、阿里巴巴等大玩家也投过它。这说明外界对这家公司的技术很有信心。\n- 穹彻智能的核心产品叫“穹彻具身大脑”，目前已经研发出来了。未来，这项技术可能会用到很多地方，比如让机器人更智能，或者帮助人们更好地与机器互动。\n- 总之，这家公司的研究很有前景，得到了很多有实力的投资方的支持，未来发展值得关注。",
-      "summarized_at": "2026-06-18T11:56:07.020Z",
       "summary_status": "success"
     },
     {
