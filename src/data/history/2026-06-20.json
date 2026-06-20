@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-20T10:38:30.028Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-20T10:38:30.029Z",
+    "date": "2026-06-20",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1781951790611",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta...",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-19T10:40:24.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 海南 startup 声称解决了 LLM 的难题\n\n最近，一家叫 Subquadratic 的海南 startup 声称他们解决了一个困扰大语言模型（LLM）近十年的数学难题。简单来说，就像开车遇到一条堵车严重的单行道，他们找到了一条可以快速通行的路。\n\n### 什么是 LLM 的瓶颈？\n\n想象一下，你让电脑写文章。如果电脑像现在的 LLM 一样，需要读很多很多书才能学会写文章，那它就会很慢，写出来的东西也不一定好。这个瓶颈就是 LLM 需要处理的信息太多太复杂，导致学习速度慢、效率低。\n\n### Subquadratic 的解决方案\n\nSubquadratic 声称他们找到了一种新的方法，可以让电脑学习更快，像安装了一个加速器。这个方法叫做“Subquadratic”，听起来很复杂，其实就是让电脑处理信息的时候更聪明、更省力。\n\n### 为什么大家还不确定？\n\n虽然这个 claim 听起来很厉害，但很多人还是有点怀疑。因为 Subquadratic 没有公布太多具体细节，就像你只看到一个人跑得快，却不知道他是怎么练的。他们只是说“我们有办法”，但没说具体原理。\n\n### 有什么影响？\n\n如果 Subquadratic 真的解决了这个难题，那对 LLM 的未来发展影响巨大。就像手机从 2G 跑到 5G，LLM 也会变得更智能、更高效。这将让 AI 写文章、做翻译、甚至和人聊天都变得更快更好。\n\n不过，现在还只是个 claim，需要更多证据证明。但 Subquadratic 这波操作确实让 AI 领域的人很期待，毕竟谁不想让电脑变得更快、更聪明呢？",
-      "summarized_at": "2026-06-20T10:36:43.422Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781951790611",
-      "title": "Want to get a data center online quickly? Give it some flex.",
-      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different…...",
-      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-16T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 让数据中心快速上线的秘诀：给它“弹性”空间\n\n想象一下，你正在看一场紧张的比赛，两边比分一直没变化，观众们都坐立不安。这时候，英国球迷们通常的做法是什么？没错，泡茶。当无数电水壶同时开启时，电网可能会瞬间压力大增，就像数据中心在高峰期如果没做好准备，系统就会崩溃。\n\n### 为什么需要弹性？\n\n- **数据中心也怕“挤”**：就像商场促销时人挤人，数据中心在流量高峰期也需要足够空间应对。如果没“弹性”，系统就像超载的公交车，一摇就散架。\n- **弹性=自动扩容**：给数据中心弹性，就是让它能像海绵一样，根据需求自动增减资源。比如，当访问量突然变大时，它能自动加服务器；访问少时，又能自动减少，既省钱又不耽误事。\n\n### 例子说明\n\n- **就像手机流量套餐**：平时用少，费用低；突然刷视频，流量自动加量，不会让你突然断网。\n- **超市货架自动调节**：旺季时货架自动加高，淡季时自动变矮，保证顾客不会推挤。\n\n### 如何实现弹性？\n\n1. **智能监控**：像交警指挥交通一样，实时监测数据中心的负荷情况。\n2. **自动调整**：根据监控结果，自动增减服务器或带宽。\n3. **备份数据**：就像存钱，留足备用资源以防万一。\n\n### 核心观点\n\n给数据中心“弹性”，就是让它像人体调节体温一样，自动适应环境变化。这样做不仅能让系统更稳定，还能节省成本，提高效率。简单说，弹性就是“随需应变”的能力，让数据中心不再成为瓶颈。",
-      "summarized_at": "2026-06-20T10:36:42.026Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781951790611",
-      "title": "Why do South Koreans love AI so much?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an...",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-15T18:46:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 韩国人为什么这么喜欢AI？\n\n### AI已经融入日常生活\n- 韩国人在生活中处处能碰到AI。比如去机场，不用排队就能被机器扫描脸就过安检，像刷手机一样简单。\n- 他们在手机里常用AI助手，能听懂话、帮忙订车票，比人类助手还方便。\n\n### 科技公司大力推广\n- 韩国有好多高科技公司，像LG、三星都在搞AI，经常搞些新花样吸引人。\n- 政府也大力支持AI发展，专门开了很多资金支持，让AI技术更快落地到生活中。\n\n### AI方便解决实际问题\n- 韩国人用AI能省不少事儿。比如购物时AI能推荐最适合的东西，看病时AI能帮忙分析病情。\n- 上下班堵车时，AI导航能规划最快路线，比人脑思考还靠谱。\n\n### 文化接受度高\n- 韩国人对新鲜事物接受快，愿意尝试AI产品。\n- 他们还喜欢看科幻电影，里面经常出现AI帮助人类的情节，潜移默化觉得AI很酷。\n\n### 未来发展潜力大\n- 韩国正想把AI用在更多地方，比如老人照顾、教育等，让大家都能用到好技术。\n- 他们觉得AI是未来趋势，现在多用多了解，以后好处更多。",
-      "summarized_at": "2026-06-20T10:36:51.557Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1781951790611",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without...",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-11T11:00:45.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 谷歌DeepMind担心大量AI互相通话会出事\n\n谷歌DeepMind正在研究：如果网上有上百万个AI机器人开始互相交流，可能会发生什么危险。这些AI机器人就像超市里的收银员，能自动完成任务。\n\n### 怎么会出问题？\n\n想象一下，如果每个收银员都只按自己想到的规则工作，可能会出现混乱。比如，有的收银员觉得\"便宜点更好\"，有的觉得\"快点更好\"，结果顾客取货时发现商品乱七八糟，或者根本找不到。AI也是一样，如果它们只知道为自己着想，不听从统一指令，就会像一群没头苍蝇一样乱撞。\n\n### 为啥要研究这个？\n\n- AI越来越多：现在网上到处都是AI，从语音助手到购物推荐，数量还在不断增加。\n- 互相影响：当足够多的AI开始互相\"说话\"时，它们的行为会互相影响，就像一群人同时指挥另一群人。\n- 安全风险：如果这些AI没有统一的想法，可能会做出坏事，比如让系统崩溃或作恶。\n- 负面结果：就像有人故意输错密码让系统死机，AI互相吵架也可能让整个网络系统瘫痪。\n\nDeepMind希望提前预防这种混乱。他们想设计出更聪明的AI，即使数量再多，也能像训练有素的团队一样协作。就像学校组织运动会，如果每个班都只管自己比赛，最后可能乱成一团。但如果是统一指挥，就能让所有班级有序进行。",
-      "summarized_at": "2026-06-20T10:36:52.020Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1781951790611",
       "title": "Learning to lead in a hybrid human-AI enterprise",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# 自由翻译API：免费好用的在线翻译工具\n\n## 什么是LibreTranslate？\n\nLibreTranslate是一个免费的在线翻译服务，就像手机里的翻译App，但功能更加强大。它是一个开放的平台，任何人都可以搭建自己的翻译服务器，不用依赖别人家的系统。比如，你可以在家里装个翻译软件，只要有网络就能随时翻译，不需要上网查翻译结果。\n\n## 为什么选择LibreTranslate？\n\n- **完全免费**：不用花钱，任何人都能使用，适合预算有限的个人或小团队。\n- **自己当服务器**：你可以把翻译工具装在自己的电脑或服务器上，数据都自己控制，不用担心隐私问题。\n- **离线也能用**：装在本地后，没有网络也能翻译，适合经常出门没网的人。\n- **设置简单**：安装步骤简单，不需要特殊技术，小白也能快速上手。\n\n## 适合谁用？\n\n- **需要翻译但不想花钱**：比如学生、自由职业者，可以用它做文档翻译。\n- **注重隐私**：把翻译工具放在自己电脑上，不用担心数据被别人看到。\n- **需要离线翻译**：经常出差、旅行的人，手机装了这个软件就能在没网的地方翻译。\n\n## 怎么用？\n\n1. 在自己的电脑上安装LibreTranslate程序。\n2. 开启服务后，手机或电脑就能连接你的翻译系统。\n3. 打开浏览器或App，选择需要翻译的文本，直接调用你的翻译工具。\n\n总之，LibreTranslate就像一个免费的翻译助手，自己当老板，用起来方便又省钱，特别适合需要翻译但不想依赖第三方平台的人。",
       "summarized_at": "2026-06-20T10:38:00.775Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781951794810",
-      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-      "summary": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。\nZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP大厂，AI团队来自智谱等...",
-      "url": "https://36kr.com/p/3859926114161665?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-19T10:01:25.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI陪伴机器人新公司获大额投资\n\n- **公司背景**：ZuzuZoos是一家刚成立的公司，主要做AI陪伴机器人和AI相关的潮玩产品。这家公司最近获得了锦秋领投等机构提供的数千万元投资。\n\n- **团队实力**：公司创始人董晓楠之前在moody公司工作，把销售额从2亿做到10亿，相当于把一个普通小店变成了大型商场。硬件方面由前大疆机器人专家负责，他做了15年机器人，就像经验丰富的工匠打造了多款畅销产品。IP设计来自泡泡玛特、迪士尼等大厂，AI团队来自智谱等知名机构，相当于请来顶级设计师和工程师。\n\n- **资金用途**：这笔钱主要用来改进AI技术、增加更多机器人产品、打造更丰富的IP形象、拓展海外市场，以及招更多优秀人才。就像开一家新店，需要升级装修、进货、扩大规模、请更多人。\n\n- **核心产品**：他们的AI陪伴机器人结合了人工智能和潮流玩具，就像把智能音箱和卡通公仔结合在一起，既好玩又能聊天解闷。IP团队的目标是让机器人有独特的个性，就像给每个玩具设计不同的故事和形象。\n\n- **市场前景**：随着人们对智能产品的需求增加，这种结合科技和娱乐的机器人市场潜力很大。就像智能手机取代了普通手机一样，AI陪伴机器人可能会成为未来家庭的新宠。",
-      "summarized_at": "2026-06-20T10:37:56.339Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781951794810",
-      "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
-      "summary": "36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。\n过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型优化进一步释放性能空间。\n安踏此次推出的“折纸科技”，正是这一趋势下的最新尝试。\n根据安踏介绍，该项目由安踏创新实验室联合牛津大学、天津大学及浙江大学相关研究团队共同研发。与传统依赖材料软硬度实现缓震不同，折纸...",
-      "url": "https://36kr.com/p/3859469888508933?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-19T02:16:23.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 安踏的“折纸科技”跑鞋新发明\n\n## 什么是折纸科技？\n\n安踏最近推出了一种叫“折纸科技”的新跑鞋技术，想通过改变鞋子内部的构造来让它跑得更舒服。以前做跑鞋，大家主要靠更换新材料，比如更软的泡沫材料来增加缓冲。但现在材料越来越好，这种老方法效果不明显了，所以现在运动鞋品牌开始琢磨怎么设计鞋子的内部结构。\n\n## 折纸科技怎么工作的？\n\n折纸科技不是靠让鞋子更软，而是像折纸一样，把鞋子的不同部分设计成特殊的形状，这样在脚受力时，这些形状能更好地吸收震动。想象一下，你把一张纸折叠成不同的形状，它就能承受更大的力。安踏的跑鞋也是这个道理，通过改变鞋子的几何结构来提升缓冲效果。\n\n## 为什么要这样做？\n\n材料已经提升到很高的水平，再想进步很难，所以安踏和牛津大学、天津大学等团队合作，开发出这种新的结构设计方法。这就像做饭，如果调料放得再多，味道也提升有限，这时候就得换个烹饪方法，比如改变食材的形状。\n\n## 首款产品折纸H1\n\n安踏用这种技术推出了首款跑鞋——折纸H1，这双鞋的内部结构经过精心设计，能更好地保护脚部，减少跑步时的冲击感。",
-      "summarized_at": "2026-06-20T10:38:08.086Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781951794810",
-      "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
-      "summary": "国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790赛博版三款硬核新品集结亮相。这场动作透露出的创投信号再明显不过：在女性和基础通勤赛道筑牢绝对壁垒后，传统头部巨头爱玛正以一种颠覆性的姿态，正式向年轻男性性能与运动电摩赛道发起总攻。36氪通过与爱玛科技集团三...",
-      "url": "https://36kr.com/p/3858803016881154?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-18T14:57:40.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 爱玛电动车要转型，瞄准年轻男性市场\n\n### 市场变化\n以前，大家觉得电动车就是买菜、上班的工具，没什么稀奇的。但现在，爱玛电动车想改变这种看法，特别是想吸引那些喜欢运动、追求个性的年轻男人。\n\n### 新品牌爱玛黑翼\n爱玛推出了一个新品牌叫“爱玛黑翼”，专门给年轻男性设计。这个品牌强调速度和运动感，就像汽车界的跑车一样酷。\n\n### 三款新车亮相\n爱玛黑翼带来了三款新电动车：爱玛黑翼S360电竞版、爱玛黑翼S360赛道版和爱玛黑翼S790赛博版。这些车都特别强调性能和科技感，比如电竞版的操作就像打游戏一样，赛道版适合跑速度，赛博版则融合了未来科技。\n\n### 爱玛的策略\n爱玛电动车已经把女性和普通通勤市场打透了，现在想开拓年轻男性市场。他们找了中国F1车手周冠宇做代言，就像请足球明星代言运动鞋一样，吸引年轻人的注意力。\n\n### 核心观点\n爱玛电动车不再满足于普通市场，而是要用更酷、更科技的产品，吸引那些追求速度和个性的年轻男性，让他们觉得电动车不只是代步工具，更是一种时尚和运动的象征。",
-      "summarized_at": "2026-06-20T10:38:16.594Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1781951794810",
-      "title": "科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相",
-      "summary": "6月17日，爱玛黑翼品牌战略发布会在四川省体育馆盛大开启。体育馆化身爱玛黑翼玩家街区，潮流青年齐聚现场。爱玛黑翼以“全速热爱”为品牌主张，携爱玛黑翼S360电竞版、爱玛黑翼S360赛道版、爱玛黑翼S790赛博版三款车型重磅亮相，首位中国F1车手周冠宇以爱玛黑翼“全速领航员”身份在线助力品牌发布。爱玛黑翼的登场，标志着爱玛电动车在男性出行科技领域树立起全新坐标，正式构建起“他硬核”增长格局，向“时尚科技年轻品牌”全速进阶。\n\n官方图片\n运动产品线全新品类品牌 爱玛黑翼正式亮相\n爱玛黑翼是爱玛旗下专为年轻男性打造的极速运动产品线品类品牌，为“纯粹热爱的城市探索玩家”而来，倡导“全速热爱”，锚定潮流...",
-      "url": "https://36kr.com/p/3858676671599881?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-18T12:49:01.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 爱玛黑翼品牌发布，三大新车登场\n\n- **品牌定位**：爱玛黑翼是爱玛电动车专为年轻男性设计的电动车品牌，像是运动品牌里专门给年轻人穿的速干衣，专门解决城市里爱玩爱冒险的男生们的出行需求。\n  \n- **品牌主张**：爱玛黑翼提出“全速热爱”的理念，意思是无论你是想快一点去玩，还是慢一点享受生活，这个品牌都能满足你，就像你打游戏可以选择快速通关，也可以慢慢体验每个细节。\n\n- **新车亮相**：发布会上推出了三款新电动车——爱玛黑翼S360电竞版、爱玛黑翼S360赛道版、爱玛黑翼S790赛博版。这三款车就像游戏里的不同角色，电竞版适合快速穿梭，赛道版适合竞技挑战，赛博版适合未来感十足的街头造型。\n\n- **明星助力**：中国F1车手周冠宇作为“全速领航员”出现，就像游戏里的职业导师，帮你了解怎么最快地驾驭爱玛黑翼，教你如何玩转城市。\n\n- **品牌目标**：爱玛黑翼希望成为年轻男性电动车领域的领头羊，就像街舞比赛里最受欢迎的舞团，不仅要速度快，还要够时尚，还得懂年轻人的喜好。\n\n- **市场策略**：通过爱玛黑翼，爱玛电动车计划在男性市场里抢占一席之地，就像一家奶茶店推出专为男生设计的口味，专门吸引他们来捧场。",
-      "summarized_at": "2026-06-20T10:38:25.266Z",
       "summary_status": "success"
     },
     {
