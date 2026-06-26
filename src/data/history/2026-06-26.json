@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-26T10:57:03.461Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-26T10:57:03.462Z",
+    "date": "2026-06-26",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1782471359141",
-      "title": "Repositioning retail for the AI era",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven...",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-25T14:22:59.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI改变零售业的真相\n\n### 背后的变化\n现在很多人觉得AI让购物更方便了，比如用虚拟试衣或聊天机器人。但这些只是表面功夫。真正改变零售业的是AI藏在后台的决策方式。\n\n### 搜索结果的秘密\n想象一下你在超市找东西，但每次都能很快找到。这就是AI在起作用。以前商店靠人工堆放商品，现在AI通过分析你的购物习惯和喜好，决定把什么商品放在最显眼的位置。\n\n### 库存管理的智慧\n以前商店经常遇到两种问题：要么东西卖光了，要么堆满了卖不动的货。现在AI能预测哪些商品可能受欢迎，自动调整进货量。就像你常买的牛奶总是会货，而不常买的零食不会塞满货架。\n\n### 营销的精准打击\n以前商店靠大喇叭喊\"全场打折\"，现在AI能知道你最近看了什么，然后发个合适的优惠券。就像你常去的便利店，总会发你常买的咖啡优惠券。\n\n### 未来的购物体验\n随着AI越来越聪明，购物会越来越懂你。就像你的手机知道你什么时候想听音乐，商店也会知道你什么时候想买什么东西。这就是AI给零售业带来的最大变化。",
-      "summarized_at": "2026-06-26T10:56:06.542Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1782471359141",
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.  To understand this challenge, consider the foundation of...",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-24T11:59:54.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI发展需要大量数据，但获取数据很困难\n\n### AI越来越火，每天都有新应用出现\n想象一下，现在很多地方都在用AI，比如智能音箱、导航地图，甚至工厂的机器人。这些AI都需要大量数据来学习和工作，就像孩子需要吃饭才能长大一样。\n\n### 企业想要用AI，但数据很难找到\n很多公司想用AI来解决各种问题，比如销售预测、客户服务。但他们发现，想要的数据要么藏在不同的系统里，要么就是乱糟糟的，比如微信聊天记录、网页上的各种信息。这些数据就像一堆散落的拼图碎片，很难拼起来用。\n\n### 数据需要“整理工具”才能被AI使用\n为了解决这个难题，科学家们正在开发一种新的数据整理工具。这个工具就像一个超级整理师，能从各种地方找到数据，把乱七八糟的信息整理成AI能看懂的格式。有了这个工具，企业就能轻松获取和使用数据，让AI发挥更大作用。\n\n### 核心要点：\n- AI需要大量数据才能发展\n- 现有数据很多是“找不到”或“用不了”的\n- 新的数据整理工具能解决这些问题\n- 这样企业就能更好地利用AI技术",
-      "summarized_at": "2026-06-26T10:56:06.099Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1782471359141",
-      "title": "The $400 million machine powering the future of chipmaking",
-      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.  It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the groun...",
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-23T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 超级机器：芯片制造的未来动力\n\n### 大型机器的惊人外观\n- Jos Benschop 正在攀爬一架梯子，前往他最新机器的顶部\n- 这个机器像双层巴士一样大，重达150多吨\n- 外表由闪闪发光的铝材制成，布满蜿蜒的管道、彩色电线和加压水箱\n- 想象一下，它就像一个巨大的、闪闪发光的金属盒子，里面藏着无数水管和电线\n\n### 机器的用途\n- 这是制造芯片的核心设备\n- 芯片就像手机的\"大脑\"，决定手机运行速度和功能\n- 这个机器负责给芯片制作极其精密的模具\n- 没有它，我们现在的手机、电脑都很难生产\n\n### 机器的复杂性\n- 内部有成千上万的管道和电线，像城市的交通系统\n- 工作时需要加压，就像汽车轮胎充气一样\n- 精度要求极高，比制作钟表还要复杂\n- 想象一下，要在指甲盖大小的芯片上画出微小的线路，就像在头发丝上画画\n\n### 对未来芯片制造的影响\n- 这个机器将推动芯片制造技术更上一层楼\n- 未来芯片会更小、更快、更节能\n- 就像智能手机从黑白屏发展到全面屏一样，芯片技术也在不断进步\n- 这个机器是芯片行业的重要突破，可能影响我们未来的手机、电脑等电子设备",
-      "summarized_at": "2026-06-26T10:56:13.845Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1782471359141",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode...",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-22T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Anthropic和政府最新冲突的三大看点\n\n### 冲突背景\nAnthropic这家公司最近和美国政府闹起了别扭。简单说，就是他们开发了一个超级聪明的AI程序，结果美国政府有点担心这东西用不好会出大事，所以开始管得严了。\n\n### 看点一：AI模式大公开\n公司之前藏着掖着，突然宣布造了个AI模式，但没细说到底是啥。就像你妈神秘地说做了新菜，但就是不告诉你有啥食材，让人心里直打鼓。\n\n### 看点二：政府为啥不乐意\n美国政府担心这个AI要是被坏人拿去，可能会搞出社会混乱的事。这就像小区保安看到陌生人突然多，赶紧去问是不是有坏人在附近转悠。\n\n### 看点三：公司如何应对\nAnthropic开始向政府解释他们的AI很安全，还主动提交了技术报告。这就像你家孩子被老师怀疑偷了东西，但你赶紧拿出成绩单证明自家孩子是乖宝宝。\n\n总的来说，这场争斗就是科技公司和政府关于\"AI这东西到底能不能放心用\"的拉锯战。政府想管，公司想干，两边各执一词，最后看谁更会说服人。",
-      "summarized_at": "2026-06-26T10:56:12.682Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1782471359141",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## LlamaIndex是个啥？\n\n想象一下，你拿到一堆文件，有照片、有扫描件、还有手写的笔记，这些文件里藏着很多重要的信息。LlamaIndex就像一个超级厉害的助理，能帮你快速整理这些文件，把里面的文字都找出来，让你轻松找到需要的内容。\n\n### 它怎么工作的？\n\n- **会读照片里的字**：比如你用手机拍了一张菜单，LlamaIndex能自动把菜单上的文字读出来。\n- **能理解文件内容**：不仅仅是读字，它还能理解文件在讲什么，比如帮你总结一份报告的主要内容。\n- **快速找到信息**：如果你找某个词或某个数字，它能秒速帮你定位，就像搜索引擎一样方便。\n\n### 为什么它这么牛？\n\n- **处理各种文件**：不管你是扫描的文件、拍照的文件，还是手写的笔记，它都能处理。\n- **智能整理**：它会自动分类和整理文件，省去你手动查找的麻烦。\n- **适合各种人用**：学生、上班族、研究人员都能用，比如学生可以用它整理课堂笔记，上班族可以用它快速找到合同里的关键信息。\n\n总之，LlamaIndex就是一个能帮你快速找到文件里信息的神奇工具，特别适合需要处理大量文件的人使用。",
       "summarized_at": "2026-06-26T10:56:52.294Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782471362288",
-      "title": "《走进AIE》，谁是下一个主角",
-      "summary": "一展两地，链接全球    AIE 电子展成为龙头企业的必选舞台\n全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。\n技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会联合南方财经、新华网、南方+等权威媒体，重磅推出《走进AIE》专题栏目，全维度挖掘产业、科研与场景应用的创新价值，彰显湾区智造硬实力，吸引全球产业资源加速汇聚。\n走进企业，解码产业 用专业内容讲好\"中国智造\"\n围绕行业前沿趋势，从实验室到生产...",
-      "url": "https://36kr.com/p/3869838577620231?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-26T10:28:31.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AIE展会：大湾区科技秀场\n\nAIE电子展就像一个大型的科技展览，设在广东大湾区。这里不仅有工厂企业，还有科研机构和媒体，大家一起展示最新的智能制造技术。\n\n### 展会亮点\n\n- **全球舞台**：AIE是国际性的展会，很多大公司都会来展示他们的最新产品和技术。\n- **产业生态**：大湾区有很多高科技企业，AIE就像是一个大市场，让这些企业可以展示自己的实力。\n- **创新平台**：这里不仅是展示技术的地方，也是科研成果转化为实际应用的重要场所。\n\n### 《走进AIE》栏目\n\n- **深入企业**：这个栏目会去各个企业看看，了解他们是如何创新的，比如从实验室到实际生产的过程。\n- **权威媒体**：南方财经、新华网等媒体都会参与，让更多人了解大湾区的科技创新。\n- **全球资源**：通过这个栏目，全球的产业资源都能找到大湾区的机会，吸引更多投资和发展。\n\n### 核心信息\n\nAIE展会是大湾区科技实力的重要展示窗口，通过展示最新的智能制造技术，吸引全球的注意力和资源。这个平台不仅让企业展示自己，也让科研成果更快地变成实际产品，促进科技和经济的发展。",
-      "summarized_at": "2026-06-26T10:56:51.617Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782471362288",
-      "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
-      "summary": "文 | 海若镜\n访谈 | 海若镜 巴芮\n6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。\n访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。\n五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已经毕业；这里孵化、走出的十家公司，累计“融资约150亿元，估值1500亿元”。其中，华深智药、它石智航等独角兽，在资本市场备受追捧。\n1500亿估值是个亮眼数据，但张亚勤却告诉我们：AIR首要任务是做科研；孵化公司只是...",
-      "url": "https://36kr.com/p/3866837793952769?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-26T08:52:52.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 张亚勤谈AI：别太狂热，但科技公司有泡沫\n\n- **核心观点**：张亚勤认为AI行业不是泡沫，但很多AI公司有泡沫，需要冷静看待。\n\n- **张亚勤的例子**：他创建了清华大学智能产业研究院（AIR），培养了很多AI人才，还孵化了10家公司，这些公司总共融资150亿元，估值达到1500亿元。听起来很厉害，但张亚勤说，AIR的主要任务是做科研，孵化公司只是...\n\n- **AI不是泡沫**：AI技术本身是真实且有用的，就像智能手机改变了生活一样，AI也能在很多领域带来实际改变。不能因为有些公司炒作就否定整个行业。\n\n- **AI公司有泡沫**：有些AI公司可能估值太高，不符合实际价值，就像买房时有人会报高价，但最终还是要看房子本身好不好。这些公司可能只是靠概念吸引投资，没有真正落地。\n\n- **建议**：对于AI投资，张亚勤建议别太急躁，要更冷静些，看看技术是否真的有用，而不是盲目跟风。就像买股票时不能只看热闹，要看公司有没有真本事。\n\n- **总结**：AI是未来的趋势，但不要被一些公司的高估值迷惑，要理性判断哪些公司是有真材实料的。",
-      "summarized_at": "2026-06-26T10:56:57.771Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782471362288",
-      "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
-      "summary": "本文约900字，建议阅读2分钟\n作者 | 彭孝秋\n6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。\n\n关于中科闻歌深度报道，可查看此前报道——中科院博士冲上市，市值超105亿港币。\n在昨日下午先行的暗盘中，其以115.40港元收盘，较发行价60.70港元大涨90.12%，对应市值199.76亿港元（约合人民币175亿）。按每手200股算，一手账面浮盈约1.09万港元；盘中最高冲到...",
-      "url": "https://36kr.com/p/3869622921041156?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-26T06:24:40.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 中科闻歌在香港上市，开盘暴涨81%\n\n## 公司上市情况\n中科闻歌是一家高科技公司，最近在香港交易所正式挂牌上市。6月26日，它正式敲钟，就像一家店铺正式开业一样，开始在股市上交易。\n\n## 开盘表现\n上市第一天，中科闻歌的价格就涨了81%，相当于你今天买了它的股票，明天就值81%更多。具体来说，它开盘价是110港元，比原来高出很多。这就像你花100块钱买了个东西，第二天它就值180块了。\n\n## 股东赚钱了\n因为涨得太多，买它股票的人一下子就赚了很多钱。比如你买了100股，每股110港元，总共11000港元，现在就值11000×(1+81%)=20100港元，赚了9100港元。这就像你买的房子一下子涨价了，你马上就变有钱了。\n\n## 上市前的表现\n在正式上市前，它已经涨了90%，价格达到115.4港元，这就像你还没正式买房，但房价已经涨了很多。最后它以199.76亿港元的市值收盘，差不多相当于有200亿人每人给它1港元。\n\n## 总结\n中科闻歌上市表现非常抢眼，开盘大涨81%，让股东赚得盆满钵满。这也反映了市场对这家高科技公司的看好，就像大家都觉得这家公司未来会很有发展，所以愿意花高价买它的股票。",
-      "summarized_at": "2026-06-26T10:56:57.819Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782471362288",
-      "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
-      "summary": "北京时间  2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码：\"DSC\"）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业。公司本次发行 3,000,000 份美国存托股份（ADS），发行价定为每股 ADS 17.00 美元，总发行规模约 5,100 万美元（未计超额配售权）。公司另授予承销商 30 天的超额配售权，可按发行价额外购买最多 450,000 份 ADS。\n\n大搜车在纳斯达克挂牌上市\n大搜车创始人兼CEO姚军红在上市仪式上表示：“大搜车的发展历程是一个为他人解决问题、创造价值的故事。二手车流通...",
-      "url": "https://36kr.com/p/3869474592363528?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-26T05:38:23.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 大搜车在美国纳斯达克上市\n\n- **公司情况**：大搜车是一家卖二手车的公司，已经做了13年，现在正式在美国纳斯达克股票市场挂牌交易了。这是2026年第一个在美国上市的中国公司。\n\n- **上市细节**：他们发行了300万份股票，每股17美元，总共卖了5100万美元。还留了450,000股的额度，如果有人想买，可以按这个价格多买一点。\n\n- **老板的话**：大搜车老板姚军红说，他们一直帮别人解决买卖二手车的问题，让这个市场变得更好。就像开一个超级大的二手车市场，让买卖双方都方便。\n\n- **上市意义**：这意味着大搜车现在可以让美国的人也来买他们的股票了。就像以前只有我们国内的人能买他们的股票，现在外国朋友也能参与了。\n\n- **未来计划**：他们还留了450,000股的额度，可能是想吸引更多外国投资者。就像开超市时，除了日常货品，还准备了一些特色商品，希望更多人愿意来买。\n\n- **总结**：大搜车用13年时间，终于在美国上市了，这说明他们做得不错，也吸引了外国投资者的注意。未来可能会有更多人参与他们的生意。",
-      "summarized_at": "2026-06-26T10:57:03.461Z",
       "summary_status": "success"
     },
     {
