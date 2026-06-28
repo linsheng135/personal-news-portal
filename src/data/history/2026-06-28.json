@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-28T10:32:40.313Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-06-28T10:32:40.313Z",
+    "date": "2026-06-28",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1782642683710",
-      "title": "Repositioning retail for the AI era",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven...",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-25T14:22:59.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 人工智能如何改变零售业\n\n## 背景介绍\n现在大家买东西，可能觉得AI最厉害的就是虚拟试穿或者机器人客服。但实际上，AI对零售业最大的改变，是咱们老百姓平时不太注意的幕后操作。\n\n## 搜索结果的变化\n以前在网上买东西，搜索结果全靠卖家怎么排。现在AI会学你的购物习惯，比如你常买什么、喜欢什么价位的。下次你搜索时，它就会自动把你觉得\"最合适\"的商品放在前面。就像你常去的商店，老板会把好东西往你一眼能看到的位置摆。\n\n## 库存管理\n以前商店可能会因为算不准，导致有的商品缺货，有的堆在仓库里卖不掉。现在AI能更准地预测哪些东西好卖，哪些季节该进什么货。比如冬天快到了，系统就会提醒商店多准备羽绒服，避免像现在买夏装那样急急忙忙。\n\n## 个性化推荐\n你在某家网站看了一个东西，过几天再打开，它可能会说\"这个和你上次看的很配\"。这是AI在默默记录你的喜好，然后推荐类似商品。就像小区门口的小贩，熟了你一去就能说出你想买什么。\n\n## 无人商店的未来\n虽然现在还没普遍，但AI正在让无人商店成为可能。系统通过摄像头和传感器知道谁拿了什么商品，自动计算价格并直接从你的账户扣款。就像自助结账，但更聪明，不需要你排队扫码。\n\n## 总结要点\n- AI改变零售业最大的方式，是让购物结果更符合你的需求\n- 后台算法比虚拟试穿更重要\n- 商店库存管理更精准\n- 个性化推荐越来越智能\n- 无人商店是AI的终极应用之一",
-      "summarized_at": "2026-06-28T10:31:33.472Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1782642683710",
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.  To understand this challenge, consider the foundation of...",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-24T11:59:54.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能发展需要大量数据支持  \n\n现在人工智能发展特别快，每天都能看到新应用。企业想要用好AI技术，就需要大量数据。但很多数据要么被挡起来，要么是乱七八糟的格式，让AI很难用。  \n\n### 数据就像食材，但很多都不好用  \n\n想象一下做饭，AI就像厨师，数据就是食材。要是食材都是生的、坏的、或者被藏起来的，厨师也很难做出好菜。现在的情况就是，很多数据就像超市里被放起来的食材，或者像菜市场随便乱堆的蔬菜，AI没法直接用。  \n\n### 为什么要建数据基础设施  \n\n为了让AI更好地工作，就需要一个\"数据整理员\"。这个整理员会先把数据收集起来，然后清洗、整理，最后把有用的数据交给AI。这样AI就能用上干净、整齐的数据，做出更厉害的成果。  \n\n### 企业如何受益  \n\n有了这个\"数据整理员\"，企业就能更快开发出新的AI应用，比如智能客服、推荐系统等。而且，数据整理员还能确保数据安全，防止信息泄露。这样一来，企业就能更好地利用AI技术，获得更多商业机会。",
-      "summarized_at": "2026-06-28T10:31:30.423Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1782642683710",
-      "title": "The $400 million machine powering the future of chipmaking",
-      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.  It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the groun...",
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-23T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 巨大的芯片制造机器\n\n### 机器是个大家伙\n有个叫Jos Benschop的人正在爬一个梯子，好到达他新机器的顶部。这个机器像双层巴士那么大，重达150多吨，全部是用亮闪闪的铝材做的，上面布满了成千上万的弯弯曲曲的管子和彩色电线，还有加压的水箱。想象一下，如果这个机器是个冰箱，那得需要好几百个普通冰箱才能装下。\n\n### 机器的作用\n这个机器专门用来制造芯片，就像一个超级工厂。芯片就像我们手机、电脑里的核心大脑，决定了这些设备能跑多快、多好用。现在制造芯片的技术越来越厉害，需要这种巨大的机器来帮忙。\n\n### 为什么要这么复杂\n这个机器里有成千上万的零件，像高速公路上的车流一样忙碌。里面的管子和电线就像城市的地铁系统，把各种材料快速送到需要的地方。加压的水箱就像高压锅，能让某些过程更快完成。这种设计是为了让芯片制造更精确、更高效。\n\n### 未来芯片制造\n这个机器的价值高达4亿美元，是未来芯片制造的关键。它的出现意味着我们能制造出更小、更快的芯片，就像从自行车进化到高铁一样。未来手机、电脑可能会变得更智能、更便携，都是靠这种高科技机器推动的。\n\n- 关键点：巨大机器 + 精密设计 = 更先进的芯片\n- 例子：芯片是设备的核心，就像大脑；机器是工厂，就像工厂生产汽车",
-      "summarized_at": "2026-06-28T10:31:40.888Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1782642683710",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode...",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-22T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 安氏科技和政府的新争执\n\n- **背景**：安氏科技公司最近和美国政府闹起了别扭，这事儿在4月份就开始了。他们说自己造了个特别厉害的AI，能干很多事。\n- **争点**：政府有点不放心，觉得这个AI可能会被坏人利用，比如造出危险的武器或者散布假消息。所以政府想知道，安氏科技有没有给这个AI设好“护栏”，防止它干坏事。\n- **政府的要求**：政府要求安氏科技公司把关于这个AI的所有资料都交出来，包括怎么训练AI、AI能干啥、有没有限制等等。这样政府就能好好审查，确保这个AI是安全的。\n- **安氏科技的回应**：安氏科技觉得政府的要求有点过分，担心把太多技术细节说出来，会让竞争对手也知道了。他们想保留一些秘密，但政府坚持要查。\n- **为什么大家关心**：这事儿牵扯挺大的。一方面，AI技术发展太快了，大家都担心它被滥用的风险；另一方面，如果政府管得太严，可能会影响科技公司的发展和创新。所以，大家都在看，政府会怎么管，科技公司会怎么应对。\n\n总之，安氏科技和政府的这场争执，就像小朋友玩玩具，一个觉得玩具很酷想自己玩，另一个担心玩具会伤到人，非要看看里面是怎么造的。这事儿关系到AI能不能安全发展，大家都很关注。",
-      "summarized_at": "2026-06-28T10:31:41.376Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1782642683710",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Directus：让数据库变身的万能工具\n\nDirectus就像一个超级实用的\"数据管家\"，能把普通的数据存取（比如电脑里的表格）变成各种好用的工具，比如网站后台、手机App等。它的工作原理很简单：你只需要把数据存放在数据库里，Directus就能自动帮你搭建一套完整的管理系统。\n\n### 核心功能\n\n- **一键变后台**：平时我们用Excel管理数据很麻烦，Directus能把它变成一个专业的管理界面，像电商平台的后台一样，方便修改和查看数据。\n- **秒变接口**：开发App时最头疼的是写数据接口，Directus直接生成现成的API（就是程序间的桥梁），省去大量编码工作。\n- **自带安全锁**：管理数据怕泄露？Directus内置了登录认证功能，只有授权用户才能操作数据。\n\n### 为什么受欢迎？\n\n1. **灵活度高**：就像乐高积木，可以根据需求自由组合功能，比如做图片库、博客系统或电商网站都容易。\n2. **简单易用**：不需要懂复杂代码，通过图形界面就能管理数据，就像用Word处理文档一样直观。\n3. **开源免费**：所有功能都开源，个人和公司用都无需付费，适合各种规模的项目。\n\n### 适用场景\n\n- 小团队做网站时：不用雇佣专业程序员，自己就能管理内容。\n- 开发者做原型时：快速搭建可运行的后台系统，验证想法。\n- 传统企业数字化：把旧系统数据迁移过来，用新工具管理。\n\n总之，Directus就是让数据管理变得像搭积木一样简单，特别适合不会编程但需要管理数据的用户。",
       "summarized_at": "2026-06-28T10:32:25.227Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782642686821",
-      "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
-      "summary": "文｜贺哲馨\n编辑｜乔芊\nJudy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料就能进去。”她说。\n按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。\n“有点像抽签，也有点像开盲盒。”Judy笑着说，“明明我是才是买家，结果搞得像在申请什么私人会员俱乐部。越进不去，越想进去看看。”\nJudy试图进入的，是近年来正在中国一线城市兴起的一类新渠道——会员制奢侈品特卖平台。On The Lis...",
-      "url": "https://36kr.com/p/3867976058803459?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-28T00:37:08.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 奢侈品特卖平台的\"门槛现象\"\n\n### 核心观点\n中国一线城市最近兴起了一些会员制奢侈品特卖平台，但想参加折扣活动需要邀请码或拉朋友注册，感觉像在抢购限量版商品。\n\n### 生活中的例子\n想象一下抢演唱会门票，官方只放出少量票，大部分人需要抢不到后找朋友一起买才能拿到票。这些奢侈品特卖平台就像这个场景，不是谁都能随便进去的。\n\n### 平台运作方式\n- 用户想参加打折活动需要邀请码\n- 没收到邀请码时，必须拉朋友注册\n- 最终能不能进去，类似抽签\n- 这让购物体验有点像\"开盲盒\"\n\n### 用户感受\n像Judy这样想买打折奢侈品的消费者，因为进不去平台而更想参加活动，感觉像在申请VIP俱乐部。明明是买方，结果倒成了求资源的。\n\n### 关键信息\n这类平台正在兴起，但设置了门槛，让奢侈品打折购物变得像\"限量版抢购\"。",
-      "summarized_at": "2026-06-28T10:32:21.125Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782642686821",
-      "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
-      "summary": "本文约2500字，建议阅读5分钟\n作者 | 彭孝秋\n编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。\n6月26日，储能公司大秦数字能源向港交所递交了上市申请。\n2025年，大秦数字能源收入25.25亿元，同比增长244.3%；毛利率从2024年的-19.9%反弹到23.2%；净利润由2024年的亏3.78亿元转为盈利1.25亿。一家刚从“亏损”爬出...",
-      "url": "https://36kr.com/p/3871109381035011?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-27T07:37:59.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 大秦数字能源的IPO路：亏三年才转正，靠囤锂矿翻身\n\n### 公司大事记\n- **6月26日**：储能公司大秦数字能源申请在香港上市。\n- **2025年收入**：25.25亿元，比去年猛增244.3%，相当于一年增长了小2000万元。\n- **利润翻盘**：从2024年亏3.78亿元，到2025年赚1.25亿元，一年从“负债累累”变“小赚一笔”。\n\n### 亏钱的血泪史\n- **囤货如山顶**：大秦数字能源曾疯狂买入锂电池核心材料——锂。当时锂价高得吓人（报道里说是50万/吨的天价），像是山顶上囤货，结果价格暴跌，血亏三年才亏完。\n- **毛利率挣扎**：2024年毛利率为负数（-19.9%），比借高利贷还亏，说明当时卖东西根本不够赔成本。\n\n### 转机怎么来的\n- **锂价回暖**：锂价从山顶跌下来后，慢慢回升，大秦数字能源趁机卖货赚钱，毛利率从负数冲到23.2%，相当于从“负债”变“盈利”。\n- **业绩爆发**：2025年收入大增，利润扭亏为盈，公司终于缓过劲来。\n\n### 背后故事\n- **IPO的“秋声”**：公司在招股书上写了很多光鲜亮丽的数据，但真实情况是经历了几年的亏损和挣扎，就像秋天的声音，有萧瑟也有新生。",
-      "summarized_at": "2026-06-28T10:32:32.234Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782642686821",
-      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。\n从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。\n物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37%\n过去几年，行业花了大量精力把车...",
-      "url": "https://36kr.com/p/3869740772316162?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-27T01:40:53.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## G7易流发布「拍拍豆」解决物流“最后两米”难题\n\n- **拍拍豆是什么**  \n  想象一下，快递员送完货，需要签收或者处理一些事情，但老板想知道他具体在干嘛。G7易流就推出了个像蓝牙小球的设备，叫“拍拍豆”，只有30克重，像胸针一样戴在胸前。\n\n- **怎么用**  \n  车一停稳，司机把“拍拍豆”从车窗底座取下来，戴在胸前，设备就开始录像。如果需要拍照，也可以直接拍。把设备放回底座，视频或照片就自动传到网上，老板能随时看。\n\n- **解决了什么问题**  \n  以前，大家主要关心司机在车里干嘛，现在“拍拍豆”让老板也能看到司机在车外的情况，比如送货、签收、装货等。这就像以前只能看到你在家干嘛，现在也能知道你出门在干嘛。\n\n- **行业发展趋势**  \n  物流行业正在用AI提升效率，AI市场规模越来越大。中国物流行业也越来越多地使用AI技术，比如用AI跟踪货物、优化路线等。这个“拍拍豆”就是AI在物流行业的一个新应用，让物流管理更透明、更高效。",
-      "summarized_at": "2026-06-28T10:32:32.815Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782642686821",
-      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-      "summary": "今日热点导览\nOpenAI官宣推出GPT-5.6\n亚洲“果链”股价几乎全线大幅下跌\nSpaceX计划为美国消费者推出新的星链移动服务\n美团股价低迷，王兴回应\n小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人\n微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹\nTOP3大新闻\n苹果涨价引山姆代购潮，部分门店已卖断货\n近日，社交媒体上多名网友反馈，多地山姆会员超市的iPad及Mac系列产品出现抢购、代购的情况。原因在于，苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整。6月26日，有多名代购称可加价45元至300元不等前往山姆代购，并表示代购需求超级多，店内已基本无货...",
-      "url": "https://36kr.com/p/3870720040588295?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-06-27T01:02:37.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 今日热点导览\n\n- Apple产品涨价，山姆超市没涨价，代购生意火爆  \n  Apple提高了iPad和Mac的价格，但山姆会员店没跟着涨价。结果好多人都跑去山姆买，代购也要加价卖，店里都快卖光了。\n\n- OpenAI出新AI模型GPT-5.6  \n  OpenAI又推出了一个更厉害的AI软件GPT-5.6，比以前的版本更强。\n\n- SpaceX要给美国人用手机装星链服务  \n  SpaceX计划让大家可以用手机直接用星链，不用再专门装个设备。\n\n- 美团股价跌，老板王兴说话了  \n  美团股价最近不太好，老板王兴出来解释说一切正常。\n\n- 小鹏造机器人，新设了9个部门  \n  小鹏汽车开始造机器人了，加了9个新部门，老板何小鹏亲自管产品。\n\n- 微信说朋友圈删好友的方法  \n  微信解释了删好友时，\"单删\"对方看不到，\"互删\"对方就彻底不见了。\n\n## TOP3大新闻\n\n### Apple涨价引山姆代购潮\n\n- Apple最近把iPad和Mac的价格提高了，但山姆会员店没涨价。很多人发现山姆的这些产品便宜，就跑去抢购，代购都要加价45元到300元才能买到。山姆店都快卖光了。\n\n### OpenAI推出GPT-5.6\n\n- OpenAI开发了一个新的AI软件GPT-5.6，比以前的版本更聪明，能更好地理解和回答问题。\n\n### SpaceX推出星链手机服务\n\n- SpaceX要推出一种新的星链服务，大家可以直接用手机连接，不用再装其他的设备，更方便。",
-      "summarized_at": "2026-06-28T10:32:40.312Z",
       "summary_status": "success"
     },
     {
