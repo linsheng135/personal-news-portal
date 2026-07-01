@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-01T11:30:26.765Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-01T11:30:26.765Z",
+    "date": "2026-07-01",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1782905335127",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c...",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-30T21:50:04.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Claude Science：科学研究的\"智能助手\"\n\n### 产品简介\nClaude Science是Anthropic公司推出的新产品，就像他们之前发布的Claude Code一样，都是用来帮助人们完成特定工作的智能工具。Claude Code专门辅助软件开发，而Claude Science则专注于支持科学研究。\n\n### 功能特点\n- **自动处理信息**：就像智能助手能帮你整理购物清单一样，Claude Science能自动处理科学研究中的大量数据和信息。\n- **提高效率**：科学家可以像使用搜索引擎一样使用它，快速找到研究所需的资料和灵感。\n- **跨领域应用**：无论是生物医药还是其他科学领域，都能用它来辅助研究。\n\n### 类比生活场景\n想象一下，你正在研究如何种出更甜的番茄。以前需要翻阅大量书籍、查看无数实验记录，而现在有了Claude Science，它就像个经验丰富的农民老伯，能帮你快速找到相关资料、分析数据，甚至提出新的种植方案。\n\n### 核心价值\nClaude Science的目标是让科学研究变得更简单、更高效。就像智能手机让通信变得轻松一样，这个工具让科研人员能更专注于创新，而不是繁琐的数据处理。它不仅是一个工具，更是科学界的\"智能助手\"，帮助人们更快地取得突破。",
-      "summarized_at": "2026-07-01T11:29:06.886Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1782905335127",
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.  The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that ...",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-30T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 智能农业：AI要来了，但数据没准备好\n\n### 大势所趋：AI让农业更智能\n想象一下，智能家居能根据天气自动调节空调，智能农业也能用类似的技术。比如，AI能根据天气预报和土壤情况，帮农民决定什么时候播种、浇多少水、用多少肥料。这就像你的手机知道你什么时候想看新闻，就主动推送一样。现在很多农业公司都在研究这些技术，比如用无人机给作物拍照，分析哪里需要施肥，哪里有虫子。\n\n### 数据是基础，但农业数据难收集\n问题是，这些AI技术需要大量数据才能工作。比如，要分析土壤情况，就需要很多年的土壤样本数据。但很多农民没有系统地记录这些信息，或者记录的方法不一样，数据零零散散。这就好比想学做菜，但冰箱里没存任何食谱，只能盲猜。AI虽然厉害，但没数据就像没食材的厨师，发挥不了作用。\n\n### 现实挑战：成本与信任\n农业是一个成本敏感的行业。现在肥料价格像过山车一样波动，天气说变就变，农民的收益也不稳定。如果AI能帮他们预测这些变化，就能省下不少钱。但很多农民担心AI技术太贵，或者担心AI给出的建议不靠谱。就像你不会轻易把存钱的钱全投到一个没试过的投资上一样，农民也需要看到AI确实能帮他们省钱、增产，才会愿意花钱。\n\n### 解决方案：从小处着手\n专家建议，可以先从容易的数据入手，比如气象数据、市场价格这些公开信息。可以先让AI处理这些数据，帮农民做些简单的决策，比如什么时候卖菜最合适。等农民看到效果，再慢慢引入更复杂的数据，比如土壤和作物的实时监测。这就像学开车，先在空地上练，等熟练了再上马路。\n\n### 核心观点\nAI能让农业更高效，但目前最大的问题是数据。只有先把数据收集好、整理好，AI才能真正发挥作用。农民需要看到实实在在的好处，才会愿意尝试。这需要时间，但值得期待。",
-      "summarized_at": "2026-07-01T11:29:11.425Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1782905335127",
-      "title": "AI agents are not your “coworkers”",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex...",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-29T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI工具不是同事\n\n想象一下，你上班第一天，老板跟你说：\"从明天开始，有个新同事叫Alex要跟你一起工作。\"你特别惊讶，因为Alex不是真人，而是一个AI工具——公司居然让他跟你汇报工作。这就是现在很多公司正在发生的事。\n\n### AI工具只是工具人\n\nAI就像一个超级高效的助手，比如你手机里的语音助手，能帮你查天气、发信息。但跟真人同事比，它有个大缺点：不会主动思考。如果你让AI帮你写报告，它只会按你给的模板来，不会像人一样有自己的想法。\n\n### AI不会跟你抢饭碗\n\n很多人担心AI会抢走人类的工作，其实大可不必。AI就像一把锤子，你能用它来钉钉子，但锤子不会跟你吵架或者要求加薪。AI只会老老实实执行你让它做的事，不会像人一样提要求、闹情绪。\n\n### 人机合作才是王道\n\nAI工具的价值在于帮你干活，而不是跟你做同事。就像厨师用锅铲做饭，锅铲不会突然说\"我也想当大厨\"。你应该让AI帮你分担重复性工作，比如整理数据、处理邮件，这样你才有时间做更需要创造力的事。\n\n- AI不会成为同事，只会是工具\n- AI不会跟你抢工作，只会帮你干活\n- 人机合作才是最佳选择",
-      "summarized_at": "2026-07-01T11:29:17.706Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1782905335127",
-      "title": "Agent confidence on the technical frontier",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out...",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-29T14:44:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# AI发展迎来大转变\n\n## 企业纷纷投入AI\n\n现在很多公司都在加大投入人工智能，就像现在大家都抢着买新能源车一样，觉得这是未来的趋势。比如一家电商公司，以前靠人工看客户喜好推荐商品，现在用AI自动分析买家的浏览记录，比人工还准，所以大家都想赶紧用上AI。\n\n## 2026年是个分水岭\n\n专家预测2026年会是AI发展的关键点，就像高考填志愿，过了这个点就很难再追上了。现在企业用AI不是随便玩玩，而是要和公司的整体目标结合起来，比如有的公司用AI提高客服效率，有的用AI开发新产品，总之都要让AI帮企业赚钱。\n\n## AI要能看得见的效果\n\n现在企业用AI最大的压力就是得有回报。以前可能随便搞点AI项目就行，现在不行了。就像你买个新手机，不能光好看，还得能打游戏、能看视频，也就是要有实际用途。企业现在都盯着AI能不能给公司带来真金白银，不能光说不练。\n\n## AI要像有责任心的人\n\n现在说的\"有自主意识的AI\"，就是让AI像人一样能主动做事。以前AI得人告诉它做什么，现在要让AI自己判断该做什么。比如家里的扫地机器人，以前要你设定路线，现在好的扫地机器人能自己判断哪里脏该去哪里扫，还懂得避开障碍物，这就是\"有自主意识\"的表现。",
-      "summarized_at": "2026-07-01T11:29:18.692Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1782905335127",
       "title": "Repositioning retail for the AI era",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## GitHub热门免费云服务推荐\n\n这个GitHub榜单推荐了一些适合开发者和运维人员免费使用的云服务，包括SaaS、PaaS和IaaS类型。简单来说，就像超市里有免费试吃一样，这些云服务提供部分免费功能，让开发者可以免费体验。\n\n### 具体有哪些类型？\n\n- **SaaS服务**：类似免费的在线办公软件，比如可以免费写文档、开会议的平台\n- **PaaS服务**：像自助做饭的厨房设备，提供开发环境但不用自己搭灶台\n- **IaaS服务**：相当于免费的小型数据中心，可以租用虚拟电脑和存储空间\n\n### 为什么推荐这些服务？\n\n- **开发方便**：不用自己花钱买服务器，直接用现成的工具开发\n- **成本低**：免费版够用，等项目大了再升级付费版\n- **技术验证**：可以测试新技术，比如AI或大数据工具\n\n### 适合谁用？\n\n- 正在学编程的学生\n- 初创公司节省开支\n- 大公司测试新项目\n\n这些服务通常有免费额度限制，比如每月多少小时或多少存储空间，用完再付费也不贵。就像手机APP有免费版，这些云服务也是同样的道理。",
       "summarized_at": "2026-07-01T11:30:10.717Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782905338659",
-      "title": "氪星晚报 ｜小米人事调整：中国区总裁王晓雁不再兼任销售运营一部总经理，陈幕楠接任；松下计划进一步拓展人工智能业务",
-      "summary": "大公司：\n光线传媒：已与合作方组建游戏公司，首款3A游戏计划用三年左右时间推出\n36氪获悉，光线传媒在互动平台表示，公司已与合作方组建游戏公司，第一款3A游戏已在制作过程中，计划用三年左右时间推出。\n奇瑞集团：6月销售汽车25.7辆，同比增长9.8%\n36氪获悉，据奇瑞集团消息，6月，奇瑞集团销售汽车256612辆，同比增长9.8%。其中，出口191062辆，同比增长79.7%，并首次单月出口超过19万辆。6月份，集团销售新能源汽车113583辆，同比增长58.7%。\n觅蜂科技与同道猎聘集团达成合作\n36氪获悉，近日，觅蜂科技（Maniformer）与同道猎聘集团宣布达成合作。双方将整合物理A...",
-      "url": "https://36kr.com/p/3876974521970953?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-01T11:05:13.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 小米人事调整\n\n小米公司调整了人员安排：中国区的负责人王晓雁不再同时管理销售运营一部，陈幕楠接替这个职位。这意味着小米中国区销售运营一部的管理权换人了。\n\n## 松下拓展人工智能业务\n\n松下公司计划进一步发展人工智能方面的业务，可能会推出更多使用人工智能技术的产品或服务。\n\n## 光线传媒组建游戏公司\n\n光线传媒这家公司跟别人一起成立了一个游戏公司，准备开发一款高质量的游戏。他们预计用三年时间就能推出这款游戏，相当于准备三年后给大家带来一个好玩的游戏。\n\n## 奇瑞集团销售汽车\n\n奇瑞集团在6月份卖出了很多汽车，比上个月多了9.8%。具体来说，卖出了256612辆汽车。其中，出口到国外的汽车达到了191062辆，比上个月多了79.7%，这是他们第一次一个月出口超过19万辆。在新能源汽车方面，也卖出了113583辆，比上个月多了58.7%，相当于每卖两辆汽车就有一辆是新能源汽车。\n\n## 觅蜂科技与同道猎聘集团合作\n\n觅蜂科技和同道猎聘集团达成了合作。他们打算把各自的业务整合起来，可能是一个大公司把两个小公司合并了，以便更好地服务客户。",
-      "summarized_at": "2026-07-01T11:30:10.532Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782905338659",
-      "title": "固液电池进入量产元年，会是高端电车的解药吗",
-      "summary": "高端纯电市场正经历一场鏖战。\n5月27日，问界M9与蔚来ES9先后发布。\n问界M9纯电版搭载120度华为巨鲸电池，意在通过大电量电池，缓解纯电车型的最大痛点——续航焦虑，官方称问界M9纯电版CLTC续航最高可达750km。蔚来ES9电池电量102度，但依托蔚来换电体系可实现3分钟补能。\n5月19日，定位高端纯电MPV的极氪009上市，起售价43.98万元，搭载900V高压平台及6C快充。下半年，理想i9也将发布，超快充依旧会是理想纯电的核心卖点之一。\n头部车企相继发力40万元级高端纯电市场，它们的产品策略仍是加大电池容量、提升充电倍率，但与此同时，关于电池安全的解释成本也随之提高。\n除了以换电...",
-      "url": "https://36kr.com/p/3876967060893961?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-01T10:55:32.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 高端电动车电池大战升级\n\n- **电池容量大PK**：问界M9和蔚来ES9在比拼谁的车能跑更远，问界M9纯电版说能跑750公里，相当于从北京跑到上海还多；蔚来ES9虽然电池少一点，但可以用蔚来换电，换电就像去加油站加油一样快，3分钟就能继续跑。\n\n- **充电速度竞赛**：极氪009和理想i9也在比拼谁充电快，它们都用了900V高压平台和6C快充技术，就像手机充电从10%充到100%，比平时快好几倍。\n\n- **安全问题不能忽视**：虽然电池容量和充电速度越来越厉害，但电池安全问题也跟着变复杂了，就像手机电池用久了会发热，汽车电池也一样需要小心。\n\n- **高端市场激烈竞争**：车企都在40万元级高端纯电市场发力，大家都在想办法解决续航和充电问题，希望用更好的电池技术赢得消费者。",
-      "summarized_at": "2026-07-01T11:30:19.913Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782905338659",
-      "title": "古茗即饮饮料将上线零售渠道，从门店迈向货架的一大步｜ 独家",
-      "summary": "文｜钟艺璇\n编辑｜乔芊\n36氪独家获悉，古茗RTD（即饮）饮料即将进入零售渠道，目前选定上线城市为广州、深圳、香港、温岭以及杭州。该项目在古茗级别为S级。\n去年12月，古茗正式上线即饮饮料，但渠道仅限于古茗门店销售。目前已经推出苹果汁、羽衣甘蓝果蔬汁、泰橘汁、七重果蔬汁四种产品，皆采用HPP技术。\nHPP全称超高压冷杀菌技术，是目前果汁加工赛道等级最高的非热保鲜工艺，其口味接近鲜榨果汁。但HPP设备本身投入门槛较高，且由于工艺原因，必须全程恒温冷藏，国内大多数HPP果汁品牌都使用第三方代工。\n36氪从接近渠道的人士得知，古茗此次进入零售渠道的产品为HPP苹果汁（规格260g）、HPP七重果蔬汁...",
-      "url": "https://36kr.com/p/3868265993016580?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-01T10:06:25.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 古茗饮料要登陆超市货架啦\n\n### - 公司背景\n古茗是一家连锁奶茶店，去年开始卖一种不用冷链运输的即饮饮料，但只能在他们自己的店里买。这次是第一次拿到外面的超市、便利店卖。\n\n### - 产品特点\n这些饮料用的是一种叫HPP的技术，就像超市里那种进口的冷鲜果汁，不用加热就杀菌，味道特别像刚榨出来的果汁。这种技术成本很高，所以很多品牌都是找工厂代工。\n\n### - 上线城市\n古茗这次先在五个城市试点，分别是广州、深圳、香港、温岭和杭州。首批上架的是苹果汁和七重果蔬汁，都是260克的包装。\n\n### - 意义\n这次古茗走出门店，去超市卖饮料，说明他们想把这种好喝的即饮产品卖给更多人。如果卖得好，以后可能会去更多城市，甚至全国推广。",
-      "summarized_at": "2026-07-01T11:30:15.406Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1782905338659",
-      "title": "优必选超仿生机器人首发订单破万，最高售价99万元｜最前线",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n6月30日，优必选在2026年度全球发布会，正式推出全尺寸超仿生人形机器人“优世界”U1系列，包含半身版U1 Lite、高配全身版U1 Pro及高动态全身版U1 Ultra三款产品，售价区间为11.98万元至99万元。\n同时，优必选宣布，U1系列全渠道订单已累计突破13361台，成为全球首款具备规模化量产能力的全尺寸超仿生人形机器人。\n\nU1系列全渠道订单破万台\n这一数字的价值或不在其销量本身，而是它指向了一个结构性变化，人形机器人正在走出工厂、走向家庭；行业竞争关键变量也从“运动控制精度”和“负载能力”，转而提出另一个更根本的问题，机器人如何真正进入人类生活、建立长...",
-      "url": "https://36kr.com/p/3876811895992327?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-01T08:32:20.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 优必选机器人卖得很好，最高要99万\n\n优必选公司最近推出了一种超仿生人形机器人，叫U1系列。这个机器人长得和人差不多，有三个版本：U1 Lite是半身的，U1 Pro是全身的高配版，U1 Ultra是全身的高动态版。它们的价格从11万到99万不等。\n\n最厉害的是，U1系列已经卖出了13361台，成了全球首款能大规模生产的全尺寸仿生人。这说明机器人不再是只在工厂里干活，开始走进家庭了。\n\n- **机器人进入生活**：以前大家觉得机器人关键是跑得多稳、能搬多重，现在更关心机器人怎么才能真正融入我们的生活，和大家做朋友。\n- **市场变化**：机器人销量突破万台是个大信号，说明大家开始接受机器人成为家庭的一份子，不再是冷冰冰的机器。\n- **未来趋势**：机器人行业现在要思考的是，怎么让机器人更懂人、更方便人，而不是单纯追求技术参数。就像现在手机不光是打电话，还有各种功能一样，机器人也要有更多实用性。",
-      "summarized_at": "2026-07-01T11:30:26.050Z",
       "summary_status": "success"
     },
     {
