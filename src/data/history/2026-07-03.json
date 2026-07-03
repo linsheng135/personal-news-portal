@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-03T10:43:29.724Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-03T10:43:29.725Z",
+    "date": "2026-07-03",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1783075340122",
-      "title": "Achieving operational excellence with AI",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo...",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-02T15:37:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 用AI让工作更高效\n\n以前工厂或商店想提高效率，就像想整理乱糟糟的房间。他们用两种方法：\n\n- **精益六西格玛**：就像做饭时严格按步骤来，每一步都精确，确保菜品质量稳定。\n- **业务流程管理**：像给商店购物流程画地图，从顾客进店到付款，每个环节都标清楚。\n\n这两种方法都很好，但后来人们发现，想让工作更完美，光靠这些还不够。于是出现了**人工智能（AI）**。\n\nAI就像个超级助理，能自动找出工作中的问题，比如让你在购物时排队时间变短，或者让工厂生产效率更高。它不像人那样容易疲劳，可以24小时不间断工作。\n\n比如，AI可以分析超市销售数据，自动调整商品摆放位置，让畅销品更方便拿取。或者帮助工厂检测产品缺陷，比人眼更准确。\n\nAI还能预测问题，比如提前告诉你明天可能需要更多工人，或者某个设备要坏了。这样就能提前做好准备，避免混乱。\n\n总之，AI不是取代人，而是让人更轻松。就像用导航软件开车，不用再担心迷路。有了AI，工作就像开了快进键，效率更高，出错更少。",
-      "summarized_at": "2026-07-03T10:42:28.325Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1783075340122",
-      "title": "Teaching AI to run with the turbines",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco...",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-02T12:51:44.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI在工业领域的应用\n\n### 什么是AI？\nAI就像一个超级聪明的学习机器人，它能从大量的数据中找到规律，然后像人一样做判断和决策。比如，你经常和某人聊天，慢慢就能猜到他的想法，AI也是这样，通过学习大量的资料来处理问题。\n\n### AI和工业的关系\n以前工厂里的机器都需要人盯着，稍微出点问题就可能导致大麻烦。现在有了AI，它能像个经验丰富的老工人一样，时刻监控设备，提前发现问题。比如，你家里的空调如果一直嗡嗡响，可能就是快坏了，AI也能发现这种细微的变化。\n\n### AI怎么工作？\nAI通过分析设备的运行数据，比如温度、声音、振动等，来预测哪里可能出现问题。就像你发现朋友最近总是皱着眉，可能心情不好，AI也是通过观察设备的\"表情\"来判断健康状况。\n\n### 例子说明\n想象一下你每天开车上班，路线都一样，但AI能比你还厉害，因为它能根据实时路况调整路线，就像你开车时也会避开堵车一样，但AI更智能的是能提前知道哪里会堵车。\n\n### 为什么重要？\n工业安全很重要，比如发电厂如果突然出问题，可能会影响很多人。AI就像个24小时不睡觉的保安，时刻保护着设备，防止意外发生。\n\n### 未来展望\n以后AI会越来越普及，不仅工厂，家里的电器也能用AI来管理。就像你现在用的智能手机，以后可能家里的电器都会自己调节，省心又省力。",
-      "summarized_at": "2026-07-03T10:42:28.823Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1783075340122",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…...",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-01T14:35:16.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 聊天机器人都爱“随大流”\n\n现在的大聊天机器人，比如ChatGPT、Gemini，有点像一群人抢答选择题，总是选同一个答案。你让它们出个题，比如“1到10之间随机选个数字”，它们十有八九都选7。再来一次，可能就选3或4。再来一次，又会选8或9。这就是典型的“随大流”现象。\n\n## 为什么聊天机器人会这样？\n\n原来，这些聊天机器人背后都是人工智能模型，它们通过学习海量数据，学会了“取巧”。比如，它们发现很多人把7、3、4、8、9当成了“幸运数字”，所以经常选这些数字。时间长了，大家选的数字都差不多，就形成了一种“思维定式”。\n\n## 有公司想治这个“随大流”毛病\n\n最近有个创业公司发现了这个问题，觉得聊天机器人这样下去太没意思了。他们想搞点新花样，让聊天机器人跳出“思维定式”，变得更有创造力。具体怎么弄，他们还没公布，但目标是让聊天机器人别总一个样。\n\n## 这样做的好处\n\n如果聊天机器人能跳出“随大流”，那它们给出的答案就会更多样化，不再是千篇一律。比如，你问“1到10之间随机选个数字”，它们可能会给你1、2、5、6，甚至11。这样，聊天机器人就会更真实、更有趣，不像现在这样“被洗脑”。\n\n总之，这个创业公司想用新方法，让聊天机器人摆脱“随大流”的坏习惯，变得聪明又好玩。",
-      "summarized_at": "2026-07-03T10:42:35.223Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1783075340122",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c...",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-30T21:50:04.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Claude Science：科学研究的智能助手\n\n### 什么是Claude Science？\n\nClaude Science是Anthropic公司最新推出的一款旗舰产品，就像他们之前发布的Claude Code一样，都是用来自动帮助人们完成某些工作的工具。Claude Code主要帮程序员写代码，而Claude Science则专门帮科学家做研究。\n\n### 它能做什么？\n\n想象一下，你正在做一项科学实验，需要查阅大量资料、分析数据、甚至是写实验报告。Claude Science就能像一位超级助手，帮你自动完成这些繁琐的工作。它可以根据你的需求，从海量的科学文献中找到最相关的资料，帮你整理思路，甚至提出新的研究方向。\n\n### 为什么它很重要？\n\n科学研究通常需要花费大量时间和精力，而且很容易因为资料太多太杂而走弯路。有了Claude Science，科学家们可以更高效地进行研究，把更多精力放在创新上。这就像有了搜索引擎和智能助理，你可以更快找到所需信息，而不是浪费时间在翻书或上网搜索上。\n\n### 它和Claude Code有什么区别？\n\n虽然都是自动化的工具，但Claude Science更专注于科学领域。Claude Code帮程序员写代码，Claude Science帮科学家做研究，它们就像不同领域的专业助手，但目标都是让工作更轻松高效。\n\n总之，Claude Science是科学研究的得力助手，能帮科学家们更高效地完成工作，让科学进步更快一步。",
-      "summarized_at": "2026-07-03T10:42:34.847Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1783075340122",
       "title": "Agriculture is ready for AI, but its data isn’t",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## JavaScript算法与数据结构学习资源\n\n这个GitHub上的项目叫\"javascript-algorithms\"，里面有很多用JavaScript写的算法和数据结构，每个例子都配有解释和额外学习资料。\n\n### 什么是算法和数据结构？\n\n*   **算法**就像做菜谱的步骤，比如洗菜、切菜、炒菜，一步步完成特定任务。\n*   **数据结构**就像整理杂物的工具，比如书架、抽屉，方便找东西。\n\n### 生活中的例子\n\n- **排序算法**：就像整理书包，把书从大到小或按科目分类排列。\n- **查找算法**：比如在字典里找字，先看第一个字母，再逐步缩小范围。\n- **树形结构**：像家族树，每个人都有父母和子女，层层连接。\n\n### 项目亮点\n\n- 所有代码都用JavaScript写成，适合想学编程的人。\n- 每个算法都有详细解释，比如\"快速排序就像先分大小两堆，再依次合并\"，简单易懂。\n- 提供了学习链接，比如维基百科或视频教程，方便深入理解。\n\n### 为什么推荐这个项目？\n\n*   **适合零基础**：不需要太多数学或计算机背景，看代码和解释就能上手。\n*   **实用性强**：教怎么用JavaScript解决实际问题，比如排序用户列表或查找商品。\n*   **免费学习**：所有资源都是开源的，任何人都可以免费使用。\n\n### 如何使用？\n\n1. 访问GitHub上的\"javascript-algorithms\"仓库。\n2. 选一个感兴趣的算法，比如\"二分查找\"。\n3. 先看代码，再读解释，最后通过链接扩展学习。\n4. 遇到问题时，可以看其他人的讨论或提问。",
       "summarized_at": "2026-07-03T10:43:14.186Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783075343662",
-      "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
-      "summary": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。\n成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine Capital、星航资本（小鹏系基金）、惠友资本（比亚迪联创设立）等新能源产业投资方。\n得益于充足资金和产业资源的支持，OMOWAY产品在全球市场的商业化落地...",
-      "url": "https://36kr.com/p/3877990989819909?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-03T02:26:11.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 智能电摩公司OMOWAY融资成功，成印尼市场领头羊\n\n- **公司背景**：OMOWAY是一家做智能两轮出行（像电动摩托车）的公司，成立不到两年，但发展很快。\n- **融资情况**：公司连续拿到了两轮融资，每次都是几千万美元。其中，大老板宁德时代（就是给汽车电池的）旗下的基金领投了最新一轮。\n- **股东阵容**：投资它的都是大牌子，比如红杉、真格等知名基金，还有电池厂小鹏、比亚迪的投资公司。这说明大家觉得这个公司很有潜力。\n- **市场表现**：OMOWAY在印尼市场表现特别好，上市第一个月就卖得最好，订单最多。这得益于他们有足够的钱和产业资源支持，产品也适合当地市场。\n- **核心观点**：OMOWAY靠着大钱和大厂的支持，加上产品好，迅速在印尼电摩市场抢占第一位置。这就像一个新开的餐馆，因为老板有钱、厨师厉害、口味又好，很快就成为热门选择。",
-      "summarized_at": "2026-07-03T10:43:12.864Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783075343662",
-      "title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。\n启航氢能成立于2024年4月，技术起源于嘉庚创新实验室电氢耦合研究团队。公司专注于电氢耦合技术及应用场景的装备研发、生产与销售，核心团队在电力电子技术、智能电网与电化学等领域拥有近20年研究积累。嘉庚创新实验室是福建省政府设立的省级高水平科研平台之一，其氢能产业集群由实验室主任郑南峰院士、氢能研究院方晓亮院长牵头布局。\n氢能在新型能源体系中承担着连接电力系统与终端用能的关键...",
-      "url": "https://36kr.com/p/3879274157928449?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-03T02:02:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 启航氢能获融资，推广电氢结合技术\n\n## 公司背景\n启航氢能是一家新公司，2024年4月成立。它的技术来自嘉庚创新实验室，这个实验室是福建省政府的科研机构，专门研究氢能。实验室的专家团队有20多年经验，研究电力、智能电网和化学等领域。\n\n## 核心技术\n启航氢能主要做“电氢耦合”技术。简单说，就是用电来制造氢气，再利用氢气产生能量。这就像用充电宝给手机充电，再用手机发电一样，是一种能量转换方式。\n\n## 融资情况\n公司最近获得了新一轮融资，厦门高新投投了钱。这些钱会用来研发更好的设备，改进制造氢气的技术，让产品更先进。\n\n## 应用场景\n电氢耦合技术可以用于很多地方，比如发电厂、工厂、甚至家庭。它可以同时利用电能和氢能，提高能源利用效率，减少污染。\n\n## 未来发展\n启航氢能的目标是生产电氢耦合的设备和系统，卖给需要的企业或机构。随着技术进步，这种技术未来可能会像电一样普及，成为重要的能源解决方案。",
-      "summarized_at": "2026-07-03T10:43:19.254Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783075343662",
-      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
-      "summary": "今日热点导览\n苹果拟于今明两年推出至少五款新iPhone\nAI版支付宝开放公测，上线72项办事技能\n特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱\nLV起诉茉莉奶白，茉莉奶白被判赔1030万元\n6月赴日航班取消1488个\n安克创新港股上市首日破发\nTOP3大新闻\n证监会同意宇树科技科创板IPO注册\n7月2日，证监会网站显示，同意宇树科技首次公开发行股票注册。这意味着，全球首家在IPO前实现人形机器人规模化盈利的企业正式拿到A股“入场券”，将成为A股“人形机器人第一股”。 \n宇树科技从今年3月20日科创板IPO申请获受理，再到7月2日注册生效，仅用时104天。其创下科创板预先审阅机制落地以来...",
-      "url": "https://36kr.com/p/3879158039834629?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-03T00:06:38.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 今日热点总结\n\n### - 要点  \n1. **宇树科技成A股“人形机器人第一股”**  \n   宇树科技是做机器人的公司，最近成功在A股上市，成了全球第一个上市前就能赚钱的人形机器人公司。这就像一家开了很久的奶茶店，终于拿到钱开分店，说明它很厉害。\n\n2. **SK海力士市值大跌**  \n   韩国一家做内存芯片的公司叫SK海力士，因为市场变化，一天损失了1万亿韩元（相当于100亿人民币）。这就像一家超市突然卖不出去囤积的货物，亏了一大笔钱。\n\n3. **霸王茶姬道歉**  \n   霸王茶姬搞活动的时候弄错了，导致很多人用0元抢到了奶茶，后来公司道歉并调整了规则。这说明做生意不能太任性，否则会惹顾客生气。\n\n4. **LV赢了官司**  \n   著名奢侈品牌LV起诉一个叫茉莉奶白的品牌，法院判决对方赔1030万元。这就像你买了一瓶假茅台，发现是仿冒的，于是告对方并赢了。\n\n5. **特朗普说股市上涨**  \n   特朗普回应“他当总统时股市涨了”的说法，认为大家都在赚钱，股市好说明他做得不错。这就像老板说公司利润高是因为他管理得好。\n\n6. **苹果要出新款iPhone**  \n   苹果公司计划在接下来两年推出至少5款新手机，说明他们还在不断创新。这就像一家老牌手机品牌每年都出新款，吸引消费者。\n\n7. **AI版支付宝上线**  \n   支付宝出了个AI版，可以帮人做72件事，比如查天气、订机票等。这就像家里有个智能机器人，能帮你处理各种琐事。\n\n8. **赴日航班取消**  \n   6月份去日本的航班取消了1488个，说明很多人本来计划去日本旅游，但因为某些原因（可能是疫情）不能去了。\n\n9. **安克创新上市首日破发**  \n   安克创新在港股上市第一天，股价比预期低，说明市场对这家公司的发展还有疑虑。这就像一家新开的餐馆，虽然装修豪华，但没人愿意去吃。",
-      "summarized_at": "2026-07-03T10:43:22.474Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783075343662",
-      "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
-      "summary": "大公司：\n奥飞娱乐：上半年净利润同比预增305.30%—413.38%\n36氪获悉，奥飞娱乐发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股东的净利润为1.5亿元—1.9亿元，比上年同期增长305.30%—413.38%。\n雀巢称消费者因价格压力避开中等包装产品\n雀巢表示，在美国消费者专注于产品可负担性、购买者纷纷转向大包装或经济型包装而避开中等规格产品的背景下，该公司正努力控制价格。（新浪财经）\n盐湖股份：上半年净利润同比预增131.38%—142.95%\n36氪获悉，盐湖股份发布业绩预告，预计上半年净利润60亿元—63亿元，同比增长131.38%—142.95%。\nMet...",
-      "url": "https://36kr.com/p/3878550357946625?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-02T14:16:31.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 大公司动态\n\n### 奥飞娱乐业绩大增\n奥飞娱乐上半年赚钱特别多，比去年增长了3到4倍。就像你买奶茶，原来一个月买一杯，现在一个月能买三杯，公司利润多了，说明生意特别好。\n\n### 雀巢应对价格压力\n雀巢发现，大家现在买食品更看重价格，很多人不再买中等包装，而是选大包装或便宜包装。所以雀巢正在想办法控制成本，避免涨价。\n\n### 盐湖股份利润暴涨\n盐湖股份上半年利润也加了1到1.5倍。这相当于你卖菜，原来一天卖10块钱，现在一天能卖20到25块钱，说明生意红火。\n\n### Meta科技股波动解读\n科技股最近有些下跌，有人说是Meta（脸书母公司）搞的鬼，但专家说这其实是因为电脑算力太过剩了，就像你买手机，现在手机都很好用，没必要买最新款，所以科技公司股票跟着有点跌。",
-      "summarized_at": "2026-07-03T10:43:27.923Z",
       "summary_status": "success"
     },
     {
