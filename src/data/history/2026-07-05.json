@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-05T10:22:14.365Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-05T10:22:14.366Z",
+    "date": "2026-07-05",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1783246853503",
-      "title": "Achieving operational excellence with AI",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo...",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-02T15:37:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 用AI让工作更顺畅\n\n以前人们为了让工作更高效，发明了像“精益六西格玛”和“业务流程管理”这些方法。它们就像给混乱的工作开了一张地图，让人一看就知道怎么安排最合理。**精益六西格玛**特别强调用数据说话，确保每一步都做得很准确，比如做饭时严格按照食谱操作，一点小错误都不行。**业务流程管理**则更注重整体规划，比如超市会规划好从进货到售出的每一步，确保不混乱。  \n\n后来人们发现，这些方法虽然有用，但太繁琐了，需要很多人手动整理数据。现在有了AI，情况就不一样了。AI就像个聪明的助手，能自动收集和分析数据，发现工作中哪些地方可以改进。**比如，AI可以帮公司自动找出仓库里哪些物品总是卖得最快，然后调整进货计划，减少浪费。**  \n\nAI的厉害之处在于它能持续学习，就像人越活越有经验一样。**以前一个人要花几个月整理数据，现在AI几分钟就能搞定。**这样一来，公司就能更快地调整策略，比如根据客户反馈立刻改进产品，而不是等半年才反应过来。  \n\n- **AI让工作更高效**：自动处理繁琐任务，节省人力  \n- **AI更懂细节**：能发现人类容易忽略的问题  \n- **AI能快速适应变化**：像变魔术一样调整工作方式  \n\n总之，AI就像个超级大脑，能帮公司把工作做得又快又好，让整个系统运转得像钟表一样精准。",
-      "summarized_at": "2026-07-05T10:21:01.290Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1783246853503",
-      "title": "Teaching AI to run with the turbines",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco...",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-02T12:51:44.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI在工业领域的新用途\n\n### 什么是AI？\nAI就像一个特别聪明的助手，能学习人的行为，然后用这些知识去完成特定的任务。比如，你教它怎么开车，它就能模仿你的操作。现在，科学家们正在训练AI去控制工业设备，让它们更安全、更高效地运行。\n\n### 为什么需要AI？\n想象一下，工厂里有成千上万台机器同时工作，如果其中一个出了问题，整个生产就停顿了。AI可以像24小时保安一样，时刻监控这些机器的状态，一旦发现异常，立刻发出警告或自动调整，这样就避免了事故的发生。\n\n### AI如何工作？\n科学家们给AI展示了大量的机器运行视频和操作数据，就像教孩子认字一样，让AI学习如何判断机器是否正常。然后，AI就能像经验丰富的工程师那样，根据实际情况做出判断和调整。比如，风力发电机在运行时可能会因为风向变化而晃动，AI就能根据这些变化自动调整叶片角度，让发电效率更高。\n\n### 举例说明\n比如，在发电厂里，AI可以监控锅炉的温度和压力，如果发现某个数据不正常，就会自动关小阀门，避免锅炉爆炸。就像你做饭时闻到焦味就赶紧关火一样，AI能提前发现问题，防止危险发生。\n\n### 未来展望\n随着AI越来越智能，它将在更多领域发挥作用，比如矿山安全、建筑工地等。未来，AI将成为工业领域的\"超级眼\"，时刻保护着我们的安全和生产效率。",
-      "summarized_at": "2026-07-05T10:21:03.065Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1783246853503",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…...",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-01T14:35:16.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 大脑的“集体思维”问题\n\n想象一下，你和一群朋友玩真心话大冒险，但每次你问“真心话”时，他们都说“大冒险”，问“大冒险”时又都说“真心话”。慢慢地，你们都开始觉得只有这两种选择，忘了还有其他可能。这就是大型语言模型（LLMs）现在遇到的问题。\n\n你试试和Claude、ChatGPT或Gemini聊天，让它们随便选1到10的数字。它们每次都选7，再问一次选3或4，再问一次选8或9。它们好像在“集体思维”，只会选某些数字，忘了其他可能。这是因为它们训练时看到太多重复的答案，习惯了跟着大家走。\n\n有些新公司想打破这种模式。它们认为LLMs太依赖过去的答案，就像一群人只会重复对方说的，忘了自己想什么。这些公司正在开发新方法，让LLMs跳出固定思维，说出更多意想不到的答案。比如，让模型自己“思考”，而不是只复制别人的话。就像教一群孩子，不让他们只跟着最会说话的一个，而是鼓励每个人说出自己的想法。这样，聊天时就能得到更多新鲜有趣的回答，而不是总是同样的套路。",
-      "summarized_at": "2026-07-05T10:21:09.156Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1783246853503",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c...",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-06-30T21:50:04.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Claude Science：AI助力科学研究的“超级助手”\n\n### 什么是Claude Science？\nClaude Science是Anthropic公司推出的新产品，就像之前他们发布的Claude Code一样，都是用AI技术帮助人们更轻松地完成工作。Claude Code专门辅助程序员写代码，而Claude Science则是专门为科学家们设计的“智能助手”，可以自动处理各种科研任务。\n\n### 它怎么工作的？\n你可以把Claude Science想象成一个超级聪明的“实验助手”。科学家们只需要告诉它研究目标，比如想研究某种物质的新特性，Claude Science就能自动收集资料、分析数据、甚至提出实验方案。就像你让AI帮你做饭，它不仅能找食谱，还能根据你家里的食材推荐菜谱一样。\n\n### 有什么用？\n- **提高效率**：科学家不用再花费大量时间做重复性工作，可以把精力集中在创新上。比如，过去需要几小时整理的数据，现在几分钟就能完成。\n- **降低门槛**：即使是不太懂AI的普通研究人员，也能通过这个工具快速上手。就像用智能手机拍照，即使不懂技术也能拍出好照片。\n- **突破瓶颈**：Claude Science能帮助科学家发现新的研究方向，就像一个经验丰富的导师在指点迷津。\n\n### 未来展望\nAnthropic希望通过Claude Science让科学研究变得更简单、更高效。未来，这种AI工具可能会像智能手机一样普及，成为科研人员不可或缺的“智能伙伴”。",
-      "summarized_at": "2026-07-05T10:21:09.683Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1783246853503",
       "title": "Agriculture is ready for AI, but its data isn’t",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Refine 是什么？\n\nRefine 是一个专门用来制作内部工具、管理后台、数据看板和面向企业客户的软件的框架。你可以把它想象成一个超级灵活的积木盒，专门用来搭建各种实用的工具软件。\n\n## 为什么用 Refine？\n\n- **灵活度高**：就像用乐高拼玩具一样，Refine 让你能够自由组合各种功能模块，快速搭建出需要的工具。比如，你可以轻松地做一个内部用的数据管理系统，或者为企业客户定制一个报表平台。\n- **简单易用**：即使你不是专业的程序员，也能上手使用。它基于 React 技术，但把复杂的代码都封装起来，只需要你关注业务逻辑，剩下的交给 Refine 处理。\n- **功能强大**：内置了很多常用的功能，比如用户管理、权限控制、数据表格等，相当于一个开箱即用的工具箱，省去了自己从零开始开发的麻烦。\n\n## 适用场景\n\n- **内部工具**：比如公司内部的审批系统、项目管理工具等。\n- **管理后台**：企业用来管理用户、数据、订单的后台系统。\n- **数据看板**：展示关键指标的仪表盘，帮助管理层快速了解业务状况。\n- **B2B 应用**：面向其他企业提供的软件服务，比如客户管理系统、供应链平台等。\n\n总的来说，Refine 就是一个让开发人员更容易、更快地做出各种实用软件的工具，特别适合需要快速开发内部工具或企业级应用的情况。",
       "summarized_at": "2026-07-05T10:21:59.637Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783246856148",
-      "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
-      "summary": "作者 | 邱晓芬\n编辑 | 袁斯来\n硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。\n「忆生科技」致力于从科学第一性原理出发，用\"感知—预测—交互\"闭环构建机器人\"大脑+小脑\"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。\n本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的研发、多模态全人形动作交互数据和算法训练管线的建设、顶尖人才团队的扩充，以及深圳前海和上海张江研发中心与产业化基地的建设，...",
-      "url": "https://36kr.com/p/3882365879005186?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-05T06:27:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 忆生科技拿到巨额投资，为机器人装\"记忆脑\"\n\n- 公司叫忆生科技，专门研究怎么让机器人像人一样有记忆能力。他们最近拿到好几亿的天使轮融资，投资方都是很有名的公司，比如药厂、投资机构等。\n\n- 忆生科技的思路是：让机器人先\"看\"（感知），再\"想\"（预测），最后\"动\"（交互）。就像人类先看到红灯，想到会停车，然后踩刹车一样。他们想给机器人装上能思考、能记忆的\"大脑+小脑\"系统。\n\n- 这笔钱主要用来做三件事：开发能解释机器人行动原因的模型；收集机器人怎么在真实世界活动的数据；招更多厉害的人才，建好深圳和上海的研发中心。\n\n- 忆生科技的目标是探索下一代机器人智能，让机器人能像人一样自主思考、自主行动。他们希望通过记忆能力，让机器人能更好地适应真实生活场景，比如在工厂里帮忙，或者去商店做服务员。\n\n- 这就像教孩子认路一样，孩子每次出门都会记住路线，下次就能自己回家。忆生科技就是想给机器人装上这样的记忆功能，让它们更聪明、更实用。",
-      "summarized_at": "2026-07-05T10:21:59.433Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783246856148",
-      "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
-      "summary": "作者 | 邱晓芬\n编辑 | 袁斯来\n硬氪获悉，具身智能公司「光象科技」宣布完成累计数亿元天使轮融资。\n最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。\n本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付。\n「光象科技」成立于2025年4月，是清华大学车辆与运载学院与人工智能学院联合孵化的具身智能公司。\n在团队配置上，「光���科技」呈现出“产业+学术”的基因。公司创始人兼CEO张涛曾任高德空间感知引擎负责人，主导的技术此前已...",
-      "url": "https://36kr.com/p/3882364132077577?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-05T06:25:53.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 具身智能公司光象科技完成数亿融资，将落地汽车产业\n\n- **公司概况**  \n  光象科技是一家新公司，成立于2025年4月，由清华大学两个学院联合培养的团队创办。这个团队既有懂技术的专家，也有来自学术界的聪明人，所以技术实力很强。\n\n- **融资情况**  \n  公司刚刚拿了一大笔钱，总共几亿人民币。投资方都是业内的大牌，比如一些政府投资机构、知名投资公司和上市公司。老股东也继续支持，说明市场对他们的信任。\n\n- **发展方向**  \n  这笔钱主要用来开发新的机器人技术，并且让这些机器人尽快在工厂里落地使用。简单说，就是让机器人能实际帮工厂干活，提高效率。\n\n- **技术特点**  \n  光象科技的技术结合了现实世界和虚拟世界的模型。就像玩游戏时，游戏里有虚拟世界和现实世界的互动，他们把这种技术应用到机器人上，让机器人能更好地适应真实环境。\n\n- **未来计划**  \n  公司的目标是将技术应用到汽车产业，让机器人能在汽车制造过程中发挥作用。这意味着以后工厂里可能会有更多智能机器人帮忙干活，提高生产效率。",
-      "summarized_at": "2026-07-05T10:22:05.617Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783246856148",
-      "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
-      "summary": "作者 | 邱晓芬\n编辑 | 袁斯来\n硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。\n这是目前餐饮垂直机器人领域规模最大的一笔融资之一。\n在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋、以及港科大首席副校长郭毅可等。\n「影智XBOT」成立于2022年，其创始人唐沐称得上机器人圈的“异类”——是机器人圈CEO中罕见的产品经理出身。\n\n（图源/企业） \n在此之前...",
-      "url": "https://36kr.com/p/3882361033322755?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-05T06:23:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 创业咖啡机器人拿到数亿大钱\n\n- **公司情况**：影智XBOT是个做咖啡机器人、餐厅机器人的公司，老板叫唐沐，之前在小米工作过。他们最近接连拿到了几笔钱，总共加起来有数亿人民币，是目前做餐饮机器人里拿到钱最多的之一。\n\n- **钱从哪来**：\n  - **早期投资**：公司刚成立时，有腾讯和小米的高管、联合创始人等大人物投钱，包括小米的黎万强、林斌，还有腾讯的张小龙等。\n  - **最近融资**：最近又拿到了两笔钱，A轮2亿港币，B轮3-5亿人民币，投资方包括政府基金、外国的钱（美元基金）和一些大企业。\n\n- **为什么重要**：影智XBOT的老板唐沐比较特别，他不是那种硬核的工程师，而是做产品的，就像做手机的苹果高管那种，但用在机器人上很少见。\n\n- **行业地位**：现在餐厅里的机器人，尤其是咖啡机、送餐机器人这类，影智XBOT算是混得挺不错的，拿到这么多钱说明市场认可他们。",
-      "summarized_at": "2026-07-05T10:22:07.181Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783246856148",
-      "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
-      "summary": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。\n7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。\n当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技、户外美学与湖岸风光融为一体，让参与者沉浸式解锁人机协同的徒步方式，感受徒步的松弛感与探索感。\n作为人类身体力量的延伸，...",
-      "url": "https://36kr.com/p/3880770270425089?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-04T03:25:22.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 外骨骼让户外徒步变轻松\n\n- 外骨骼就像给腿装了个小马达，让人走起路来更轻松  \n- 傲鲨公司的外骨骼机器人叫VIATRIX，穿上它走6公里路，感觉就像在城里散散步一样  \n- 它会自动学习人的走路姿势，在抬腿的时候轻轻推一把，让人不用那么费劲  \n- 七月份在阳澄湖有个活动，十几个人穿上“机甲”在湖边徒步，沿途还能换装拍照  \n- 外骨骼不是让机器人代替人，而是像帮手一样增强人的能力  \n- 穿上它，爬坡、走远路都不那么累了，特别适合户外爱好者  \n\n## 人和机器的新关系  \n\n- 外骨骼让人类和机器更亲密，就像自行车帮人走得更远一样  \n- 它重新定义了“人能做什么”，以后可能很多人出门都会带着这种装备  \n- 不用担心太累，科技让生活更方便，就像手机让通讯变简单一样",
-      "summarized_at": "2026-07-05T10:22:12.201Z",
       "summary_status": "success"
     },
     {
