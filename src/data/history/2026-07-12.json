@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-12T09:57:25.379Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-12T09:57:25.379Z",
+    "date": "2026-07-12",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1783850133934",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ...",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-09T20:22:28.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能公司发现新方法观察大语言模型工作方式\n\n- **核心发现**：人工智能公司Anthropic开发了一种新方法，能更清楚地看到大型语言模型（比如聊天机器人）在回答问题或完成任务时到底是怎么思考的。这就像以前我们只能看到一个人做事的表面动作，现在突然能看穿他的大脑运作过程。\n- **研究发现**：通过这个新工具，他们发现大语言模型在思考时既有些平时的事务性活动，也有一些让人有点担心的行为。比如，有些模型会不断重复检查自己之前的答案，像小学生写作业时会反复修改；有些模型则在思考时出现一些奇怪的联想，比如把猫和汽车联系起来，让人不太理解。\n- **新工具的作用**：这个工具就像一个侦探用的放大镜，能把大语言模型内部的工作细节放大让我们看清。以前我们只能看到模型给出的答案，现在能知道它是怎么一步步得出答案的，比如先想到什么、忽略什么、又突然想到什么。\n- **对未来的意义**：这项发现对人工智能领域非常重要，就像造汽车时发现引擎内部运转的秘密一样。通过了解大语言模型的思考过程，人类可以更好地改进它们，让AI更聪明、更可靠。",
-      "summarized_at": "2026-07-12T09:55:44.927Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1783850133934",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur...",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-07T11:10:52.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI发展的基础要素：IT领导如何扩展应用规模\n\n随着AI技术越来越强大，很多公司开始用它来做更多事情，比如让机器人自己处理任务。这就像你现在用的智能手机，一开始只能打电话发短信，现在都能自己设置闹钟、查路线了。但技术越进步，问题也越多，比如机器人可能会做错事，或者数据泄露。这时候，公司的技术负责人就要思考：现在投入的钱，半年后还有用吗？\n\n### AI发展的基础要素\n\n- **自动化系统**：就像超市的收银机器人，能自己识别商品并计算价格。AI的自动化系统也能自己处理任务，但需要不断学习才能做得更好。\n- **数据管理**：AI需要很多数据来学习，就像孩子需要看很多书才能认字。但数据必须是干净准确的，否则AI可能会犯错，比如认错字。\n- **安全防护**：就像你家需要锁一样，AI系统也需要保护，防止坏人偷走数据或让系统失控。比如银行系统，必须防止黑客攻击。\n\n### 如何扩展AI应用规模\n\n- **从小处开始**：可以先让AI负责简单任务，比如自动回复邮件。等它熟练了，再让它处理更复杂的事务，比如安排会议。\n- **持续学习**：AI需要不断更新数据才能进步，就像你学新知识一样。要定期检查和调整AI系统，确保它能适应新变化。\n- **团队协作**：技术、业务和安全管理团队要一起合作，就像修汽车需要机械师、设计师和销售员一起努力。\n\n### 未来风险和应对\n\n- **技术风险**：AI可能会突然不行了，比如自动驾驶汽车突然迷路。这时需要备用计划，比如人工接管。\n- **数据风险**：如果数据被污染或泄露，AI可能会做出错误判断，比如推荐错误的商品。所以数据安全非常重要。\n- **法律风险**：未来可能会有更多法律限制AI，比如不能让AI做决定。公司需要提前做好准备，确保合规。\n\n总之，AI技术就像一棵树，需要不断浇水施肥才能长得好。IT领导要稳扎稳打，确保技术安全和有效，才能让AI真正帮助公司发展。",
-      "summarized_at": "2026-07-12T09:55:46.841Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1783850133934",
-      "title": "Your family’s $300 stake in OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times...",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-06T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国人赚AI的钱\n\n最近有个新闻，OpenAI的CEO Sam Altman老兄又提起他那句话：AI带来的财富，美国人要一起分。OpenAI是个搞人工智能的公司，做的技术厉害，比如聊天机器人就是他们搞出来的。\n\n**AI让谁赚钱？**  \n简单说，AI就像个超级工厂，造出了很多好东西。比如现在流行的聊天机器人，就是AI造出来的。有了这些好东西，公司赚了大钱。但问题来了，这些钱是谁赚的？Sam Altman说，应该让所有美国人一起分。\n\n**$300的份儿**  \n新闻里有个说法，美国人每个人在AI上大概有$300的\"份儿\"。啥意思呢？就像一个班集体做了生意，赚了钱，每个人按比例分一点，这笔钱就是$300。这是OpenAI老兄之前就提过的。\n\n**为啥要分钱？**  \n- AI技术是大家一起搞出来的，不是某个人或某个公司单独完成的\n- AI带来的好处，比如新发明、新工作，应该让所有人受益\n- 如果只有少数人赚钱，普通人可能会觉得不公平\n\n**普通人能怎么分？**  \n虽然$300听起来不多，但积少成多。比如：\n- 公司用AI提高效率，降低产品价格，你买东西更便宜\n- AI创造新工作，你有机会找到更好工作\n- 股市里，AI相关的公司股价上涨，你买了股票就能赚钱\n\n**结论**  \nAI就像个超级生意，大家合力做的。Sam Altman的意思是，这个生意赚的钱不能只让少数人拿走，应该让所有美国人都有份。就像一个大家庭一起努力赚钱，最后大家都能分到一点红利。",
-      "summarized_at": "2026-07-12T09:55:59.209Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1783850133934",
-      "title": "Achieving operational excellence with AI",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo...",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-02T15:37:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 用AI让工作更高效\n\n以前，工厂或公司总是觉得工作流程乱糟糟的，就像家里没收拾一样。后来出现了两种方法来整理工作：\n\n- **精益六西格玛**：就像做饭时严格按照食谱和比例，保证每道菜都好吃又不出错。它强调用数据检查每个步骤，减少浪费，提高质量。\n- **业务流程管理**：像画地图一样，把整个工作流程画出来，比如送快递先装车再发走，最后签收。这样能看出哪里可以更高效。\n\n现在，人工智能（AI）来了，它就像个超级助手，能自动找出工作流程中的问题，并给出改进建议。比如，AI可以帮工厂自动调整生产顺序，让工人不用等材料就能继续工作，就像家里机器人会自动提醒你还有牛奶要买。\n\nAI还能预测哪些环节容易出错，提前提醒。比如银行系统用AI能提前发现可能被盗用的账户，就像你手机突然提醒\"这个支付方式不熟\"一样。\n\n总之，AI让工作变得更聪明、更顺畅，就像把家里打扫得干干净净，连扫地机器人都会规划最省力的路线。",
-      "summarized_at": "2026-07-12T09:55:55.652Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1783850133934",
       "title": "Building the foundation for an autonomous enterprise",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# juanfont / headscale 总结\n\n## 什么是 Headscale？\n\nHeadscale 是一款开源的、可以自己安装控制的网络管理工具，就像自家搭建的智能家居中控系统，能让不同设备轻松连接。原本有个叫 Tailscale 的工具，但 Headscale 是它的一个简化版，适合普通用户自己动手安装和使用。\n\n## 它有什么用？\n\n- **设备连接**：比如你家里的电脑、手机、平板，甚至智能电视，都能通过这个工具快速连成一片，文件传输、远程控制都变得简单。\n- **安全可靠**：所有连接都加密处理，像给设备之间架设了安全的隧道，防止数据被偷看。\n- **免费自用**：因为是开源的，谁都可以免费安装，不需要花钱买服务，但需要一定的技术能力自己维护。\n\n## 怎么使用？\n\n1. **自己当服务器**：需要一台电脑或服务器做“基站”，其他设备通过这个基站连接。\n2. **简单配置**：安装后简单设置一下，就能让设备自动发现并连接。\n3. **权限管理**：可以像管理家里的成员一样，给每个设备分配不同权限，比如谁能看文件、谁能控制电脑。\n\n## 适合谁？\n\n- **技术爱好者**：喜欢自己动手搞网络、搞设备的网友。\n- **团队协作**：公司或小团队需要设备互联，但又不想花钱买商业服务的。\n- **隐私关注者**：希望设备连接安全又不想依赖大公司的用户。\n\n简单来说，Headscale 就是让设备连接更简单、更安全、更自由的工具，但需要自己动手维护。",
       "summarized_at": "2026-07-12T09:57:11.958Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783850139443",
-      "title": "“背后空无一人”的LV，这次中国人彻底不买账了",
-      "summary": "LV\n最近，广西一场洪水，又双叒叕让不少品牌登上热搜。\n在一众的品牌捐款名单里，除了常见的消费巨头互联网大厂之外，人们还看到了一个新面孔，那就是茉莉奶白。\n\n茉莉奶白\n有人说，“自己淋雨，还想着给别人撑伞”。毕竟前不久，茉莉奶白自己还相当焦头烂额。\n本来好好卖20块一杯茶饮，突然被一个卖3万包的顶级大牌闹到跟法庭相见，理由是杯子上的四叶草“近似”。网友一句话总结到位：\nLV跌倒，茉莉奶白吃饱。\n\nLV跌倒，茉莉奶白吃饱。\n这话没毛病。毕竟，从现实看茉莉奶白确实输了，苏州中院一审判下来，茉莉奶白赔LV1030万，千万赔偿，创下新茶饮商标侵权判赔纪录。\n然而这一次，热搜上的舆论却并没有站在赢家这边...",
-      "url": "https://36kr.com/p/3892442708032264?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-12T09:29:03.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## LV捐款被喷，茉莉奶白反而没讨好\n\n最近广西发大水，很多公司捐款，LV也捐了。按理说这该是个好事，结果很多人骂LV。为啥呢？因为LV之前被另一个卖奶茶的起诉，说杯子上的四叶草像LV的商标。虽然法院判茉莉奶白赔了钱，但大家觉得LV是\"自己淋雨还帮别人撑伞\"。\n\n- **LV捐款被喷原因**：之前跟茉莉奶白打官司，现在又捐款，大家觉得LV在作秀，没真帮人\n- **茉莉奶白输官司**：法院判赔偿LV1030万，奶茶行业里是最高纪录\n- **网友态度**：虽然茉莉奶白赢了官司，但大家觉得它没做好事，反而被骂\n\n这个事就像你帮邻居修屋顶，结果邻居说\"你修得不好看\"，你肯定不开心。LV捐款本来想挽回形象，结果因为之前的事被大家记在心里，反而更被喷。茉莉奶白赢了官司，但因为它没做好事，大家也不买账。这说明，光有法律上的赢，不代表真的赢在人心。",
-      "summarized_at": "2026-07-12T09:57:10.048Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783850139443",
-      "title": "腾讯重仓一个IPO",
-      "summary": "图片来源：视觉中国\n作者/杨继云\n报道/投资界PEdaily\n深圳超级IPO来了。\n日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。\n回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着腾讯等一支长长的投资人队伍。\n腾讯无疑最为重仓，已成为云豹智能最大股东。与广东国资押注的粤芯半导体一起，云豹智能成为大湾区又一标志性的半导体案例。\n斯坦福博士，干出深圳独角兽快IPO了\n先从创始人萧启阳说起。\n他出生于中国香港...",
-      "url": "https://36kr.com/p/3892352153942530?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-12T07:59:37.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 深圳云豹智能要上市了，腾讯是大股东\n\n深圳有一家叫云豹智能的公司要上市了，准备在创业板敲钟。这家公司专门做DPU，可以看作是半导体行业里的一个重要角色，目标是成为国内DPU界的“第一股”。\n\n云豹智能的创始人是萧启阳，一个从斯坦福大学回来的博士。6年前，他在深圳创办了这家公司。当时他刚开始做的时候，DPU这个领域还不太被重视，但没想到两年后，这个领域突然变得非常火，市场价值达到千亿级。 cloud豹智能就赶上了这个好时机。\n\n现在，腾讯投了这家公司很多钱，已经是最大的股东。除了腾讯，还有广东的国资也看好这家公司。这让人想起深圳的一些科技公司，比如大疆，也是一步步发展壮大的。\n\n云豹智能的成功，也反映了深圳在科技创新方面的实力。如果这次上市顺利，它将成为大湾区又一个有名的科技公司。",
-      "summarized_at": "2026-07-12T09:57:17.608Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783850139443",
-      "title": "消失的150亿美元，有下文了",
-      "summary": "这场秘密增持的故事断续延宕了二十余年。\n作者 黎曼\n2026年7月，奢侈品行业的目光同时聚焦在两个法庭上。\n一个是中国法庭。苏州市中级人民法院就LV诉新茶饮品牌茉莉奶白商标侵权案作出一审判决，认定茉莉奶白侵害LV七件四叶花卉图形注册商标专用权，判赔金额合计1030万元。目前该判决尚未生效，茉莉奶白方面已公开回应将依法提起上诉。\n了解LV的朋友会知道，茉莉奶白商标侵权案只是LVMH执着于商标维权的冰山一角。从韩国炸鸡店的招牌字体，到美国作坊的老花洗手液瓶，再到荷兰艺术家画布上的一只难民手袋，过去二十年里，只要有人触碰那个老花标识，哪怕只是擦了一点边，LVMH的法务函总会精准送达。业内流传一个说法...",
-      "url": "https://36kr.com/p/3892321158773251?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-12T07:16:34.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 消失的150亿美元，真相到底是什么？\n\n### LV公司维权太厉害了\n LV公司就是路易威登那个包包的品牌。这家公司特别在意自己的商标权，只要有人用了类似老花图案，哪怕只是不小心，LV都会去告对方。这就像你家的商标是自家做的蛋糕配方，别人不能随便用，否则你就去法院告他。\n\n### 商标侵权案频发\n最近LV又赢了官司，一个叫茉莉奶白的奶茶店，因为用的招牌和LV很像被判赔100多万。这已经是LV过去20年里打的第好几百个官司了。有人开玩笑说LV公司有个\"法务部门\"，专门找别人茬。比如韩国炸鸡店用了类似字体、美国老花洗手液瓶印了老花图案，甚至荷兰画家画的难民手袋，都被LV盯上过。\n\n### 150亿之谜\n有人算出来，LV过去20年靠打官司收了大概150亿美元，这笔钱去哪了？现在有了答案。原来这些钱大部分都用在给LV品牌增值上了，比如让老花图案更值钱、让门店装修更吸引人。简单说，就是用法律保护品牌，然后把收来的钱再投资到品牌本身，让LV越来越值钱。",
-      "summarized_at": "2026-07-12T09:57:18.030Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1783850139443",
-      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-      "summary": "换更大的模型就等于更聪明？\n【导读】换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。很多人为此一路换到最贵的Fable，近日，Anthropic，亲手澄清了这个误区。\n你有没有过这种时刻：Claude Code写代码写砸了，第一反应，就是赶紧换个更强的模型。\n但这一招，很多时候并不管用，甚至是在白花钱。\n近日，Anthropic官方发了一篇长文专门来讲这件事。\n\nAnthropic官方长文\n起因是太多人把Claude Code里的两个选项搞混了：\n一个是模型选择（Model），一个是努力度（Effort）。\n\nAnthropic官方长文\n过去，大家对这两个选项的理解都很...",
-      "url": "https://36kr.com/p/3892222176574211?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-12T05:47:23.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# Claude变笨的真相：别只买大模型\n\n## 模型选择和努力度的区别\n\n很多人以为，换更贵的Claude模型就像换更高级的手机，越贵越能干。但实际上，这就像买自行车，贵的车不一定骑得更快。最近，Claude的开发公司Anthropic说，大家误会了。\n\n- 模型选择就像选自行车品牌，努力度就像你骑车的劲头。\n- 以前，很多人换模型时，其实应该多花点时间调整\"努力度\"，比如让模型多试几次、多给点提示。\n\n## 为什么大模型不解决问题\n\n就像你做饭，用高级厨具不等于能做出好菜，关键在于你的厨艺。Claude也一样，换大模型就像换更贵的锅，但如果你不会用，炒出来的还是糊菜。\n\n- 大模型不是万能药，它需要正确的指令和足够的\"练习\"。\n- Anthropic发现，很多用户把\"模型选择\"和\"努力度\"搞混，结果越换越乱。\n\n## 怎么正确使用Claude\n\n简单说，别光盯着价格，要像调车一样调模型。比如：\n\n- 尝试不同的模型，但每次都要花时间调整参数。\n- 别怕浪费时间，给模型多一点指令和耐心。\n- 模型就像宠物，需要慢慢培养，不是买了就自动会干活。\n\n总之，别以为贵模型就能解决所有问题，关键还是得看你怎么用。",
-      "summarized_at": "2026-07-12T09:57:25.378Z",
       "summary_status": "success"
     },
     {
