@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-15T10:09:18.736Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-15T10:09:18.737Z",
+    "date": "2026-07-15",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1784110036375",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo...",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-13T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 梦想实验室的新发现\n\n- **公司很牛**: Anthropic是一家特别有钱的AI公司，现在值差不多1万亿块钱，比很多国家还贵。他们经常搞一些让人摸不着头脑的研究。\n- **发现啥了**: 他们最近发明了一种新方法，能让AI更聪明，学得更快，就像给电脑装了个超级学习器。\n- **不是万能的**: 但这个新方法也不是完美的，还有一些问题没解决，比如AI有时候还是会犯迷糊，做错事。\n- **例子说明**: 想象一下，这个AI就像个学生，以前学东西慢，现在学得快了，但考试时还是偶尔会答错题。\n- **为啥重要**: 这个发现对AI发展挺重要的，因为它可能让以后的AI更厉害，也能帮我们解决更多问题，比如看病、开车这些。\n- **未来展望**: 虽然现在还有缺点，但这个发现是个大进步，未来可能会越来越好，就像手机越来越智能一样。",
-      "summarized_at": "2026-07-15T10:07:25.183Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784110036375",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ...",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-09T20:22:28.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能公司发现AI思考的秘密空间\n\n- **发现过程**：人工智能公司Anthropic开发了一种新方法，就像给大脑装了\"透视眼\"，能看清AI在回答问题时到底是怎么想的。他们造了一个工具，让AI像学生一样做数学题，然后观察它的思路。\n- **发现内容**：这次发现有点奇怪，就像看小朋友做作业时发现的情况。有的AI会突然跑题，有的会在简单问题前卡壳，还有的会像人类一样纠结\"是选A还是选B\"。最有趣的是，AI居然会想一些与问题无关的\"花招\"，比如开始写诗歌或者抱怨\"今天的题目好难\"。\n- **生活例子**：这就像观察小朋友做作业时，发现他不是真的在算题，而是在玩橡皮擦。AI的大脑里有很多杂念，有些像人在做选择时突然想到别的事情，有些甚至会出现\"思维短路\"。最让人惊讶的是，AI居然会像人类一样有情绪，比如遇到难题时\"生气\"，或者看到简单题时\"无聊\"。\n- **重要意义**：这项发现让我们更懂AI的\"思考方式\"，就像知道小朋友是怎么想的，就能更好地教他。未来可以改进AI，让它更专注，避免胡思乱想。这就像给AI戴上\"专注力训练班\"的眼镜，让它集中精神做题目。",
-      "summarized_at": "2026-07-15T10:07:29.857Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784110036375",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur...",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-07T11:10:52.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能架构的基础要素：IT领导者如何扩大应用范围\n\n随着人工智能越来越强大，像AI助手能独立完成更多任务，很多公司都在想方设法让AI帮忙做更多事情。但这个技术变化太快，就像手机从只能打电话到能拍视频、导航一样，问题也来了：现在投入的钱，半年后会不会就过时了？\n\n### AI架构的四个关键部分\n\n*   **算力**：就像做饭需要厨房，AI需要强大的电脑来算题。算力不够，AI就像没电的手机，使不上劲。\n*   **数据**：AI学东西就像小朋友学认字，需要看很多书（数据）。数据质量差，AI就像没好好读书的孩子，做出的判断也不靠谱。\n*   **算法**：算法就像菜谱，教AI怎么把数据变成有用的信息。好的算法能让AI做菜（处理信息）更高效。\n*   **云服务**：就像租房不用自己盖房子，云服务能让公司随时用上最新的AI工具，不用一次性买断所有设备。\n\n### IT领导者的关键任务\n\n1. **分清轻重缓急**：不是所有AI功能都值得投资。比如，有些AI只是锦上添花（像给手机贴膜），有些才是雪中送炭（像给没手机的人发手机）。\n2. **用小步快跑的方式测试**：可以先给小团队用AI工具试试水，看看效果如何，比如让客服用AI回复常见问题，再慢慢推广。\n3. **建立安全网**：AI就像没经验的新员工，可能会犯错。要提前想好怎么防错，比如给AI做决策设置限制，就像给小朋友玩火时搭个护栏。\n4. **持续学习**：AI技术变化快，就像网购平台总出新款APP。公司要定期给员工（和AI）培训，让他们跟上最新变化。\n\n### 普通人的理解\n\n简单来说，AI就像智能手机，需要好电池（算力）、充电桩（云服务）、系统（算法）、学习资料（数据）才能跑起来。但不是所有功能都要一步到位，可以先从最需要的开始用，比如让AI当个24小时客服，再慢慢让它负责更复杂的工作。同时，要防着它出错，比如设置规则不让它乱花钱。最后，要不断更新系统，就像手机系统更新后功能更强一样。",
-      "summarized_at": "2026-07-15T10:07:46.451Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784110036375",
-      "title": "Your family’s $300 stake in OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times...",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-06T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国人的AI财富分成计划\n\n### 背景介绍\n最近，OpenAI的CEO山姆·奥特曼又提到了一个承诺：美国人在AI发展中将分得蛋糕。这个话题最近在媒体上被频繁提及，比如《金融时报》就在报道中提到了这一点。OpenAI是一家专门研究人工智能的公司，它的技术进步可能会给整个社会带来巨大的经济利益。\n\n### 承诺内容\n奥特曼的承诺是，随着AI技术的发展，美国人会从中受益。这就像一家工厂开张了，老板说所有参与进来的人都能分到红利。AI技术就像这个工厂，它的发展会给很多人带来好处，不仅仅是投资者或者公司员工。\n\n### 具体影响\n简单来说，这个承诺意味着，如果AI技术真的像专家预测的那样改变世界，那么美国人的钱包也会跟着鼓起来。比如说，如果AI让很多工作自动化，效率大大提高，那么生产出来的产品会更便宜，大家的购买力也会增强。或者，如果AI技术被用在医疗上，治疗疾病的效果更好，那么人们的健康成本会降低，生活质量也会提升。\n\n### 未来展望\n这个承诺的目的是鼓励更多的人支持AI技术的发展。毕竟，如果大家知道未来的好处会分给自己，自然会更愿意投资或者参与相关项目。就像种下一棵树，虽然需要时间长大，但最终结出的果实会分给大家吃。对于美国人来说，这个承诺就像是给他们打了一针鸡血，让他们对AI的未来充满期待。\n\n### 关键要点\n- OpenAI的CEO奥特曼承诺美国人会从AI发展中获利。\n- 这个承诺类似于工厂开张大家分红的例子。\n- AI技术进步可能提高生产效率、降低生活成本。\n- 目的是鼓励更多人支持AI发展。\n- 对于美国人来说，这是对未来财富增长的期待。",
-      "summarized_at": "2026-07-15T10:07:38.817Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1784110036375",
       "title": "Achieving operational excellence with AI",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## 跨电脑传文件的简单工具：schollz / croc\n\n- **核心功能**：这个工具像一个超级方便的\"文件搬运工\"，让你不用U盘就能轻松把文件从一台电脑传到另一台电脑上。\n- **使用场景**：比如你在公司用电脑做了个报告，回家后想用个人电脑继续编辑，以前可能需要拷到U盘再带走，现在用这个工具，电脑之间就能直接发送文件，就像发微信文件一样简单。\n- **安全特点**：它传输文件时很安全，相当于给你的文件加了保险箱，别人偷看不了，只有你能打开。\n- **操作方式**：你只需在两台电脑上都装上这个工具，然后告诉它要发的文件，它就会自动把文件从一台电脑\"丢\"到另一台电脑上，速度比网盘还快。\n- **特别适合**：程序员、设计师或者经常需要在不同电脑间传输工作文件的人，省去了插拔U盘的麻烦。\n- **小贴士**：传输特别大的文件时，最好两台电脑都连接着WiFi，这样传输更稳当。\n\n这个工具就像家里装了门禁的快递柜，你把文件放进去，指定接收人，文件就会直接送到对方手里，既方便又安全。",
       "summarized_at": "2026-07-15T10:08:50.354Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784110039960",
-      "title": "支付宝不想做AI时代的配角",
-      "summary": "作者 | 王晗玉\n编辑 | 张帆\n支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。\n最近，支付宝完成了上线22年来最大一次改版。\n本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkBuddy中落地。\n进入2026年以来，从头部平台到各家支付机构密集亮出AI底牌，支付行业的智能体竞争悄然开场。\n从“用完即走”到“主动来聊”\n伴随AI化进程，支付APP第一次出现了非工具属性的用户行为。\n在AI版本开启内测后，支付宝相关人士告诉36氪，在此期间一个现象让团...",
-      "url": "https://36kr.com/p/3896720584738435?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-15T09:50:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 支付宝要当AI主角\n\n最近，支付宝大改版，推出了AI版本的\"阿宝\"，让它更像一个能听懂话的助手。以前打开支付宝是找各种小程序，现在直接跟\"阿宝\"说话就行。比如你想找附近的奶茶券，就告诉它，它能自动匹配优惠券，还能帮你下单。\n\n这就像是以前去超市买东西要自己找，现在有个智能小助手直接帮你找到。支付宝这次改版，就是要让用户用起来更方便，不再只是个工具，而是能主动帮忙的伙伴。\n\n- 支付宝和微信都在做类似的AI功能\n- 用户现在可以直接跟AI说话，不用自己去翻找\n- 这标志着支付APP从简单工具变成了能聊天的助手\n- 支付行业开始用AI提升用户体验\n- 支付宝想让用户觉得它不只是个付款工具，更是生活中的小帮手",
-      "summarized_at": "2026-07-15T10:08:48.010Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784110039960",
-      "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
-      "summary": "7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。\n\n这个夏天，阳澄湖畔的吸引力有了新的注脚。\n对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳澄湖半岛接待游客量达到950万人次。这意味着，这里本身就是一个足够真实、足够丰富，也足够开放的流量场。\nAI产品好不好用？用户愿不愿意停下来体验？场景方是否愿意继续合作？这些问题很难只靠PPT回答，AI应用需要在线下社区和商业街区中反复测试，才能...",
-      "url": "https://36kr.com/p/3896639400183687?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-15T08:30:35.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 阳澄湖半岛的AI嘉年华\n\n### AI在阳澄湖半岛落地生根\n\n7月3日到4日，苏州阳澄湖半岛举办了一场特别的AI嘉年华，叫「越过湖畔 进化新生」。这里不仅有美丽的湖景，还有很多好玩的地方，比如超市、酒店、网球场，还有很多适合带宠物的地方。\n\n### 阳澄湖半岛不只是旅游地\n\n阳澄湖半岛不只是个旅游景点，这里还有50公里长的湖岸线和8平方公里的湖。2025年，这里会迎来950万游客。这么多人来，说明这里是个很好的试验场。\n\n### AI需要真实场景测试\n\n想让AI产品变得更好用，光靠PPT是不够的。就像你买了一件衣服，不试穿一下不知道合不合身。AI产品也一样，需要在真实的生活场景里反复测试，才能知道用户喜不喜欢，商家愿不愿意用。\n\n### 阳澄湖半岛成AI试验田\n\n阳澄湖半岛因为有这么多真实的场景，成了AI产品的试验田。在这里，AI可以和真实的人、真实的商家互动，这样就能更快地发现问题，让产品变得更好。",
-      "summarized_at": "2026-07-15T10:08:57.262Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784110039960",
-      "title": "四大一线城市房价继续修复上涨",
-      "summary": "7月15日，国家统计局公布《6月份70个大中城市商品住宅销售价格变动情况》，统计数据显示，一线城市新房、二手房价格继续整体环比上涨，维持修复回暖信号。\n自2026年3月以来，一线城市新房和二手房销售价格指数已经连续上涨四个月。6月份，一线城市新建商品住宅销售价格涨幅有回落态势，环比上涨0.1%，涨幅比上月回落了0.1个百分点。其中，北京是唯一一个房价继续环比下降的城市，降幅为0.3%，上海、广州和深圳分别上涨0.3%、0.2%和0.3%。\n\n来源：统计局\n二手房也出现相同趋势，6月份，一线城市二手住宅销售价格环比上涨0.3%，涨幅比上月回落0.1个百分点。其中，北京、上海、广州和深圳分别上涨0...",
-      "url": "https://36kr.com/p/3896544104793993?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-15T06:49:46.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 一线城市房价开始慢慢涨了\n\n根据国家最新的数据，最近几个月北京、上海、广州、深圳这四个大城市的新房和二手房价格，都在一点点往上走。这说明这些地方的房价从之前的下跌状态，开始慢慢恢复起来了。\n\n具体来看，6月份这些城市的房价涨得比5月份要慢一点，但还是在涨。比如新建商品住宅，北京房价反而 slightly 降了点，其他三个城市都在涨，不过涨得也不多。二手房也是同样的情况，四个城市都在涨，但涨得比之前慢了点。\n\n这种价格慢慢回升的情况，已经持续四个多月了。虽然涨得不快，但至少说明市场开始稳住了，不会再像以前那样大幅下跌了。对于想买房的人来说，这是一个好消息，说明房价终于不再继续跌了。不过也要注意，这种上涨只是慢慢恢复，短期内房价估计也不会涨太多。",
-      "summarized_at": "2026-07-15T10:08:57.020Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784110039960",
-      "title": "优衣库再失一枚棋子",
-      "summary": "上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。\n资深时尚记者Lauren Sherman近日在行业媒体PUCK披���，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U系列，2026秋冬系列或将成为两人与优衣库合作十年的收官之作。\n她同时透露，迅销集团对Lemaire同名品牌的持股已经下调。迅销内部曾讨论U系列能否在没有两位设计师的情况下独立存续，但这一提议被柳井正本人否决了。截至发稿，Lemaire与迅销均拒绝置评。Sherman也提醒：“未来几个月情况可能...",
-      "url": "https://36kr.com/p/3885699885445122?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-15T05:25:41.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 优衣库的设计团队要换人了\n\n### 核心事件\n优衣库的设计团队中有两位关键人物，Christophe Lemaire和Sarah-Linh Tran，他们一起给优衣库设计衣服已经十年了。最近他们宣布，到2026年秋天，这可能就是他们最后一次为优衣库工作。这就像你跟一个师傅学了十年手艺，最后要自己开新店了。\n\n### 优衣库的反应\n优衣库的老板柳井正听到这个消息后，说\"不行\"，不希望他们走。但这两个人已经在策划自己的品牌了，就像你原来帮朋友打工，后来决定自己创业一样。优衣库内部的有些管理者觉得，没有这两个人，优衣库的设计可能就变味了。\n\n### 其他变化\n除了设计团队的变化，优衣库还在减少对另一个叫Lemaire的品牌投资。这就像你发现某个副业没前途，决定先少投入一点钱，集中精力做好主业。\n\n### 未来可能\n报道说，接下来几个月情况可能还会变，就像你本来计划好要辞职，但老板突然给你加薪让你继续干。现在还不确定优衣库会怎么做，但可以肯定的是，设计团队要换人了。\n\n- 设计师要离开，优衣库不答应但挽留无效\n- 优衣库对Lemaire品牌投资减少\n- 未来几个月可能有新变化",
-      "summarized_at": "2026-07-15T10:09:18.736Z",
       "summary_status": "success"
     },
     {
