@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-16T10:16:08.987Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-16T10:16:08.987Z",
+    "date": "2026-07-16",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1784196893802",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m...",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-15T17:09:37.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## GPT-Red：OpenAI的AI“保镖”\n\nOpenAI最近搞了个新东西，叫GPT-Red，就像给自家AI模型请了个保镖。这个保镖是个“黑客”，专门用来测试其他AI模型的防护能力。想象一下，你的手机里有道防火墙，OpenAI就想让这个防火墙更厉害，不被黑客攻破。\n\nOpenAI新出的GPT-5.6最近发布了。他们让GPT-Red去“攻击”GPT-5.6，就像请个对手来踢馆，看看GPT-5.6能挡几招。通过这种“对练”，GPT-5.6变得更抗打，不容易被黑客利用。这就好比你在健身房练举铁，一开始举不动，练多了就越来越强。\n\nOpenAI说，GPT-Red就像个“魔鬼教练”，虽然很严苛，但能把其他AI模型练得更安全。现在，GPT-5.6经过GPT-Red的“魔鬼训练”，防御能力大大提升。这就像你学开车，教练故意找各种麻烦，让你学会应对各种路况。\n\n总之，GPT-Red是OpenAI为了保护AI模型安全而设计的“对抗工具”，通过模拟攻击来提升防御能力。未来，其他AI模型可能都会用这种“保镖”来增强安全性。",
-      "summarized_at": "2026-07-16T10:15:01.674Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784196893802",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo...",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-13T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "##Anthropic新发现：AI能力边界在哪\n\n###发现能做什么  \nAnthropic是一家做AI的公司，他们最近研究出了个新东西。这个AI就像个超级助手，能帮人写代码、做数学题，甚至编故事。比如你让它写个故事，它就能编出有开头、中间、结尾的完整情节，比有些AI更灵活。它还能理解人的意思，比如你说\"帮我找份工作\"，它不会只给招聘信息，会根据你的需求问更具体的问题。\n\n###发现做不到什么  \n但这个AI也不是万能的。比如它没法像人一样有感情，不会说\"我理解你\"。如果你让它做需要创意但没固定答案的事，比如设计海报，它可能只会照搬模板。另外，它也不能自己判断对错，比如有人骗它，它不会识破。就像个学了很多知识的机器，但还不会像人一样思考。\n\n###例子说明  \n想象一下这个AI是个厨师：  \n- 它能做很多菜（写不同类型的文章）  \n- 但它不会换口味（不懂人的喜好）  \n- 也不会自己创新（只能按食谱做）  \n\n###重点  \n这个发现表明，现在的AI进步了，能处理更复杂任务，但距离真正像人还差得远。它适合做按部就班的事，但遇到需要灵感或判断的情况就力不从心了。这就像个精通各科的学霸，但艺术课成绩还是不行。",
-      "summarized_at": "2026-07-16T10:15:01.892Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784196893802",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ...",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-09T20:22:28.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Anthropic公司发现AI思考的秘密\n\n### 核心发现\n美国的一家AI公司叫Anthropic，他们开发了一种新方法，让我们第一次清楚地看到大语言模型（比如能聊天、写文章的AI）在思考时到底在做什么。就像我们观察小朋友做数学题，发现他们有的在用小手指数，有的在纸上乱画一样，AI也有自己的思考方式。\n\n### 具体发现\n研究人员发现AI在思考时，有些时候像普通人一样会纠结一些小事，比如反复检查语法；有些时候又会做一些让人奇怪的事情。比如AI可能会突然开始讨论天文知识，虽然问题只是关于天气的。这就像有人问你要不要吃饭，你突然开始讲月亮为什么是圆的一样。\n\n### 研究方法\n他们开发了一个工具，可以监控AI在思考时的每一步操作。这个工具就像我们用手机记录孩子写作业时的每笔动作一样，把AI的思考过程都录下来了。\n\n### 意义\n这个发现很重要，因为以前我们只知道AI能解决问题，但不知道它是怎么想的。现在我们知道，AI的思考过程既像人类（会犯错、会纠结），又有些奇怪（会突然跑题）。这就像第一次看到小狗思考的样子，既熟悉又陌生。",
-      "summarized_at": "2026-07-16T10:15:07.457Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784196893802",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur...",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-07T11:10:52.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI技术快速发展，IT领导需要了解的基础架构要点\n\n随着AI越来越厉害，现在很多公司都在用AI做各种事情，比如自动处理文件、分析客户需求等。这些AI系统越来越智能，可以自己做一些决定，就像一个能独立行动的助手。但技术越发展，问题也越多，比如AI可能会犯错或者做出不恰当的判断，这就让IT部门的负责人很头疼——现在投入的钱，过半年会不会就过时了？\n\n### 1. AI的基础架构其实很简单\n\n就像盖房子需要地基一样，AI也需要一些基本的东西才能跑起来。比如：\n- **数据**：AI需要大量真实的数据来做学习，就像孩子需要看很多书才能学会认字。\n- **计算力**：AI需要强大的电脑来处理数据，就像做饭需要大火才能快熟。\n- **算法**：AI的规则和步骤，就像菜谱告诉厨师怎么做菜。\n\n### 2. AI系统要能扩展和调整\n\n现在AI越来越智能，所以系统要能随时升级。比如：\n- **模块化设计**：让AI的各个部分可以单独升级，就像手机可以单独换电池或内存。\n- **灵活性**：AI要能适应新任务，就像人要学会新技能。\n\n### 3. 安全性也很重要\n\nAI处理大量数据，所以安全必须放在第一位：\n- **数据加密**：就像把文件锁进保险箱。\n- **防攻击**：防止黑客破坏AI系统，就像保安保护大门。\n\n### 4. 监控和评估\n\nAI运行后要随时看效果，就像开车要盯着仪表盘：\n- **性能监控**：确保AI运行正常，不会突然出问题。\n- **定期检查**：看看AI是否按预期工作，有没有偏差。\n\n### 5. 投资要眼光长远\n\nIT领导需要考虑未来的技术发展：\n- **不要只看眼前**：现在流行的技术可能很快过时，要投那些基础牢固的东西。\n- **合作和开放**：和多家公司合作，多学习别人的技术，不要闭门造车。\n\n总之，AI技术发展很快，但只要掌握这些基础，就能让AI系统更稳定、更安全，也能更好地适应未来变化。",
-      "summarized_at": "2026-07-16T10:15:10.278Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1784196893802",
       "title": "Your family’s $300 stake in OpenAI",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## Lance：让AI处理多种数据更方便的工具\n\nLance是一个专门帮助AI处理各种类型数据（比如文字、图片、声音等）的工具，就像一个超级整理师，能让电脑更快地找到和利用这些数据。它能让电脑读写数据变得像翻书一样快，比以前快了100倍！\n\n### 怎么使用Lance？\n\n用Lance就像给电脑做减法，以前要写很多代码才能把数据整理好，现在只要两行代码就行。比如，以前整理一个巨大的数据包要花一整天，用Lance可能只需要几分钟。\n\n### Lance能和哪些工具一起用？\n\nLance很灵活，可以和很多常用的电脑工具一起用，比如：\n- Pandas：像Excel一样处理数据\n- DuckDB和Polars：快速分析数据\n- Pyarrow和PyTorch：做AI计算和图像处理\n\n### Lance还能做什么？\n\n除了快，Lance还特别厉害的一点是能记住每次数据修改的版本，就像手机相册的备份功能，不会把旧数据弄乱。而且，它还在不断升级，未来会支持更多工具。\n\n总之，Lance就像一个数据魔术师，让AI处理各种数据变得又快又简单，让电脑不再为数据烦恼。",
       "summarized_at": "2026-07-16T10:15:54.694Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784196897398",
-      "title": "中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite",
-      "summary": "“AI改了我的命”\nAI时代的精英叙事里，出现了草根翻身的故事。\n5月，来自云南玉溪地产行业的中专生刘梓瑜，创作出了全网播放破亿的《丧尸清道夫》，被称为“国产爱死机”。他因此收到了好莱坞制作人的跨洋Offer。这部短片配有英文字幕，但一位接触过刘梓瑜的从业者表示，他的英语并不好，甚至“不会翻墙”。\n一个月后，97年出生的刘梓瑜在抖音电影奇遇夜上被评为“抖音新锐未来导演”，在他的账号下，一位名为“AAA云还路**建材批发发哥”的网友评论道，“牛逼，也是登上AIGC这艘诺亚方舟了，什么时候我们这些打工仔也能翻身。”后面跟了一个大哭的表情。\n\n《丧尸清道夫》海报，图片源自刘梓瑜小红书账号\n同样“翻身...",
-      "url": "https://36kr.com/p/3898151587890824?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-16T10:07:26.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 中专生靠AI拍出爆款电影\n\n- **普通人逆袭的故事**  \n云南一个中专生刘梓瑜，平时做地产行业工作，突然用AI做出了播放量过亿的短片《丧尸清道夫》，就像普通人突然会了点魔法，一下子出名了。\n\n- **工具改变命运**  \n刘梓瑜的英语不好，连翻墙都不会，但他用AI工具把视频做得很酷，还收到了好莱坞的邀请。就像没学过游泳的人，突然发现会潜水能带他去远方。\n\n- **普通人羡慕嫉妒恨**  \n有人评论说：\"太厉害了，要是我们也能用AI就好了\"，就像小时候看到别人有新玩具，心里痒痒的。刘梓瑜的走红，让人觉得AI是个能让人走运的神奇外挂。\n\n- **AI像变魔术的盒子**  \n以前觉得拍电影是专业人士的事，现在发现AI让普通人也能玩。就像以前只有魔术师才能变出兔子，现在谁学学就能在手机上变出各种花活儿。\n\n- **机会来了挡不住**  \n刘梓瑜从一个普通地产行业从业者，突然变成\"抖音新锐导演\"，就像突然中了彩票，但这个\"彩票\"是学会用AI。电影圈人士都惊讶这个\"半路出家\"的导演居然能做出爆款。",
-      "summarized_at": "2026-07-16T10:15:55.400Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784196897398",
-      "title": "大厂医疗AI战，开始“卷”减重",
-      "summary": "文｜胡香赟\n编辑｜海若镜\n互联网大厂做医疗AI，越来越偏爱“减重”场景。\n近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。\n2021年，薄荷健康完成D轮融资，估值为20亿人民币。本次投资，据接近交易人士介绍，“从战投角度来做，蚂蚁整体投资金额为数亿人民币，价格比较合理”。关于对价，蚂蚁方面并未回应。\n据36氪了解，薄荷健康的主要收入来源包括食品、功效产品等电商销售，会员付费。近两年，在严肃医疗场景，薄荷健康与减重创新药企、CRO公司的合作...",
-      "url": "https://36kr.com/p/3896639942592134?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-16T02:21:30.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 大厂纷纷加入减肥AI战\n\n最近，互联网大厂开始抢着做医疗AI领域的减肥项目。蚂蚁集团投资了薄荷健康，成了这家公司的最大股东。薄荷健康是个老牌子，从2008年就开始帮人记录饮食、制定减肥计划，现在有超过2亿用户，还收集了160万种食物的信息。\n\n薄荷健康主要靠卖食品、保健品和会员费赚钱。这两年，它还和减肥药公司、外包研究公司合作，把业务扩展到更严肃的医疗领域。\n\n## 为什么大厂都看中减肥AI\n\n大厂之所以争相投资减肥AI，是因为这个市场潜力大，用户需求旺盛。就像超市里减肥食品永远畅销一样，人们总是需要减肥帮助。而且，减肥是个系统工程，需要长期跟踪和科学指导，正好符合AI的优势。\n\n- 蚂蚁集团投资数亿，但价格合理\n- 薄荷健康估值20亿，用户超2亿\n- 减肥AI结合电商和医疗，模式灵活\n- 大厂看重的是长期用户价值和商业化空间\n\n现在，减肥AI市场就像菜市场，以前只有小摊贩，现在连超市都来开店了。大厂看重的是，通过AI技术解决减肥这个持续存在的需求，不仅能赚快钱，还能积累用户数据，为未来更多健康产品打基础。",
-      "summarized_at": "2026-07-16T10:16:02.670Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784196897398",
-      "title": "硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，民用航空动力企业汉发长空近日完成近亿元Pre-A轮融资，本轮融资由方广资本领投，致道资本、六翼投资共同投资。\n融资资金将主要用于提升400kW级通用核心机平台的技术成熟度与工程化验证，加速发动机向量产阶段迈进。400kW级平台包括涡轴发动机S4、涡桨发动机P4以及涡电发动机H4。涡轴发动机S4已进入挂飞测试阶段；涡桨发动机P4与涡电发动机H4预计将在今年下半年完成首装下线并开展地面试验。\n在航空涡轮发动机领域，国内长期以军用动力为主，面向低空经济领域的民用动力长期处于空缺状态，而国际航发巨头则长期垄断着市场。动力产品的现状，不仅推高了飞行器整机成本...",
-      "url": "https://36kr.com/p/3897686922266244?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-16T02:12:48.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 民用航空发动机公司获得大笔融资，要打破国外垄断\n\n- 公司简介：汉发长空是一家做民用航空发动机的公司，最近拿到了将近一亿元的资金，这是他们发展过程中的重要一步。\n- 资金用途：这些钱主要用于研发一种叫400kW级发动机的技术，这种发动机适用于小飞机和一些低空作业的设备，比如小型直升机或者无人机。\n- 产品进展：\n  - 其中一种型号（S4）已经可以试飞了，说明技术比较成熟。\n  - 另外两种（P4和H4）预计今年下半年能制造出来，然后进行地面测试。\n- 市场现状：以前国内做民用航空发动机的少，都是国外公司在控制市场，导致飞机成本高。汉发长空想改变这种情况。\n- 发展意义：如果他们成功了，小飞机的成本会降低，普通人坐飞机或者用小设备会更方便，也能减少对国外技术的依赖。",
-      "summarized_at": "2026-07-16T10:16:00.978Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784196897398",
-      "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
-      "summary": "作者｜黄楠\n编辑｜袁斯来\n在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。\n这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。\n但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。\n庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一智能体育AI教练机器人Aura发布，完成了从网球场景的训练工具、到多运动AI教练机器人的落地。这款产品在Kickstarter上线当天，仅5小时众筹金额便超过1...",
-      "url": "https://36kr.com/p/3896586337978244?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-16T01:30:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 多合一AI教练机器人来了\n\n庞伯特是一家做AI体育硬件的公司，之前靠卖网球发球机火出了名。这家公司很受投资圈喜欢，半年内拿了三笔钱，总共好几亿美元。他们的产品在全球有30多万用户，设备发球次数超过20亿次。\n\n但现在竞争越来越激烈。网球发球机市场不光有他们，还有国内新公司和国外老牌子都在抢生意。庞伯特觉得不能再只做网球设备，于是今年5月推出了个叫Aura的多运动AI教练机器人。\n\nAura可以教好几种运动，不是只能打网球。它在Kickstarter上发售后很受欢迎，5小时就筹到了超过100万美元。这说明大家觉得这种能教多种运动的人工智能教练很实用。\n\n简单说，庞伯特用Aura把公司从只做网球设备，扩展到了教多种运动，这样就能抓住更多市场机会了。",
-      "summarized_at": "2026-07-16T10:16:08.451Z",
       "summary_status": "success"
     },
     {
