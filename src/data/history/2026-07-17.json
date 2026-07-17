@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-17T10:04:45.121Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-17T10:04:45.122Z",
+    "date": "2026-07-17",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1784282596273",
-      "title": "The risk of weather data sabotage is rising",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit...",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-17T08:57:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 天气数据可能被破坏，这事儿越来越严重了\n\n每天，航空公司调度、电网管理员、农民这些人都得做决定，他们看的都是天气预报。虽然咱们平时看天气预报可能也就瞅两眼，但这东西可重要了，直接关系到很多人的工作。比如，航空公司要根据天气决定航班能不能飞，电网要根据天气安排用电，农民要根据天气决定什么时候播种。\n\n但现在有个问题，天气预报可能被人故意搞坏。就像你平时买菜看到新鲜蔬菜，结果发现是别人故意把蔬菜弄坏的，那你就没法买了。天气预报也是一样，要是有人故意把天气数据弄错，那这些行业的人就会做出错误的决定，后果可能很严重。\n\n- 航空公司可能会安排不适合天气的航班，导致飞机出问题\n- 电网可能会因为错误的天气数据，造成停电或者用电紧张\n- 农民可能会因为错误的天气信息，种错庄稼，导致减产\n\n现在这种故意破坏天气数据的行为越来越多了，所以大家要小心，天气预报可能不是完全准确的，有时候需要多加留意。如果发现天气预报不对劲，最好还是多问几个渠道，别光听一家之言。毕竟，天气预报关系到很多人的生活和安全，不能马虎。",
-      "summarized_at": "2026-07-17T10:03:24.245Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784282596273",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m...",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-15T17:09:37.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## GPT-Red：OpenAI的\"网络安全训练师\"\n\nOpenAI最近开发了一个叫GPT-Red的超级黑客模型，专门用来挑战其他AI模型的安全性。简单来说，就像学校里的\"尖子生\"经常和普通学生比赛，让普通学生提高学习成绩一样，GPT-Red通过\"攻击\"OpenAI的其他模型，帮助它们学会如何更好地防御网络攻击。\n\n- **背景**：OpenAI最近发布了最新版的GPT-5.6，这个模型就像一个超级智能的助手，能写文章、回答问题。但任何智能系统都怕被黑客攻击，就像我们的手机怕病毒一样。\n\n- **GPT-Red的作用**：这个超级黑客模型会不断尝试\"破解\"OpenAI的其他模型，找出它们的弱点。其他模型在防御GPT-Red的过程中，就能学会如何更好地保护自己，就像我们玩游戏时，越打越懂得怎么躲避攻击。\n\n- **实际效果**：OpenAI表示，通过和GPT-Red\"过招\"，GPT-5.6变得更安全了。这就像一个公司雇了\"黑帽黑客\"来测试自己的系统，找出漏洞并修复，从而避免真正被黑客攻击时吃亏。\n\n总之，GPT-Red就像是AI世界的\"安全训练师\"，通过不断的\"攻防演练\"，帮助其他AI模型提高防御能力，确保它们在真实世界中不容易被攻击。",
-      "summarized_at": "2026-07-17T10:03:24.756Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784282596273",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo...",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-13T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 谷歌旗下AI公司的新发现\n\n- **公司背景**：Anthropic是现在值钱最多的AI公司之一，几乎值1万亿。这家公司喜欢研究一些比较特别的AI技术，就像爱研究神秘实验的科学家。\n\n- **发现内容**：最新研究发现，AI在模仿人类思考方面进步了。比如，AI能更好地理解人类说话时省略的部分，就像你和朋友说话时省略\"你\"，朋友还是能明白意思。但AI在处理复杂情感时还不太行，比如理解讽刺或暗讽，就像小孩子听不懂大人开玩笑。\n\n- **实际应用**：这个发现让AI更接近人类日常交流。比如客服机器人能更自然地回答问题，但还做不到像人类一样开玩笑。科技公司希望通过这种方式让AI更智能，但离真正像人脑还差得远。\n\n- **局限之处**：AI目前只能在特定任务上表现好，比如下棋或认图，但换到其他场景就卡壳。就像你精通数学但不会做饭一样。科学家们正在努力让AI更全能，但过程缓慢。\n\n- **未来展望**：虽然AI进步了，但离能完全理解人类思维还很远。这就像学骑自行车，现在能保持平衡但遇到复杂路况还是会摔倒。科技公司还在不断尝试，希望有一天AI能像人类一样思考。",
-      "summarized_at": "2026-07-17T10:03:33.329Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784282596273",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ...",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-09T20:22:28.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能公司的新发现：AI在想什么？\n\n- **核心发现**：一家叫Anthropic的公司发明了一种新方法，能更清楚地看到大型语言模型（比如聊天机器人）在回答问题或做任务时，脑子里到底在想什么。这就像我们用X光照看身体，以前只能看到表面，现在能看内部了。\n\n- **发现内容**：研究人员发现，AI的想法五花八门，有的很普通，有的有点吓人。比如，AI在处理简单问题时，会像人类一样思考一些日常琐事；但在遇到复杂问题时，可能会产生一些奇怪的“想法”，让人怀疑它在胡乱猜测。\n\n- **研究工具**：为了做到这一点，Anthropic开发了一个特别的工具（虽然文章没说出具体名字），就像一个侦探用的放大镜，能放大AI的“思考过程”。通过这个工具，研究人员能看清AI是如何一步步得出答案的，而不是只看最终结果。\n\n- **意义**：这个发现很重要，因为它让我们更了解AI的“思维方式”。以前我们只知道AI能回答问题，但不知道它是怎么做到的。现在我们知道了，AI的“思考”既有像人类一样的地方，也有完全不同的地方。这对改进AI很有帮助，也能让我们更放心地使用它们。",
-      "summarized_at": "2026-07-17T10:03:32.753Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1784282596273",
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
@@ -276,78 +200,6 @@
       ],
       "ai_summary": "## 免费云服务推荐\n\n这个GitHub Trending榜单整理了一些不用花钱就能试用的云服务，特别适合做IT开发的同学们。\n\n### 云服务就像餐馆套餐\n\n想象一下开餐馆，有的只收10块钱能吃顿快餐（SaaS），有的收20块能自己做饭（PaaS），还有的收50块能租个整栋楼自己装修（IaaS）。这些云服务也是类似的：\n\n- **SaaS（快餐服务）**：比如微软的Office 365，免费版能用Word、Excel，适合小团队写文档\n- **PaaS（做饭服务）**：比如Heroku，免费版能写代码部署网站，适合测试新想法\n- **IaaS（整栋楼）**：比如AWS的EC2，免费版能租虚拟机，适合做复杂项目\n\n### 免费套餐怎么用\n\n这些云服务商都给新手准备了免费套餐，比如：\n\n- **AWS**：每月免费用AWS计算、存储等资源\n- **Google Cloud**：免费版能跑100个代币的AI模型\n- **Microsoft Azure**：免费版有200小时的虚拟机使用时间\n\n这些免费服务适合：\n\n- 开发新应用时测试想法\n- 小团队节省成本\n- 学习云计算技术\n\n注意这些免费套餐都有使用限制，比如AWS每月最后一天突然停服务，所以大项目还是得付费。",
       "summarized_at": "2026-07-17T10:04:29.305Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784282599611",
-      "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
-      "summary": "随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。\n7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。\n据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试平台，可同步完成多台设备性能检测，并通过智能系统辅助进行...",
-      "url": "https://36kr.com/p/3899439565325953?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-17T07:55:26.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 中科天塔星载激光通信智能产线投产\n\n### 背景：卫星通信升级换代\n想象一下，现在很多卫星像手机一样需要频繁打电话发信息，但传统的方式像用老式拨号电话，速度慢还容易断线。科学家们发明了一种新的\"激光电话\"，用光速传输数据，又快又稳定，就像现在5G网络比4G快一样。这种技术叫星载激光通信，未来很多卫星都会用。\n\n### 新工厂：智能生产中心\n中科天塔在西安建了一个高科技工厂，专门生产这种\"激光电话\"设备。工厂有2000平方米大，像个超级智能的实验室，能同时做很多工作：把零件组装起来、调试设备、模拟太空环境测试。工厂还用电脑自动检测，效率特别高。\n\n### 规划：未来产量更大\n- 目前计划一年生产600套设备\n- 到2027年，要生产超过1000套\n- 比如现在你买手机，每代产品成本都在下降，这个工厂也是这样，以后能更快地生产更多设备\n\n### 关键技术点\n- **激光通信**：用激光束传输数据，比微波更高效\n- **智能产线**：像工厂用了机器人，自动检测产品好坏\n- **空间环境模拟**：在实验室模拟太空的温度、震动等条件测试设备\n\n这个工厂的投产，意味着中国太空通信技术又向前迈了一大步，未来太空互联网会更快更好用。",
-      "summarized_at": "2026-07-17T10:04:28.655Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784282599611",
-      "title": "我们有多久，没长久地喜欢过一个东西了？",
-      "summary": "我们有多久没有长久地喜欢过一个东西了？\n在这个注意力被成倍压缩、审美红利稍纵即逝的快消时代，新鲜感的贬值速度快得惊人。换一部手机，追一个新坑，或者刷完几个短视频，我们的注意力就被迅速瓜分干净，连喜爱都变得行色匆匆。\n但在这个热闹又健忘的环境里，却存在着反常的例外——一个不说话，甚至从不微笑的潮流手办，竟然被人们安静地喜爱了整整二十年。  \n为什么不同年龄、不同背景的人，都愿意和她建立情感链接？为什么每个人眼里的她，好像都不太一样，却又都觉得她始终陪伴着自己？\n带着这些疑问，我们一起重新回看MOLLY这个潮流手办的20年。\n不被定义的“不讨好”\n北京798的展厅里，人比想象中还要多。\n仔细观察看...",
-      "url": "https://36kr.com/p/3899428949132932?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-17T07:46:38.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 我们多久没长久喜欢一件事了？\n\n## 注意力太容易被分散\n\n现在生活节奏快，什么都追求新鲜感。换手机、追新剧、刷短视频，注意力很快就被各种事情抢走，很少有东西能让我们真正喜欢很久。\n\n## 潮流手办MOLLY是个例外\n\n但有个叫MOLLY的潮流手办，已经被人喜欢了整整20年。它不说话也不笑，怎么就让人这么着迷呢？\n\n## 为什么大家都喜欢MOLLY？\n\n- 不同的人喜欢MOLLY，但每个人觉得它都像陪伴自己的人\n- 它不定义自己，所以每个人都可以根据自己的感觉去理解它\n- 在快节奏的生活里，这种能让人长久投入的东西越来越少\n\n## 20年的喜爱说明了什么？\n\n- 人们其实渴望长久的东西，但不一定知道该找什么\n- MOLLY的成功告诉我们，简单的东西也能带来长久陪伴\n- 在追求新鲜感的同时，我们可能错过了真正值得喜欢的东西",
-      "summarized_at": "2026-07-17T10:04:34.058Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784282599611",
-      "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
-      "summary": "[中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（<20Mbps）占比仅0.1%。优异的现网测评结果标志着联通好网络在北京区域已经从5G-A全城点亮迈向全域大上行的发展新阶段。\n\n“5G Capital”路上见媒体路测\n在现场路测中，中国联通北京市分公司通过3.5G+2.1G协同组网支撑了大上行网络指标测评和AI终端业务体验。长达34...",
-      "url": "https://36kr.com/p/3899398088509319?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-17T07:13:05.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 中国联通和华为打造了全球最大的5G-A高速上传网络\n\n### 核心信息\n- **地点**：北京\n- **时间**：2026年7月15日\n- **技术**：5G-A大上行网络，特别擅长上传数据（比如上传照片、视频）\n- **规模**：覆盖北京全城，用了超过10000个基站（像城市的信号塔）\n\n### 体验测试\n- **测试方式**：七家媒体现场体验，实际用手机测试网络\n- **结果**：上传速度很快，大部分时间能达到100兆（相当于几秒钟就能上传一部高清电影）\n- **证明**：网络覆盖广，信号稳定，很少出现卡顿\n\n### 技术亮点\n- **怎么实现的**：中国联通和华为用了两种频段（3.5G和2.1G）一起工作，让上传速度更强\n- **应用场景**：比如直播时能更流畅地上传画面，或者远程办公时上传文件更快\n\n### 意义\n- **进步**：以前是全市某个地方有这种网络，现在整个北京都能用了\n- **未来**：这种网络能支持更多需要高速上传的场景，比如VR视频、智能家居等\n\n简单说，就像你家宽带以前主要用来下载东西，现在这个网络特别擅长上传，而且覆盖了整个北京，让各种需要快速上传的应用都能更顺畅。",
-      "summarized_at": "2026-07-17T10:04:36.163Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784282599611",
-      "title": "震业新材完成超亿元A轮融资，招商致远、玉柴股份、海富产业基金领投｜36氪首发",
-      "summary": "36氪获悉，ADI金属材料企业震业新材近期完成超亿元A轮融资。\n本轮融资由招商致远资本、玉柴股份、海富产业基金领投，中金资本、江苏省沿海集团、黄海金控跟投，所融资金将主要用于ADI材料产线扩建、核心工艺迭代研发，以及乘用车、商用车、工程机械等下游场景的商业化落地。\n震业新材告诉36氪：“在ADI行业，1200MPa抗拉强度、4%延伸率是行业通用性能标准。延伸率达到5%~6%以上，才算真正意义的高韧性结构材料，这也是行业关键技术分水岭，高强韧性可满足齿轮、底盘、重载传动等核心安全件的抗冲击、抗疲劳、不断裂要求。”\n而行业主流厂商的技术水平，普遍停留在QTD 900-8（900MPa抗拉强度、8%...",
-      "url": "https://36kr.com/p/3898476192941697?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-17T05:41:21.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 震业新材完成超亿元融资，要做更结实的材料\n\n### 公司情况\n- 震业新材是一家做ADI金属材料的公司，最近拿到了超过1亿元的资金。\n- 有招商致远资本、玉柴股份等大公司带头投资，还有其他一些公司跟着投。\n\n### 资金用途\n- 这些钱主要用于扩大生产线、改进技术、把产品用到汽车、卡车、工程机等设备上。\n- 公司想生产更结实的材料，让设备更耐用。\n\n### 材料技术\n- 通常的材料强度和延展性像橡皮筋，拉到一定程度就会断。\n- 震业新材想做到橡皮筋拉两倍长都不断，这是行业里的顶尖技术。\n- 目的是让汽车的齿轮、底盘等关键部位更抗冲击、不坏。\n\n### 行业水平\n- 现在市面上最好的材料强度是900MPa，延展率是8%。\n- 震业新材想做到强度更高、延展率更大，比如强度1200MPa、延展率5%以上。\n- 这样就能用在更重要的部位，比如卡车的大齿轮，保证安全。\n\n### 未来计划\n- 公司准备把技术用在汽车、卡车、工程机等设备上，让这些设备更耐用。\n- 希望通过技术进步，在市场上获得更多机会。",
-      "summarized_at": "2026-07-17T10:04:45.121Z",
       "summary_status": "success"
     },
     {
