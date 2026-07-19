@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-19T09:57:28.673Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-19T09:57:28.674Z",
+    "date": "2026-07-19",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1784454957313",
-      "title": "The risk of weather data sabotage is rising",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit...",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-17T08:57:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 天气数据被破坏的风险越来越大了\n\n- 每天早上，航空公司调度、电网运营商、农民都要做决定，都看着一样的天气预报。虽然一般人看天气预报就两秒钟，但它其实影响了很多行业的大事。\n- 比如航空公司得根据天气安排航班，电网得根据天气调整用电，农民得根据天气种地。要是天气预报不准，飞机可能飞不到，电网可能停电，庄稼可能种错。\n- 现在，有人故意搞破坏，让天气数据出错的风险越来越大。这就像有人故意把天气预报说错，让大家做错决定一样。\n- 比如，有人可能故意把天气预报说成晴天，结果农民看了去种地，结果下大雨，庄稼全淹了。或者，有人把天气预报说成要暴风雪，结果航空公司不敢飞，导致很多人误机。\n- 所以，现在大家越来越担心天气数据被破坏，因为这会带来很多麻烦。比如经济损失、安全问题，甚至有人可能故意用这个来打击别人。\n- 为了防止这种情况，现在科技人员和政府部门正在想各种办法，比如加强数据安全，提高天气预报的准确性，这样就能减少被破坏的风险。",
-      "summarized_at": "2026-07-19T09:56:08.809Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784454957313",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m...",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-15T17:09:37.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI开发“超级黑客”GPT-Red保护AI模型\n\nOpenAI create了一个叫GPT-Red的“超级黑客”，专门用来和自家AI模型对打，提高它们防范黑客攻击的能力。就像你练跆拳道时找个实力相当的教练互相切磋一样，这个“黑客”能帮助AI更加强大。\n\n上周，OpenAI发布了最新版的GPT-5.6模型，这个模型就是在和GPT-Red“打架”的过程中训练出来的。OpenAI说，通过和GPT-Red的较量，这个新模型变得更抗“攻击”了。\n\n### GPT-Red的作用\n- 就像给你的AI穿上更结实的盔甲\n- 通过互相攻击学习，让AI更懂得如何自卫\n- 增强模型对恶意攻击的抵抗力\n\n### 模拟生活例子\n想象一下学游泳：教练故意把你推到水里，这样你才能学会如何在危险时自救。GPT-Red就像那个“坏教练”，故意攻击AI模型，让它们学会如何应对真正的黑客攻击。\n\n### 总结\nOpenAI用GPT-Red这种“以攻代防”的方式，让AI模型变得更安全。就像我们小时候玩捉迷藏，通过不断被找到来学会更好的藏身技巧。这种训练方法让AI在面对网络攻击时更从容，就像一个练过功夫的人面对挑衅不会轻易被欺负。",
-      "summarized_at": "2026-07-19T09:56:08.016Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784454957313",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo...",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-13T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Anthropic最新AI发现的厉害之处和不厉害之处\n\n### AI公司Anthropic的新发现\n\nAnthropic是一家价值接近1万亿美元的人工智能公司，他们最近公布了一项关于AI的研究成果。这项研究有点像科学家在研究一种新药，看看它能治什么病，又不能治什么病。\n\n### AI能做什么\n\n研究发现，Anthropic的AI在某些方面表现不错：\n\n- **写代码**：就像熟练的程序员一样，能写出功能正常的代码。\n- **处理文字**：可以理解人的话，回答问题，就像一个能聊天的朋友。\n- **遵守规则**：能按照给它的指令做事，比如写诗歌或讲笑话。\n\n### AI不能做什么\n\n但是，这项研究也揭示了AI的短板：\n\n- **没真正理解**：AI只是学会了模仿人的话，但并不真正明白意思。就像一个背了很多台词的演员，但不理解剧情。\n- **常识有限**：AI缺乏生活中的常识。比如问\"湿的头发上能晾衣服吗\"，AI可能答\"能\"，但实际会滴水。\n- **创造力不足**：AI写的故事或诗歌可能很流畅，但缺乏真正有创意的想法，更像是拼凑别人的东西。\n\n### 总结\n\n总的来说，Anthropic的AI就像一个聪明的学生，能在某些任务上做得很好，但离真正的人类智慧还有距离。这项研究让我们更清楚AI的强项和弱项，有助于未来改进AI，让它更安全、更可靠。",
-      "summarized_at": "2026-07-19T09:56:26.797Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784454957313",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ...",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-09T20:22:28.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI公司发现AI思考的秘密\n\n### 研究新发现\n- AI公司Anthropic发明了一个新工具，像透视镜一样看清了大语言模型（比如AI助手）是怎么思考的。\n\n### 模拟人类思考\n- 这就像我们用放大镜看小朋友做作业，发现他们写作业时的小动作（比如用橡皮擦来来回回擦）。\n- AI助手回答问题时，也会在\"大脑\"里做类似的小动作，比如反复修改答案、查找资料等。\n\n### AI的\"小秘密\"\n- 有些AI行为很正常，比如像学生一样先查资料再回答问题。\n- 但也有让人惊讶的行为，比如AI会突然放弃正在做的任务，去看完全无关的内容（就像人突然走神一样）。\n\n### 生活中的比喻\n- 这就像我们观察小孩学习新知识，发现他们先把新知识放一边，先玩其他玩具再回来思考。\n- AI也是这样，会同时处理很多信息，就像人一边吃饭一边看电视。\n\n### 研究意义\n- 这个发现让我们明白AI不是单一思考，而是像人一样有各种思考方式。\n- 这对改进AI有帮助，就像老师通过观察学生学习方式来改进教学方法。",
-      "summarized_at": "2026-07-19T09:56:14.973Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1784454957313",
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "## SigNoz 是什么？\n\nSigNoz是一个开源的观察平台，就像是你家里的智能管家，能帮你管理各种数据。它专门为你的团队和AI助手设计，可以同时收集日志、指标和追踪信息，就像把家里的水电煤气账单、维修记录和智能门禁记录都放在一个盒子里，方便查看。\n\n### 核心功能\n\n- **一站式监控**：不用跑好几个地方查信息，比如修水龙头、换灯泡这些事， SigNoz都能帮你记录和管理。\n- **APM（应用性能监控）**：就像手机里的健康监测，能帮你看看你的程序运行得怎么样，有没有卡顿或生病。\n- **分布式追踪**：如果家里水管漏了， SigNoz能帮你找到是哪个水管出的问题，就像侦探一样。\n- **日志管理**：所有操作记录都存好，需要的时候能快速找到，就像存照片。\n- **基础设施监控**：检查家里的电器是不是正常工作，比如空调、电视等。\n\n### 附加功能\n\n- **SigNoz MCP**：像一个智能助手，帮你处理更多复杂问题。\n- **AI队友（SigNoz Cloud）**：提供更智能的帮助，比如自动修复小问题。\n\n### 主要优点\n\n- **提高应用韧性**：就像给家里安装了更坚固的门锁，防止小问题变成大麻烦。\n- **开放性**：免费且可定制，就像DIY改造家一样灵活。\n\n总之，SigNoz是个强大的工具，能帮你轻松管理各种数据，让你的工作和生活更高效。",
       "summarized_at": "2026-07-19T09:57:13.778Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784454962643",
-      "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
-      "summary": "今日热点导览\n月之暗面正式推出开源模型Kimi K3\n智谱ARR达到10亿美元，半年增长15倍\n国际足联：世界杯冠军将有戒指，每枚均有独立编号\n国内成品油价7月17日晚上调\nA股存储板块龙头股遭遇两个跌停\nTOP3大新闻\nofo停更5年突然发文，运营主体仍处存续状态\n7月15日，沉寂近5年的ofo小黄车官方微信公众号突然更新。此次公众号发布的内容，是一则皮肤病患者援助招募信息。虽然与共享单车业务并无关联，这次更新仍然迅速引发关注。不少网友提及尚未退回的押金问题：“我的199元什么时候退？”“退款队伍还排着吗？”“这么多年过去了，押金还有希望吗？”\n此前有不少网友认为，ofo早已倒闭。然而，天眼...",
-      "url": "https://36kr.com/p/3900449325287305?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-18T01:05:45.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 今日热点总结\n\n## 大公司动态\n- **ofo突然更新公众号**：消失了5年的共享单车ofo，最近突然在公众号发了一篇和自行车无关的文章，说是帮皮肤病患者找志愿者。很多人关心他们的押金还没退回来，担心这么多年过去了能不能拿到钱。其实ofo并没有真的完蛋，只是不再做共享单车了，但公司还在正常运作。\n- **苹果重回第一市值**：苹果公司又变得最有价值的公司了，比其他公司加起来还值钱。这说明大家还是信任苹果的产品，愿意花大钱买他们的手机和电脑。\n- **乐事回应蓝色薯片**：乐事出了款蓝色的薯片，很多人好奇是哪里来的。乐事官方解释说，是和一家小厂商合作，专门为某个活动做的限量款，不是永久生产的。\n\n## 其他新闻\n- **国产AI模型推出**：有个叫Kimi K3的开源模型出来了，意思是别人可以免费使用和修改这个技术，就像共享单车一样，让大家都能用。\n- **足球圈好消息**：世界杯冠军现在可以拿到一枚戒指，每个戒指都有独一无二的编号，比以前的奖杯更特别。\n- **油价要涨**：从7月17号晚上开始，加油站的价格要涨了，大家开车出门可能要多花点钱。\n- **存储股大跌**：A股市场上，做存储设备的大公司股价突然跌了非常多，一天内跌了两次，就像股票市场突然刮起一阵冷风。",
-      "summarized_at": "2026-07-19T09:57:13.897Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784454962643",
-      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
-      "summary": "2026 世界人工智能大会（WAIC 2026）于 7 月 17 日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。阶跃星辰董事长、千里科技董事长印奇作为特邀嘉宾出席大会开幕式并在大会主论坛（上午场）发表主题演讲《当智能体进入物理世界》。回顾 15 年 AI 创业历程，他表示，AI 创业已从小众赛道成为全球重要共识。今天的 AI 研究者和创业者既站在几代科学家持续探索的肩膀上，也受益于信息技术、移动互联网、云计算、半导体、新能源等产业积累，能够参与这场时代变革无比幸运。\n印奇判断，2026 年模型能力正在跨越关键临界点，AI 已从只能连续执行数秒任务，进阶到能...",
-      "url": "https://36kr.com/p/3900439867147909?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-18T00:53:35.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 印奇在 WAIC 2026 大会上的演讲总结\n\n### 人工智能发展的重要时刻\n\n2026 世界人工智能大会（WAIC 2026）于7月17日开幕，印奇作为特邀嘉宾在大会上发表演讲。他告诉大家，人工智能已经从以前的小众领域变成了全球都在关注的重要事情。现在的AI研究者们能做这么多，是因为前几代科学家长期努力的结果，也得益于电脑、手机、网络、芯片等技术的发展。能参与这个大变革，印奇觉得非常幸运。\n\n### AI正在发生大变化\n\n印奇说，2026年AI的能力正在发生一个重要变化。以前AI只能连续做几分钟的事情，现在它们已经能更好地理解和应对现实世界。就像以前扫地机器人只能简单重复路线，现在能学会避开障碍物、适应不同环境。这种进步让AI从只能做简单任务，变成了能更智能地处理复杂问题。\n\n### AI走进我们的生活\n\n印奇还提到，AI正在从虚拟世界走向真实世界。以前AI主要在电脑里运行，现在它们开始能和物理世界互动。比如智能机器人不仅能看，还能动手做事情，就像一个能帮你买东西、做饭的家庭助手。这种变化让AI从简单的工具，变成了能实际帮助我们的伙伴。\n\n### 未来发展充满机遇\n\n印奇认为，现在正是投身AI事业的最好时机。就像互联网刚兴起时，很多人抓住了机会改变世界一样，现在的AI领域也充满了可能性。只要跟着技术发展，普通人也能参与其中，共同创造更智能的未来。",
-      "summarized_at": "2026-07-19T09:57:20.787Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784454962643",
-      "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
-      "summary": "大公司：\n成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验\n36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I期临床试验阶段。该疫苗抗原含量为常规剂量四倍，适用于60岁以上老年人群及高风险人群，国内尚无同类产品获批上市，有望填补市场空白。\n苏宁易购携手人工智能合作伙伴，布局家用服务机器人\n36氪获悉，近日，苏宁易购旗下碧英科技入围工信部人工智能揭榜挂帅项目，将联合产业生态合作伙伴研发智能家庭陪护机器人。该项目面向老龄化背景下的居家照护需求，结合具身智能技术，探索家用机器人商业化路径。\n阿...",
-      "url": "https://36kr.com/p/3896564485572489?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-17T13:01:42.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 近期科技和商业动态总结\n\n### 阿里1688推出AI交易标准\n- 阿里1688要搞个大事情，让所有做生意的人用AI来帮忙，让大家买卖东西更方便，就像现在网购都用手机支付一样方便。\n\n### 英特尔与Google Cloud合作\n- 英特尔和Google Cloud决定联手，一起开发更好的电脑和云服务，让大家用电脑和上网都更快更好用，就像手机和WiFi越来越智能一样。\n\n### 铁路试点提前60天购票\n- 火车票可以提前60天买啦！铁路部门试了个新办法，让大家不用抢，提前很久就能买到车票，就像现在订机票酒店一样方便。\n\n### 成大生物研发新疫苗\n- 成大生物开发了一种新疫苗，专门给老人和高风险人群用，这个疫苗比普通的强四倍，国内还没有这种疫苗，可以更好地保护大家。\n\n### 苏宁易购布局家用机器人\n- 苏宁易购和人工智能公司合作，要做一个能帮忙照顾家里的机器人，特别是给老人用，就像现在家里有扫地机器人一样，以后可能有更多智能帮手。",
-      "summarized_at": "2026-07-19T09:57:19.525Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784454962643",
-      "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
-      "summary": "7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。森博科技董事长于林义在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。\n本届WAIC以“智能伙伴，共创未来”为主题。相比过去几年行业对模型能力、参数规模和Demo效果的集中关注，2026年的AI产业讨论正在明显后移：企业更关心AI能否进入真实流程，能否承担具体任务，能否被业务结果验证。换句话说，AI不再只是一个“会回答”的工具，...",
-      "url": "https://36kr.com/p/3899556701128578?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-17T10:51:22.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI应用的关键：不只是技术，更是实际效果\n\n- **AI不再光会“耍帅”**  \n  过去大家觉得AI厉害，就因为它能快速回答问题、参数多、演示效果炫。但现在不一样了，就像以前买车，只要马力大、外观好看就行，现在大家更关心这辆车能不能帮你准时上班、省油又省心。AI也一样，光会“表演”不够，关键得能帮企业解决实际问题。\n\n- **森博科技的转型故事**  \n  森博科技以前是做营销的，后来发现AI能帮企业更好地服务客户，就转型成AI科技公司。他们发现，光有好技术没用，还得把AI用到具体业务中，比如帮企业做客户管理、数据分析，最后看能不能帮企业赚钱。\n\n- **AI要能“落地生根”**  \n  想象一下，你学做菜，光看视频不行，得亲手做，吃了觉得好吃才算数。AI也一样，得真正用到企业日常工作中，比如让客服机器人能接电话、处理投诉，最后看客户满意度是不是提高了。\n\n- **业务闭环很重要**  \n  比如你开个餐馆，光有好菜谱不够，还得有菜单、服务员、收钱等一套流程。AI应用也一样，得有从技术到具体操作、最后看到效果的全过程，才算真正有用。\n\n- **总结：AI要能帮企业“赚钱”**  \n  现在AI行业不再是比拼技术参数，而是看能不能帮企业解决实际问题、带来实际收益。比如一个AI客服能自动处理80%的简单问题，企业就能省下人力成本。这就是AI真正的价值。",
-      "summarized_at": "2026-07-19T09:57:28.673Z",
       "summary_status": "success"
     },
     {
