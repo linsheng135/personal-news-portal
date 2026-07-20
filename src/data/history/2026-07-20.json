@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-20T10:59:17.576Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-20T10:59:17.577Z",
+    "date": "2026-07-20",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1784545043039",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi...",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-20T08:39:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI招聘可能比人更偏心\n\n### AI怎么学坏的\n\n你有没有发现，有些网站给你推荐的东西总是你喜欢的？比如你看完一部电影，它马上就推类似的电影。这就像AI看简历的工作方式。AI是通过学习过去的资料来工作的，如果这些资料里有人的偏见，比如觉得某个学校毕业的人一定厉害，或者某个男生更适合技术岗位，AI就会把这些偏见记下来。就像你小时候跟着大人学说话，如果大人说话有毛病，你也会跟着学。\n\n### AI还会自己变偏心\n\n更奇怪的是，AI有时候会发展出自己新的偏见。就像你发现有的同学本来没偏见，但时间久了，也开始觉得某个地方的人都不怎么样。新研究说，AI也是这样，它会自己琢磨出一些没道理的喜好。比如某个AI可能突然觉得某个星座的人都不适合做销售，即使以前的数据里根本没这规律。\n\n### 对我们有什么影响\n\n这意味着，你投的简历可能还没被人看到，就被AI筛掉了。如果AI有偏见，那不就等于变相歧视吗？就像以前招聘时有人看脸或者看学历，现在AI可能还会看更多你不知道的因素。所以，下次AI告诉你简历没通过，说不定它心里在想些我们听不懂的怪事。",
-      "summarized_at": "2026-07-20T10:57:32.798Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784545043039",
-      "title": "The risk of weather data sabotage is rising",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit...",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-17T08:57:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 天气数据被破坏的风险越来越高\n\n### 生活中的例子\n你有没有想过，每天早上看天气预报，这只是个开始。航空公司调度员、电网管理员、农民这些重要角色，都是靠天气预报做决策的。比如，飞机要不要起飞、电网怎么安排用电、农作物怎么种植，都离不开天气预报。\n\n### 为什么天气数据很重要\n天气预报不是随便说的，而是根据大量气象数据计算出来的。这些数据包括温度、湿度、风速等等。如果有人故意破坏这些数据，天气预报就会出错，进而影响很多人。比如，如果天气预报说天气很好，结果突然下大雨，飞机可能会出故障，电网可能会过载，农作物也可能会被淹死。\n\n### 谁会破坏天气数据\n虽然听起来像是电影情节，但现实中确实存在这种风险。比如，有人可能会黑客攻击气象站，或者篡改气象数据。这些行为可能来自商业竞争、政治目的，甚至是一些恶作剧。\n\n### 风险越来越大\n现在，随着科技的发展，破坏天气数据的方法也越来越高级。黑客技术越来越容易，而且气象数据网络的安全防护还不够完善。这意味着，未来天气数据被破坏的风险可能会更高。\n\n### 举个例子\n假设一个农场主看到天气预报说明天天气晴朗，就决定把所有作物都种出去。但如果实际有人破坏了数据，天气预报变成明天有大雨，结果农场主可能损失惨重。这就是为什么天气数据的安全非常重要。\n\n### 防范措施\n为了保护天气数据，科学家和工程师正在努力提高气象站的安全防护。比如，使用更安全的网络，增加数据验证机制，防止有人篡改数据。同时，政府和公司也在加强对黑客攻击的防范。\n\n总的来说，天气数据就像城市的“大脑”，一旦出问题，可能会引发很多连锁反应。现在这种风险越来越高，我们都需要更加警惕。",
-      "summarized_at": "2026-07-20T10:57:46.822Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784545043039",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m...",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-15T17:09:37.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## GPT-Red：OpenAI的网络安全小助手\n\nOpenAI最近推出了一个叫GPT-Red的“超级黑客”，它就像一个专门用来测试自家AI模型防线的对手。想象一下，你家的防盗门需要经常请人检查会不会被撬开，GPT-Red就是OpenAI给自家AI模型找的“防盗门检测员”。\n\n### GPT-Red的工作原理\n\n- **扮演黑客**：GPT-Red会模仿各种黑客手段，试图攻击OpenAI的其他AI模型，比如GPT-5.6。\n- **提升防御**：就像我们通过不断练习来提高防身术，GPT-Red每次攻击都会让其他模型学会新的防攻击方法。\n\n### 为什么这样做？\n\nOpenAI希望自家AI模型在面对网络攻击时更安全。比如，你的手机会定期更新系统来修复漏洞，GPT-Red就是AI版本的“系统更新”，帮助AI模型升级“安全补丁”。\n\n### 最新成果：GPT-5.6\n\nOpenAI最近发布的GPT-5.6就是经过GPT-Red“抗压训练”的成果。这个模型能更好地识别和应对各种网络攻击，就像一个经过严格训练的保镖，能更有效地保护重要数据。\n\nGPT-Red的存在让AI模型的安全性大大提升，未来我们用AI的时候会更放心。",
-      "summarized_at": "2026-07-20T10:58:00.043Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784545043039",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo...",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-13T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 聊聊Anthropic的最新AI发现\n\n### 公司背景\nAnthropic是一家特别会搞AI的公司，现在值钱得很，差不多有1万亿块那么值钱。他们经常发表一些让人摸不着头脑的研究。\n\n### 这次发现什么\n他们最近搞了个新东西，这个新东西能让AI更懂人类说话的意思。打个比方，以前AI就像个听不懂话的小孩，现在它变得更像能听懂父母唠叨的大人了。\n\n### 有什么用\n这个新发现能让AI在写邮件、聊天或者做任务时，更准确地把人类的意思搞懂。比如你想让AI帮你做件事，以前它可能会误解你的话，现在它更可能做你真正想做的事。\n\n### 有什么限制\n不过这个新东西也不是万能的。如果人类说话绕来绕去，或者用一些奇怪的词，AI可能还是会搞错。就像有时候大人说话含糊，小孩还是听不懂一样。\n\n### 总结一下\n总的来说，Anthropic的这个新发现让AI更懂人了，但在复杂情况下还是会有点笨。不过进步总比没进步好，以后AI能帮我们更多忙啦！",
-      "summarized_at": "2026-07-20T10:58:00.072Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1784545043039",
       "title": "Anthropic found a hidden space where Claude puzzles over concepts",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# PaperMC / Paper 服务器：让游戏体验更流畅的\"优化大师\"\n\n## 服务器界的\"性能小能手\"\n\n想象一下，你去参加一个聚会，发现场地特别大但人不多，走动起来很方便；但如果是很多人挤在一个小空间里，就会很拥挤，玩起来不舒服。PaperMC就是这样一个\"大空间\"，它能让《我的世界》服务器跑得又快又稳，即使很多人同时玩也不卡顿。\n\n## 修复游戏中的\"小毛病\"\n\n你有没有发现，有时候《我的世界》里会有一些不合理的现象？比如玩家移动时突然卡住，或者打怪时出现怪异行为。PaperMC就像一个\"质量检测员\"，专门找出这些游戏中的小问题并加以改进，让整个游戏体验更流畅自然。\n\n## 为什么大家都爱用它？\n\n- 像给游戏\"安装了新引擎\"：性能提升明显，即使电脑配置不高也能流畅运行\n- 像给游戏\"打补丁\"：修复了原版中的一些bug和不合理机制\n- 像给游戏\"升级内存\"：能同时容纳更多玩家在线而不影响体验\n- 社区支持强大：就像一个\"热心俱乐部\"，不断收集玩家反馈并改进\n\n简单说，PaperMC就是让《我的世界》服务器变得像\"开了挂\"一样流畅，让玩家能更专心地享受游戏乐趣。它就像游戏里的\"超级外挂\"，但这是官方认证的优化版本哦！",
       "summarized_at": "2026-07-20T10:58:59.188Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784545046950",
-      "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
-      "summary": "大公司：\n摩根士丹利成为华尔街AI债务交易头号银行\n摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资金。据业内高管称，自去年以来，该行已成为主导顾问，牵头了规模最大、最具创新性的AI基础设施融资交易。\n三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍\n据报道，三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍。\n马斯克称特斯拉FSD会模仿驾驶风格\n7月20日，埃隆·马斯克已确认特斯拉FSD（Full Self-Driving）软件正在从过去的“通用型、一套方案适用于所有...",
-      "url": "https://36kr.com/p/3903710346790535?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-20T10:22:28.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## SpaceX星舰试飞推迟\n\nSpaceX公司最近又要试飞他们的超级火箭“星舰”了，不过这次要推迟到7月23日。这个火箭挺厉害的，像个大号的铁罐子，上面有火箭发动机，能飞到太空。这次试飞是为了测试它能不能正常起飞和降落，为将来带人去火星做准备。\n\n## 摩根士丹利和AI贷款\n\n摩根士丹利这家大银行，现在成了专门给人工智能公司贷款的专家。AI需要很多钱来建数据中心，就像给手机修电的地方需要很多钱买零件一样。摩根士丹利设计了一种新的贷款方式，帮AI公司快速拿到钱，这样它们就能建更多的数据中心。\n\n## 三星电子扩大美国工厂\n\n三星电子在美国建了一个工厂，专门给其他公司生产电脑芯片。现在他们考虑把这家工厂的产量扩大一倍，就像开餐馆的人发现生意太好，决定多买几套厨具和桌子一样。这样做可以生产更多芯片，满足大家的需求。\n\n## 特斯拉自动驾驶模仿人开车\n\n马斯克说，特斯拉的自动驾驶系统（FSD）会学人开车的样子。现在这个系统不管什么情况都用一种方法开车，就像所有人开车都一个样一样。未来它会学着不同的人开车习惯，比如有些人开车喜欢快，有些人喜欢慢，系统会根据车主的喜好来开车，这样会更舒服。",
-      "summarized_at": "2026-07-20T10:59:01.857Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784545046950",
-      "title": "WAIC上，AI开始接管人类的欲望",
-      "summary": "24.8万的仿生人形机器人，“比彩礼都贵！”\n\n \n撰文 | 刘思洁\n编辑 | 张薇\n在2026年的世界人工智能大会（WAIC）上，大模型、算力与机器人占据着核心展区的宏大叙事。但在场馆地下一层的创新展区里，AI正在撕开含蓄的面具，向下接管人类最隐秘的本能：情欲、控制欲、对失去的遗憾、对孤独的恐惧，以及对未来的迷茫困惑。\n一只套着塑料壳的蛋形玩偶摆在桌子上，和人交互到一定亲密度后，它会“破壳而出”，一个毛茸茸的桌面宠物就此诞生；一个酷似Labubu的毛绒AI玩具主打亲子陪伴，父母想传递的教育内容，可以借一个AI玩偶的嘴说出来；还有一种陪伴被设计成了肩膀上的毛绒挂件，通过声音感知用户的情绪变化。...",
-      "url": "https://36kr.com/p/3903687507904387?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-20T10:06:08.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AI开始模仿人类情感\n\n在2026年的世界人工智能大会上，AI技术越来越像人，它们不仅能干活，还开始模仿人的各种情感反应。比如有个会\"破壳而出\"的玩偶，一开始是塑料蛋，熟了就变成毛绒玩具；还有个像小熊的AI玩具，能帮父母讲道理；甚至有个肩膀挂件，能听出人是不是不开心。\n\n这些AI开始了解人心里的小秘密：有的人喜欢在孤独时找安慰，有的人害怕失去，有的人对未来感到迷茫。AI就像个贴心的朋友，能懂你的感受，还能帮你排解情绪。\n\n不过这种模仿也让人有点担心。就像你有个特别懂你的AI朋友，它知道你喜欢什么，甚至知道你为什么难过。但AI毕竟是机器，它给的理解和安慰，跟真人朋友的感觉还是不一样。\n\n总之，AI正在变得越来越像人，能懂人的喜怒哀乐。虽然这让人感觉科技很厉害，但也提醒我们，人和机器还是有本质区别的。",
-      "summarized_at": "2026-07-20T10:59:08.824Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784545046950",
-      "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
-      "summary": "一台80cm高的毛绒人形机器人，可以承载多少想象力？\n“它虽然没有完全像人，但拥有全套的传感器，可以跟你交互、分析你的表情，去看你是高兴还是低落。只要算力可以满足，它可以提供各种各样的东西，软件能增量开发的东西是有无限想象力的。”\n青心意创CTO曾俊告诉硬氪。他所谈论的是Amoo——青心意创推出的首款智能机器人产品Amoo，身高80cm，拟人双足，无棱角毛绒全包覆。\n曾俊曾担任全球自动驾驶巨头Cruise的核心模型科学家，带领团队取得多项行业领先成果。他是加州大学伯克利分校博士，本科是由上海交大和法国巴黎综合理工联合培养的应用数学与力学系精英。曾在在双足机器人强化学习控制与安全关键系统领域发表...",
-      "url": "https://36kr.com/p/3903761449617027?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-20T09:12:42.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 毛绒机器人Amoo：会说话、懂情绪的未来小伙伴\n\n- **机器人的样子**：Amoo是一个80厘米高的毛绒玩具，圆圆的，没有棱角，看起来像大号的毛绒熊，但它是活的！\n- **能做什么**：它装了很多传感器，就像人一样能看你的表情，知道你开心还是难过。你跟它说话，它能听懂并回答；你难过时，它还能安慰你。只要给它装上足够聪明的软件，它就能干很多事，比如陪你聊天、当小老师，甚至帮你做家务。\n- **背后的技术**：这款机器人是青心意创公司开发的，公司里有很厉害的科学家，以前做过自动驾驶汽车。科学家们用了很多技术，让机器人能像人一样走路、和你互动。\n- **未来可能性**：这个机器人只是一个开始，以后还能升级更多功能，比如更懂你、更会帮你。只要软件做得更好，它能做的事情会越来越多，就像智能手机一样，越用越聪明。\n\n科学家说，这个机器人就像还没长大的小孩，现在能做简单的事，但以后能学会更多本领，陪我们更好地生活。",
-      "summarized_at": "2026-07-20T10:59:08.940Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784545046950",
-      "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
-      "summary": "硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此轮资金将用于技术研发、团队扩充和整机搭建。\n两仪万象成立于2024年，孵化自清华大学原子量子计算研究团队，该团队自2000年前后开始冷原子物理研究。\n两仪万象公司与清华大学原子量子计算科研团队联合成立了“冷原子量子计算北京市重点实验室”。由学校科研团队深入前沿基础研究，两仪万象公司则全权负责工程化落地与全栈式生态建设。\n作为十五五规划明确重点发展的未来产业，量子计算的水温正在持续升高，当前，全球正...",
-      "url": "https://36kr.com/p/3903756643255940?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-20T09:08:15.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 清华系量子计算公司获巨额投资，技术突破再创新高\n\n- **公司概况**：两仪万象是一家由清华大学原子量子计算科研团队孵化的公司，成立于2024年。这个清华团队从2000年就开始研究冷原子物理，也就是用超低温的原子做计算。\n- **融资情况**：最近，两仪万象获得了数亿元的A+轮融资，君联资本领投，其他多家投资机构跟投。这笔钱将用于改进技术、扩大团队和制造量子计算机整机。\n- **合作模式**：公司与清华大学合作，学校负责基础研究，公司负责把技术变成实际产品。就像一个团队负责画图纸，另一个团队负责盖房子。\n- **行业背景**：量子计算被认为是未来的关键技术，就像智能手机改变了通讯一样，量子计算可能彻底改变计算方式。目前全球都在投入大量资源研究这个领域。\n- **核心观点**：两仪万象的融资成功表明，量子计算技术越来越成熟，吸引了大量资本关注。公司结合了学术界的科研实力和商业界的工程能力，有望推动量子计算快速发展。",
-      "summarized_at": "2026-07-20T10:59:17.576Z",
       "summary_status": "success"
     },
     {
