@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-21T10:30:23.972Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-21T10:30:23.973Z",
+    "date": "2026-07-21",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1784629726379",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, ...",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-20T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 特朗普的AI\"口水战\"\n\n最近，一些曾给特朗普提过AI建议的人，还有现在还在帮忙的人，突然开始骂中国的AI公司。他们觉得中国的AI发展太快了，有点担心。骂话里说，中国的AI技术可能会比美国厉害，这让他们感到不安。\n\n这些人对中国的科技公司很不客气，公开说中国的AI不行、有问题。他们甚至觉得，中国的AI公司在某些方面做得比美国还好。这种说法让美国的AI公司很生气。\n\n- **AI技术竞争**：就像两个小孩比赛跑步，特朗普团队的人担心中国的小孩跑得更快。\n- **科技对抗**：这就像两个科技公司在比赛谁的产品更好，特朗普团队的人觉得美国公司被中国公司超越了。\n- **国家安全问题**：有人担心中国的AI技术可能会被用来对付美国，所以开始激烈反应。\n\n总的来说，这场\"口水战\"反映了中美在AI技术上的竞争越来越激烈。特朗普团队的人担心美国在AI领域落后了，所以开始公开攻击中国的AI公司。这让大家觉得，AI技术的竞争已经到了白热化阶段。",
-      "summarized_at": "2026-07-21T10:28:56.523Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784629726379",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi...",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-20T08:39:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI招聘可能更偏心\n\n### AI学人样儿  \nAI看简历跟人看脸一样，容易学人家长的偏见。比如，如果AI学的时候见的全是男生做技术，它可能就觉得男生更适合这个岗位。这就是为啥用AI看简历，可能还不如人眼看得准。\n\n### AI自己也会变偏  \n更吓人的是，AI不光学人的偏见，有时还会自己造偏见。就像你天天吃辣，慢慢自己也会喜欢吃辣一样。AI处理数据多了，可能就形成自己的\"喜好\"，比如特别偏爱某个学校或者某个口音的人。\n\n### 谁来管AI  \n现在很多公司用AI筛选简历，但没人能保证它公平。就像你让一个只看颜色的小孩选人，他可能就会只挑自己喜欢的人。AI没感情，但它的算法可能比人还\"势利眼\"。\n\n### 怎么解决  \n要想让AI不偏心，得先让人不偏心。比如，给AI看各种各样的人的简历，让它学会\"不挑食\"。不过现在这事儿很难，毕竟人就容易有先入为主的印象。\n\n所以，下次你的简历被AI刷下来，别光怪自己没本事，也许是AI\"看脸\"太厉害了。",
-      "summarized_at": "2026-07-21T10:28:57.176Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784629726379",
-      "title": "The risk of weather data sabotage is rising",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit...",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-17T08:57:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 天气数据被搞坏的风险越来越大\n\n天气预报就像我们每天看的手机天气，很多人只扫两眼。但实际上，它对很多行业的影响超乎想象。比如航空公司看天气决定航班是否起飞，电网要看天气安排供电，农民要看天气决定什么时候播种。这些决定都跟天气数据息息相关。\n\n- **天气数据很重要**：就像你出门前看会不会下雨，这些行业的人需要精确的天气信息来安排工作。如果数据不对，可能会出大事。以前天气数据主要靠地面观测，现在很多靠卫星云图等高科技手段。\n\n- **数据可能被破坏**：现在有人发现，黑客可以故意篡改天气数据。比如让天气看起来更热，导致电网过载；或者显示有风暴，让飞机不敢起飞。这种操作会让整个社会运转出问题。\n\n- **风险越来越大**：随着科技发展，篡改天气数据的手段越来越多，风险也越来越大。这就像你存的钱被偷偷划走一样，后果很严重。现在世界各国都在研究怎么保护天气数据，避免类似事情发生。\n\n总之，天气预报看似简单，但真实数据被破坏会引发很多连锁反应。保护天气数据安全，就像保护社会正常运转的基础设施。",
-      "summarized_at": "2026-07-21T10:29:03.963Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1784629726379",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m...",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-15T17:09:37.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## GPT-Red：OpenAI的\"安全训练师\"\n\nOpenAI最近开发了一个特别厉害的语言模型叫GPT-Red，它就像一个专门找茬的\"黑客\"，用来帮助OpenAI的其他语言模型（比如GPT-5.6）更好地防御网络攻击。想象一下，你练武功的时候需要一个水平比你高、会故意攻击你的师傅，这样你才能学会如何保护好自己。GPT-Red就是OpenAI给自家模型找的这个\"师傅\"。\n\n- **GPT-Red的作用**：就像你在学开车时，教练会故意制造危险情况让你应对一样，GPT-Red会故意用各种方式攻击OpenAI的模型，让模型学会识别和应对这些攻击。\n- **GPT-5.6的训练过程**：OpenAI最近发布的GPT-5.6就是经过GPT-Red\"专业训练\"的。这个模型能更好地识别网络攻击，比如有人在试图欺骗它说一些假话或者让它做危险的事情。\n- **为什么这样做**：网络攻击就像生活中遇到的小偷，如果模型不会防御，就可能被欺骗或用来做坏事。通过GPT-Red的训练，模型就像练出了\"防身术\"，能更好地保护自己不被坏人利用。\n\n简单来说，GPT-Red就是OpenAI给自家模型找的\"安全教练\"，通过互相\"较劲\"，让模型变得更安全、更不容易被网络攻击。这就像我们小时候玩\"你画我猜\"的游戏，通过不断猜测对方的意图，大家都能学会更清楚地表达自己的想法，模型也是一样，通过互相攻击和防御，变得越来越聪明。",
-      "summarized_at": "2026-07-21T10:29:05.315Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1784629726379",
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# PaperMC / Paper 服务器：让Minecraft游戏体验更流畅\n\n## 服务器的作用就像游戏中的\"维修工\"\n\n想象一下，你玩Minecraft时发现有些地方不太对劲，比如角色跑起来卡顿，或者某些游戏规则变混乱了，这就像游戏突然出了bug。PaperMC / Paper就是来专门解决这些问题的\"维修工\"。它是一个特别流行的高性能Minecraft服务器版本，能修复游戏中各种不协调的地方。\n\n## 为什么大家都在用它？\n\n- ** smoother like butter**: 服务器运行特别流畅，就像在光滑的冰面上滑冰一样顺畅，玩起来不会卡顿\n- ** bug fixer**: 专门解决那些让人抓狂的小问题，比如玩家动作不自然、物品掉落乱跑等\n- ** balance keeper**: 保持游戏平衡，让新手和高手都能找到乐趣\n- ** community loved**: 很多服务器都在用，因为效果真的不错\n\n## 它能做些什么？\n\n- 让游戏速度更快，就像给角色装了超级靴子\n- 修复那些奇怪的bug，比如跳起来会卡住\n- 让多人游戏体验更好，就像在一条赛道上同时比赛\n- 优化各种小细节，让游戏世界更真实\n\n总之，如果你玩Minecraft，特别是喜欢多人联机，PaperMC / Paper是个很棒的选择，它就像给游戏世界做了全面的美容和调整，让每个人都能玩得更开心。",
       "summarized_at": "2026-07-21T10:29:56.440Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784629729700",
-      "title": "独家 | PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人",
-      "summary": "文 | 李炤锋\n编辑 | 张雨忻\n智能涌现独家获悉，字节旗下XR（扩展现实）业务PICO近日完成业务负责人调整：由于个人规划原因，创始人周宏伟不再担任 PICO 负责人，李晓凯接任负责人，全面负责PICO业务。\n据了解，此次管理交接不会影响PICO既定的战略方向、研发工作和产品计划。今年，PICO将按计划带来全新的混合现实（MR）产品。\n作为 PICO 创始人，周宏伟在过去11年间为PICO的成长作出了重要贡献。PICO 内部已发布通知，确认周宏伟将离开公司，对周宏伟的长期投入与付出表示感谢。\n李晓凯拥有多年消费电子及硬件产品研发与管理经验。自2021年加入PICO以来，他负责PICO核心产品...",
-      "url": "https://36kr.com/p/3905176863721349?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-21T09:34:21.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## PICO高管更换：创始人周宏伟卸任，李晓凯接棒\n\n- **核心事件**：字节跳动旗下的VR公司PICO最近换了负责人。创始人周宏伟因为个人原因不再当总负责人，由李晓凯接替，全面管PICO的业务。\n  \n- **为什么换人**：周宏伟是PICO的创始人，之前11年对PICO发展很关键。现在他决定离开，公司对他表示感谢。李晓凯以前做消费电子产品和硬件管理，经验丰富，2021年就加入了PICO。\n\n- **业务影响**：这次换人不会影响PICO未来的计划，比如研发新产品。今年PICO还说会按计划推出新的混合现实设备，也就是更高级的VR眼镜。\n\n- **简单比喻**：想象一个开餐馆的老板（周宏伟）因为想回家养老，把餐馆交给了以前一直帮他管店的人（李晓凯）。虽然老板走了，但餐馆的生意照常，新老板还会继续开创新菜品。\n\n- **要点总结**：\n  - 周宏伟不再当PICO总负责人，李晓凯接任。\n  - 换人不会影响PICO的产品计划，今年会出新VR设备。\n  - 李晓凯有丰富经验，之前就在PICO工作。\n  - 公司感谢周宏伟多年的贡献。",
-      "summarized_at": "2026-07-21T10:29:57.501Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784629729700",
-      "title": "圆桌论坛：夏天周而复始·VC3.0| 36氪WAVES2026新浪潮",
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”\n\n冯大刚｜36氪CEO（圆桌主持人）\n王啸｜九合创投 创始人\n刘缨｜软...",
-      "url": "https://36kr.com/p/3905169127114368?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-21T09:05:17.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## WAVES 2026 大会总结\n\n### 2026年创投圈新趋势\n2026年，投资圈最大的变化是：人工智能不再是空中楼阁，而是真正应用到各行各业；硬科技创业从少数人的玩票变成了大家都在做的正经事。年轻创业者们就像程序员和工匠一样，用技术和双手改变中国创新的方向。\n\n### 大会亮点\n- 比**WAVES大会**还重要：每年这个大会就像股市的K线图，能看出投资圈下一年的风向。\n- 地点**广州番禺**：这次大会选在广州番禺，像选择一个热门旅游景点一样吸引人。\n- 内容丰富：两天的时间里，有14场圆桌讨论（像小组聊天）、几十场演讲（像专家讲课），专门讲AI、硬科技、出国卖货、医疗等热门话题。\n- 发现小人物的大能量：大会特别关注那些坚持做小众事的人，比如有人专门研究AI在农业的应用，结果带动了整个行业的变化。\n\n### 核心观点\n- AI不再是高科技名词，而是像水电一样普及的基础设施。\n- 硬科技创业像开餐馆，以前只有懂行的才敢开，现在像大学毕业生都能创业。\n- 年轻创业者用技术和努力，让中国创新变得更有竞争力。",
-      "summarized_at": "2026-07-21T10:30:04.507Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784629729700",
-      "title": "氪星晚报｜英特尔将在数据中心部门裁员；日产在美召回超16万辆阿曼达及英菲尼迪SUV；我国将建设3000个以上电动重卡充换电站",
-      "summary": "大公司：\n日产在美召回超16万辆阿曼达及英菲尼迪SUV\n美国国家公路交通安全管理局（NHTSA）7月21日公布，日产北美公司正在召回部分配备22英寸轮毂的2020至2026款阿曼达（Armada）、2011至2013款英菲尼迪QX56以及2014至2027款英菲尼迪QX80车型，涉及约16.8万辆汽车。由于车辆认证标签上的总轴重额定值（GAWR）标注错误，可能导致车辆超载，车辆超载会增加发生碰撞的风险。\nMeta与英伟达联手布局AI材料供应链\n社交媒体巨头Meta与芯片制造商英伟达周一宣布，共同参与一家英国AI初创公司的材料发现项目，旨在为半导体行业寻找新型制造材料。该初创公司此前已获得亚马逊...",
-      "url": "https://36kr.com/p/3905124154721925?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-21T08:43:23.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 最新消息汇总\n\n### 日产在美国召回汽车\n- 日产在美国召回了超过16万辆阿曼达和英菲尼迪SUV，因为轮毂尺寸标签标错了，可能导致车辆超载。超载会让车在撞车时更危险。就像你装了超重的背包，走路都摇摇晃晃，开车当然更危险。\n\n### Meta和英伟达合作搞AI材料\n- Meta（就是Facebook公司）和英伟达一起投资一家英国小公司，帮半导体行业找新材料。现在造电脑芯片的材料用得差不多，找新材料就像给做饭的人找新食材，保证以后能做出更好吃的“芯片大餐”。\n\n### 英特尔裁员\n- 英特尔要裁数据中心部门的员工。数据中心就是存很多电脑的地方，比如你放网盘的云服务。裁员说明公司想省钱，可能市场变差了。\n\n### 中国建电动卡车充电站\n- 中国要建3000多个电动重卡充电站。重卡就像大卡车，现在改用电动的，所以需要很多充电的地方，就像加油站一样，但是为电动卡车准备的。",
-      "summarized_at": "2026-07-21T10:30:03.018Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1784629729700",
-      "title": "10秒就能抽 IPhone 17 Pro！36氪企业全情报小程序福利抽奖来了！",
-      "summary": "参与门槛超简单，全程仅需 10 秒\n打开下方抽奖小程序，简单操作两步就能解锁抽奖资格：\n进入36氪企业全情报小程序快速体验，耗时不超10秒。\n任选一家企业完成订阅\n完成以上操作，直接免费获得抽奖机会，不用充值、不用拉人，人人可参与！\n扫描下方二维码即可参与，或直接点击参与：https://wxmpurl.cn/SjVCZt8Enro\n\n扫码参与抽奖！\n🎁豪华奖品池，中奖好物全实拍\n🥇一等奖：iPhone 17 Pro \n苹果旗舰手机，质感拉满，日常办公、娱乐一步到位，本次活动重磅头奖！ \n🥈二等奖：小米REDMI蓝牙音箱2\n居家好物，语音操控、听歌听资讯，小巧不占空间，提升居家幸福感。 ...",
-      "url": "https://36kr.com/p/3905042192189318?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-21T07:49:39.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 参与抽奖，10秒就能拿iPhone 17 Pro！\n\n### 抽奖超简单\n- 打开36氪企业全情报小程序，2步操作就行\n- 不用花钱，不用拉朋友，直接有抽奖机会\n\n### 怎么参与\n- 扫下面二维码，或点这个链接：https://wxmpurl.cn/SjVCZt8Enro\n- 里面挑一家公司订阅，比如你想关注的科技公司\n\n### 奖品超给力\n- 一等奖是iPhone 17 Pro，苹果最新款手机，办公娱乐都好用\n- 二等奖是小米蓝牙音箱，小巧能语音控制，在家听歌超方便\n- 还有很多其他奖品，都是实物照片\n\n### 重点提醒\n- 全程不超过10秒，比点外卖还快\n- 没有复杂规则，订阅后自动抽奖\n- 别错过拿iPhone的机会，现在就参与",
-      "summarized_at": "2026-07-21T10:30:23.972Z",
       "summary_status": "success"
     },
     {
