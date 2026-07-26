@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-26T10:06:19.416Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-26T10:06:19.416Z",
+    "date": "2026-07-26",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1785060303751",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro...",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-23T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI如何帮助科学家研发新药\n\n### 新药研发有多难？\n研发新药就像造一艘超级豪华游轮，但造出来可能根本卖不出去。科学家们要测试成千上万种材料，就像试了无数种配方烤蛋糕，但大部分配方都不行。这个过程要花几十年时间，花掉巨额资金，最后只有极少数药能真正帮到病人。\n\n### AI是怎么帮上忙的？\nAI就像个超级厨师兼营养师，它能：\n- 快速分析海量的化学成分，找出可能有效的\"秘方\"（药物分子）\n- 模拟药物在人体里的反应，就像用电脑做\"临床试验\"的模拟实验\n- 预测哪些成分可能产生副作用，提前排除危险选项\n\n### 具体例子\n比如研发抗癌药，AI可以：\n1. 从100万种化合物中挑出10种最有希望的候选药物\n2. 在虚拟人体里测试这些药物的效果\n3. 设计临床试验的最佳方案，比如先给哪些病人用\n\n### 最大的好处\n有了AI，新药研发就像坐了火箭，速度从几年缩短到几个月，成本也大大降低。科学家们终于能从\"大海捞针\"变成\"精准打击\"，让更多病人更快用上救命药。\n\n### 未来展望\n以后新药研发可能就像手机游戏，科学家可以随时用AI助手\"玩\"各种药物配方，随时调整，随时测试，药物研发从此变成一件轻松高效的事。",
-      "summarized_at": "2026-07-26T10:05:11.591Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1785060303751",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI ...",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-21T10:37:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能进步的秘密：材料创新的力量\n\n当人们谈论人工智能时，往往想到的是更复杂的算法、更强的计算能力，或者建设新的芯片工厂和巨大的数据中心。但你知道吗？这些先进技术的背后，还有一层更基础的创新——新材料。就像盖房子需要更好的砖瓦，人工智能的发展也需要更先进的材料。\n\n### 新材料如何改变AI？\n\n- **芯片更小更快**：现在的芯片就像一块巧克力，传统方法只能把它做得越来越薄。但新材料就像用更耐高温的巧克力，可以在高温下压得更薄，同时更耐用。这样就能造出更小的芯片，算得更快。\n- **数据中心更省电**：现在的数据中心就像一个大型的冰箱，需要一直开着降温。新材料能让芯片自己调节温度，就像衣服会自己调节温度一样。这样就能省很多电，也就能支持更多AI应用。\n- **传感器更灵敏**：AI需要大量传感器收集信息，就像人的眼睛和耳朵。新材料能让传感器看得更清楚、听得更清楚，比如用新材料做的眼镜能看穿墙壁，或者用新材料做的耳朵能听到很远的声音。\n\n### 为什么新材料很重要？\n\n简单来说，新材料就像手机的电池和屏幕，虽然不是直接的功能，但决定了整个设备的性能。没有好的材料，再多的钱和计算能力也无法让AI真正进步。就像做饭需要好的锅铲，没有好的工具，再好的厨师也做不出好菜。\n\n所以，想要人工智能真正进步，关键在于新材料的发展。未来，新材料可能会像智能手机一样，成为大家看不见但处处都在使用的黑科技。",
-      "summarized_at": "2026-07-26T10:05:11.727Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1785060303751",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, ...",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-20T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 中国AI和特朗普AI闹矛盾\n\n最近，一些给特朗普当过AI顾问的人，开始公开骂中国和美国顶尖的AI公司。他们觉得这些公司搞的AI技术不靠谱，像个没长大的孩子。\n\n### 矛盾是怎么来的？\n- 特朗普的顾问觉得，现在的AI技术很危险，就像一个不靠谱的邻居，随时可能惹麻烦。他们担心这些AI会失控，做出伤害人类的事情。\n- 他们还指责中国也在搞这些危险的AI技术，觉得中国和美国应该联手抵制AI，而不是自己发展。\n\n### 为什么要抵制AI？\n- 这些顾问觉得AI就像一个没经过训练的宠物，可能会咬人。他们担心AI会用来干坏事，比如制造武器或者散布谣言。\n- 他们认为，如果现在不阻止AI的发展，以后会后悔。就像小时候没管好弟妹，长大后他们可能会闯大祸。\n\n### 中国AI和特朗普AI的差距\n- 中国的AI发展很快，已经成为全球领先的水平。就像中国孩子现在学英语很厉害，而美国孩子还在补习一样。\n- 特朗普的顾问们虽然担心AI，但他们自己国家的AI技术不如中国先进。这就像一个家长，自己孩子的成绩不如别人，却去骂别人家的孩子。\n\n总之，特朗普的顾问们觉得AI是个大问题，希望中国和美国一起打压AI发展。但他们可能没想到，现在的AI技术已经这么厉害了，完全禁止是不现实的。就像不能因为担心孩子学坏就让他们辍学一样。",
-      "summarized_at": "2026-07-26T10:05:18.161Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1785060303751",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi...",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-20T08:39:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI招聘也可能会\"看走眼\"\n\n- **AI招聘就像相亲**  \n  现在很多公司用AI先看简历，相当于AI当起了招聘的\"相亲顾问\"。但研究发现，AI看人可能比人还\"双标\"。比如，AI如果学的是过去那些\"重男轻女\"的招聘数据，它就会自动把女性求职者筛掉，哪怕她们条件很好。\n\n- **AI会\"继承\"坏习惯**  \n  AI就像个爱学样的孩子，它学习的是训练它的数据。如果训练数据里充斥着各种偏见（比如觉得某个学历背景的人更优秀），AI就会把这些偏见当成\"真理\"，然后一本正经地用它们来评判所有人。\n\n- **AI还能自己\"造\"偏见**  \n  更可怕的是，新研究发现AI不只是模仿偏见，它还能自己想出偏見。就像你一直吃方便面，突然觉得方便面最好吃，AI也是一样，它会认为某个标准\"最好用\"，然后坚持这个标准，哪怕这个标准不靠谱。\n\n- **所以AI招聘要小心**  \n  用AI看简历方便是真，但别指望它能给你公平待遇。如果AI带着偏见工作，那结果可能比人类招聘更不公平。就像让一个只看过坏电影的人挑选最棒的电影，结果肯定不咋样。",
-      "summarized_at": "2026-07-26T10:05:19.851Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1785060303751",
       "title": "The risk of weather data sabotage is rising",
@@ -275,78 +199,6 @@
       ],
       "ai_summary": "## 关于各种有趣主题的精选清单\n\n这个GitHub上的项目叫\"Awesome\"，就像一个超级好玩的主题公园，里面收集了好多不同领域的有趣清单。你可以把它想象成一本超级全面的\"生活指南\"，涵盖了从编程到美食、从旅行到健身等各种话题。\n\n### 清单里都有啥？\n\n- **编程开发**：比如当你想学编程，清单里就有各种好用的工具和教程，像找房子时看各种房源信息一样，总有一款适合你。\n- **效率工具**：就像购物时用优惠券一样，清单里推荐了很多能让你更高效工作的软件和技巧。\n- **生活方式**：比如健身计划、健康食谱、旅行攻略，就像看电视剧时穿插广告，这些清单能让你生活更有趣。\n- **趣味知识**：比如冷知识、科学小实验，就像和朋友聊天时讲笑话，能让你成为朋友圈的小达人。\n\n### 为什么这么好用？\n\n- **一站式资源**：不用到处搜罗，所有好东西都帮你整理好了，就像超市买杂货，一次性拎回家。\n- **持续更新**：就像手机软件会不断更新，清单也会定期更新，保证你看到的内容都是最新最火的。\n- **社区共享**：就像小区里的公告栏，大家分享好点子，让清单越来越丰富。\n\n总之，这个清单就像一个\"万能钥匙\"，打开各种知识的大门，让你轻松找到生活中的乐趣和灵感。",
       "summarized_at": "2026-07-26T10:06:03.021Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1785060306607",
-      "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
-      "summary": "作者 | 邱晓芬\n编辑 | 袁斯来\n硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。\n这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内发展速度最快的具身大脑企业之一。\n「眸深智能」成立于2025年1月，定位为全球最懂动作的自进化具身大脑公司，致力于\"给10亿台机器人装原生通用大脑\"。\n该公司由...",
-      "url": "https://36kr.com/p/3911162147640456?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-26T01:00:00.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 眸深智能完成近亿元Pre-A轮融资\n\n## 公司简介\n眸深智能是一家成立于2025年的公司，目标是让机器人拥有像人脑一样能学习和适应环境的能力。他们想给10亿台机器人装上这种\"大脑\"，让机器人能像我们一样通过经验变聪明。\n\n## 融资情况\n- 眸深智能最近又获得了近亿元的资金支持，这是他们在两个月内第二次拿到投资\n- 这次投资来自多家公司，包括物业服务公司、上市公司等\n- 公司估值增长了10倍以上，发展非常快\n- 他们还在进行Pre-A+轮的近5亿元融资\n\n## 核心技术\n- 公司技术来自复旦大学教授和前英特尔科学家\n- 他们开发的是\"具身大脑\"，简单说就是让机器人能像人一样通过身体与环境的互动来学习\n- 这种技术能让机器人更自然地适应各种工作环境，比如工厂、家庭等\n\n## 行业地位\n眸深智能是目前发展最快的具身大脑公司之一，他们的技术能让机器人像获得\"直觉\"一样快速适应新任务，就像我们学骑自行车后就能马上掌握技巧一样。",
-      "summarized_at": "2026-07-26T10:06:01.703Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1785060306607",
-      "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
-      "summary": "文｜温丽虹\n编辑｜张雨忻\nKimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。\n从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。\n公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后来才知道，徐新见他前，已经在“AI寻人”这个方向上筛过好几轮。当时徐新在看两个方向，“AI找工作”与“AI找伴侣”。\n招聘方向上，她把当时国内数得上...",
-      "url": "https://36kr.com/p/3910880823202948?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-25T11:00:21.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 用AI帮人找对象的新公司\n\n- **前情提要**：一位叫曾歆勋的AI技术专家，从一家叫Kimi的公司离职，他之前放弃的股票价值翻了好10倍。\n\n- **新公司**：2025年8月，曾歆勋创办了“良配科技”，核心产品叫“良配”，是个用AI帮忙找对象的APP。\n\n- **怎么工作的**：这个APP就像个超级智能的婚恋顾问，能帮你快速筛选信息、精准匹配、甚至辅助聊天。简单说，就像让电脑帮你把合适的人自动筛选出来，省时省力。\n\n- **投资来了**：公司刚成立，就获得了天使投资人徐新200万美元的投资。徐新本来在看两个方向——用AI找工作和用AI找对象，她觉得找对象这个方向更有意思。\n\n- **核心逻辑**：就是把AI擅长快速处理信息的本领，用在找对象这种需要大量筛选和匹配的事情上。比如，你告诉它你的喜好，它就能像搜索引擎一样，帮你找到符合条件的人。\n\n- **市场观察**：徐新在投资前，已经研究过很多类似项目，但觉得找对象的方向更接地气，因为大家都需要这个服务。",
-      "summarized_at": "2026-07-26T10:06:08.803Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1785060306607",
-      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
-      "summary": "今日热点导览\n小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患\n微信撤回消息后可删除提示字\n怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权\n菲尔兹奖得主雅各布·齐默曼将加入OpenAI\n欧盟对谷歌处以8.9亿欧元罚款\nTOP3大新闻\n宇树科技CEO王兴兴登上《时代》杂志封面\n当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。\n据悉，距上次中国企业家登上该刊物封面，已过去整整8年。\n《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈...",
-      "url": "https://36kr.com/p/3910351337821318?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-25T00:57:52.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "# 今日热点总结\n\n## 大事件回顾\n\n- **宇树科技CEO王兴兴登上《时代》杂志封面**  \n  王兴兴和他研发的机器人GD01一起上了美国《时代》杂志封面，这可是8年来中国企业家第一次上这个杂志。杂志把他称为“AI时代的预言家”，说他瘦瘦的戴眼镜，不像很多科技老板那么爱吹牛，但很有远见。\n\n- **国家反诈中心App可一键检测AI生成痕迹**  \n  现在很多AI都能写假话、做假视频，国家反诈中心App现在能直接帮你识别这些假东西。比如你收到一条说“中奖了请转账”的短信，App就能提示这是AI编的，帮你躲掉诈骗。\n\n- **Claude Opus 5正式发布**  \n  Claude Opus 5是个AI工具，最近更新了版本。它能更好地帮你写文案、做设计，甚至跟你聊天，现在功能更强了。\n\n## 其他重要新闻\n\n- **小鹏汽车召回3.35万辆X9**  \n  小鹏汽车因为前空气弹簧可能出问题，所以把3万多辆X9召回检查。这就像你买了台吸尘器，发现电机可能漏电，厂家就帮你免费修。\n\n- **微信撤回消息后可删除提示字**  \n  微信现在改进了，你撤回消息后，对方手机上还是会显示“对方已撤回”，但不会像以前那样一直保留“已读”字样，更隐蔽。\n\n- **怡颗莓莓果准备维权**  \n  一个卖草莓的公司最近被很多人吐槽，说他们的草莓不新鲜。公司现在打算通过法律手段维权，就像你被人说坏话，决定去法院告他。\n\n- **菲尔兹奖得主加入OpenAI**  \n  一个研究数学的顶尖专家（菲尔兹奖是数学界的诺贝尔奖）要加入OpenAI，这就像一个奥运冠军加入Nike公司，大家都觉得这下更厉害了。\n\n- **欧盟罚谷歌8.9亿欧元**  \n  欧洲监管部门因为谷歌在搜索结果上偏袒自家服务，罚了它8.9亿欧元。这就像你开餐厅，只给自家乐队放歌，被顾客投诉后罚款。",
-      "summarized_at": "2026-07-26T10:06:11.185Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1785060306607",
-      "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
-      "summary": "7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“AnySearch 学生与开发者成长计划”（AnySearch Student & Developer Program）。该计划面向全球学生与开发者开放，旨在通过提供开放的 AI 搜索基础设施，支持更多 AI 创造者开展学术研究、开源创新和 AI 应用开发。\n\n图片1\n随着 AI 加速演进，AI 应用正在从简单信息交互迈向复杂任务执行，AI Agent 正在成为下一代应用的主流形态。在这一趋势下，实时、高质量的信息获取能力是 AI Agent 看见世界、完成任务的关键基础。然而，...",
-      "url": "https://36kr.com/p/3909565569324163?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-24T11:36:12.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## AnySearch 推出全球学生与开发者成长计划\n\n### 计划目的\nAnySearch 公司在7月24日宣布推出一个面向全球学生和开发者的成长计划。这个计划叫做“AnySearch 学生与开发者成长计划”（AnySearch Student & Developer Program），主要目的是让大家更容易使用AI技术，支持学生和开发者做研究、开发开源项目，以及创作各种AI应用。\n\n### 为什么这样做\n随着AI技术的发展，现在的AI应用不再只是简单地回答问题，而是能处理更复杂的工作，比如像智能助手一样帮我们完成各种任务。要让这些AI助手更好地工作，它们需要快速准确地获取信息，就像我们找资料做报告一样，需要快速找到可靠的信息。但现在的AI技术在这方面还有提升空间。\n\n### 计划内容\nAnySearch希望通过这个计划，提供一个方便的AI搜索工具，帮助大家更轻松地获取信息。比如，学生可以用这个工具做研究，开发者可以用它来开发新的AI应用。这个计划是面向全世界的学生和开发者，无论你在哪里，都可以参与进来。\n\n### 怎么参与\n计划会提供开放的AI搜索基础设施，这意味着学生和开发者可以免费使用这些工具，进行创新和开发。比如，你可以用这个工具来写论文、开发新的软件，或者创作有趣的AI项目。AnySearch还会提供支持和资源，帮助大家更好地使用这些工具。\n\n### 总结\n这个计划的核心是让更多人能够轻松使用AI技术，推动AI领域的创新和发展。通过提供开放的AI搜索工具，AnySearch希望帮助全球的学生和开发者更好地利用AI，创作出更多有用的应用和项目。",
-      "summarized_at": "2026-07-26T10:06:18.333Z",
       "summary_status": "success"
     },
     {
