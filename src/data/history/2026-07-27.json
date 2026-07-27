@@ -1,87 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-27T11:31:58.586Z",
-    "items_count": 20,
-    "categories": [
-      "ai",
-      "finance"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending",
-      "36氪"
-    ]
+    "archived_at": "2026-07-27T11:31:58.586Z",
+    "date": "2026-07-27",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1785151806133",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro...",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-23T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI帮科学家更快找到新药\n\n### 药品研发有多难？\n\n想出新药就像造一栋楼，但过程特别难。科学家需要把药方一点点试出来，就像用积木搭房子，可能搭一百次都搭不好。现在造药要花很多钱，可能十年时间，投入几百亿才可能成功，但最后成功进入药店卖出去的药，可能只有百分之一。\n\n### AI如何帮忙？\n\nAI就像个超级侦探，能快速分析大量信息。科学家给AI看成千上万种药方和它们的效果，AI就能在几小时里找出最有潜力的几个药方。这就像你在超市看到成千上万瓶饮料，AI能帮你找出最可能好喝的几瓶。\n\n### AI的优势\n\n- **省时省力**：以前可能需要十年，现在用AI可能一年就找到候选药方\n- **减少失败**：AI能提前判断哪些药方效果差，不用浪费时间和金钱\n- **精准分析**：AI能理解非常复杂的药理反应，就像它看得懂一千种不同积木的搭法\n\n### 生活例子\n\n想象你在做蛋糕，以前你要试十次才找到最成功的配方。现在用AI，它能帮你分析成千上万种配方，然后只让你试三两次，就能做出完美的蛋糕。这就是AI帮科学家造药的效果。\n\n### 未来展望\n\nAI制药就像给医生装了千里眼，能更快找到治愈疾病的新方法。以后看病可能就像点外卖一样方便，医生能更快给你找到最对症的药。",
-      "summarized_at": "2026-07-27T11:30:22.356Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1785151806133",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI ...",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-21T10:37:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI进步背后的材料科学创新\n\n### 什么是材料科学？\n\n想象一下，你用纸折飞机，有的纸容易破，有的却很结实。这就像材料科学——研究如何让东西变得更好用的学问。科学家们会改进材料，让手机更轻巧、汽车更耐用、甚至让AI跑得更快。\n\n### AI和材料的联系\n\n我们常听说AI需要更快的电脑和更多数据中心，但这些都需要好的材料。比如，手机里的芯片需要用到特别好的材料才能既快又省电。没有这些材料，AI的进步就像盖房子没有砖头一样难。\n\n### 材料如何改变AI\n\n- **更快更省电**：新材料让电脑芯片跑得更快，就像用更结实的绳子拉滑轮，省力又高效。\n- **更强更大**：以前AI设备很笨重，新材料让它们变得小巧，比如用纳米技术让手机更智能。\n- **环境友好**：科学家们还会用环保材料，让AI发展不伤害地球。\n\n### 未来展望\n\n科学家们正在研究更多神奇材料，比如能让AI设备在水中工作，或者能自动修复的智能材料。这些新材料会让AI变得无处不在，就像水一样平常但又不可或缺。\n\n总之，AI的进步离不开材料科学。好的材料就像魔法棒，让AI变得更聪明、更实用、更环保。",
-      "summarized_at": "2026-07-27T11:30:14.847Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1785151806133",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, ...",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-20T18:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能领域的\"内战\"\n\n最近，美国前总统特朗普的一些人工智能顾问公开发了几句不太友好的话，批评中国的人工智能公司。这像是一群老朋友突然在背后互相使绊子。 \n\n### 事情经过\n- 特朗普的一些AI顾问，包括大卫·萨克斯，在网上直接点名批评中国AI企业。\n- 这些批评主要集中在说中国AI技术发展太快，对美国不公平。\n- 实际上，这些顾问和AI公司之间早就有些矛盾，这次只是在背后说人坏话。\n\n### 为什么会这样\n- 中国AI发展很快，像华为、阿里巴巴这些公司都在加大投入。\n- 特朗普的顾问们担心中国AI会超越美国，所以想通过批评来打压对手。\n- 这跟打仗有点像，原来队友突然开始互相拆台，因为都想当老大。\n\n### 对普通人有什么影响\n- 这可能让中美AI领域的竞争更激烈。\n- 对于喜欢AI技术的人来说，未来可能会有更多创新和突破。\n- 就像手机行业一样，华为和苹果互相竞争，最后大家都能用上更好的产品。\n\n总之，这场AI领域的\"内战\"其实反映了中国和美国的竞争关系，普通人可能需要做好准备迎接更多变化。",
-      "summarized_at": "2026-07-27T11:30:32.717Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1785151806133",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi...",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-07-20T08:39:01.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# AI招聘可能比人类更带偏见\n\n## AI是怎么学会偏见的\n\n就像小朋友会模仿大人的说话方式，AI也是通过学习大量数据来工作的。比如，如果训练AI看简历时，前面的人都是按年龄选人，那AI就会觉得年纪大的人更好。这就像你小时候总看你哥玩的游戏，长大后可能也喜欢玩类似的游戏。\n\n## AI偏见的新发现\n\n最新研究发现，AI不光会复制人类的偏见，有时还会创造出自己独特的偏见。比如，AI可能觉得某个专业术语出现的次数越多越厉害，但实际上这并不代表能力强。\n\n## 招聘场景中的问题\n\n现在很多公司让AI先筛选简历。如果AI有偏见，可能会错失很多优秀人才。比如，一个会写诗但不会说英语的人，AI可能会因为看不懂英语就拒绝他，但实际上他的诗歌可能非常有才华。\n\n## 为什么AI比人更容易有偏见\n\n人类在招聘时会考虑很多因素，比如性格、能力等。但AI只会看数据，如果训练数据里有偏见，它就会放大这种偏见。就像你用放大镜看一块小石头，本来很小的事情也变得很可怕。\n\n## 如何避免AI偏见\n\n要让AI更公平，需要改进训练数据，让数据更全面。比如，可以加入不同背景的人的简历，让AI学会看更全面的能力，而不是只看表面数据。这就像教小朋友要全面看人，不能只看成绩单。",
-      "summarized_at": "2026-07-27T11:30:43.757Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1785151806133",
       "title": "The risk of weather data sabotage is rising",
@@ -277,78 +201,6 @@
       ],
       "ai_summary": "# Nuclei：轻松发现网络漏洞的小工具\n\n## 什么是Nuclei？\n\nNuclei是一个快速、灵活的工具，就像一个网络侦探，专门帮你找出应用、网站、网络或云服务里的安全漏洞。它由全球的安全专家共同维护，使用简单的YAML语言编写规则，就像用文字描述侦探任务一样容易理解和修改。\n\n## 怎么用Nuclei？\n\n你可以把Nuclei当成一个定制化的扫描仪，比如你想检查自家网店是不是有安全漏洞，只需用YAML语言写个简单的任务描述，Nuclei就能帮你快速扫描，告诉你哪里可能出问题。它支持检查各种地方，比如网站后端、网络设置、DNS解析、云服务配置等。\n\n## 为什么推荐Nuclei？\n\n- **速度快**：扫描效率高，能快速发现问题\n- **可定制**：用户可以根据需求调整扫描规则，就像DIY侦探计划\n- **社区支持**：全球安全专家共享漏洞规则，持续更新\n- **用途广泛**：适合检查各类网络设备，从个人网站到大型企业系统\n\n用Nuclei就像请个专属安全员，帮你及时发现网络漏洞，避免数据泄露或被黑客攻击。它特别适合开发者和IT人员使用，简单易上手，又能应对各种网络安全挑战。",
       "summarized_at": "2026-07-27T11:31:41.069Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1785151809917",
-      "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
-      "summary": "文 | 阿至\n航空新能源动力系统，正在酝酿新的变革。\n36氪获悉，航空新能源动力系统解决方案供应商「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投。本轮资金主要用于航空级液冷燃料电池产品的开发及验证，以及空冷燃料电池在多场景的商业化推广及应用。\n过去十年，氢燃料电池研发与产业化应用主要集中在汽车领域，已形成相对清晰的降本路线和成熟标准，但在航空领域，国内氢能应用的发展并不同步。\n氢能航空并非新的概念，事实上，欧洲早在21世纪初就开始论证航空新能源动力系统不同路线方向的优缺点和路径可行性。氢燃料电池的核...",
-      "url": "https://36kr.com/p/3913736066028932?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-27T10:19:29.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 简单说氢能飞机是怎么回事\n\n### 飞机想用氢能代替燃油\n现在飞机大多用燃油，但燃油会污染环境。有个清华博士团队创办的公司叫“易氢动力”，想给飞机用氢能。氢能就像给电动车充电一样，环保又节能。\n\n### 氢能飞机不是新东西\n其实欧洲很早就开始研究氢能飞机了，比咱们早。但过去十年，氢能主要用在汽车上，比如现在的氢燃料电池车，技术比较成熟。飞机上用氢能还没那么普及，国内发展比较慢。\n\n### 这家公司拿到钱要搞大事情\n“易氢动力”最近拿到了几千万元的投资，这笔钱用来开发飞机专用的氢燃料电池。氢燃料电池就像飞机的“心脏”，可以让飞机用氢能飞行。他们还要推广一种不用冷却液的氢燃料电池，这种技术在其他领域已经用了，但飞机上用还是第一次。\n\n### 为什么飞机用氢能是个好主意\n氢能飞机可以减少污染，而且氢能的能量很高，飞机飞得更快更远。不过，现在飞机用氢能还面临一些问题，比如怎么安全运输氢气、怎么让氢燃料电池更轻更耐用等。这家公司就是要解决这些问题。\n\n- 核心观点：氢能飞机是未来的趋势，但还需要克服技术难题。\n- 关键信息：清华博士团队创业，专注氢能飞机核心部件研发，拿到融资要推动技术进步。",
-      "summarized_at": "2026-07-27T11:31:43.191Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1785151809917",
-      "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
-      "summary": "今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。\n过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。\n估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年颇被资本市场追着看的指标。\n足以证明，用户规模虽仍旧重要，但不再是 AI 应用估值的唯一硬通货，新的叙事主线，重新回到了产品形态长期可持续的商业化。\n资本评估 AI 的 benchmark 变了：过去两年盛行的是算...",
-      "url": "https://36kr.com/p/3913706151400583?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-27T09:48:07.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 资本看AI的新标准：会赚钱比用户多更重要\n\n### 资本的新关注点\n最近，一家做AI的公司特别火，它的技术很快被大家知道。但奇怪的是，投资钱的人更关心另一件事：这家公司能不能赚钱。比如，一家明星AI公司估值在半年里增长了6倍，目标达到300亿美元，还准备去香港上市。这说明，现在资本最看重的是AI能不能赚钱，而不是有多少用户。\n\n### 用户数不再是唯一标准\n以前，很多AI公司都强调自己有多少用户，比如每天有多少人打开应用。但现在不一样了，这家公司直接说不追求每天的用户数，而是要开发能持续赚钱的产品。这就好比以前大家买手机都看销量，现在更关心手机能不能用很久、赚多少钱。\n\n### 资本评估AI的新方法\n过去两年，投资AI主要看技术多厉害，现在变了。现在投资更看重产品能不能长期赚钱。比如，以前投资AI像看公司有多少员工，现在更像看公司能不能持续卖货赚钱。这个变化让很多AI公司开始转型，不再只追求用户数，而是开发能持续赚钱的产品。\n\n### 为什么资本这样看\n资本这样变化是因为市场变了。以前AI技术还不太成熟，大家看重的是潜力。现在AI技术越来越成熟，资本更关心实际效果，能不能赚钱。就像以前买股票不管公司业绩，现在都看公司能不能赚钱一样。AI行业也一样，现在要的是能持续赚钱的应用，而不是光有用户的空壳。",
-      "summarized_at": "2026-07-27T11:31:50.748Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1785151809917",
-      "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
-      "summary": "文 | 张卓倩\n编辑 | 袁斯来\n低空经济领域迎来里程碑式突破！牧羽天航空近日正式宣布，旗下飞行重卡 AT8000 整机机身已经在无锡市新吴区空港园区隆重下线。作为全球已知最大的eVTOL，飞行重卡AT8000 的下线标志着我国在重载低空物流装备领域实现全球领跑，为低空经济商业化落地应用注入核心动力。\n\n飞行重卡 AT8000 \n全球重载无人货运标杆，8 吨级 “空中重卡” 定义行业新高度\n飞行重卡 AT8000 是牧羽天航空深耕重载货运 eVTOL 领域的全新力作，最大起飞重量达 8000 公斤（8 吨），远超同类在研机型，是目前全球公认的重载货运 eVTOL 天花板。\n核心性能：最大有效载...",
-      "url": "https://36kr.com/p/3912369056240772?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-27T08:23:39.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 牧羽天航空造出“空中卡车”AT8000\n\n- **8吨级空中卡车**：牧羽天航空造出全球最重的无人货运飞机AT8000，能装8吨货，比普通小货车还重。这就像把 卡车飞上天空，专门跑低空货运。\n- **低空经济里程碑**：这个飞机的下线是国家在“低空经济”领域的大突破。低空经济就是利用天空空间搞运输、旅游等活儿，现在有了这个“空中卡车”，货运更方便了。\n- **行业新标杆**：AT8000比其他同类飞机都能装更多货，相当于货运界的“大力士”，为整个行业定了新标准。\n- **商业应用前景**：这个飞机不仅能装货，还是无人驾驶的，意味着未来可以自动飞来飞去送快递，不用人开，效率更高。比如你买东西，可能以后快递直接用这种飞机送到家门口。\n\n这个“空中卡车”的下线，让我国在低空货运领域领先了全球，以后城市里运货可能更多用飞机，像地铁一样方便快捷。",
-      "summarized_at": "2026-07-27T11:31:50.781Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "36kr_1785151809917",
-      "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
-      "summary": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。\n一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职于投资机构和机器人公司，长期关注智能硬件领域投资与运营增长。团队覆盖无人机、无人车、商用清洁、割草、泳池清洁等机器人方向，此前积累了较丰富的消费硬件出海经验，具...",
-      "url": "https://36kr.com/p/3913490184754313?f=rss",
-      "source": "36氪",
-      "category": "finance",
-      "published_at": "2026-07-27T06:08:54.000Z",
-      "tags": [
-        "36氪",
-        "创业",
-        "投资",
-        "科技新闻"
-      ],
-      "ai_summary": "## 智能网球发球机公司开始批量交付\n\n### 公司和产品\n一思智能是一家新公司，做智能网球发球机。这个机器能用人工智能（AI）自动发球，让打网球的人能练习。公司成立于2024年12月，创始人刘礼谦以前在大疆工作过，很有机器人开发经验。他的团队还做过无人机、扫地机器人等，经验很丰富。\n\n### 发展情况\n- 公司刚拿到1000多万的启动资金，投资方包括零以资本、变量资本和海益资本。\n- 现在机器已经开始卖给国外的客户了，会批量生产。\n- 钱主要用来改进产品，让机器更好用，同时扩大市场，卖到更多地方。\n\n### 公司目标\n一思智能不只是卖机器，还想建立一个完整的网球训练系统。这个系统包括：\n- 硬件：智能发球机\n- 软件：控制机器的App\n- 数据：记录练习情况，比如打了多少球，哪里失误多\n- AI教练：根据表现给建议，像人类教练一样\n- 运动服务：提供训练计划，让别人也能跟着学\n\n简单说，就像一个会自动发电球、还会帮你分析打得怎么样、告诉你怎么打得更好的教练。",
-      "summarized_at": "2026-07-27T11:31:58.585Z",
       "summary_status": "success"
     },
     {
