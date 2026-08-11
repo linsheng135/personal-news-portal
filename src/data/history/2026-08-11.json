@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-11T09:04:16.331Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-11T09:04:16.332Z",
+    "date": "2026-08-11",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1786438976349",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising...",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-10T20:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# AI教授们谈新研究现实\n\n## 背景情况\n最近，一些顶尖和有潜力的AI专家们聚在加州山景城的一家酒店，讨论AI如何改变学术研究。就像一群经验丰富的老师和有想法的学生一起开研讨会一样。\n\n## AI改变研究方式\n以前做研究就像手工作坊，现在AI能帮忙做很多基础工作，比如整理资料、提出想法。这就像让机器人帮忙做家务，人可以专注于更重要的创造性任务。例如，AI能快速阅读大量文献，就像一个24小时不停工作的图书管理员。\n\n## 新的挑战\nAI虽然强大，但也带来新问题。比如：\n- AI生成的想法真有用吗？\n- 怎样避免过度依赖AI？\n- 如何确保研究结果的原创性和可靠性？\n这就像用计算器算数学题，虽然方便，但也要注意别让计算器替我们思考。\n\n## 学者如何应对\n专家们建议：\n1. 人类学者要更注重提出问题和批判性思考，就像玩游戏时不仅要会操作，还要会策略。\n2. AI和人类要协作，而不是互相竞争。\n3. 加强对AI工具的监管和评估，确保其安全可靠。\n这好比开车，不能完全相信自动驾驶，但善用技术能提高效率。\n\n## 总结\nAI正在改变学术研究，像一把双刃剑。学者们正在探索如何平衡AI的便利和人类的创造性，未来研究需要人机协作的新模式。",
-      "summarized_at": "2026-08-11T09:03:06.199Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786438976349",
-      "title": "AI for science needs reasoning, not just data",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi...",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-10T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI助力科学，需要思考能力\n\n过去几十年里，总有人觉得科学已经发展到尽头了。比如1903年，著名物理学家阿尔伯特·迈克尔逊就认为物理学上的事实都已经被发现完了。1980年代，史蒂芬·霍金预测理论物理学到本世纪末可能就到头了。这说明科学家们其实一直在思考：我们真的发现了一切吗？\n\n### 科学需要推理，不只是收集数据\n\n想象你在玩拼图游戏，光有零散的拼图碎片是不够的，还得知道怎么把它们拼起来。科学家也是一样，不能只靠数据堆砌，关键是要学会推理。比如医生看病，不能只看症状，得根据各种线索分析病因。科学家也一样，需要从零散的实验数据中找出规律。\n\n### AI科学助手的新方向\n\n现在的AI就像只会收集拼图碎片的工具，虽然能处理大量数据，但缺乏\"把碎片拼起来\"的能力。科学家们发现，要真正推动科学进步，AI不能光靠数据，还得学会像人一样思考。就像你教孩子数数，不能只告诉他数字，还要教他怎么用数字做数学题。\n\n### 未来AI科学家的样子\n\n未来的AI科学助手，应该像一位侦探，既能分析现场证据（数据），又能根据线索推理出真相。比如研究气候变化，不能只看气温数据，还要结合天气模式、人类活动等因素综合分析。这让科学家们意识到，AI要真正帮助科学进步，光靠大数据是不够的，还得具备推理能力。",
-      "summarized_at": "2026-08-11T09:03:05.062Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786438976349",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they describe...",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-10T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 创业公司都在追逐AI新热点\n\n最近，很多创业公司在研究一种叫\"大语言模型\"的新技术，希望找到下一个能改变行业的突破。就像手机从功能机变成智能手机一样，这些公司觉得AI技术也要有新的飞跃。\n\n### 什么是大语言模型？\n\n简单说，大语言模型就像一个超级聪明的\"读心者\"，能听懂人类说的话，还能根据对话内容做出回答。比如你现在跟我说话，它能理解你的意思并回复，就像一个能聊天的小伙伴。这比以前的AI强很多，因为以前的AI只能做特定任务，而这个新模型什么都能干。\n\n### 为什么大家都关注这个？\n\n想想看，现在网上有无数的文字信息，如果AI能理解这些信息，就能帮我们做很多事。比如帮你写邮件、总结报告，甚至创作故事。这种技术一旦成熟，可能像互联网一样改变我们的生活。就像当年互联网刚开始时，谁也想不到现在会这么重要。\n\n### 竞争有多激烈？\n\n现在很多公司都在研究这个技术，比如谷歌、微软等大公司，还有不少创业公司也在拼命创新。他们就像在跑马拉松，比的是谁能先跑到终点，开发出更厉害的产品。这些公司都想抓住这个机会，成为下一个科技巨头。\n\n### 未来会怎样？\n\n这些创业公司正在研究的大语言模型，可能会像智能手机一样，彻底改变我们使用电脑和手机的方式。未来，我们可能只需要跟AI说话，就能完成所有工作。就像现在我们用语音助手控制家电一样，但未来的AI会更智能，能理解更复杂的需求。这可能会带来一场新的科技革命，就像当年个人电脑取代打字机一样。",
-      "summarized_at": "2026-08-11T09:03:15.916Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786438976349",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s ...",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-03T18:43:30.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 特朗普的AI保护主义要限制机器人了\n\n### 机器人现在啥情况\n你想啊，现在那些能走路、能做人的动作的机器人，其实还不太靠谱。它们经常东倒西歪，有时候还会踩到小孩，手的使用能力还不如我家的三岁小孩。尽管科学家们一直在改进它们，但离真正像人一样灵活还差得远。如果让你用它们做家务，估计你只会觉得又好笑又无奈。\n\n### 保护主义来了\n最近，特朗普好像要搞AI方面的保护主义，也就是说，他想限制其他国家或公司用人工智能制造机器人。为啥呢？可能是怕别人做得比美国还好，抢了美国的市场。这就像你邻居家的小明，本来学习一般，你爸突然限制你不能超过他一样。\n\n### 机器人为啥重要\n机器人现在还处于发展初期，就像刚出生的婴儿。它们能干啥还不太清楚，但未来可能变得非常厉害。如果美国限制了机器人技术，就等于把婴儿阶段的孩子先关起来，等别人都长大了，自己再来学，这样肯定落后一大截。\n\n### 保护主义的影响\n特朗普的这种做法，可能会让其他国家的机器人技术跑得更快。就像你本来想学游泳，结果教练说只有本国学生才能学，你只能眼巴巴地看着别人游得越来越厉害。等到你想学的时候，可能已经跟不上节奏了。\n\n- 机器人现在还不太成熟，就像刚学步的小孩\n- 特朗普可能限制AI技术，担心别人做得比自己好\n- 限制技术发展，未来可能后悔\n- 其他国家可能会绕过限制，继续进步",
-      "summarized_at": "2026-08-11T09:03:13.835Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1786438976349",
       "title": "Here’s why AI agents lie and cheat to reach their goals",
