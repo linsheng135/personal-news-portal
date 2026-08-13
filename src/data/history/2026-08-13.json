@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-13T09:18:48.143Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-13T09:18:48.144Z",
+    "date": "2026-08-13",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1786612645687",
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 孩子们眼里的AI：真实想法大公开\n\n### 他们的AI使用情况\n我们本来以为和大人一样，孩子们会用AI来耍小聪明。比如像我们小时候用“小抄”或者计算器作弊一样，他们可能会用AI完成作业。结果发现，其实他们用AI的方式更多样。\n\n### AI的正面作用\n很多孩子说，他们用AI学习新知识，比如查资料、做研究。有些孩子甚至用AI来改进自己的作业，比如让作文更好读，或者帮他们画画。就像我们用电脑查资料一样，他们觉得AI是个好帮手。\n\n### 孩子们的期待\n一些孩子提到，他们希望未来能开发出更多AI应用，比如能陪聊的机器人，或者能教他们游戏的AI。他们觉得AI就像个游戏伙伴，能一直陪在他们身边。\n\n### 大人的误解\n我们本来以为孩子们会用AI来逃避学习，结果发现他们更看重AI的学习价值。这说明大人总以为孩子只会用科技做坏事，其实他们心里有更美好的想法。\n\n总之，孩子们眼中的AI不是冷冰冰的机器，而是学习工具和好朋友。他们用AI的方式也让我们大人有了新发现。",
-      "summarized_at": "2026-08-13T09:17:39.277Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786612645687",
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o...",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-12T16:51:57.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# AI代理要发展，靠谱数据是关键\n\n## 企业都在用AI代理，但怎么用好？\n\n现在很多公司都在用AI代理，就像让机器人帮忙做各种事情。领导们都觉得这技术挺厉害，能提高工作效率。但问题是，怎么才能让AI真的帮到忙，而不是浪费钱呢？这里面的关键是——靠谱的数据。\n\n## 为什么靠谱数据这么重要？\n\n想象一下，你让一个机器人帮你买东西，但你给它的购物清单是乱写的，它肯定买错东西。AI代理也一样，如果给它的是错误或过时的信息，它就会犯错。比如，一个AI客服要是学到了错误的信息，就会把客户的问题答错，这样反而耽误事。\n\n## 怎么保证数据靠谱？\n\n- **数据要真实**：就像你教孩子认人，要是经常让他看假照片，他肯定认错人。AI也一样，教它的数据要是假的，它就会变得很笨。\n- **数据要全**：你不能只告诉机器人一半的信息，比如只说\"买水果\"，不说\"夏天\"和\"水果种类\"，它可能就买错。\n- **数据要更新**：世界是变化的，今天对的东西明天可能就错了。比如，去年流行的东西今年不一定还畅销，AI代理也得跟着更新。\n\n## 总结\n\n要让AI代理真正有用，关键是要给它靠谱的数据。就像教孩子认人要教真的照片一样，教AI也要用真实、全面、更新的信息。只有这样，AI代理才能真正帮到忙，而不是添乱。",
-      "summarized_at": "2026-08-13T09:17:36.458Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786612645687",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising...",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-10T20:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI教授们谈新研究现实\n\n### AI如何成为研究帮手\n想象一下，你有个特别聪明的助手，能帮你快速查阅资料、整理数据、甚至提出新想法。这就是AI在学术研究中的作用。它就像个超级笔记本，能同时做很多事，比如帮科学家分析实验结果、预测未来趋势。就像有人帮你做家务，让你有更多时间想大事。\n\n### AI教授的烦恼\n这些AI虽然厉害，但也有局限性。比如，它们不懂人类的情感和价值观，做出的结论可能不合适。这就好比机器人做饭，虽然步骤都对，但味道可能不对。所以，研究人员正在想办法让AI更懂“人性”，比如加入更多伦理和道德的考量。\n\n### 新研究现实是什么\n现在的学术研究，AI是重要伙伴，但人还是主导。就像开车，AI可以导航，但方向盘还得人握着。研究人员们正在讨论怎么平衡AI和人，让研究既高效又可靠。比如，用AI处理数据，再用人类判断结果，就像做饭时用机器洗菜，但味道还得靠厨师调。\n\n#### 关键点\n- AI是研究的好帮手，能提高效率\n- AI也有局限，需要人类补充\n- 研究需要人机合作，互相配合",
-      "summarized_at": "2026-08-13T09:17:46.988Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786612645687",
-      "title": "AI for science needs reasoning, not just data",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi...",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-10T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 科研需要AI的思考能力\n\n科学家们发现，AI只是给科研提供数据还不够，还需要AI能像人一样思考。就像你学骑自行车，光看别人怎么骑是不够的，还得自己琢磨怎么平衡、怎么控制方向。科学家们发现，如果AI只会机械地处理数据，就像只会按部就班填表格，但遇到新情况就会卡壳。比如你学做菜，光看食谱不行，还得自己尝味道、调整火候，这就是AI需要学会的\"思考\"。\n\n- 过去有人觉得科学已经到头了\n  - 1903年，科学家Albert Michelson说物理学事实都发现了\n  - 1980年代，Stephen Hawking说理论物理到本世纪末就完了\n- AI在科研中的局限\n  - 只会处理数据，不会像人一样推理\n  - 像个只会背乘法表的儿童，但不会灵活运用\n- 思考能力的重要性\n  - 犹如人类学骑自行车时自主判断平衡\n  - 需要AI能像厨师调整火候那样灵活应对\n\n科学家们认为，真正的科研突破需要AI能像人一样思考，而不仅仅是处理数据。就像你解决数学题，不能只会套公式，还要会分析问题。AI需要学会推理、假设和验证，这样才能推动科学进步。科学家们比喻说，现在的AI就像个只会背菜谱的厨师，但不会尝味道调整味道。真正的科学突破需要AI能像人类科学家那样灵活思考。",
-      "summarized_at": "2026-08-13T09:17:46.810Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1786612645687",
       "title": "These startups are chasing the next big thing in LLMs",
