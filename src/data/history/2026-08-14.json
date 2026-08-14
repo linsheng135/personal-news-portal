@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-14T09:14:38.590Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-14T09:14:38.591Z",
+    "date": "2026-08-14",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1786698723211",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T13:41:10.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Flock公司调整车牌识别系统使用规则\n\n### 背景\nFlock公司是个做警察高科技产品的公司，他们有个全国性的车牌识别网络，能帮警察查车。但最近，很多人对这种技术觉得隐私受侵犯，像家里装了监控但总有人偷看一样，觉得警察用这个也过分。结果有些警察局因为这个不高兴，不想再用Flock的产品了。\n\n### 调整内容\nFlock公司现在说，要改规矩了。以前警察想查车牌数据很容易，现在要加个层，得报备一下，不能随便查了。比如以前警察查一个可疑的车，现在得先跟领导说说，批准了才能查。还有一些特别敏感的数据，警察想看会更难。\n\n### 为什么调整\n主要是为了平息大家的愤怒，别再有人反对他们了。Flock公司怕生意做不下去，才这么做的。他们失去了一些警察局的订单，因为那些警察局担心这个系统被滥用了，比如查私人信息或者报复举报人。\n\n### 关键点\n- 警察查车牌要更难了，得报备\n- 敏感数据查起来更麻烦\n- Flock公司想挽回因为监控问题失去的生意\n- 这是个大公司，以前规则很松，现在要更严格",
-      "summarized_at": "2026-08-14T09:12:31.197Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786698723211",
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 孩子们眼中的AI\n\n### 对话前的预期\n我们本来以为跟孩子聊AI，会听到两种反应：有些孩子会说他们用AI作弊，就像以前的人用 CliffNotes 教科书或者 TI-82 计算器算题一样；还有些孩子会分享用AI做些酷炫的事。\n\n### 实际听到的反馈\n但实际聊下来发现，孩子们的想法跟我们想象的不太一样。他们谈论AI时，更多是从生活角度出发，而不是单纯的技术应用。比如：\n- 有的孩子觉得AI就像一个智能玩具，能陪他们玩；\n- 有的孩子把AI比作“魔法盒子”，能快速找到答案；\n- 还有的孩子担心AI会“抢走”人类的工作。\n\n### 关键发现\n孩子们对AI的看法其实很简单：他们既不觉得AI是洪水猛兽，也不完全信任AI。他们看待AI的方式，更像是把AI当成一个新朋友——有时候可靠，有时候需要小心。\n\n### 为什么重要\n这说明，教孩子认识AI时，不应该只讲技术，更要把AI拟人化。比如用“AI就像一个不会疲倦的老师”这样的比喻，这样孩子更容易理解和接受。",
-      "summarized_at": "2026-08-14T09:12:17.060Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786698723211",
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o...",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-12T16:51:57.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能代理的扩展与可信数据\n\n### 人工智能代理的兴起\n现在，很多公司和科技界大佬都明白，人工智能代理（AI代理）的时代已经来了。就像我们平时用的智能手机助手，能帮我们处理各种任务一样，AI代理也能在工作上自动完成很多事情。现在很多公司都在用这种技术，大家都相信它能改变工作方式。\n\n### 为什么要扩展AI代理？\n虽然大家都看好AI代理，但很多公司在实际使用时发现，想让这种技术真正发挥作用，关键在于数据。数据就像我们做饭的食材，如果食材不好，做出来的菜也不会好吃。同样，如果给AI代理的数据不可靠，它做出的决策也可能出错，导致工作效率不高。\n\n### 数据要怎么才可信？\n要想让AI代理靠谱，就需要用可信的数据来训练它。比如，我们教孩子认人，要是给他的图片都是模糊的或者错误的，他可能就学不会。同样，给AI代理的数据要是乱七八糟的，它也可能做出错误的判断。\n\n### 如何解决数据问题？\n解决数据问题，首先得确保数据是准确、全面的。比如，公司可以建立严格的数据审核机制，就像学校检查作业一样，确保每一份数据都是可靠的。此外，还可以用多种数据源来训练AI代理，就像让孩子从不同角度学认人一样，让他看得更全面。\n\n### 总结\n总之，想让AI代理真正帮到我们，关键在于用好数据。数据要准确、全面，还要经过检查，这样才能让AI代理做出正确的判断，提高工作效率。",
-      "summarized_at": "2026-08-14T09:12:46.495Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786698723211",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising...",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-10T20:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI教授们正在适应科研的新变化\n\n- **背景**：最近在加州山景城的一家酒店，一些顶尖和有潜力的AI专家聚在一起，讨论AI如何改变学术研究。\n\n- **AI教授的挑战**：以前做研究的人靠自己的想法和经验，现在有了AI帮忙，但AI给出的建议未必完全靠谱。比如，AI可能会推荐一些不太合适的论文或研究方向，就像GPS导航偶尔会出错一样。\n\n- **如何解决**：AI教授们正在学习如何更好地使用AI工具。他们发现，AI就像一个助手，需要人指导，不能完全依赖。比如，你可以让AI帮你找资料，但最终判断哪些资料有用，还得靠你自己。\n\n- **AI的潜力**：尽管有挑战，AI依然能大大提高研究效率。比如，AI可以快速筛选大量文献，就像超市收银员用扫描仪快速算账一样。不过，AI目前还不是万能的，它需要时间和人类一起成长。\n\n- **关键信息**：AI不是取代人类，而是帮助人类更好地研究。就像厨师用灶台和刀具，但味道好坏还得看厨师的手艺。AI教授们正在找到最佳搭配，让AI和研究更高效、更准确。",
-      "summarized_at": "2026-08-14T09:12:39.989Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1786698723211",
       "title": "AI for science needs reasoning, not just data",
