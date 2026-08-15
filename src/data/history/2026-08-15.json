@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-15T08:35:44.828Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-15T08:35:44.829Z",
+    "date": "2026-08-15",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1786782867684",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T13:41:10.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Flock调整监控规则，想挽回信任和生意\n\n### 背景情况\nFlock公司是个专门给警察提供监控技术的巨头，他们在全国各地装了好多读取车牌的设备。这些设备能帮警察快速查到车辆信息，有点像超市门口的扫码机，但作用是追踪车辆。不过最近，很多人反对这种大范围监控，觉得侵犯隐私，还有担心警察乱用这些设备。结果，一些警察部门取消了和Flock的合作。\n\n### Flock的新措施\n为了挽回局面，Flock决定调整规则。具体来说：\n- 警察需要更严格的申请才能使用这些设备\n- 每次使用都要有更详细的记录，就像借书需要登记\n- 限制某些敏感区域的监控，比如住宅区，防止像跟踪个人行踪一样监控\n\n### 为什么这样做\nFlock这么做主要是想平息大家的愤怒，证明他们不是在滥用监控技术。毕竟，如果警察部门继续依赖Flock，但民众不信任，生意就会越做越小。这就像开餐馆，如果卫生被曝光，老板就得赶紧改进，不然顾客都不来了。\n\n### 核心目的\n总的来说，Flock在用行动表示：\"我们明白大家的担忧，会管好自己的技术。\" 这样一来，既能留住现有客户，也能吸引新客户，毕竟现在大家都很在意隐私问题。",
-      "summarized_at": "2026-08-15T08:34:37.806Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786782867684",
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 孩子们对AI的真实想法\n\n### 原本以为会怎样\n我们以为跟孩子们聊AI，会听到些熟悉的场景：有的说用AI作弊，就像以前的人用《 cliffsnotes》复习或者用计算器算公式；有的会分享AI带来的惊喜，比如用AI画画或者做音乐。\n\n### 真实想法大不同\n结果发现，孩子们对AI的看法跟我们想的不太一样。他们不只把AI看作作弊工具，反而觉得AI很有用，比如用AI学习新知识、解决数学题、甚至帮做家务。孩子们觉得AI就像一个聪明的小伙伴，能帮他们做很多事。\n\n### 孩子们的创新用法\n不少孩子还把AI用在更有趣的地方，比如用AI编故事、做游戏、甚至设计机器人。他们觉得AI不只是工具，更像一个可以一起玩的伙伴，能激发想象力。\n\n### 核心观点\n- 孩子们对AI的看法比我们想象的更积极，不只是用AI作弊，更多的是用AI学习、创造和解决问题。\n- AI在孩子们眼中不只是技术，更像是一个能一起玩、一起创造的小伙伴。\n- 孩子们的创新用法让AI的应用场景变得更丰富。",
-      "summarized_at": "2026-08-15T08:34:36.743Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786782867684",
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o...",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-12T16:51:57.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能助手要升级，靠谱数据是关键\n\n现在，很多公司和科技公司都在用AI助手来帮忙做事，就像家里请了个能干的小帮手。这些AI助手能自动处理很多工作，比如订机票、发邮件，让人省心不少。但是，要让这些助手真正帮上大忙，还得解决一个关键问题——怎么保证它们拿到的信息都是真的、靠谱的？\n\n想象一下，如果一个小帮手只能接到假消息，就会经常犯错。比如，它收到错误的路况信息，结果把老板送到错的地方，那可就糟了。所以，为了让AI助手更靠谱，公司必须确保它们接触到的数据都是准确的。这就好比教孩子做菜，光有菜谱还不够，还得教他怎么辨别新鲜的食材，否则做出来的菜可能不好吃，甚至有害。\n\n- **数据质量很重要**：就像做菜需要新鲜食材一样，AI助手也需要真实可靠的数据才能正常工作。\n- **投资回报的关键**：如果数据不靠谱，AI助手可能会出错，这样公司花在它身上的钱就白费了。\n- **未来发展趋势**：随着AI助手越来越普及，如何保证它们的数据质量，将成为决定它们能否真正帮上忙的关键。\n\n总之，要让AI助手真正发挥作用，公司必须花心思确保它们拿到的信息都是真材实料。这样才能让这些小帮手真正成为提高效率的得力助手。",
-      "summarized_at": "2026-08-15T08:34:45.960Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786782867684",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising...",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-10T20:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI教授如何适应科研新规则\n\n- **背景**：最近加州山景城的酒店里，一群顶尖的AI专家聚在一起开会。他们就像大学里的教授，但研究的是人工智能技术。这些专家有的已经很有名气，有的还年轻有潜力。\n\n- **核心问题**：人工智能发展太快，现在的科研规则跟以前不一样了。以前做研究可能只要有个好想法，现在各种AI工具（比如论文生成器、数据分析软件）让研究变得复杂。这些AI工具就像新开的超市，商品多但选起来费劲。\n\n- **专家们的做法**：这些AI教授正在讨论怎么利用新工具。比如，用AI写论文可能会更快，但怎么保证论文质量？用AI分析数据很方便，但怎么避免被AI误导？他们就像厨师讨论怎么用新厨具做菜，既要发挥厨师的创意，又要别让锅具烧糊了菜。\n\n- **关键点**：AI让科研更高效，但也带来了新挑战。专家们需要学会跟AI合作，就像农民学会用拖拉机耕地一样。不过，拖拉机能耕种，但种出什么还要靠农民的智慧。同样，AI可以帮忙研究，但研究方向和质量还得靠科学家自己把握。\n\n- **总结**：AI让科研变得像开新游戏，规则变了，需要重新学习。专家们正在讨论怎么玩好这个新游戏，既利用AI的优势，又避免它的坑。",
-      "summarized_at": "2026-08-15T08:34:46.861Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1786782867684",
       "title": "AI for science needs reasoning, not just data",
