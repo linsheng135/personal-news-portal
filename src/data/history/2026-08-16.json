@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-16T08:35:29.087Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-16T08:35:29.087Z",
+    "date": "2026-08-16",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1786869269311",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T13:41:10.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "##  Flock 公司调整警察使用监控设备的规定\n\n### 背景\nFlock 公司是做高科技监控设备的，他们的产品很受警察欢迎，尤其是那种可以读取车牌号的设备。这些设备能帮警察抓小偷，但最近有人抱怨这些设备被滥用，比如抓拍无辜老百姓，搞得人心惶惶。\n\n### 问题\n警察用这些设备时，可以随便查别人的车牌记录，这让很多人觉得隐私被侵犯。加上有些警察用这些信息做坏事，比如滥用权力，搞得 Flock 公司合同纷纷被取消。大家觉得 Flock 公司的设备就是帮警察搞监控，不把老百姓当回事。\n\n### Flock 公司的回应\n为了挽回人心，Flock 公司决定调整政策。具体来说：\n- 警察不能随意查所有人的车牌记录了，得有具体原因，比如怀疑有人在逃或者丢了车。\n- 查询记录前要经过审批，不能自己说了算。\n- 对于那些容易引起争议的查询（比如查普通人的停车记录），得更加谨慎。\n\n### 为什么这么做\nFlock 公司这么做是怕生意做不下去。警察最近因为监控问题被骂得很惨，很多城市不买他们的设备了。公司想保住客户，就得先安抚公众，让大家觉得他们不是在搞大规模监控。\n\n### 生活例子\n想象一下，现在很多小区门口都有摄像头，本来是防盗的。但要是保安随便偷看谁家什么时候出门，那大家就怕了。Flock 公司的设备就像这个小区的摄像头，以前警察用得没节制，现在得按规矩来，不然就没人信任他们了。\n\n### 总结\nFlock 公司调整政策，主要是为了平息大家对监控的抱怨。他们以前让警察随便用设备查车牌，现在得严格点，不能乱来。这么做既能保住生意，又能显得自己是个负责任的大厂。",
-      "summarized_at": "2026-08-16T08:34:38.809Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786869269311",
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 孩子们眼中的AI：真实想法大公开\n\n### 原本的想法\n一开始，我们以为孩子们会说一些老生常谈的话，比如有人用AI作弊，就像以前的年轻人用 CliffNotes 一样；还有人会分享用AI做些酷事，就像当年的 Gen X 用 TI-82 计算器编程一样。\n\n### 惊喜发现\n结果，孩子们的想法完全出乎意料。他们谈论的 AI 远比我们想象的要丰富和深刻。\n\n### AI的日常应用\n- 有些孩子说，AI 帮他们解决作业难题，比如自动写文章或者翻译外语\n- 还有些孩子用 AI 做游戏，比如让 AI 生成故事情节\n- 更有孩子用 AI 创作音乐、画画，甚至设计机器人\n\n### 孩子们的感受\n- 大多数孩子觉得 AI 是好玩又实用的工具\n- 也有部分孩子担心 AI 可能带来的问题，比如隐私和安全\n- 但整体来说，孩子们对 AI 持开放和好奇的态度\n\n### 结论\n没想到，孩子们对 AI 的理解和运用比我们想象的要成熟。他们不仅会用 AI 解决问题，还会思考 AI 的用途和影响。这让我们看到，未来的科技发展可能会因为孩子们的新想法而更加有趣。",
-      "summarized_at": "2026-08-16T08:34:37.307Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786869269311",
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o...",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-12T16:51:57.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能助手要靠谱，数据得放心  \n\n### 人工智能助手越来越火  \n现在很多公司都在用人工智能助手来帮忙干活，就像请了个24小时在线的小秘书。这些助手能自己找信息、做决策，效率特别高。不过，如果助手拿到的信息是错的，那后果可能很严重，比如错订机票、乱发通知，甚至影响公司生意。  \n\n### 数据质量决定助手表现  \n就像做饭需要新鲜食材，人工智能助手也需要靠谱的数据才能干好活。如果数据本身就有问题，比如网上随便抄来的资料不准确，助手就会犯错误。这时候，公司花在助手的钱可能就白费了，还可能因为错误的决策造成损失。  \n\n### 如何保证数据靠谱  \n- **专人审核数据**：就像老师改作业一样，要有人检查数据对不对。  \n- **只用官方渠道**：比如用政府官网、大公司官网的信息，避免用小网站乱七八糟的内容。  \n- **持续更新数据**：世界变化快，数据也要跟着更新，别用几年前的过时信息。  \n\n### 核心观点  \n想让人工智能助手真正帮上忙，关键在于数据要靠谱。数据越准确，助手越能干；数据有问题，助手就可能\"帮倒忙\"。所以，公司在用人工智能助手的时候，一定要好好管住数据质量，才能让投资真正见效。",
-      "summarized_at": "2026-08-16T08:34:44.266Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786869269311",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising...",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-10T20:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# AI教授们如何应对学术研究的全新挑战\n\n## 人工智能开始在学术界\"当老师\"\n\n最近，一些顶尖的AI专家和有潜力的年轻研究者们聚在一起讨论，主题是：AI如何更好地帮助学术研究。这就像一群经验丰富的老师和刚毕业的大学生一起商量，怎么让AI在学术领域发挥更大作用。\n\n## AI正在改变研究方式\n\n想象一下，你有一个超级厉害的虚拟助手，它能帮你快速查找资料、整理数据，甚至提出研究思路。现在的AI就像这个超级助手，能帮科学家们节省大量时间，让他们可以更专注于创新性工作。\n\n- AI能自动阅读成千上万篇论文，找出其中的关键信息\n- 它可以根据现有数据预测未来趋势，就像天气预报一样\n- AI还能帮助设计实验方案，提高研究效率\n\n## 学术界正在适应新变化\n\n就像当年计算机刚出现时，人们也不太习惯用电脑写作业。现在学术界也在慢慢适应AI的帮助，有些大学已经开始让AI参与课程设计，有些研究团队甚至完全依赖AI进行数据分析。\n\n不过，专家们也提醒，AI虽然厉害，但还不能完全替代人类思维。未来最好的研究方式可能是人类和AI合作，就像工程师开车配合自动驾驶系统一样。\n\n## 新的挑战与机遇并存\n\n随着AI在学术界的作用越来越大，也带来了一些新问题：\n- 如何保证AI提供的信息准确可靠\n- 如何防止研究数据被AI滥用\n- 如何平衡人类思考与AI计算的关系\n\n但总体来说，AI正让学术研究变得更加高效、创新，就像智能手机让通信变得简单一样。未来，谁能更好地利用AI，谁就能在科研领域取得更大突破。",
-      "summarized_at": "2026-08-16T08:34:44.965Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1786869269311",
       "title": "AI for science needs reasoning, not just data",
