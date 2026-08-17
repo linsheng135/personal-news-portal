@@ -1,15 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-08-17T08:50:50.134Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-17T08:50:50.134Z",
+    "date": "2026-08-17",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
     {
@@ -27,57 +21,6 @@
       ],
       "ai_summary": "## Flock公司调整车牌识别系统使用规则\n\n### 背景情况\nFlock是一家专门给警察提供技术支持的科技公司，他们在全国各地安装了很多能识别车牌的设备。这些设备可以帮警察抓小偷、找肇事司机，但也有人担心这些设备会被滥用，侵犯隐私。\n\n### 问题爆发\n最近，很多人反对这种监控技术，觉得警察用这些设备过度收集信息，甚至有人怀疑警察会滥用这些数据。因为这些争议，一些警察部门取消了和Flock的合作合同。\n\n### Flock的应对措施\n为了挽回人心、保住生意，Flock决定调整规则，让警察使用车牌识别系统的权限变小。具体来说：\n- 警察需要申请才能使用系统，不是随便都能用\n- 使用系统前要说明具体原因，不能随便查\n- 查询结果要经过审核，不能随意泄露给无关人员\n\n### 例子说明\n想象一下，你住的小区保安有很多监控摄像头，本来是为了安全，但有人觉得他们查得太细，甚至偷看别人家情况。后来社区规定：保安要看监控前必须得到住户同意，并且只能查有具体事件的情况（比如有人闯入）。Flock的做法类似，就是给警察用车牌识别系统加了更多限制。\n\n### 目的\nFlock希望通过这些改变，让大家觉得他们重视隐私保护，减少负面舆论，这样警察部门才会继续和他们合作。",
       "summarized_at": "2026-08-17T08:49:39.857Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786956572146",
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 孩子们眼中的AI\n\n- **最初的想象**：我们以为跟孩子聊AI，他们会说些老一套的，比如用AI作弊，就像以前的年轻人用 CliffNotes 教科书或者 TI-82 计算器算题一样。觉得这很普通，没什么大不了的。\n\n- **没想到的反馈**：但结果完全不同，孩子们没几个说用AI作弊的。相反，他们分享了很多让人惊喜的例子，比如用AI帮助学习、做创意设计、甚至解决生活中的小问题。\n\n- **AI的日常应用**：有个孩子说，用AI帮忙做作业，但不是抄袭，而是AI会给他讲题思路，让他真正学会。还有人用AI编故事、画画，比他自己想象得还厉害。\n\n- **AI的潜力**：这些孩子觉得AI不只是个工具，更是个能激发想象力的伙伴。他们用AI做实验，比如给机器人编程，或者用AI改造家里的旧电器，让生活更方便。\n\n- **核心观点**：原来孩子们对AI的看法比我们想象中成熟多了，他们不只是会用AI，还会思考如何让AI帮忙成长，甚至创造新东西。这说明AI已经悄悄成了他们学习、生活的好帮手，而且未来可能还会更多。",
-      "summarized_at": "2026-08-17T08:49:39.455Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786956572146",
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o...",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-12T16:51:57.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能助手需要靠谱数据才能更好地帮忙\n\n现在很多公司和科技大佬都看清楚了，AI助手（就像能帮你做事的智能小助手）的时代已经来了。大家都在用这种助手，而且觉得它真能把工作变得轻松高效。可是，很多公司在用AI助手时遇到了麻烦，发现想让这个技术真正帮到忙、带来好处，光靠AI还不够，关键还得有**靠谱的数据**。\n\n想象一下，你让一个AI助手帮你找餐馆，如果它只知道一些过时或者假的信息，那它帮的忙反而会让你更头疼。同样，如果公司用的AI助手没有接触到最新、最准确的信息，那它给出的建议、做的工作可能就会出错，甚至帮倒忙。\n\n所以，为了让AI助手能真正帮到公司，提高效率，就得确保它接触到的数据都是真实、可靠的。就像做饭一样，如果用的食材不新鲜、不干净，做出来的菜肯定不好吃，甚至可能有害健康。AI助手也一样，只有用靠谱的数据，它才能真正成为得力的帮手。\n\n## 怎样让AI助手用靠谱数据？\n\n- **收集最新信息**：就像平时关心新闻一样，AI助手也需要不断更新信息库。\n- **检查数据真假**：不能让AI助手随便相信所有信息，得像侦探一样查证。\n- **避免过时数据**：别让AI助手还拿着几年前的信息做决策，这就像用过期地图导航一样危险。\n\n总之，想让AI助手更好地帮忙，就得给它提供高质量、真实可靠的数据。这样，AI助手才能真正成为公司的得力助手，而不是带来麻烦的小鬼。",
-      "summarized_at": "2026-08-17T08:49:48.630Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1786956572146",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising...",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-10T20:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI教授如何应对科研新挑战\n\n- **背景**：最近在加州山景城的一个酒店，一群顶尖的AI专家和有潜力的研究者聚在一起讨论，就像一群经验丰富的老师和新晋教师开研讨会一样。\n- **核心问题**：AI技术正在快速发展，这对传统的学术研究方式产生了巨大影响。比如，以前做研究需要大量阅读文献、做实验，现在AI可以快速处理信息，但同时也带来了新的问题。\n- **AI的角色**：AI就像一位能快速找到答案的助手，能帮科学家分析数据、提出假设，但也会让研究过程变快，可能忽略了某些重要细节。就像你让AI帮你写作业，虽然快，但有时可能不够深入。\n- **新挑战**：科研界正在思考如何平衡AI的速度和深度。比如，AI可以快速筛选文献，但人类专家更懂得如何判断哪些信息真正重要。这就像开车，AI可以自动驾驶，但关键时刻还得靠人掌舵。\n- **解决方案**：科学家们正在探索如何让AI和人合作，就像现在很多公司让AI和人类员工一起工作一样。AI负责数据处理，人类负责创新思维和伦理判断。比如，在制药领域，AI可以测试大量药物成分，人类则负责设计实验和解读结果。\n- **未来趋势**：未来科研可能会变成人机协作的模式，就像医生用AI辅助诊断，但最终决策还得靠医生自己。这种合作需要新的研究方法和评价标准，以确保研究的科学性和可靠性。",
-      "summarized_at": "2026-08-17T08:49:47.985Z",
       "summary_status": "success"
     },
     {
