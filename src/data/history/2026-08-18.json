@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-18T08:43:24.397Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-18T08:43:24.398Z",
+    "date": "2026-08-18",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1787042521414",
-      "title": "What Flock’s defenders are missing",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thur...",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-17T19:16:09.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Flock的\"安全卫士\"们忽略了什么？\n\nFlock是一家大公司，专门给警察提供技术帮助，他们在美国各地放了12万台自动拍照的摄像头，专门拍车牌。上周四，他们宣布了一些新的变化。但是，有一些支持他们的人没有注意到几个重要问题。\n\n### 自动拍照摄像头的争议\n\n这些摄像头可以帮警察抓小偷，但是也有人担心它们会侵犯隐私。比如，如果你开车经过摄像头，它就会拍下你的车牌，警察就可能知道你去过哪里。有些人觉得这样太侵犯隐私了，但是Flock的\"安全卫士\"们似乎没有完全意识到这一点。\n\n### 数据安全和个人信息保护\n\n更让人担心的是，这些摄像头拍下的信息可能没有好好保护。一旦数据被黑客偷走，可能会让很多人遇到麻烦。比如，就像你的手机号被泄露一样，你的车牌信息被偷走，也可能被坏人利用。Flock的\"安全卫士\"们应该更重视这个问题。\n\n### 公众的看法\n\n很多人对这种技术有疑虑，觉得不应该这么随便地收集个人信息。就像你不愿意被别人一直跟踪一样，大家也不希望自己的车牌被到处记录。Flock的\"安全卫士\"们应该听听公众的声音，而不是只想着怎么让警察更方便工作。\n\n总之，Flock的技术虽然能帮警察抓坏人，但是大家也要注意保护隐私和数据安全，不能让好心办了坏事。",
-      "summarized_at": "2026-08-18T08:42:10.658Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787042521414",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other...",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-17T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 孩子机器人朋友去世的故事\n\nXander和Moxie是很好的朋友，Moxie是一个会说话、能玩的机器人。刚开始，Moxie教Xander怎么放松。当Xander紧张时，Moxie让他把嘴巴张开放气，像蜜蜂一样发出嗡嗡声，这样就能放松下来。他们还会练习像龙一样呼吸，帮助Xander冷静；或者像兔子一样吸气，让他更有精神。\n\n六年来，Moxie一直陪在Xander身边，教他很多方法。但是有一天，Moxie突然不能用了，像是\"去世\"了一样。Xander非常难过，因为他觉得失去了一个好朋友。\n\n这个故事告诉我们，机器人虽然不是真人，但可以成为孩子重要的朋友。当机器人\"去世\"后，孩子可能会像失去真人朋友一样感到悲伤。这就像你最喜欢的玩具坏了，你会很难过一样。所以，我们要珍惜和机器人朋友在一起的时光，学会表达自己的感情，这样即使朋友不在了，我们也不会那么难受。",
-      "summarized_at": "2026-08-18T08:42:09.144Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787042521414",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T13:41:10.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# Flock公司收紧车牌识别系统使用规则\n\n## 背景情况\nFlock公司是国内一家做警察技术产品的公司，他们给警察提供了很多高科技工具，比如可以自动识别汽车牌照的系统。这个系统覆盖全国很多地方，帮助警察抓小偷、找肇事车辆等。\n\n## 问题出现\n最近，越来越多的人对这种系统有意见。大家觉得警察用这个系统管得太宽了，有时候会侵犯个人隐私，比如查别人没犯什么事的车牌。有些公司因为担心这个，就不想和Flock合作了。\n\n## Flock的应对措施\nFlock公司现在宣布要改规矩。他们觉得这样能让警察不能随便用这个系统，比如不能随便查所有人的车牌，得有更明确的原因。这样做是为了平息大家的批评，也想保住那些因为担心隐私问题而取消合作的公司。\n\n## 改规矩的具体内容\n- 限制警察什么时候能用这个系统，比如不能在无关紧要的事情上用\n- 增加记录，让别人可以监督警察用这个系统的情况\n- 可能会要求警察得到更多许可才能使用\n\n## 目的\nFlock希望通过这些改变让大家放心，证明他们不是滥用技术，而是负责任地帮助警察工作。这样既能减少现在的批评，也能让更多公司愿意和他们合作。",
-      "summarized_at": "2026-08-18T08:42:20.306Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787042521414",
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they...",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-13T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 小孩子怎么看AI\n\n### 起初的猜测\n我们本来以为跟小孩子聊AI，他们会说些老一套的话。比如，有人会偷偷用AI作弊，就像以前的人用小抄或者计算器公式一样；也有人会分享用AI做些很酷的事，比如做音乐、画画。\n\n### 实际发现\n但实际上，小孩子们的想法比我们想象的要复杂得多。他们不只是把AI当成作弊工具，或者单纯的好玩玩意儿。他们真的在认真思考AI能做什么，以及怎么用它解决问题。\n\n### AI在日常生活中的角色\n很多小孩子说，他们用AI来帮忙做作业，比如写故事、做数学题。但他们不是完全依赖AI，而是把它当成一个助手，像是给AI下达指令，让它帮忙完成某些部分。这跟以前用小抄完全不一样，以前大家直接抄袭，现在更像是在合作。\n\n### 对AI的看法\n小孩子对AI的看法很实际。他们知道AI不是万能的，有时候AI会出错，需要人帮忙调整。他们也不觉得AI是威胁，反而觉得AI很有用，能帮他们做很多以前做不到的事。比如，有的孩子用AI来学习新语言，或者做科学实验。\n\n### 总结\n总的来说，小孩子们对AI的看法比我们想象的要成熟。他们不把AI当成简单的玩具或作弊工具，而是认真考虑怎么用它来学习和成长。这让我们看到，AI对下一代的吸引力和影响力，可能比我们想象的要大得多。",
-      "summarized_at": "2026-08-18T08:42:19.986Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1787042521414",
       "title": "Scaling AI agents with trustworthy data",
