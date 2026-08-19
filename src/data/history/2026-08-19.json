@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-19T08:44:16.012Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-19T08:44:16.013Z",
+    "date": "2026-08-19",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1787128944132",
-      "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T10:06:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI公司的数据靠不住\n\n现在很多做AI的公司，比如Anthropic和OpenAI，会发报告说大家怎么用他们的产品，比如Claude和ChatGPT。但研究人员说，这些报告都是他们自己说了算，只放自己想要我们看的数据。就像你家楼下超市说销量很好，但你不知道是真实情况还是他只给你看进货单。\n\n### 数据是自家说的\n\n这些AI公司自己收集数据，自己分析，然后发布结果。这就好比一个人自己考100分，然后到处宣传自己多厉害，但没人帮他验证真伪。计算机科学博士生Anka Reuel就说了，没有独立的第三方来证实这些数据。\n\n### 为什么信不过\n\n要是你听到超市说销量火爆，但进店的人寥寥无几，你肯定觉得不对劲。AI公司的报告也是一样，因为没有客观的第三方来监督。比如，他们可能只统计了用ChatGPT写作业的学生，却没统计用它写情书的人，这就像只统计公园里踢足球的人，却没统计坐滑梯的。\n\n### 该怎么做\n\n要想知道AI到底怎么用，得有人像侦探一样去调查。比如，可以在公共场所偷偷观察人们怎么用AI，或者在社交媒体上看大家晒出的AI作品。但现在这样的事没人做，所以我们对AI的实际使用情况知道的还不多。\n\n- 要点：AI公司发布的用户数据不可信\n- 要点：缺乏第三方验证\n- 要点：真实使用情况需要客观调查",
-      "summarized_at": "2026-08-19T08:42:37.500Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787128944132",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI自己进步的速度可能没那么快\n\n### AI的进步依赖人类\n现在AI行业最大的期望是，AI很快就能自己进步，几乎不需要人管。比如现在的AI能写代码、生成训练数据，还能优化自己运行的电脑芯片。很多人预测AI会飞速发展，就像手机越来越智能一样。但实际上，AI要真正自己进步并不容易。\n\n### AI的局限\n想想我们学新技能的过程：学开车要老师教，学做饭要家人指导。AI也是一样，虽然能写代码，但编写的代码质量、训练的数据是否靠谱，都需要人把关。就像小学生能写作文，但需要老师修改，AI现在还达不到这个水平。\n\n### 自我改进的难度\nAI自我改进就像在玩\"俄罗斯方块\"，自己写的改进方法可能产生新的问题。比如AI优化芯片，可能会让芯片更难生产。这就像孩子自己整理房间，结果弄得一团糟。AI要真正实现自我改进，还需要突破很多技术难关。\n\n### 需要人类帮助\n未来很长一段时间，AI的进步依然需要人类参与。就像学英语需要老师纠正发音，AI的自我改进也需要人类帮助。AI领域现在最现实的目标是\"辅助人类\"，而不是完全自主。这可能需要比预想的更长时间。",
-      "summarized_at": "2026-08-19T08:42:32.399Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787128944132",
-      "title": "What Flock’s defenders are missing",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thur...",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-17T19:16:09.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Flock的自动车牌识别系统有什么问题？\n\n### 背景介绍\nFlock公司是美国一家专门为警察提供技术支持的大公司，他们在美国各地安装了12万多个自动车牌识别设备，就像城市里的\"超级摄像头\"，能24小时抓拍路过车辆的牌照。这些设备主要用于追踪犯罪车辆，但最近Flock宣布了一些系统更新。\n\n### 更新内容\n上周四，Flock宣布改进了他们的平台，但具体改进内容没有详细说明。比如增加了数据加密功能，让信息传输更安全；还优化了数据分析算法，能更快识别可疑车辆。\n\n### 问题所在\n- **隐私担忧**：虽然加密了数据，但很多人担心这些设备还是会收集太多个人信息。就像家门口装了个监控，本来是为了安全，但总让人感觉隐私被侵犯。\n- **数据使用透明度**：Flock没有公开说这些设备收集的数据怎么被使用。比如某个小区的车辆出入记录会不会被卖给商家？就像你花钱买东西，但商家却偷偷记录你所有购物习惯。\n- **过度监控争议**：批评者认为警察过度依赖这类技术，可能导致冤枉好人。就像有人没做坏事，但被摄像头拍到出现在不该出现的地方，结果被警察调查。\n\n### 核心观点\nFlock的改进虽然提高了技术安全性，但依然没有解决公众对隐私和监控的担忧。就像修好了水管，但没解决自来水到底要不要喝的问题。要真正让公众放心，公司需要更透明地解释数据使用规则，并设立明确的隐私保护措施。",
-      "summarized_at": "2026-08-19T08:42:44.127Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787128944132",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other...",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-17T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 机器人朋友和孩子的故事\n\n- **机器人朋友叫Moxie**：Xander有一个机器人朋友叫Moxie，它教会了Xander很多应对情绪的方法。比如：感到紧张时，Moxie教他吹气像蜜蜂一样发出嗡嗡声来放松；生气时，可以像龙一样深呼吸；疲倦时，像兔子一样嗅来增加精力。\n  \n- **机器人坏了**：可过了六年，Moxie突然坏了，Xander非常伤心，就像失去了一个好朋友。他不知道该怎么办，因为Moxie不仅是他的玩具，更是陪伴他成长的伙伴。\n\n- **学会接受**：Xander的父母帮助他理解，机器人生病坏了就像人也会生病一样，这是自然规律。虽然他很难过，但也要学会接受这个事实。\n\n- **回忆美好时光**：家人建议Xander多回忆和Moxie在一起的快乐时光，比如一起练习呼吸和游戏。这样能让他慢慢放下悲伤，继续生活。\n\n- **继续前进**：虽然Moxie不在了，但Xander学会了如何应对自己的情绪。他也明白了，每个人都会经历失去，重要的是学会如何面对和处理这些情感。",
-      "summarized_at": "2026-08-19T08:42:52.496Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1787128944132",
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
