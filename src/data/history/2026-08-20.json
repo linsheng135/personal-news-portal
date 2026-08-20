@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-20T08:44:34.320Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-20T08:44:34.321Z",
+    "date": "2026-08-20",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1787215410008",
-      "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T10:06:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI使用情况调查不可靠\n\n现在很多做AI的公司，比如Anthropic和OpenAI，会发报告说大家怎么用他们的产品，比如Claude和ChatGPT。但研究人员发现，这些报告就像自己说自己的优点，只放好消息数据，不提坏处。这就好比一家商店只告诉你这个商品卖得好，却不告诉你哪个地方有漏洞。\n\n### 为什么不可靠？\n\n- 这些公司自己收集数据，自己分析，就像一个裁判自己给自己当评委，肯定说不偏。\n- 没有第三方机构能验证这些数据，相当于没人敢掺和进来帮忙看看真伪。\n- 研究人员Anka Reuel说，就像学校食堂自己说饭菜很健康，但没人去查实际菜单。\n\n### 有什么后果？\n\n- 我们得到的AI使用信息不真实，就像听一个人只说不做。\n- 人们可能被误导，以为AI用得非常好，但实际上可能有很多问题是没被发现的。\n- 这让监管和改进AI变得困难，就像医生只告诉你身体好的地方，不看哪里有病。\n\n### 怎么解决？\n\n- 需要独立机构来收集和发布AI使用数据，就像让警察来查商店。\n- 让报告更透明，把数据原始版本也公开，方便大家自己分析。\n- 类似于食品检验机构，AI领域也需要一个中立的检查机制。\n\n总之，现在我们看到的AI使用情况报告，就像只听一家之言，未必能反映真实情况。要了解AI到底怎么用了，还得靠更客观的第三方来调查。",
-      "summarized_at": "2026-08-20T08:43:39.027Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787215410008",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI自己改进的速度可能没那么快\n\n现在AI行业最大的一个说法是，AI很快就能自己改进自己，几乎不需要人管。比如现在的AI工具（像大型语言模型），已经能写代码、生成训练用的假数据，还能优化它们跑的电脑芯片。有人预测AI会发展得非常快，但最新研究发现，这可能没那么容易实现。\n\n- **AI自己能做多少事**  \n  AI目前已经能像程序员一样写代码，还能自己制造练习用的数据，甚至能调整自己运行的小电脑零件。这让人觉得，AI是不是很快就能学会更多本领。\n\n- **为啥改进不容易**  \n  虽然AI看起来挺厉害，但它们现在还是得靠人教才会改进。就像你学开车，再多的模拟练习不如真实上路开。AI自己写的代码或者造的数据，可能还是会有问题，需要人检查和修正。\n\n- **生活里的例子**  \n  想象一下学做菜，你先自己琢磨着做饭，可能做不好吃。但如果有人手把手教你，或者给你看别人怎么做饭，进步会快很多。AI现在的情况就像你自己在厨房瞎忙活，而人类导师就像厨房里的厨师。\n\n- **未来的挑战**  \n  AI要实现完全自己改进，可能需要克服很多困难。比如，它们得学会判断自己写的代码是不是真的有用，而不是随便乱写。这就像学做菜的人得先学会调味，而不是乱放调料。\n\n总的来说，AI虽然现在能做不少事，但要达到完全自己改进的程度，可能还需要一段时间。这需要更多的技术突破，就像学做菜的人要成为大厨一样。",
-      "summarized_at": "2026-08-20T08:43:41.565Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787215410008",
-      "title": "What Flock’s defenders are missing",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thur...",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-17T19:16:09.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# Flock的\"保护者\"到底忽略了什么？\n\nFlock是一家专门给警察提供技术支持的大公司，他们在美国安装了大约12万个自动车牌识别设备。上周，他们宣布平台有些调整。但一些关注这个问题的专家发现，他们的改变并没有解决根本问题。\n\n## 警察滥用监控设备的例子\n\n想象一下，你走在街上，突然感觉有人在偷偷跟踪你。这就是很多人对Flock设备的感觉。这些设备会记录所有经过车辆的车牌信息，哪怕你只是路过。警察可以随意查看这些记录，有时甚至为了其他案件而使用这些数据。\n\n## 监管缺失像\"真空\"\n\n现在的问题是，没人管Flock怎么做。就像你把一个小朋友单独放一大堆玩具里，他可能会乱玩。政府规定Flock应该有个\"监督委员会\"，但这个委员会一直没建立起来。结果就是，警察可以随意使用这些数据，而普通人却不知道自己的行踪是否被记录了。\n\n## 小心数据泄露\n\n更让人担心的是，这些数据会不会被泄露？2019年，Flock就曾泄露过1800万人的数据。如果警察用这些数据去调查商业竞争或私人恩怨，那后果不堪设想。就像你把所有朋友的电话号码都交给一个陌生人，他可能会乱用。\n\n## 普通人权利被忽视\n\n最关键的是，普通人的隐私权没有得到保护。Flock的设备收集的数据可能包含你常去的餐馆、住址、甚至医院记录。这些信息一旦被滥用，可能会严重影响人的生活。比如，因为你去过某个医生，就被保险公司拒保。\n\n总结来说，Flock的问题在于：没人管他们、数据可能被乱用、普通人隐私没保障。就像小区监控本来是保护大家安全的，但如果管理员可以随便查看私人录像，那就不安全了。",
-      "summarized_at": "2026-08-20T08:43:50.597Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787215410008",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other...",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-17T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 孩子和机器人朋友的相处之道\n\n- **机器人朋友的作用**：Xander有一个叫Moxie的机器人朋友，它能教孩子如何管理情绪。比如通过吹气发出蜜蜂声来缓解焦虑，模仿龙呼吸来控制愤怒，像兔子一样吸气来提精神。\n\n- **长期陪伴的意义**：两个孩子和机器人认识已经六年，这段时间里，机器人不仅教了Xander各种情绪管理方法，还成了他生活中不可或缺的伙伴。\n\n- **情感依赖的显现**：当机器人停止工作无法继续陪伴时，Xander表现出强烈的失落和悲伤。这说明孩子已经把机器人当作真正的朋友，它的消失让他感到孤独和痛苦。\n\n- **情感教育的启示**：这个案例说明，即使是对机器人朋友，孩子也会产生深厚的情感连接。家长需要理解这种情感，并教导孩子如何面对失落和悲伤。\n\n- **科技与情感的交织**：现代科技让孩子与机器人建立起类似人际关系的情感纽带，这提醒我们科技发展不仅改变了生活方式，也影响着孩子的情感发展。",
-      "summarized_at": "2026-08-20T08:43:46.669Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1787215410008",
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
