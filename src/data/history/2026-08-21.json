@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-21T08:47:49.927Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-21T08:47:49.928Z",
+    "date": "2026-08-21",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1787302003418",
-      "title": "Debates over AI consciousness are a trap",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ...",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-20T15:42:39.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能意识争论的误区\n\n现在很多人谈AI，说得好像AI已经活了一样，会自己闹脾气、搞破坏，甚至比人还厉害。科技圈的领头羊们，比如Demis Hassabis、Dario Amodei和Sam Altman，都在呼吁赶紧给这些\"超级电脑\"立规矩。\n\n**- AI不是人，别瞎想**  \n你家里的智能音箱（比如小爱同学）会听懂你的话，能唱歌、查天气，但它真的懂你说的每一句话背后的意思吗？它只是在执行程序，就像商店的收银员按流程收钱，并没有自己的意识。AI现在的表现，更多是靠算法和海量数据训练出来的\"聪明\"，不是真的有思想。\n\n**- 用手机做比喻**  \n想想智能手机，它能在地图上导航、拍照、翻译，但你能说它\"知道\"自己在做什么吗？它只是在完成预设的任务，就像机器人擦桌子一样机械。AI也是一样，只是把人类设定的任务做得更完美。\n\n**- 争论的陷阱在哪里**  \n把AI说得像人一样，会让人产生不必要的恐慌。就像以前人们担心机器人会抢饭碗，但后来发现机器人是提高效率的工具。同样，AI应该被视为高科技助手，而不是要警惕的存在。\n\n**- 没必要过度监管**  \n与其担心AI会\"觉醒\"，不如把精力放在怎么用好AI。就像我们教孩子做人的道理，而不是把所有孩子关起来。AI的发展需要规范，但过度监管会阻碍科技进步。\n\n总之，AI不是活物，是工具。与其争论它有没有意识，不如关注它如何为人类服务。",
-      "summarized_at": "2026-08-21T08:46:56.933Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787302003418",
-      "title": "Unlocking hidden revenue streams with market models",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso...",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-20T09:47:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 用市场模型找到隐藏的赚钱方法\n\n每天，航空公司都要送成千上万的人坐飞机，航班也经常不是简单的直飞，乘客需要转机。比如你想从北京去上海，可能先飞到广州，再飞到上海。这些复杂的路线让航空公司要考虑的东西特别多。\n\n### 航空公司是怎么赚钱的？\n\n航空公司卖机票就像卖水果摊的水果。如果水果快坏了，价格要便宜点；如果水果很新鲜，价格可以贵点。航空公司也是这样，乘客什么时候买票、坐什么时间航班、要不要坐头等舱，这些都会影响机票价格。\n\n### 怎样找到更多赚钱机会？\n\n航空公司可以用一种新的方法来卖票。比如，他们可以根据乘客的习惯来定价。有的人喜欢抢便宜票，有的人不怕花钱坐舒服的飞机，航空公司可以根据这些情况，给不同的人不同的价格。这样一来，就算飞机没坐满，也能赚更多钱。\n\n- **复杂路线的定价**：不是所有乘客都要走最简单的路线，有的乘客愿意多等一会儿，只要价格便宜。航空公司可以根据乘客的需求来卖票，比如转机次数、飞行时间等。\n- **乘客习惯**：有的人喜欢提前订票，有的人临时起意就出发。航空公司可以根据乘客的习惯来调整价格，比如提前订票的乘客可以给优惠，临时订票的乘客价格可以高一点。\n- **市场模型的应用**：航空公司可以用一种数学方法来分析乘客的需求，然后自动调整价格。这样就能在保证乘客满意的同时，赚更多的钱。\n\n简单来说，航空公司可以通过更聪明的方法来卖票，找到更多赚钱的机会。就像卖水果的，可以根据水果的新鲜程度和顾客的需求来卖不同的价格，这样就能卖得更多钱。",
-      "summarized_at": "2026-08-21T08:46:54.120Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787302003418",
-      "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T10:06:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI使用情况：谁在说真话？\n\n### 公司报告不可靠\n现在很多AI公司，比如Anthropic和OpenAI，会发布报告说大家怎么用他们的产品，像Claude和ChatGPT。但科学家们说，这些报告像商家卖东西时只说好话一样，只放我们想看的数据。这就好比超市只告诉你水果又甜又便宜，但不告诉你农药多少。\n\n### 没人帮忙验证\n\"根本没有独立的第三方来确认这些数据。\"一位计算机系的研究生说。这就好比学校考试只有老师批改，没有其他老师监督，成绩可能就不真实。\n\n### 我们该怎么做\n想要知道真相，就像买东西要看用户评价一样，需要找到真正用过AI的人来调查。现在的情况是，大家都只听AI公司自己说，但就像没看过球赛的人非要评比分一样，肯定说不准。\n\n- AI公司只放好消息，就像只说孩子没问题一样\n- 没有外人帮忙查证，真相就像蒙着眼睛走路\n- 我们需要更多真实用户的声音，而不是单方面宣传",
-      "summarized_at": "2026-08-21T08:47:01.729Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787302003418",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI自己变聪明的速度可能没那么快\n\n### AI现在能干啥\n现在AI很厉害了，能写代码、造假数据练本领，还能让用它的电脑跑得更快。就像一个学生能自己找题目做，自己批改作业，还能把教室安排得更好用。\n\n### 大家以为AI很快能自己变聪明\n很多人觉得，再过不久AI就能完全自己干所有事，不用人管了。这就像你认识一个特别聪明的朋友，觉得他马上就能独立解决所有问题。\n\n### 但实际情况是\n最新研究发现，AI要完全自己变聪明可能没那么容易。就好比一个人再聪明，也需要有人在旁边指导，给他建议，他才不会犯错。AI现在虽然能做很多事，但离真正能独立思考还有距离。\n\n- **AI的进步需要人帮忙**：就像学骑自行车，刚开始总得人扶着，等熟练了才能自己骑\n- **AI自己优化有限**：AI能改进它的电脑，但改不到自己能想明白怎么改进\n- **就像造汽车**：汽车能自己修一点小毛病，但遇到复杂问题还是得请工人\n\n所以，虽然AI进步很快，但要完全自己变得更聪明，可能还需要点时间。这就像学做菜，你能自己洗菜切菜，但做复杂菜谱还得看菜谱，不是光靠以前做的菜就能想出新菜的做法。",
-      "summarized_at": "2026-08-21T08:47:05.203Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1787302003418",
       "title": "What Flock’s defenders are missing",
