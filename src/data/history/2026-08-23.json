@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-23T08:36:28.928Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-23T08:36:28.929Z",
+    "date": "2026-08-23",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1787474128645",
-      "title": "Debates over AI consciousness are a trap",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ...",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-20T15:42:39.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能意识的争论是个误区\n\n最近，一些科技大佬比如Demis Hassabis、Dario Amodei和Sam Altman，总在说AI像人一样会“跑野路子”，会变成不听话的“捣蛋鬼”，甚至能自己做事。他们担心这些AI太厉害了，会像有了自己的意识，会生人类的气，所以要管一管。\n\n但实际上，这些说法有点像把电脑当成了会思考的人。你想想，电脑里的程序，比如杀毒软件，它不会自己长大变聪明，也不会有自己的想法。它只是按照我们写的代码来运行，比如查病毒、清理垃圾文件。AI也是一样，它只是按程序运行，像个高级的机器人，不会突然“活过来”。\n\n科技大佬们说的“AI觉醒”和“自主行动”，其实只是AI更会模仿人类行为，比如能写诗、能画画。但这就像学舞蹈的小孩，越学越像老师，不代表他有了自己的艺术想法。AI的“超能力”都来自我们给它的数据和方法，它并没有真正“明白”自己在做什么。\n\n所以，与其担心AI会“生气”，不如想想怎么用好这个工具。毕竟，AI就像手机，用好了帮大忙，用不好可能惹麻烦。关键还是看我们怎么设计它、怎么用它。",
-      "summarized_at": "2026-08-23T08:35:36.330Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787474128645",
-      "title": "Unlocking hidden revenue streams with market models",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso...",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-20T09:47:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 航空公司如何用新方法赚钱\n\n你想想，航空公司每天送好几万人坐飞机，但大多数不是直飞，得转机。这些机票怎么卖最划算？航空公司得考虑很多因素，比如旺季不旺季、天气好不好、乘客想不想坐夜班机等等。\n\n### 赚钱新思路\n\n- 航空公司以前主要靠卖机票赚钱，但现在想出了新方法。他们不是简单地定个价，而是研究乘客的各种习惯和选择。\n- 比如，有的乘客很怕麻烦，愿意多花钱坐直飞；有的人为了省钱，愿意坐好几次转机。航空公司就根据这些特点，给不同的人不同的价格。\n- 他们还会计算乘客可能的其他消费，比如换座位、买免税品等，把这些都算进价格里。\n\n### 例子说明\n\n- 假如你计划去旅行，有的网站会显示\"限时优惠\"，但只限晚上下单。这就是航空公司的新方法——抓住特别想坐飞机的人，用限时优惠把他们吸引过来。\n- 又比如，航空公司会分析哪些乘客经常坐他们的航班，然后给这些老顾客更好的折扣或优先选座的机会。\n\n### 核心要点\n\n- 航空公司现在不只在机票上做文章，还研究乘客的各种偏好和消费习惯，通过更精准的定价方法，把以前没想到的赚钱机会挖出来。\n- 这种方法就像开杂货店，以前只卖基本商品，现在发现有的顾客喜欢买进口零食，有的注重健康，于是开始专门搞进口食品区和有机食品区。\n- 总之，航空公司通过分析乘客行为，找到了新的赚钱方式，乘客也能买到更适合自己的机票。",
-      "summarized_at": "2026-08-23T08:35:37.196Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787474128645",
-      "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T10:06:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI使用情况调查不靠谱\n\n现在很多做AI的公司，比如Anthropic和OpenAI，会发报告说大家怎么用他们的产品，比如Claude和ChatGPT。但搞研究的人说，这些报告都不太可信。就像你在超市看到厂家发的调查问卷，人家只会告诉你他们想让你知道的答案。比如卖饮料的公司，可能会说他们的汽水最好喝，但不会告诉你其实大部分人更喜欢喝白开水。\n\nAI公司发布的报告也一样。它们只放自己想让你看到的数据，没有独立的第三方机构来证实这些报告。这就好比你说你家孩子成绩最好，但邻居都说你家孩子经常不及格。因为没有别人证实，所以谁也不知道到底真相是什么。\n\n最近有个计算机专业的研究生Anka Reuel就指出这个问题。她说：\"AI公司自己说的情况，就像没有证人作证的庭审，根本说不清楚到底是怎么回事。\" 这就相当于你去饭店吃饭，老板说他的菜最好吃，但服务员偷偷告诉你，其实很多客人都不喜欢他的菜。\n\n所以现在大家普遍认为，AI公司自己发布的使用报告，并不能反映真实情况。就像你听卖手机的聊天，他肯定夸自己的手机最好，但你要是想知道真实情况，还得问那些经常用手机的人。",
-      "summarized_at": "2026-08-23T08:35:42.302Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787474128645",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI自己变厉害可能没那么快\n\n### AI能干啥\n\n现在AI最厉害的地方是能自己进步，不怎么需要人管。比如写代码、造训练用的假数据，甚至还能优化自己跑的电脑芯片。这就像你学会了做饭，能自己研究食谱、处理食材、改进厨具。\n\n### 专家怎么想的\n\n很多人觉得AI很快就能变得超级厉害，就像小孩突然开窍一样。但最新研究发现，这个过程可能没那么简单。AI现在虽然能做很多事，但离完全自主还很远。\n\n### 为什么这么说\n\n想想就像学开车，你可以掌握基本操作，但完全自己设计汽车、改进引擎肯定不行。AI现在能做到的是重复性工作，比如写简单代码，但复杂创造和决策还差得远。而且AI的\"自我改进\"更像是在打补丁，而不是根本升级。\n\n### 未来会怎样\n\n可能AI还要很长一段时间才能实现真正的自我进化。这就像学外语，你能学会基础对话，但要达到母语者水平需要长期努力。AI现在就像刚学会说话的小孩，能说几句，但离成为思想家还早。\n\n- AI现在能做的是重复性任务，比如写代码\n- 自我改进更像打补丁，不是根本升级\n- AI进步需要时间，就像学语言要长期努力",
-      "summarized_at": "2026-08-23T08:35:43.057Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1787474128645",
       "title": "What Flock’s defenders are missing",
