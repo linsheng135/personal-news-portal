@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-24T08:55:00.262Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-24T08:55:00.263Z",
+    "date": "2026-08-24",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1787561630433",
-      "title": "Debates over AI consciousness are a trap",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ...",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-20T15:42:39.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能意识论的误区\n\n### 误区现状\n最近，很多人谈论AI时，会用\"失控的AI\"、\"反叛的AI\"这些词，好像AI已经成了有独立思想、甚至有情绪的活人。像某些科技大佬，比如Demis Hassabis、Dario Amodei和Sam Altman，都在呼吁监管这些\"超能AI\"。但他们说的\"超能AI\"其实只是普通机器人的营销说法，就像卖汽车时夸大马力一样。\n\n### 生活中的例子\n想象一下你家的智能音箱，它确实能听懂话、能回答问题，但你能说它有意识吗？就像手机里的语音助手，它只是按程序回应，完全没自主想法。现在有些人把AI说得神乎其神，其实只是把现有技术包装成了\"超级智能\"，就像把会下棋的电脑宣传成\"有灵魂的棋手\"。\n\n### 核心观点\n- AI没有真正意识：目前的AI只是复杂的计算工具，谈不上\"活着\"或\"有情绪\"，就像计算器不会突然\"生气\"一样  \n- 营销陷阱：科技公司常夸大AI能力，把普通程序包装成\"有生命的AI\"，目的是吸引投资和消费者  \n- 正确态度：应该客观看待AI，承认它的能力但避免过度拟人化，就像承认电脑会算数但不认为它是\"人\"\n\n简单说，现在关于AI意识的讨论就像围观一个会走路的机器，觉得它\"真像人\"，其实只是机械活动。我们需要理性看待AI，别被商业宣传带偏了。",
-      "summarized_at": "2026-08-24T08:53:59.771Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787561630433",
-      "title": "Unlocking hidden revenue streams with market models",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso...",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-20T09:47:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 航空公司如何通过新方法增加收入\n\n航空公司每天送很多乘客坐飞机，但很多不是直接从A地到B地，而是要转几次机。为了赚钱，航空公司得想怎么卖票最划算。\n\n### 航空公司卖票的学问\n\n- 航空公司卖票不是简单定个价，得考虑很多因素：比如现在多少人想坐这个航班、旺季还是淡季、乘客坐的是经济舱还是头等舱、是不是经常飞这个航线的人。\n- 比如夏天去海边玩的人多，票价就能卖高点；要是冬天去滑雪的人少，票价就可能便宜点。\n\n### 怎样找到更多赚钱的路子\n\n航空公司现在用一些新方法来卖票，比如：\n- 给经常坐飞机的人优惠，让他们经常来找你\n- 把不同航班的乘客拼在一起，比如A地到B地的和从B地到C地的，一起打包卖票\n- 根据乘客的喜好，推荐他们可能感兴趣的其他服务，比如升级舱位或买保险\n\n### 这样做的好处\n\n- 这样一来，航空公司不仅能卖机票，还能卖其他东西，比如乘客在飞机上要吃的喝的、提前订酒店等。\n- 像超市一样，除了卖菜卖米，还卖零食饮料，生意自然越来越好。\n\n总的来说，航空公司通过更聪明的方法来卖票，不仅卖机票本身，还卖票上和票外的各种服务，这样就能找到更多赚钱的路子。",
-      "summarized_at": "2026-08-24T08:53:58.817Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787561630433",
-      "title": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T10:06:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI使用情况调查不可靠\n\n现在很多做AI的公司，比如Anthropic和OpenAI，经常发布报告，说大家怎么用他们的产品，比如Claude和ChatGPT。但研究人员发现，这些报告里的数据都是他们自己挑出来的，想让我们看到什么样的结果，就展示什么样的。\n\n就像你去菜市场买菜，摊主可能会特别强调自己摊上最新鲜的苹果，但不会告诉你他有没有卖过烂掉的。AI公司也是一样，他们只告诉你他们想让你知道的，比如用户很开心，用得很频繁，但可能不会说大家有没有用得乱七八糟或者出了什么问题。\n\n所以，现在没有一个独立的、中立的机构能证明这些报告的真实性。研究人员Anka Reuel说，没有别人来帮忙确认，这些数据可信度就不高。\n\n这意味着，我们很难真正知道大家是怎么把AI用到日常生活中的，因为得到的信息可能不全面，甚至有点像自卖自夸。就像你听一个卖鞋的人说自己的鞋子有多好，但你不确定是不是所有穿他鞋子的人都满意一样。",
-      "summarized_at": "2026-08-24T08:54:05.168Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787561630433",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c...",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-18T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI自己进步的速度可能没那么快\n\n现在AI行业最大的口号是，AI很快就能自己提高，几乎不需要人管。就像你学会炒菜后，能自己改进菜谱、调整火候一样。现在的AI已经能写程序、生成训练数据，还能优化自己跑的电脑芯片。\n\n### AI现在的能力\n- AI能写代码：就像你会用Word打字，AI能写电脑程序\n- AI能生成数据：就像你用照片学画画，AI能自己造学习资料\n- AI能优化硬件：就像你会给手机清理内存，AI能给自己升级电脑\n\n### 为什么进步可能没那么快\n- AI就像小朋友学知识，刚开始会犯错，需要人指导\n- 现在的AI就像学步的小孩，能走几步就摔跤，还没学会跑\n- AI自己改代码就像自己改作业，可能会越改越乱\n\n### 专家怎么说\n专家们预测AI会快速发展，但实际可能需要更多时间。就像学骑自行车，你以为练几天就会了，其实要练很久才不会总摔。现在AI的能力就像会走路的婴儿，离跑起来还远着呢。\n\n总之，别太指望AI很快就能超能力，它可能需要更多时间才能真正学会自己进步。",
-      "summarized_at": "2026-08-24T08:54:12.290Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1787561630433",
       "title": "What Flock’s defenders are missing",
