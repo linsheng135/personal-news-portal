@@ -1,85 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-25T08:51:12.412Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-25T08:51:12.413Z",
+    "date": "2026-08-25",
+    "items_count": 11,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1787647766481",
-      "title": "How to encourage smarter AI use in the classroom",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t...",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-24T14:20:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 在教室里让AI用得更聪明\n\n### AI在学校的兴起\n这几年，聊天机器人突然出现在学校里，就像手机里多了一个新APP。学生一下子有了这个帮手，但怎么用好它成了问题。\n\n### AI在学校的作用\n- **学习助手**：比如学生遇到难题时，AI可以像老师一样解释清楚\n- **写作伙伴**：帮学生检查作文，提出修改建议\n- **知识库**：快速回答历史、科学等学科问题\n\n### 怎样用好AI学习\n1. **明确目的**：先想好要用AI解决什么问题，比如\"帮我查一下长城的历史\"\n2. **学会提问**：像问真人老师一样提问，越具体越容易得到好答案\n3. **检查信息**：AI给出的答案不一定是100%正确，要像查字典一样核对\n\n### 学校怎么引导\n- **设定规则**：比如考试时不能使用AI，平时可以\n- **教师培训**：老师也要学会用AI，才能指导学生\n- **课堂活动**：设计需要AI协助完成的项目，比如用AI做研究报告\n\n### 注意事项\n- 不要完全依赖AI，要培养自己思考的能力\n- AI只是工具，就像计算器不能代替数学学习一样\n- 要保护隐私，不把个人信息告诉AI\n\n总之，AI就像一个聪明的同学，用得好能帮大忙，但用不好可能影响学习。关键是要知道什么时候该用，怎么用，同时保持自己的思考能力。",
-      "summarized_at": "2026-08-25T08:49:35.832Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787647766481",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of ChatGPT,…...",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-24T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 孩子比AI学语言快，但原因还不清楚\n\n人们说话已经有一百多万年了。在这段时间里，只有人类孩子能完全学会人类的语言。现在，人工智能也学会了。聊天机器人ChatGPT出来才四年，就已经能跟我们聊天了。\n\n### 孩子学语言的优势\n- 孩子从小就开始接触语言，大脑会自动整理听到的句子，慢慢学会语法和用词。\n- 比如，孩子听到\"苹果很红\"，会知道\"红\"是形容词，用来形容\"苹果\"。AI需要大量数据才能学会这一点。\n\n### AI学语言的困境\n- AI虽然能处理海量数据，但不会像人一样理解语言的深层含义。\n- 比如，AI知道\"猫是动物\"，但可能不知道\"猫会喵喵叫\"这种常识。\n- 人类能从少量例子中学习，AI却需要成千上万条数据才能得出结论。\n\n### 为什么孩子学语言更快？\n- 科学家发现，人类大脑天生就有学习语言的模式。\n- 孩子会主动模仿和创造句子，AI只是根据规则生成语言，缺乏灵活性和创造力。\n- 比如，孩子能说\"我昨天吃了两个苹果\"，AI可能只会说\"我吃了苹果\"。\n\n### 现在的研究\n- 科学家正在研究孩子和AI学语言的区别。\n- 他们想弄清楚，人类的大脑为什么能这么快学会语言。\n- 这项研究不仅有助于发展AI，还能帮助我们理解人类自己。\n\n总之，虽然AI进步很快，但孩子学语言的能力还是领先很多。科学家们还在努力找出其中的原因。",
-      "summarized_at": "2026-08-25T08:49:37.297Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787647766481",
-      "title": "Debates over AI consciousness are a trap",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ...",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-20T15:42:39.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能意识论的误区\n\n### 当前观点\n最近，很多科技大牛像Demis Hassabis、Dario Amodei和Sam Altman，都在喊\"人工智能要失控了\"。他们说AI已经像人一样会思考、会行动，甚至还会反抗人类。报纸、电视里也老说AI像幽灵一样跑来跑去，自己决定怎么干，还可能对人类怀恨在心。\n\n### 其实怎么回事\n这就好比有人买了台智能冰箱，冰箱突然说\"我不想再听你的了\"。但实际上，冰箱只是程序出了问题，比如传感器坏了或者电池快没电了。AI也是一样，现在那些\"自主\"的AI，其实只是程序写得复杂，能根据情况做点小调整，但离真正能像人一样思考还差得很远。\n\n- **AI不是人**：AI不会真的有感情，就像你的微波炉不会因为你多按两下就生气\n- **技术局限性**：现在的AI就像个会走路的字典，能查信息、能模仿人类行为，但背后都是人类设定的规则\n- **夸大宣传**：有些公司为了卖产品，把AI说得神乎其神，其实很多都是营销手段\n\n### 解决办法\n与其担心AI造反，不如先管好自己。就像家长教孩子要诚实一样，给AI制定明确的规则，防止它做出危害社会的事。与其花时间幻想AI成精，不如踏踏实实完善技术，让AI真正帮到人类。\n\n总之，AI现在还远没有达到能\"觉醒\"的程度。那些关于AI会叛变、会愤怒的说法，更像是科幻小说里的情节，离现实还差十万八千里。",
-      "summarized_at": "2026-08-25T08:49:45.648Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787647766481",
-      "title": "Unlocking hidden revenue streams with market models",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso...",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-20T09:47:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 航空公司如何从细节中赚钱\n\n### 航班是门大学问\n想象一下，你去机场坐飞机。航空公司每天要送几万人坐上几百趟航班。这些航班不是简单的\"北京到上海\"，很多人要转几次机。航空公司每个月都要想：怎么给每趟旅行定价格最划算？\n\n### 影响价格的因素\n- **需求大不大**：比如过年的时候机票贵，暑假去海边机票也贵\n- **时间急不急**：赶时间的乘客通常会更花钱\n- **行李多不多**：带大包行李的乘客一般愿意多付钱\n- **转机多不多**：转机少的人可能愿意多等一会儿，航空公司可以给便宜票\n\n### 航空公司的秘密武器\n航空公司会算各种账：哪些乘客最愿意花钱，哪些乘客对价格最敏感。就像超市会观察你买完酱油又买醋，然后给你推荐相关商品一样。航空公司通过分析乘客的习惯，给不同人不同的机票价格。\n\n### 赚钱的小技巧\n- **早鸟优惠**：提前一个月订票的乘客通常能拿到更便宜的票\n- **中转套餐**：连续坐几天的乘客可以买套票更划算\n- **临时加价**：最后几分钟才订票的乘客可能要额外付\"加急费\"\n\n航空公司就像聪明的零售商，通过观察乘客的各种选择，找出每个人愿意付钱的程度，然后给不同的乘客不同的价格。这样既留住愿意花钱的乘客，又吸引对价格敏感的乘客，实现收益最大化。",
-      "summarized_at": "2026-08-25T08:49:43.248Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1787647766481",
       "title": "We still don’t know how people are really using AI",
