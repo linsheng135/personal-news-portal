@@ -1,51 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-26T08:51:31.166Z",
-    "items_count": 15,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "Google AI Blog",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-08-26T08:51:31.166Z",
+    "date": "2026-08-26",
+    "items_count": 12,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1787734229860",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla ...",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-26T07:01:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 比尔·盖茨谈AI安全：我们已越过危险点，现在该怎么做？\n\n比尔·盖茨最近在一次会议上表示，人工智能（AI）已经度过了最危险的阶段，现在我们可以更放心地发展它了。这就像开车，以前AI技术像新车一样不稳定，容易出事故；现在它更像是一辆开了几年的车，我们已经学会了怎么安全驾驶。\n\n### AI不再是\"怪物\"\n\n以前，很多人担心AI会像科幻电影里的机器人一样失控，比如突然变得很聪明然后反叛人类。但比尔·盖茨认为，现在AI的发展更像是人类在教育孩子，我们教它怎么做，它就怎么做，不会突然变得很调皮。\n\n### AI正在\"学习\"如何做正确的事\n\n现在的AI就像刚学会骑自行车的小孩，虽然还不太稳，但至少不会马上摔倒。比尔·盖茨说，AI正在逐步学会遵守人类规则，比如不会说假话、不会伤害人等。这就像我们教孩子要诚实、要尊重别人一样。\n\n### 该如何正确使用AI？\n\n比尔·盖茨建议，现在应该把AI用在真正有 ích (有用) 的地方，比如帮助医生治病、帮农民种地、教孩子学习等。就像我们不会让小孩做危险的事一样，现在也应该让AI做对人类有益的事。\n\n- AI就像工具，用得好就能帮大忙\n- 人类需要继续教AI怎么\"做人\"\n- 目前AI还不太可能突然\"变坏\"\n\n比尔·盖茨最后说，虽然AI已经过了最危险的阶段，但我们依然要小心使用，就像我们不会随便把钥匙给不认识的人一样。未来仍需要人类监督AI的发展方向。",
-      "summarized_at": "2026-08-26T08:50:38.245Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787734229860",
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are a...",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-25T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 上海的机器人嘉年华\n\n最近中国很流行机器人，特别是那些长得像人的机器人。这背后是中国的计划，想让人工智能（AI）走进咱们的生活。他们希望通过把AI技术装在机器人这种实际的东西上，让技术更接地气。这想法叫“具身AI”，是中国最新五年计划的重点之一。\n\n在上海，有个机器人嘉年华，很多人去看热闹。现场有很多种机器人，有的能聊天，有的能跳舞，还有的能做日常小事，比如倒水。这些机器人就像生活中的小伙伴，能帮人做点事，让科技不再是冷冰冰的代码。\n\n- 机器人多样：有的像服务员，有的像朋友，有的像玩伴  \n- 目标：让AI融入生活，不再只是屏幕上的东西  \n- 影响：普通人能近距离接触机器人，了解它们能做什么  \n\n中国在机器人领域的投入很大，希望未来机器人能像手机一样普及。这些嘉年华活动就像科技博览会，让大家看到AI的实际应用。通过这种方式，中国人能更好地理解机器人，也更能接受AI技术。这不仅是个技术展示，更是对未来生活方式的一种探索和期待。",
-      "summarized_at": "2026-08-26T08:50:36.053Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1787734229860",
       "title": "How to encourage smarter AI use in the classroom",
@@ -61,23 +21,6 @@
       ],
       "ai_summary": "## 鼓励课堂中使用更聪明的AI\n\n### AI聊天机器人的突然出现\n几年前，AI聊天机器人突然出现在学校里，就像手机里多了一个新应用。学生和家长都没预料到，一下子这些机器人就普及开来。\n\n### AI在学习中的用处\n- **快速回答问题**：比如学生遇到数学题不会做，可以直接问AI，比翻书快多了\n- **个性化辅导**：AI能记住每个学生的学习情况，像家教一样为每个人定制学习计划\n- **作业批改**：老师可以用AI快速批改作业，节省时间\n\n### 如何让AI更好用\n1. **明确使用规则**：学校要像制定课堂纪律一样，规定AI的使用范围，比如不能直接抄袭答案\n2. **教师培训**：老师需要学会怎么指导学生正确使用AI，就像教他们查资料一样\n3. **家长参与**：家长要了解AI的好处和风险，和孩子一起使用\n\n### AI不是取代老师\nAI就像一个智能工具，比如智能手机不会取代老师，而是让老师可以腾出更多时间关心学生个人。关键是要学会正确使用AI，让它成为学习的助手而不是捷径。\n\n- **核心观点**：AI在课堂里的作用取决于如何引导使用，就像家里的工具用得好不好，关键看怎么用",
       "summarized_at": "2026-08-26T08:50:44.435Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1787734229861",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of ChatGPT,…...",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-08-24T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 儿童学语言比AI厉害，但原因还是个谜\n\n### 背景介绍\n人类已经说话交流了十万年左右，在这期间，只会说完美人类语言的就是人类小孩。现在呢，除了人类小孩，AI（人工智能）也能学说话了。比如最近这几年很火的ChatGPT，它能在短时间内学会很多人类语言。\n\n### 儿童学语言的优势\n- **自然学习**：小孩学语言就像呼吸一样自然，不需要刻意练习。比如，小孩每天听父母说话，慢慢就能模仿；而AI需要人类专门教它很多规则。\n- **理解能力强**：小孩能理解语言的深层意思，比如笑话、比喻等；AI只能记住表面的词和句子，但不知道真正含义。\n- **推理能力强**：小孩能根据情况灵活运用语言，比如讲故事时会编造情节；AI只会按程序回答，不会像人一样思考。\n\n### AI学语言的局限\n- **依赖数据**：AI学语言需要大量数据，但这些数据不一定准确或全面。比如，如果数据里全是错的，AI也会跟着学错。\n- **缺乏创造力**：AI不会自己想出新词汇或表达方式，只能模仿现有的内容。就像一个机器人永远学不会人类的幽默感。\n- **机械模仿**：AI说话像背书，虽然能应付日常对话，但遇到复杂情况就会卡壳，比如理解别人的潜台词。\n\n### 为什么儿童学语言更快？\n科学家还在研究为什么儿童学语言比AI强。可能是因为小孩的大脑会主动整理信息，而AI只是简单记忆和重复。就像人类能举一反三，AI只会死记硬背。\n\n### 总结\n虽然AI学语言很厉害，但人类小孩仍然是语言学习的王者。科学家们还在努力研究，希望找到让AI更聪明的方法，让机器人和人类能更好地交流。",
-      "summarized_at": "2026-08-26T08:50:47.200Z",
       "summary_status": "success"
     },
     {
