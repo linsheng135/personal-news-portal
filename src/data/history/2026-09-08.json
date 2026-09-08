@@ -1,14 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-09-08T12:45:40.648Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-08T12:45:40.648Z",
+    "date": "2026-09-08",
+    "items_count": 7,
+    "note": "每日历史存档"
   },
   "data": [
     {
@@ -26,57 +21,6 @@
       ],
       "ai_summary": "## Danijar Hafner的AI创业故事\n\n- **神秘创业公司**：Danijar Hafner在旧金山开了一家新公司，但公司还保密，连名字都没定，办公室里几乎没人，家具也很少。这就像你偷偷开了家小店，还没挂招牌，店里空荡荡的。\n\n- **AI能像人一样思考**：Danijar想开发一种特殊的AI，这种AI不仅能按部就班地做事，还会像人一样提前考虑可能出现的问题。比如，你计划出门旅行，这种AI能帮你想到没带身份证、天气突变等意外情况，提前做好准备。\n\n- **AI的“提前计划”能力**：现在的AI就像个机器人，只能机械地执行指令，遇到问题时会卡壳。而Danijar的AI会更聪明，比如做饭时突然发现没盐了，它能自动打电话去买盐，而不是让你手忙脚乱。\n\n- **创业目标**：Danijar想用这种AI解决生活和工作中的各种小麻烦。比如帮你管理日程，突然有事就能自动调整计划，就像有人帮你打理生活一样。\n\n- **技术原理**：这种AI通过学习大量人类的行为模式来预测可能发生的情况，就像你熟悉的朋友会猜到你的想法一样。Danijar用数学和编程让AI学会“思考”。\n\n- **未来应用**：这技术未来可能用在各种地方，比如让智能家居更懂你，或者帮助机器人更灵活地处理突发状况。就像你的智能音箱能记住你喜欢的音乐一样，这种AI能记住你生活中的各种习惯和可能的麻烦。",
       "summarized_at": "2026-09-08T12:45:06.089Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1788871495094",
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf...",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-04T18:39:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI时代的内存和存储设计\n\n### 什么是AI推理？\n想象一下，你的手机助手能瞬间理解你的问题并给出答案，这就是AI推理的功劳。它需要快速处理大量信息，就像超市收银员同时扫描一堆商品一样高效。\n\n### 为什么内存和存储很重要？\n- **实时处理的需求**：就像医生需要立刻查看病人的所有检查报告，AI也要实时分析海量数据。\n- **效率决定成败**：如果AI反应慢，就像餐厅服务员接单太慢导致顾客走光，生意就黄了。\n\n### 生活中的例子\n- **智能家居**：你的智能音箱能同时播放音乐、查询天气、设置闹钟，靠的就是强大的内存和存储。\n- **自动驾驶**：汽车需要瞬间处理摄像头传来的所有画面，才能及时刹车避障。\n\n### 核心要点\n- **内存要像冰箱**：存取速度快，但不能放太多东西。\n- **存储要像仓库**：能放很多资料，但找东西要快。\n- **平衡是关键**：就像做饭既要菜多又要做得快。\n\n### 未来趋势\n未来AI会更依赖云存储，就像大家共享一个超级大冰箱，随时随地都能取用。但要注意网络延迟，别让AI等菜凉了。",
-      "summarized_at": "2026-09-08T12:45:08.841Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1788871495094",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,...",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-04T09:25:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 无人机战场上的\"数据黄金矿\"\n\n### 无人机残骸引发新商机\n乌克兰战场上到处都是被击落的无人机碎片。这些看似破败的机器，其实藏着大钱景。就像手机摔碎了还能卖零件一样，无人机残骸里的数据才是真正值钱的宝贝。\n\n### 数据比武器更持久\n打仗时用的武器很快会坏掉或被摧毁，但无人机收集的数据却能活很久。这就像你打游戏用的装备会坏，但游戏里的账号和战绩永远不会消失。\n\n### 新兴的\"数据市场\"\n现在出现了专门买卖无人机数据的黑市。这些数据能帮助武器制造商改进产品，就像汽车公司收集车祸数据来设计更安全的车一样。企业愿意花大价钱买这些信息。\n\n- **数据变现**: 无人机数据可以用来测试武器效果，就像用游戏存档来研究新战术\n- **行业应用**: 军事公司用数据改进无人机设计，就像手机厂商用用户反馈优化新功能\n- **持久价值**: 即使战争结束，这些数据仍可用来研发下一代武器，如同老电影版权到今天还在卖\n\n这个市场就像西部拓荒时期，谁掌握了数据谁就掌握了主动权。无人机残骸成了新式\"矿藏\"，数据就是其中最珍贵的矿石。",
-      "summarized_at": "2026-09-08T12:45:16.834Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1788871495094",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec...",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-02T14:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业扩大后技术变负担\n\n公司越做越大，支持业务的工具如果用不好，反而会添麻烦。就像家里东西越来越多，如果没整理好，找东西会越来越难，空间也会被占满。\n\n### 常见问题像信息孤岛\n\n很多公司会用到各种独立的软件、小工具和手写表格。比如用A软件管销售，B软件管库存，C软件管客户，数据不互通，就像几个房间各存各的情报，别人不知道你在做什么，出了问题也难协调。\n\n### 手动操作效率低\n\n为了补系统漏洞，员工常搞些临时办法。比如用Excel手动汇总数据，或者用邮件发文件。这就像用绳子临时捆绑漏水的桶，虽然能应付一阵，但总不是长久之计。\n\n### 数据不统一是关键\n\n不同系统像分隔开的玻璃房，彼此看不清对方情况。比如销售部不知道仓库有多少货，客服部不清楚谁处理过相似问题。这会导致：\n\n- 发现问题晚：就像感冒了没及时看医生，拖成重病\n- 沟通费劲：各部门像没联网的电脑，发邮件确认信息\n- 决策靠感觉：老板没实时数据，只能凭经验拍脑袋\n\n## 解决方案：打通数据管道\n\n为了让数据流动起来，可以：\n\n- 建立统一平台：像装个智能家居系统，所有设备联网\n- 自动同步数据：类似快递单信息自动更新，不用打电话确认\n- 用AI当联络员：让机器帮忙整理信息，像秘书自动归类文件\n\n这样，公司各部门就像住进同个小区的邻居，门牌清晰，快递能直达，有事随时敲门，效率自然提高。",
-      "summarized_at": "2026-09-08T12:45:17.703Z",
       "summary_status": "success"
     },
     {
