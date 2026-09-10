@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-10T12:49:46.884Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-10T12:49:46.884Z",
+    "date": "2026-09-10",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1789044530108",
-      "title": "Powering AI is an architecture problem",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities ...",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-10T11:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的电力问题\n\n### 故障事件示例\n2026年7月22日，美国弗吉尼亚州阿什本——全球最大数据中心集群的核心区域，输电线路故障导致超过3吉瓦的用电量在瞬间中断。这不是第一次发生类似事件，两年前一个简单的浪涌保护器故障就使弗吉尼亚州约60个设施停电。\n\n### 核心观点\n- 数据中心就像城市的超级充电站，但电力系统就像充电站的电线和插座\n- AI需要大量电力，就像手机玩大型游戏需要满格电量\n- 电力系统如果像老式冰箱那样不稳定，AI就会像手机突然关机无法游戏\n\n### 电力与AI的关系\n- AI就像跑步运动员，需要稳定的电力\"跑道\"\n- 现有电力系统就像狭窄的乡村小路，无法支持AI这种\"长途奔跑\"\n- 电力架构必须升级，才能像扩建高速公路一样支持AI发展\n\n### 解决方案思路\n- 电力系统需要像智能家居那样智能，能自动调节用电\n- 数据中心要像分布式充电站网络，一个地方停电不影响其他地方\n- 需要像更换汽车电池一样更新电力设备，让AI这辆\"电动车\"跑得更快更稳",
-      "summarized_at": "2026-09-10T12:48:58.997Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789044530108",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in...",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-09T03:10:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI数学突破引发争议\n\n最近OpenAI在数学领域有个大突破，本来挺值得高兴的，结果却闹出争议。他们宣布自己的智能助手解决了一个非常难的数学问题，这要是平时，绝对是重大成就。但这件事反而让人有很多疑问。\n\n### 争议的焦点\n\n- **解决方案靠谱吗？** 大家怀疑OpenAI是不是真的靠自己的能力解决了问题，有没有用到不该有的辅助手段。就像考试时你到底是真学会还是抄别人的\n- **数学界的公平性**：数学研究很看重原创性，但OpenAI的方式让一些科学家觉得，这种靠计算机算出来的结果，能不能算作真正的数学突破\n- **技术边界问题**：OpenAI用AI解决数学难题，这让人觉得，以后是不是很多研究都可以交给机器做，那人类数学家还有没有用\n\n### 核心观点\n\n这件事其实反映了AI在科研领域的一个大问题：当机器能做人类做不到的事时，我们该怎么看待科学成果。/OpenAI的突破就像有人发明了超高速计算器，能算出以前算不到的答案，但大家都在问，这到底算不算真本事。\n\n现在整个数学界都在争论，到底应该承认AI的成果，还是坚持人类原创。这不仅是技术问题，更是关于\"什么是真正的科学\"的大讨论。",
-      "summarized_at": "2026-09-10T12:48:59.308Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789044530108",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…...",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-08T10:34:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Danijar Hafner开发能提前计划应对意外的AI助手\n\n- **背景**：Danijar Hafner在旧金山开了一家神秘的新公司，目前还没名字，办公室空荡荡的，只有一个员工。这家公司正在秘密开发一种特殊的AI技术。\n- **核心技术**：这种AI不是简单的聊天机器人，它能像人一样\"想得远\"，提前考虑可能发生的意外情况。比如，你让它计划明天出门，它不光算好路线，还会考虑路上可能堵车、下雨等突发状况，并提前准备备选方案。\n- **生活例子**：就像你出门前不仅查天气预报，还会看交通状况一样，这种AI能更智能地处理各种不确定因素。它能模拟多种可能性，就像你脑子里快速思考\"如果下雨怎么办\"\"如果堵车了怎么绕路\"一样，但AI做得更快更全面。\n- **用途**：这种AI未来可以用来管理复杂系统，比如自动驾驶汽车能提前预防事故，或者智能家居能自动调整应对突发情况。它不是简单按指令行事，而是像人一样有预见性。\n- **现状**：虽然公司刚开始，但Danijar的目标是创造出能真正思考的AI，让机器不仅能执行命令，还能像人一样灵活应对各种意外。",
-      "summarized_at": "2026-09-10T12:49:08.325Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789044530108",
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf...",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-04T18:39:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能时代如何设计存储系统\n\n### 背景介绍\n现在人工智能技术已经广泛应用，比如医院用AI分析大量医疗数据帮助研究疾病，智能助手同时处理多个客户问题。这些应用都需要强大的存储系统支持。\n\n### 核心挑战\n- 数据量巨大：AI需要处理海量信息，就像超市需要管理所有商品库存\n- 实时性要求：医疗系统必须秒级分析数据，否则耽误治疗\n- 高并发访问：智能助手同时服务多人，相当于餐厅同时接待多桌客人\n\n### 解决方案\n- **分层存储**：把重要数据放在快速存储区（如把生鲜食品放在冷藏柜），普通数据放在大容量存储区（常温仓库）\n- **内存优化**：像手机内存条一样，把最常用的数据放在高速缓存中，提高处理速度\n- **分布式架构**：用多台服务器共同工作，比如用100台电脑同时处理100个客户问题\n\n### 实际案例\n- 医院AI系统：把过去5年的全部病历数据存入分布式存储，通过内存缓存最新诊断信息\n- 智能客服：使用内存数据库保存常用问答结果，遇到新问题时再从硬盘调取知识库\n\n### 未来趋势\n随着AI应用越来越普遍，存储系统需要：\n- 更加灵活扩展（像可伸缩的集装箱仓库）\n- 自动管理数据（智能盘点库存）\n- 保护数据安全（防盗防损）\n\n这种设计能让AI系统既快速又可靠，就像让快递员既能快又不会丢件。",
-      "summarized_at": "2026-09-10T12:49:07.544Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1789044530108",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
