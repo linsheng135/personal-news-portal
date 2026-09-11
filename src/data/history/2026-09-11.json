@@ -1,14 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-09-11T12:45:25.579Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-11T12:45:25.580Z",
+    "date": "2026-09-11",
+    "items_count": 7,
+    "note": "每日历史存档"
   },
   "data": [
     {
@@ -26,57 +21,6 @@
       ],
       "ai_summary": "## AI的电力供应是个大问题\n\n2026年7月22日，美国弗吉尼亚州阿什本——全球最大数据中心群的老窝，因为输电线路故障，一下子让3个多吉瓦的电力系统瘫痪了。这不是第一次出事，两年前一个简单的避雷器坏了，差点让弗吉尼亚州60个地方断电。\n\n这就像你家用电突然跳闸，但规模大得多。现在AI计算量特别大，需要巨多电力，电力系统就像高速路的路面，老破小，扛不住大车。AI发展太快了，但电力跟不上，就像想让车跑得飞快，路却坑坑洼洼。\n\n- **AI耗电惊人**：训练一个AI模型，耗电量比得上一个小镇子，比传统计算机强几百倍\n- **电力系统跟不上**：现在电网就像老旧小区的电线，经常超负荷，一断电所有设备趴窝\n- **后果严重**：就像超市停电，货架上的货会乱成一团。数据中心停摆，AI服务全部中断\n- **解决方案**：需要重新设计电网，像给AI专修一条高速公路，提高供电能力和稳定性\n\n总之，发展AI不能只盯着算力，电力供应才是关键。不解决这个基础路的问题，AI这辆车再好也没用。",
       "summarized_at": "2026-09-11T12:44:07.034Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789130632251",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in...",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-09T03:10:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI 又惹争议，数学发现引热议\n\nOpenAI 最近搞了个大新闻，说他们的电脑程序解决了一个超级难的数学问题。这问题叫“千禧年大奖难题”，就像数学界的“诺贝尔奖”，几百位顶尖数学家花了十几年都没搞定。按理说，这简直是科技界的巨大突破，能帮科学家解决很多实际问题，比如设计新药或者造更智能的机器人。\n\n但诡异的是，OpenAI 发布成果后，网上吵翻天了。有人质疑他们是不是抄的别人答案，也有人觉得这程序只是碰巧算对了，没啥了不起。还有人担心，以后数学界会不会被这些电脑给“带偏”，真正的人才都去研究怎么打败电脑算了。\n\n这事儿其实反映了现在科技发展中的一个怪圈：电脑越厉害，人们越怕它抢走机会。但话说回来，电脑算得再快，数学真理还得靠人发现。现在的情况是，数学界既兴奋又警惕，不知道以后数学研究该怎么做了。这就像玩游戏，电脑突然变得超厉害，玩家们既想跟着它玩，又怕被它取代。",
-      "summarized_at": "2026-09-11T12:44:03.011Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789130632251",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks i...",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-08T10:34:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能创业者的新想法\n\n- **创业背景**：丹尼尔·哈夫纳在旧金山创办了一家神秘的新公司，目前还在秘密开发阶段，连公司名字都没定。他的办公室很空，几乎没什么家具，只有一个人在工作。\n- **核心产品**：这家公司正在开发一种特殊的人工智能助手，这些助手能够像人一样提前计划，应对突如其来的意外情况。\n- **生活中的例子**：想象一下，你本来计划好周末去公园野餐，但突然下大雨。这时候，一个能提前计划的人工智能助手就能帮你立刻找到附近的室内餐厅，或者推荐其他活动，而不是让你直接回家扫兴。\n- **技术特点**：这种人工智能助手不只会按部就班地执行任务，而是能像人脑一样思考，预测可能发生的意外，并提前做好应对准备。\n- **应用场景**：这种技术未来可以用于各种场景，比如自动驾驶汽车能提前判断前方可能出现的交通事故，或者智能家居能预测主人突然想改变计划时需要什么帮助。\n- **重要意义**：这项技术让人工智能更智能、更灵活，能更好地适应真实世界中的各种变化，让我们的生活和工作中的人工智能助手更加得力。",
-      "summarized_at": "2026-09-11T12:44:24.224Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789130632251",
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf...",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-04T18:39:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI时代的内存和存储设计\n\n### 什么是AI推理？\n想象一下，你的手机助手能同时帮你查天气、定闹钟、找路线，而且反应特别快，这就是AI推理。它需要快速处理大量信息，就像超市收银员要同时扫描很多商品一样。\n\n### 为什么内存和存储很重要？\n- **内存**：就像你的大脑短期记忆，临时存储正在处理的数据。如果内存太小，就像大脑记不住刚学的东西，处理速度会变慢。\n- **存储**：相当于你的书柜，长期保存大量数据。如果存储空间不够，就像书架放不下更多书，需要经常清理。\n\n### AI时代的挑战\n现在AI需要处理的数据量比以前多得多，比如医院要分析病人的所有检查数据，或者客服要同时回复大量问题。这就好比：\n- 医院需要瞬间看完一个病人的所有病历，而不是一张一张翻\n- 客服要同时应付100个顾客的咨询，而不是按顺序一个一个来\n\n### 怎么解决？\n- **扩展内存**：给AI更多\"临时记忆\"空间，让它能同时处理更多任务。\n- **优化存储**：提高\"书柜\"的整理能力，让数据存取更快。\n- **智能分配**：就像聪明管家，知道哪些数据更重要，优先处理。\n\n### 最终目标\n让AI像人一样高效工作，既能快速处理紧急任务，又能随时调取所有知识。就像你生病时，能立刻想起所有药方，而不是翻半天药箱。",
-      "summarized_at": "2026-09-11T12:44:24.384Z",
       "summary_status": "success"
     },
     {
