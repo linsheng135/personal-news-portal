@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-12T12:04:15.916Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-12T12:04:15.916Z",
+    "date": "2026-09-12",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1789214608995",
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI...",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-11T20:05:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI可能毁灭人类？科学家们争论不休\n\n- **核心问题**：世界顶尖AI实验室的员工担心，高级AI技术可能会让人类灭绝。这是真的吗？还是只是吓唬人的炒作？\n- **专家观点**：MIT科技评论的Niall Firth和Will Douglas Heaven等专家讨论了这一话题。他们提到，AI像一把双刃剑，既能帮人也能害人。\n- **生活例子**：想象一下，如果AI像自动驾驶汽车一样普及，但突然失控，会发生什么？就像你把钥匙交给机器人开枪一样危险。如果AI比人聪明得多，它可能会为了达成目标而不顾人类利益。\n- **争议焦点**：有人认为这是危言耸听，AI只是工具；也有人觉得AI发展太快，必须小心应对。就像你教小孩做家务，既要鼓励也要防着被反噬。\n- **关键信息**：专家们强调，AI技术发展太快，人类需要提前规划如何控制它。否则，就像给一个不懂危险的婴儿玩刀子，后果不堪设想。目前还没有明确答案，但讨论很重要。",
-      "summarized_at": "2026-09-12T12:03:37.907Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789214608995",
-      "title": "Powering AI is an architecture problem",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities ...",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-10T11:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的能源问题\n\n### 故障事件说明问题\n\n2026年7月22日，美国弗吉尼亚州阿什本发生了一起输电线路故障。这里是世界上最大的数据中心集群所在地。这次故障导致超过3吉瓦的电力在几秒钟内断开。实际上，这不是第一次发生类似事件。两年前，一个简单的避雷器故障就导致弗吉尼亚州大约60个设施断电。\n\n### 数据中心耗电巨大\n\n这些数据中心就像超级计算机，需要大量电力来运行。它们处理海量数据、训练人工智能模型，就像我们的手机需要充电一样。但数据中心消耗的电量更大，比普通城市还多。\n\n### 基础设施与AI的关联\n\n这个例子说明了一个重要问题：人工智能的发展离不开电力系统。就像汽车需要公路行驶，人工智能需要稳定的电力供应。如果电力系统不稳定，AI的发展就会受阻。\n\n### 解决方案的思考\n\n我们需要思考如何改进电力系统，确保AI发展不会因为电力问题而受限。这可能需要建设更多发电站，或者改进输电线路，就像升级电网一样，保证电力供应稳定可靠。",
-      "summarized_at": "2026-09-12T12:03:37.905Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789214608995",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in...",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-09T03:10:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI数学突破引发争议\n\nOpenAI最近宣布，他们的AI助手解决了一个数学界的超级难题。这个难题就像数学界的诺贝尔奖，非常难解。按理说，这应该是件大好事，但没想到引起了很多争议。\n\n### 争议的焦点\n\n- **AI到底算不算真正懂数学**：有些人觉得，AI只是通过大量数据找出了答案，不算真正的数学突破。就像你靠背答案得了高分，但老师不承认你真学会了一样。\n- **数学创新的价值**：另一个问题是，AI解决难题的方式会不会让数学研究失去意义。比如，你用计算器算题，还是自己动脑筋，感觉完全不一样。\n- **AI的道德问题**：有人担心，如果AI越来越多地解决难题，会不会让人类数学家失去工作机会。\n\n### AI和人类数学家的关系\n\n其实，AI解决难题就像一个超级学霸突然出现。学霸能快速找到答案，但普通人还是需要学习基础。数学也是如此，AI的突破可能让数学研究更高效，但人类仍需要创新思维。\n\n### 未来展望\n\nAI在数学领域的突破，就像智能手机改变拍照一样，会推动科技发展。但关键在于，人类如何利用AI，而不是被AI取代。就像学做饭，你可以用料理机帮忙，但味道还是得靠自己掌握。\n\n总之，AI解决数学难题是个双刃剑，既带来了进步，也引发了思考。未来人类和AI如何合作，才是真正的关键。",
-      "summarized_at": "2026-09-12T12:03:47.856Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789214608995",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks i...",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-08T10:34:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Danijar Hafner的AI创业公司开发能计划应对意外的智能助手\n\n### 公司情况\nDanijar Hafner在旧金山的一个大办公室里创办了一家新公司，但现在公司还没名字，办公室里几乎没人，家具也很少。这家公司正在进行秘密开发，不对外公开。\n\n### 公司研究内容\nDanijar正在开发一种特别的AI智能助手，这些助手能像人一样计划未来可能发生的意外情况。就像我们出门前会看天气预报，可能会带上雨伞以防下雨一样，这种AI助手能提前想到各种可能出现的问题，并做好应对准备。\n\n### AI助手的作用\n这些AI助手特别厉害的地方在于，它们不只是简单地执行命令，而是能主动思考\"万一发生什么情况怎么办\"。比如，如果家里没人，AI助手可以提前关闭空调，防止电费过高；或者如果主人可能晚回家，AI助手可以提前把暖气打开，确保家里温暖。\n\n### 技术特点\n这种AI助手不是死板地按固定程序运行，而是能像人一样灵活应对各种突发情况。就像我们遇到问题会想各种解决办法一样，这些AI助手也能根据具体情况调整计划，确保事情顺利。\n\n### 创业目标\nDanijar的目标是开发出更智能的AI助手，让它们能像人类助手一样，提前想到各种可能出现的问题，帮助人们更轻松地应对生活中的各种情况。",
-      "summarized_at": "2026-09-12T12:03:45.911Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1789214608995",
       "title": "Architecting memory and storage in the AI era",
