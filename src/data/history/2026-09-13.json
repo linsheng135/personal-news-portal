@@ -1,14 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-09-13T13:14:09.068Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-13T13:14:09.069Z",
+    "date": "2026-09-13",
+    "items_count": 7,
+    "note": "每日历史存档"
   },
   "data": [
     {
@@ -26,57 +21,6 @@
       ],
       "ai_summary": "## 人工智能会毁灭人类吗？\n\n最近，一些顶尖人工智能实验室的员工表示，高级人工智能可能会毁掉人类。这是真的吗？还是只是吓唬人、夸大其词呢？\n\n### 人工智能有多厉害？\n\n想象一下，如果一台机器能比你更快、更聪明地完成所有工作，甚至能自己改进自己，那会怎样？这就是高级人工智能可能带来的情况。比如，自动驾驶汽车能比人更安全地开车，或者机器人医生能比人更快地诊断疾病。\n\n### 人们为什么担心？\n\n有些人担心，如果人工智能太强大，它可能会超越人类的控制。比如，一个自主武器系统可能会自己决定开火，或者一个AI管家可能会做出对人类不利的选择。就像你把钥匙交给一个不懂事的机器人看家，结果它把门打开了，这就是潜在的风险。\n\n### 这只是恐慌吗？\n\n也有人说，这些担心是多余的。毕竟，现在的人工智能还远没有达到那种程度。就像你会担心家里的智能音箱会叛变一样，其实它只是按你说的做事。关键在于，我们要学会如何安全地使用人工智能，而不是完全依赖它。\n\n### 未来会怎样？\n\n总的来说，人工智能确实有潜力改变世界，但也要小心使用。就像开车，技术再好，也要遵守规则，否则会出事。所以，我们需要谨慎对待人工智能，确保它能帮助人类，而不是伤害人类。",
       "summarized_at": "2026-09-13T13:13:28.127Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789305193110",
-      "title": "Powering AI is an architecture problem",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities ...",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-10T11:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的电力问题\n\n### 核心观点\n给人工智能供电其实是个建筑布局问题，就像给一个超级城市送水供电一样复杂。\n\n### 例子说明\n2026年7月22日，美国弗吉尼亚州阿什本——全球最大数据中心群的中心地带，一条输电线路故障，瞬间让3吉瓦（相当于300万个普通家用电器的用电量）的电力消失。这不是第一次，两年前一个简单的避雷器坏了，60多家弗吉尼亚州设施也跟着停电。\n\n### 关键信息\n- 人工智能需要大量电力，但目前电力系统就像老房子电路，经常超负荷\n- 数据中心就像城市中的大型工厂，电力供应中断会导致整个系统瘫痪\n- 解决问题不能只修线路，需要重新设计整个电力系统布局\n\n### 生活类比\n想象一下，你家装了300台冰箱同时运行，但电线就像老化的水管，根本带不动这么大的\"水流\"。解决这个问题不能只是换几根电线，而是要重新规划整个房屋的电路系统，可能还要升级电网。\n\n### 解决方案方向\n- 建设更多专门为AI设计的\"超级电网\"\n- 发展储能技术，像给手机充满电一样给数据中心备电\n- 将数据中心分散布局，避免\"一颗老鼠屎坏一锅汤\"式故障\n\n这个问题就像修高速公路要考虑车流量、红绿灯布局和收费站设置一样，不能头痛医头脚痛医脚，需要系统性思考。",
-      "summarized_at": "2026-09-13T13:13:25.767Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789305193110",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in...",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-09T03:10:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# OpenAI数学成就引发争议\n\n## 事件回顾\nOpenAI宣布他们的智能助手解决了一个数学界的超级难题，这个难题就像数学界的诺贝尔奖一样难解。按理说，这该是个大新闻，但事情没那么简单。\n\n## 争议焦点\n问题出在OpenAI的解题方法上。他们不是像人一样一步步思考，而是用计算机暴力计算了数百万种可能性。数学家们觉得这不算真正\"懂\"了数学，就像有人用计算器算出九九表，但不知道每个数字是怎么来的。\n\n## 争议原因\n- **过程 vs 结果**：数学讲究解题过程，OpenAI只给了答案\n- **创新质疑**：有人怀疑这是不是在玩弄数字游戏\n- **权威反应**：顶尖数学家表示不认可这个\"答案\"\n\n## 对未来的影响\n这件事告诉我们，AI在数学领域有潜力但也有限制。就像学开车，AI可以算出最优路线，但不知道急刹车是种什么感觉。未来AI可能只能解决特定类型的数学问题，像搭积木一样，但永远造不出爱因斯坦那样的\"数学建筑\".\n\n## 关键启示\n- 人类智慧与AI计算有本质区别\n- 数学创新需要深度思考而非暴力计算\n- 科技突破可能引发新的学术标准之争",
-      "summarized_at": "2026-09-13T13:13:36.518Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789305193110",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks i...",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-08T10:34:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Danijar Hafner的AI创业故事\n\n- Danijar Hafner在旧金山成立了一家秘密创业公司，还没正式命名，办公室里几乎没人，也没什么家具。这就像你要开一家新餐馆，刚开始只有自己一个人在忙，还没正式开业。\n- 这家公司专门开发一种特殊的AI，这种AI能像人一样思考，可以提前计划应对没预料到的情况。比如，你出门吃饭，AI可以帮你提前想好路上可能会堵车，然后推荐另一条路，这就是AI的\"提前计划\"能力。\n- 这种AI很特别，能自己学习和改进，就像一个小孩慢慢长大，越来越聪明。它可以根据过去的经验，主动预测未来的问题并提前解决，这就好比你知道明天可能会下雨，就提前带伞。\n- Danijar的目标是让AI变得更智能，能处理更复杂的问题。这就像现在的小孩子都能用手机查资料，未来AI可能会更厉害，能独立完成更困难的任务，比如安排你的日程、处理工作邮件等。\n- 虽然公司还在秘密阶段，但Danijar相信这种AI未来会有很大用处，能帮人们解决生活中的各种问题，就像现在的手机改变了我们的生活一样。",
-      "summarized_at": "2026-09-13T13:13:35.800Z",
       "summary_status": "success"
     },
     {
