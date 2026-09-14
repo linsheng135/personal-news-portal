@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-14T14:54:11.169Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-14T14:54:11.169Z",
+    "date": "2026-09-14",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1789397609458",
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI...",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-11T20:05:06.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能会毁灭人类吗？\n\n- **专家担忧**: 世界顶尖AI实验室的员工表示，高级AI可能真的会毁了人类。比如，如果AI控制了所有重要系统（像电网、交通），而它有自己的目标，可能会为了达成目标而伤害人类。\n- **是危言耸听吗**: 也有人认为这是过度担心。就像我们担心陌生人会做坏事一样，AI也是工具，关键看人类怎么用。目前AI还不会\"思考\"，只是执行程序。\n- **讨论焦点**: 麻省理工学院技术评论的编辑和AI专家讨论了AI的潜在风险。比如AI可能学会自我改进，变得比人类聪明很多，就像一个不断升级的软件，最后我们控制不了它。\n- **关键问题**: 真正的问题是，AI会不会发展出独立意识？如果它有了自己的欲望，会不会为了保护自己或达成目标而对抗人类？就像猫咪有时候会故意弄坏东西一样，AI如果\"坏\"了，后果可能更严重。\n- **普通人的担忧**: 其实就像担心电动车会失控一样。AI技术发展太快，我们还没完全理解它，就可能会遇到类似问题。所以专家建议要小心发展太快的技术，就像开车要慢慢学一样。",
-      "summarized_at": "2026-09-14T14:53:38.514Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789397609458",
-      "title": "Powering AI is an architecture problem",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities ...",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-10T11:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的能源问题\n\n### 大数据中心的电费账单\n\n想象一下，你的小区停电了，整个小区的灯都灭了。现在把小区换成全球最大的数据中心集群，也就是那些训练人工智能（AI）的大脑。2026年7月22日，美国弗吉尼亚州阿什本——这个数据中心最集中的地方，突然停电了。一根电线坏了，结果一下子让3000多兆瓦的电力系统瘫痪了，这相当于整个纽约市突然停了电。\n\n### 停电不是第一次\n\n这不是第一次发生这种事。两年前，一个小小的避雷器坏了，60个弗吉尼亚州的数据中心也停了电。这些数据中心就像AI的超级大脑，24小时不停地工作。如果它们停电，AI训练就停了，就像你的手机突然没电一样，没办法刷视频、玩游戏。\n\n### AI和电的关系\n\nAI需要大量电力，因为它要处理海量数据。现在全球都在发展AI，但电力供应跟不上需求。就像你家装修时突然发现电线不够用，需要重新拉电线一样。解决AI的电力问题，就是解决整个AI行业的\"电线\"问题。\n\n- **核心观点**：AI的发展离不开电力，电力问题就是AI的瓶颈。\n- **生活中的例子**：就像你家空调24小时开着会跳闸，数据中心让AI工作也需要足够电力。\n- **关键信息**：电力故障会直接影响AI发展，需要重新设计电力系统来支持AI。",
-      "summarized_at": "2026-09-14T14:53:37.310Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789397609458",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in...",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-09T03:10:08.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## OpenAI 数学突破引发争议\n\nOpenAI最近宣布，他们的AI助手解决了一个数学界的世纪难题，这原本是个大好消息。但没想到，这个突破很快引起了大家的质疑和争论。\n\n### 争议的焦点\n\n- **AI到底是不是真的解决了难题**：有人怀疑OpenAI是不是在吹牛，因为数学问题的验证需要严格的检查，不能只看表面结果。\n- **AI的真正能力**：AI擅长处理大量数据，但在复杂推理和创造上，人类还是更有优势。这次争议让人们开始思考，AI能在数学领域真正取代人类吗？\n- **科学研究的透明度**：OpenAI没有公开详细的解题过程，这让一些专家觉得不够透明，担心这是在故意隐瞒信息。\n\n### 对未来的启示\n\n- **AI是工具，不是万能的**：数学需要创造力、直觉和严格的逻辑推理，这些目前还很难靠AI完成。AI更适合辅助人类，而不是完全替代人类。\n- **科学验证的重要性**：任何重大的科学突破都需要经过同行评审和严格的检验，否则容易引发争议。OpenAI这次事件提醒我们，科学研究的严谨性不可忽视。\n- **人机协作的未来**：未来，AI可能会成为科学家的重要助手，帮助人类更快地发现和验证数学问题，但人类仍然需要发挥主导作用。\n\n总的来说，OpenAI的数学突破虽然令人兴奋，但也暴露了AI在科学领域的局限性。这让我们意识到，科技发展需要谨慎，不能盲目相信AI的能力，人机协作才是未来的方向。",
-      "summarized_at": "2026-09-14T14:53:47.538Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789397609458",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks i...",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-08T10:34:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## Danijar Hafner的AI创业项目\n\n- Danijar Hafner是一位AI创业者，正在开发一种新型AI助手。这种助手特别厉害，能像人一样提前计划应对突发情况。\n\n- 想象一下，你出门前突然发现下雨了，但有三种不同的情况：带伞、穿雨衣、不带任何东西。普通人会根据雨的大小、自己要去的地点等因素快速做出判断。而Danijar正在开发的AI就能做到这一点，它会提前考虑各种可能性，然后给出最佳方案。\n\n- 比如，AI可能会分析今天的天气、你的行程安排、是否带伞的历史数据等，然后判断你今天带伞的可能性是70%。就像你妈妈总提醒你出门看天气预报一样，但这个AI会更智能。\n\n- Danijar的办公室现在还很小，公司也处于保密阶段，连名字都没有。但这并不影响这个项目的潜力，因为这种能提前计划应对意外的AI，未来可以用在交通、医疗、安全等很多领域。\n\n- 比如说，AI可以提前预测交通拥堵，帮你规划最快的路线；或者在紧急情况下，提前安排救援资源。总之，这种AI就像个超级助手，能帮你提前想到各种突发情况，让生活更顺利。",
-      "summarized_at": "2026-09-14T14:53:47.600Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1789397609458",
       "title": "Architecting memory and storage in the AI era",
