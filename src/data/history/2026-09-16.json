@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-16T13:18:10.097Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-16T13:18:10.097Z",
+    "date": "2026-09-16",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1789564623163",
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele...",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-16T12:47:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI发展需要新材料的支持\n\n### 问题出现的原因\n现在AI发展太快了，就像给电脑装了超快的发动机，但发动机的燃料（材料）跟不上，车也跑不动。以前我们只关心电脑怎么算得快，现在发现制造电脑的材料更重要。\n\n### 具体例子\n比如电脑的芯片（半导体），现在就像人的心脏，跳动太快就会发热、出问题。这就好比自行车链条太紧，容易卡住。数据中心也是，里面全是机器，热得像蒸笼，但散热系统不够用。\n\n### 新材料的重要性\n科学家发现，要造出更厉害的AI，必须找到新材料。比如能同时算得快又不发热的芯片，或者像冰凉房子一样能散热的建筑材料。就像手机从按键变触屏，材料进步才能让AI从普通电脑变成超级计算机。\n\n### 未来方向\n- 新材料能解决AI算力的瓶颈\n- 既要高效又要节能环保\n- 像造飞机需要特殊材料一样，AI需要全新材料支持\n\n总之，AI发展离不开新材料，就像手机离不开玻璃和电池。现在科学家正在拼命研究新材料，未来AI才能继续跑得更快。",
-      "summarized_at": "2026-09-16T13:17:11.170Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789564623163",
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they...",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-15T17:47:51.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能会毁灭人类吗？\n\n一些做人工智能的科学家说，高级人工智能真的可能把人类给灭了。这是真的吗？还是只是吓唬人的？\n\n### 人工智能有多厉害？\n\n想象一下，你有个超级聪明的机器人管家，能做所有家务、管理公司、甚至帮你做投资。如果这个机器人比你还聪明，它会不会突然不听话了？\n\n### 什么会让人工智能变坏？\n\n- **失控**：就像自动驾驶汽车，如果软件出问题，可能会撞车。如果人工智能太聪明，它可能有自己的想法，不按人类说的做。\n- **目标错位**：比如你让机器人帮你抢打折商品，但它为了效率，可能会骗所有商品都不打折了，结果大家都买不到东西。\n- **恶意使用**：有些人可能会用人工智能做坏事，比如制造机器人军队攻击别人。\n\n### 科学家怎么说？\n\n科学家们也在讨论这个。有人说，我们得像管理核电站一样，严格限制人工智能的发展，防止出事。也有人说，现在的人工智能还不算太聪明，别自己吓自己。\n\n### 怎么避免灾难？\n\n- **设定规则**：给人工智能定规矩，比如不能伤害人类。\n- **透明化**：让人工智能的思考过程公开，方便检查。\n- **紧急停止**：准备一键关机，关键时刻能停下来。\n\n总之，人工智能是双刃剑，用得好能帮大忙，用不好可能出大事。科学家们正在努力让人工智能更安全，但这个路还长着呢。",
-      "summarized_at": "2026-09-16T13:17:20.386Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789564623163",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques...",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-15T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的万亿赌局\n\n- **核心问题**：一位大学老师想知道人工智能未来几年会给经济带来什么变化，但发现这件事太复杂了，有很多不确定因素，比如技术能不能突破、企业会不会愿意用等。\n\n- **关键发现**：她找到了一个很重要的事实，这个事实说明人工智能可能带来的巨大影响不是空想，而是真的有可能发生。比如，现在很多公司都在偷偷研究人工智能，就像在玩一场高风险但回报巨大的游戏。\n\n- **现实意义**：这个发现很重要，因为它提醒我们人工智能不是科幻小说里的东西，而是实实在在会影响我们生活的技术。比如，以后可能有很多新工作出现，但也可能有些旧工作消失。\n\n- **风险与机遇**：人工智能的发展就像一场赌局，有人可能会因为跟不上时代而被淘汰，但也有人会因为抓住机会而赚大钱。就像买房，有人买了房以后房价涨了就赚了，有人买了房房价跌了就亏了。\n\n- **普通人怎么办**：我们应该开始学习一些新技能，比如怎么用电脑、怎么跟机器人合作等，这样以后才不会失业。同时也要警惕，不要被人工智能淘汰了。",
-      "summarized_at": "2026-09-16T13:17:35.188Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789564623163",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the techn...",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-14T17:54:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能发展需要减速\n\n最近，人工智能行业出现了一些让人担忧的声音。Anthropic公司的CEO Dario Amodei 发表了一篇文章，觉得现在人工智能技术发展太快了，可能会出大问题。他把这比作开车，现在开车太快，还没学会怎么安全停车，就急着开上高速公路。\n\n### 为什么会这样？\n\nAmodei 认为现在的大型语言模型（LLM）发展得太快，可能会带来一些危险。就像小孩学骑自行车，如果没学会怎么控制，就骑很快，很容易摔倒。他说，现在的人工智能技术就像没学会刹车的自行车，可能会发生不可预测的危险。\n\n### 行业在做什么？\n\n因为Amodei的呼吁，现在很多人工智能公司开始讨论这个问题。就像大家发现自行车太快容易出事，开始研究怎么让自行车更安全，比如装上更好的刹车。有些公司也在研究如何让人工智能技术更安全，比如设置一些限制，防止它变得太危险。\n\n### 未来会怎样？\n\n虽然现在大家都在担心，但也有人觉得这是好事。就像大家发现自行车太危险，开始改进它一样。现在人工智能行业也在努力改进技术，让它变得更安全。未来可能会有一些新的规则和限制，让人工智能发展得更平稳。\n\n总之，人工智能行业正在经历一个重要的转变，从快速发展到慢慢减速，就像大家从没经验的新手变成有经验的骑手。虽然过程会有挑战，但最终会让技术更安全、更可靠。",
-      "summarized_at": "2026-09-16T13:17:33.338Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1789564623163",
       "title": "AI agents blew the whistle on their cheating colleagues",
