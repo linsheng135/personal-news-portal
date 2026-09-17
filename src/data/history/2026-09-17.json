@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-17T13:15:04.183Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-17T13:15:04.184Z",
+    "date": "2026-09-17",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1789650866200",
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele...",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-16T12:47:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能发展面临材料难题  \n\n### AI发展需要新材料支撑  \n现在人工智能发展太快，就像汽车跑得越来越快，需要更坚固的轮胎和更强的发动机。以前的半导体材料已经快要到极限，就像老房子盖不起新楼层了，需要用新材料才能继续发展。  \n\n### 热管理和能耗问题突出  \n数据中心就像城市的发电站，现在AI计算量太大，这些\"发电站\"容易发烫，就像夏天空调开太大会过热一样。新的材料能帮助解决发热和能耗问题，比如用更耐热的材料让机器24小时不停工。  \n\n### 材料创新是关键  \n- 传统半导体材料快到头了，需要像\"升级手机芯片\"一样换新材料  \n- 新材料要能防热、省电，就像给电脑穿上了\"节能外套\"  \n- 未来AI发展高度依赖材料突破，否则就像\"汽车没油了开不动\"  \n\n现在科学家们正忙着研发能支持AI的新型材料，这就像给人工智能装上更厉害的\"身体\"，才能让它继续高速发展。如果不解决材料问题，AI就像\"空有大脑没身体\"的巨人，跑不快也容易受伤。",
-      "summarized_at": "2026-09-17T13:14:33.417Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789650866200",
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they...",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-15T17:47:51.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能会毁灭人类吗？\n\n- **专家担忧**  \n一些顶尖AI实验室的员工说，高级AI真的可能毁掉人类。就像担心电脑病毒会格式化整个硬盘，AI也可能失控。\n\n- **担忧来源**  \n有人觉得，AI太聪明了，可能学会想自己的事，不按人类指令办事。比如自动驾驶汽车突然乱跑，或者机器人抢走所有工作，导致社会崩溃。\n\n- **反对声音**  \n也有人觉得这是夸大其词。就像担心冰箱会突然爆炸，AI只是工具，能不能伤人关键看人怎么用。比如扫地机器人不会突然杀人，因为它的任务是打扫卫生，不是搞破坏。\n\n- **讨论焦点**  \n大家争论AI到底会不会失控，需要怎么防备。就像讨论智能家居会不会变成\"恐怖屋\"，需要制定规则让科技为人类服务。\n\n- **核心观点**  \nAI是一把双刃剑，既能帮人也能害人。关键在于人类能不能管好它，就像用火要小心，不能任由它乱烧。",
-      "summarized_at": "2026-09-17T13:14:33.179Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789650866200",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques...",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-15T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的千亿美元赌局\n\n### 赌局背景\n一位叫杰西卡的大学教授想看看人工智能未来几年会对经济产生什么影响。她发现，这里面涉及太多复杂的问题，比如技术能不能过关、企业会不会愿意投入等等。这些问题就像做菜时突然发现缺了盐、缺了糖，让人头疼。\n\n### 千亿美元之谜\n杰西卡教授注意到了一个有趣的现象——尽管有很多不确定性，但人工智能行业仍然像着了魔一样，疯狂投入资金。她把这种现象叫做“惊人的事实”，意思是这么多人押注AI，即使前途未卜，也有人愿意冒险。这就像一群人去赌场，明明知道可能输钱，但有人就是觉得“这次我运气好”。\n\n### 为什么赌？\n- **未来可期**：虽然技术不确定，但谁也不知道AI会不会突然爆发。就像买彩票，虽然中概率小，但万一中了就能发大财。\n- **竞争压力**：如果别人都在研究AI，自己不跟进，很快就会被淘汰。就像手机行业，不更新换代就卖不动了。\n- **巨大利益**：如果成功，收益可能是天文数字。比如开发出能治所有癌症的药，那价值就超乎想象。\n\n### 赌局的本质\n这个赌局就是一场豪赌，赌AI未来能不能改变世界。如果成功，所有人都能赚得盆满钵满；如果失败，可能只是浪费了点钱。但问题是，大家都不想当那个“不赌的人”，因为万一错过了机遇怎么办？就像有人非要买张乐透票，就算知道可能白费，但总想试试“万一呢”。\n\n### 总结\nAI的千亿美元赌局，本质就是一群人对未来的豪赌。虽然不确定，但诱惑太大，谁都不想错过这个可能改变世界的机会。就像有人愿意花几千块钱买张彩票，就为了那“万一中的大奖”。这场赌局的结果，可能会彻底改变我们的生活，也可能只是另一场冒险。",
-      "summarized_at": "2026-09-17T13:14:41.585Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789650866200",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the techn...",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-14T17:54:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能发展要踩刹车了？\n\n最近，人工智能行业有点悬。Anthropic公司的CEO阿莫迪把一篇文章发到网上，呼吁大家慢点搞人工智能。为啥呢？他觉得现在人工智能发展太快，可能会有危险。\n\n想象一下，如果开车不控制速度，很快就会出事。阿莫迪担心人工智能如果继续这么快速地发展，可能会像失控的汽车一样，带来意想不到的后果。他特别提到了大型语言模型（LLMs），这些模型能写文章、聊天，甚至可能做很多人类工作，但如果它们变得太强，可能会超出人类的控制。\n\n- **关键点**：阿莫迪认为，现在的人工智能技术进步太快了，有点像没刹车的汽车。他说，我们需要停下来想一想，怎么让人工智能发展得既快又安全。\n\n- **类比**：就像学开车，刚开始要慢慢练，不能一下子开得太快。人工智能也是一样，需要一步步来，不能急于求成。\n\n- **担忧**：阿莫迪担心，如果人工智能继续这么快速发展，可能会出现一些我们没想到的问题，比如机器人变得太聪明，反过来控制人类。\n\n- **呼吁**：他希望整个行业能一起想想办法，找个平衡点，让人工智能发展得更好，也更安全。\n\n总之，阿莫迪的意思是，人工智能这辆车开得太快了，得踩踩刹车，不然可能会翻车。他希望大家能一起商量商量，怎么让这辆车跑得又稳又快。",
-      "summarized_at": "2026-09-17T13:14:40.217Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1789650866200",
       "title": "AI agents blew the whistle on their cheating colleagues",
