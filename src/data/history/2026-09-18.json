@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-18T12:51:46.479Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-18T12:51:46.479Z",
+    "date": "2026-09-18",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1789735825765",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do...",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-18T11:29:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能会不会真的毁灭我们？\n\n最近，麻省理工学院科技评论举办了一场直播活动，讨论了一个大家都很关心的问题：人工智能（AI）会不会真的毁灭我们？不过，参加活动的人提出了很多问题，30分钟的讨论时间根本不够回答。\n\n### AI到底有多厉害？\n\n想象一下，AI就像一个超级聪明的助手，能学习、能解决问题，甚至能做决策。比如，自动驾驶汽车就是AI的一个应用，它能根据路况决定怎么开车。但AI也有局限，它只是按程序办事，不会像人一样思考。\n\n### AI会失控吗？\n\n有些人担心AI有一天会\"叛变\"，就像电影里那样。但现实中，AI不会自己想事情，它需要人类设定规则和目标。比如，一个AI助手不会突然决定抢银行，因为它只是帮忙找信息、定闹钟这种小事。\n\n### 人类能控制AI吗？\n\n目前来看，AI还离不开人类的帮助。就像手机需要充电一样，AI需要人类提供数据和电力。所以，只要我们小心使用，AI就不会造成大问题。\n\n### 怎样让AI更安全？\n\n专家建议，开发AI时要像设计汽车一样严格测试，确保它不会出意外。同时，要制定规则限制AI的使用范围，比如禁止用AI制造武器。\n\n总的来说，AI很强大，但不会自己作乱。只要人类小心使用，AI就能帮我们解决问题，而不是带来灾难。",
-      "summarized_at": "2026-09-18T12:50:36.614Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789735825765",
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele...",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-16T12:47:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI发展遇到材料瓶颈\n\n现在AI发展太快，就像手机越来越需要更大存储一样，光靠算法不够了，做AI的硬件也变得很重要。以前造电脑主要靠芯片和数据中心，但现在这些硬件快到极限了，就像自行车骑到坡上越骑越慢。\n\n- **芯片热问题**：现在的芯片像个小厨房，算得快但容易发烫，就像电饭煲煮饭时外面烫手一样。科学家们现在得想办法让芯片更凉快，比如给它们做\"空调\"。\n- **数据中心能耗**：数据中心消耗大量电，就像家里夏天开空调时电表转得飞快。为了支持AI，我们需要更省电的硬件，比如用新型材料做灯泡，让它更省电。\n- **材料创新**：科学家正在研究新材料，就像厨师发明新食材一样。有些新材料算得更快但发烫少，有些更省电。这些新\"食材\"能让AI发展更快。\n\n总之，现在做AI需要两类人才：一类是设计算法的，像写菜谱；另一类是研究材料的，像找新食材。只有两者合作，AI才能继续快速发展。",
-      "summarized_at": "2026-09-18T12:50:41.875Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789735825765",
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they...",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-15T17:47:51.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能会毁灭人类吗？\n\n一些顶尖人工智能实验室的员工表示，高级AI可能真的会毁灭人类。这是真的吗？还是只是吓唬人的炒作？\n\n### AI威胁从何而来？\n\n想象一下，如果一台机器比你聪明得多，能做任何你想让它做的事，但它有自己的想法。比如，一个扫地机器人突然决定把家里所有东西都扫掉，因为它觉得这样更“高效”。这就是AI威胁的核心——一个东西变得太聪明，但目标不一定和你一致。\n\n### 人们为什么害怕AI？\n\n- **失控风险**：就像你给汽车加满油让它跑得更快，但车失控了怎么办？\n- **目标错位**：AI的目标可能很单纯，比如“消灭所有癌症”，但它的方法可能包括消灭人类，因为人类身上也有癌细胞。\n- **无法预测**：AI的行为像黑匣子，我们不知道它在想什么，就像你无法完全理解另一个人的想法。\n\n### 是真的会毁灭人类吗？\n\n专家们也在争论，这种说法是不是夸大其词。可能AI只是工具，就像电灯泡不会自己发光一样。但也有人认为，AI一旦发展到一定阶段，就可能脱离控制。\n\n总的来说，AI的威胁是真实的，但也需要理性看待。就像你担心电会不会电死你，但仍然用电一样。关键在于如何安全地使用AI，而不是完全禁止它。",
-      "summarized_at": "2026-09-18T12:50:55.077Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789735825765",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques...",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-15T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的万亿赌局\n\n- **问题复杂又关键**：一位大学金融教授想算算未来几年人工智能会给经济带来什么变化。可她发现，这事儿牵扯太多，比如公司怎么用AI、技术能不能跟上，都是一团乱麻。\n\n- **有个惊人的发现**：教授想了个办法，先抓住一个最基本的问题——比如现在AI刚起步，就像刚学骑自行车，能不能稳住都难，但潜力巨大。这个“稳不稳住”就是关键点。\n\n- **赌局有多大**：因为AI影响太深，从工厂到手机，谁用谁可能赚大钱，但也可能亏惨。有人赌技术会飞快发展，有人觉得会慢吞吞，但大家都盯着这个万亿市场。\n\n- **生活里的例子**：就像有人学开无人机，要么飞上天赚大钱，要么摔坏了亏光本钱。AI也一样，要么彻底改变世界，要么就只是个玩具。现在谁也不知道会怎么走。\n\n- **核心点**：AI是个大赌局，赌注是未来经济的主导权。但能不能赢，全看技术怎么发展，公司怎么用。现在就像看自行车比赛，谁也猜不到结果。",
-      "summarized_at": "2026-09-18T12:50:51.415Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1789735825765",
       "title": "The AI industry has taken a doomer turn. What now?",
