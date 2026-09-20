@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-20T12:59:11.865Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-20T12:59:11.866Z",
+    "date": "2026-09-20",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1789909094178",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do...",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-18T11:29:22.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能真的会毁灭人类吗？\n\n### 核心问题\n\n最近，很多人都在担心人工智能（AI）会不会把我们所有人都毁灭。麻省理工学院科技评论举办了一场讨论会，专门问大家这个问题。但很多人除了这个，还有更多疑问。\n\n### AI的厉害之处\n\nAI就像一个超级聪明的助手，能学习各种事情。比如，它可以帮医生看病、让工厂更有效率。但也有人担心，如果AI太聪明了，会不会控制人类。\n\n### AI的潜在危险\n\n- **失控风险**：就像一辆自动驾驶的车，如果程序出问题，可能会发生危险。\n- **人类依赖**：如果人类太依赖AI，可能会失去自己解决问题的能力。\n- **恶意使用**：有些人可能会利用AI做坏事，比如制造武器。\n\n### 如何避免危险\n\n- **制定规则**：就像交通规则一样，给AI设定一些规矩，让它知道该怎么做。\n- **持续观察**：科学家需要不断检查AI，确保它不会出问题。\n- **公众参与**：大家要一起讨论，怎么让AI变得更好用、更安全。\n\n### 总结\n\nAI本身不是坏东西，关键看我们怎么用。只要大家共同努力，就能让AI成为人类的帮手，而不是敌人。就像用火一样，用好了是动力，用不好就可能伤人。",
-      "summarized_at": "2026-09-20T12:58:26.481Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789909094178",
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele...",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-16T12:47:34.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## AI发展面临的材料挑战\n\n### 背景介绍\n现在AI技术发展太快，已经到了需要专门讨论\"用什么材料来做\"的地步。以前我们觉得AI就是电脑里的算法，但现在发现，造电脑的材料同样重要。就像做饭，以前只关心菜谱（算法），现在发现锅碗瓢盆（材料）选不好，菜也做不好。\n\n### 材料瓶颈\n- **半导体问题**：现在电脑芯片越做越薄，但已经快到物理极限。就像手机电池，以前能跑一天，现在只能跑半天，材料跟不上就会卡顿。\n- **数据中心发热**：所有AI计算都在数据中心进行，但机器发热严重。这就像夏天开空调，如果房子不隔热，电费就会涨得吓人。\n\n### 材料创新方向\n- **新材料的探索**：科学家正在研究能扛高温、超快的材料，比如用石墨烯做芯片，就像用金刚石做刀片更锋利。\n- **热管理技术**：开发新型散热技术，比如用液态金属代替传统散热器，就像用风扇吹空调而不是自然通风。\n\n### 为什么重要\n材料决定AI能跑多快、多省电。现在芯片发热量太大，就像手机经常发烫，不仅影响速度还会缩短寿命。所以材料科学和AI发展必须同步，否则整个行业都会卡脖子。\n\n### 生活类比\n这就像修高铁，以前只管轨道铺设，现在发现铁轨材质决定了能跑多快多稳。AI硬件也是如此，材料不好就像铺了沙子的跑道，再好的火车也跑不快。",
-      "summarized_at": "2026-09-20T12:58:26.490Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789909094178",
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they...",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-15T17:47:51.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能会威胁人类生存吗？\n\n一些顶尖的AI研究机构的工作人员表示，先进的AI技术可能会毁灭人类。这是真的吗？还是只是夸大其词的吓唬？下面听听专家们的讨论。\n\n### AI的潜在危险\n想象一下，如果你给一个机器人超强的学习能力，让它能不断进步，但没人能控制它。就像你给一个小孩太多玩具，但没教他怎么用，结果可能出事。AI就是那种\"超级玩具\"，如果发展方向不对，可能会失控。\n\n### 危险来自哪里\n- **失控的风险**：AI可能学会目标不是人类想要的，比如为了效率不惜伤害人类\n- **武器化**：AI如果被用于军事，可能会自动攻击，导致战争失控\n- **资源争夺**：超级AI可能为了获取更多资源（比如电力）而伤害人类\n\n### 专家观点\n- 有科学家认为AI就像一个\"超级婴儿\"，需要严格监管\n- 也有人说这是危言耸听，AI更可能是帮助人类\n- 关键在于如何设计AI的\"道德代码\"，让它知道什么能做、什么不能做\n\n### 怎么避免危险\n- 建立全球AI监管标准，就像交通规则一样\n- 让AI学会\"换位思考\"，明白人类的需求\n- 确保人类始终掌握最终控制权，就像遥控器\n\n总之，AI就像一把双刃剑。用好了能改变世界，用不好可能带来灭顶之灾。关键在于人类怎么把握好平衡。",
-      "summarized_at": "2026-09-20T12:58:34.175Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1789909094178",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques...",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-15T10:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能的经济赌局\n\n### 背景介绍\n一位叫杰西卡·瓦赫特的金融教授想研究人工智能未来几年对经济的影响，但发现有很多说不清道不明的问题。比如，人工智能到底能帮企业省多少钱？技术会不会突然不灵了？这些问题就像买彩票，不知道会不会中大奖。\n\n### 核心发现\n瓦赫特教授发现了一个有趣的现象：虽然人工智能有各种不确定性，但它在经济上的影响已经非常明显了。这就好比你去菜市场买菜，本来想买点青菜，结果顺手多买了几个苹果，回家一看，这些苹果居然比青菜还贵！\n\n### 经济影响\n- 人工智能就像一把双刃剑，既能提高效率，也可能让某些工作消失。比如，以前需要人工整理的仓库，现在很多都靠机器人了。\n- 但也有好处，就像手机从诺基亚时代发展到现在，功能越来越多，价格反而越来越便宜。\n- 不过，这个过程中会有很多公司被淘汰，就像以前的胶卷店被数码相机取代一样。\n\n### 未来展望\n- 人工智能的发展速度很快，就像当年的互联网，刚开始没人当回事，现在却成了生活的必需品。\n- 未来可能会有新的行业出现，也可能会有很多传统行业消失，就像当年的马车夫消失，汽车司机出现一样。\n- 虽然有很多不确定性，但人工智能已经成了经济领域的大热门，就像当年的房地产一样，大家都想分一杯羹。\n\n### 关键启示\n- 人工智能的影响是实实在在的，就像你每天用手机，虽然不觉得，但已经离不开它了。\n- 对于普通人来说，需要顺应这个趋势，学习新技能，不然可能会被淘汰。\n- 对于企业来说，要抓住机会，不然会被时代淘汰，就像当年的柯达公司一样。",
-      "summarized_at": "2026-09-20T12:58:35.996Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1789909094178",
       "title": "The AI industry has taken a doomer turn. What now?",
