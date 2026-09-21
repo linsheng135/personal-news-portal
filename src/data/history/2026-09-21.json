@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-21T14:59:54.514Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-21T14:59:54.515Z",
+    "date": "2026-09-21",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1790002732033",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review ...",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美墨边境死亡地图调查报告\n\n### 调查缘起\n15个月前，有个问题让调查员们很纳闷：为什么那么多人在政府建的监视塔附近去世？这些塔本来是帮警察抓人的。就像小区门口装了摄像头，本想看谁在偷东西，结果周围居民反而经常出事。\n\n### 调查过程\n- **方法**：调查员们翻看了边境地区的死亡记录，对比了监视塔的位置和死者分布\n- **发现**：发现死者数量和监视塔密度成正比，最奇怪的是很多死者是\"消失人口\"——没登记身份就死了\n- **技术**：用AI分析卫星照片，发现边境巡逻队喜欢在\"死亡热点\"附近扎营\n\n### 核心发现\n1. 监视塔不是直接杀人，但会间接害人\n2. 边境巡逻队倾向于在危险地段活动，反而让那里更危险\n3. 政府公布的\"死亡率\"是夸大的，因为很多死者没被发现\n\n### 生活例子\n就像学校门口明明装了监控，但学生们照样在附近出事。这和监视塔的情况一样，警察用科技手段保护自己，结果反而把危险带到别人头上。\n\n### 调查建议\n政府应该把边境死亡数据公开，让公众监督。同时调整巡逻策略，减少在死亡热点地区的停留时间。就像小区物业不能光盯着小偷，也要关注环境安全。",
-      "summarized_at": "2026-09-21T14:59:04.292Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1790002732033",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower...",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 美国边境“虚拟墙”失败怎么办？\n\n## 什么是“虚拟墙”？\n\n想象一下，你家小区门口安装了高清摄像头和智能门禁系统，防止外人随意进入。美国和墨西哥边境就像这个小区，建了一排排带AI的监控塔，用雷达、热感应等高科技设备，24小时盯着边境线上，不让非法移民溜进来。\n\n## 发现的问题\n\nMIT Technology Review最近调查发现，这种“虚拟墙”效果并不完美。有很多人能躲过监控塔的视线，比如半夜偷偷溜过偏僻的沙漠地带，或者靠团队合作绕过监控盲区。有几个极端例子，有人就在监控塔眼皮底下走了好几次，甚至有人因为没走对路，在边境线上迷路自杀。\n\n## 怎么解决？\n\n文章提出了4个解决办法，简单说就是：\n\n- **加派人手**：在关键地段增加巡逻警力，就像小区保安不仅盯着摄像头，还多走动巡逻。\n- **升级设备**：让监控塔更智能，能自动识别危险行为，比如有人试图翻越边境围栏。\n- **改善道路**：在边境附近建更多安全通道，就像小区门口设置人行横道和警示牌，引导想合法过境的人走正规路。\n- **国际合作**：和墨西哥政府一起管理边境，比如共享监控数据，就像小区和邻居联合防盗。\n\n核心观点是，单靠高科技设备不够，人防、技防、政策防得结合，才能真正守住边境。",
-      "summarized_at": "2026-09-21T14:59:02.396Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1790002732033",
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surv...",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国花巨资建边境监控，为什么还是让偷渡者没命？\n\n美国为了阻止人们偷渡边境，花了很多钱装了各种高科技监控设备，比如雷达、摄像头和无人机。这些设备就像电子眼，能在边境线上看到闯入的人。但现实是，还是有人因为这些监控设备而丧命。\n\n比如2024年4月8日，有个叫何塞的偷渡者想从新墨西哥州的沙漠里偷渡进美国，就在前一天，他刚满32岁。按说，他的行动早就应该被监控设备发现，然后边境警员会来抓他。但实际上，何塞在监控设备的监控范围内走了很久，却没有被发现，最后因为没水没食物死在了沙漠里。\n\n**- 技术设备不等于实际效果**\n美国花了那么多钱买监控设备，但设备并不能完全覆盖所有地方，也不能24小时都有效。有些地方环境复杂，比如沙漠、山区，监控设备很难全面监控到。而且，偷渡者会找一些监控不到的小路或者时间段通过，这样就能躲过监控。\n\n**- 偷渡者面临的生命危险**\n偷渡者为了越过边境，往往要穿越一些非常危险的地方，比如沙漠、森林或者河流。这些地方环境恶劣，容易迷路、中暑或者溺水。何塞的案例就说明，即使没有被监控设备发现，偷渡者也可能因为自然环境而丧命。\n\n**- 监控设备和人力的结合问题**\n监控设备可以提供信息，但最终还是要靠人力去处理这些信息。如果边境警员数量不足，或者反应不及时，即使监控设备发现了偷渡者，也可能会因为处理不及时而导致偷渡者遇到危险。何塞的例子就说明，即使监控设备可能已经发现了他，但警员可能因为距离远、任务重等原因无法及时赶到现场。\n\n总的来说，美国花巨资建的边境监控虽然有一定作用，但并不能完全阻止偷渡者进入，更不能保证偷渡者的安全。偷渡者仍然面临很大的生命危险，而监控设备和人力的结合问题也需要解决。",
-      "summarized_at": "2026-09-21T14:59:20.213Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1790002732033",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "summary": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.  This...",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 女子边 crossing 时遇害 道路旁有监控没起作用\n\n**事件回顾：**\n2025年9月14日下午，30岁的 Graciela Gómez Hernández 从墨西哥蒂华纳走到美国加州边境。她刚走两小时就迷路了，还不停地给妈妈和姐姐发语音。就在这时，她不幸遇害。\n\n**关键信息：**\n- **时间地点：** 2025年9月14日下午，墨西哥到加州的边境\n- **人物：** 30岁女子 Graciela Gómez Hernández\n- **情况：** 刚过边境两小时就迷路，边走边发语音\n- **问题：** 边境附近有监控摄像头，但没起到保护作用\n\n**核心观点：**\n- 一个人过边境时很容易迷路，特别是不会说英语的。就像咱们去陌生城市旅游，要是没带地图或手机没电，分分钟找不到路。\n- 虽然边境有监控摄像头，但这个女子遇害时监控没帮上忙。这就好比小区门口有监控，但小偷还是能趁机闯进来。\n- 这个事件提醒我们：过边境时要特别小心，最好有当地人陪同，或者提前下载好翻译软件和地图。\n\n**生活类比：**\n就像咱们晚上去公园散步，要是路灯坏了，就容易摔倒。边境的监控如果坏了或者没起到作用，就像没开路灯的公园一样危险。",
-      "summarized_at": "2026-09-21T14:59:14.978Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1790002732033",
       "title": "Could AI really kill us all? Your questions, answered.",
