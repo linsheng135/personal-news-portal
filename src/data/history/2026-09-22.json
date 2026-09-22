@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-22T13:15:52.255Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-22T13:15:52.255Z",
+    "date": "2026-09-22",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1790082903040",
-      "title": "Don’t be fooled by this summer of AI hype ",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose...",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-22T11:04:51.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 今年夏天AI很火，但别被忽悠了\n\n最近几个月，AI领域特别热闹，到处都是各种宣传。比如4月底，一家叫Anthropic的公司说他们的AI模型Claude Mythos找软件漏洞比大多数安全专家还厉害。这就像有人突然说：\"我家扫地机器人比专业清洁工还干净。\"听着很厉害，但未必真的如此。\n\n接着发生了OpenAI和Hugging Face的\"内斗\"事件，结果搞得Anthropic和Meta也不得不公布自己的AI情况。这种情况就像两个超市打架，结果旁边的小商店也被卷进来了。\n\n**这些宣传都有什么问题呢？**\n\n- **吹得太夸张**：很多宣传把AI说得神乎其神，好像什么都能干，其实很多只是\"看起来\"能干。\n- **缺乏对比**：没有跟真正的人或传统方法比，就像只让宠物狗表演特技就夸它比人类还厉害。\n- **数据不透明**：有些公司不公布测试方法，就像卖菜的不告诉你菜是怎么种的。\n\n**普通人该怎么看？**\n\n1. **别轻信广告**：AI现在就像手机刚出来时那样，功能多但也不稳定。就像买手机时，卖家用各种花哨的功能吸引你，但实际使用中可能发现很多小毛病。\n2. **关注实际应用**：看看AI能不能解决实际问题，而不是只看它表演什么特技。比如AI帮忙写报告可能有用，但如果它连简单的数学题都算错，那就不靠谱。\n3. **保持平常心**：AI发展快不快是一回事，现在适合做什么是另一回事。就像当年汽车刚发明时，也没人想到它要花几十年才真正普及。\n\n总之，现在AI很火，但别被那些花里胡哨的宣传给忽悠了。要像买衣服一样，试过了才知道合不合身。",
-      "summarized_at": "2026-09-22T13:15:12.586Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1790082903040",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review ...",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美墨边境死亡地图：监视塔与死亡之谜\n\n### 调查的起点\n一个记者团队花了15个月，想搞清楚一个奇怪的现象：为什么美国和墨西哥边境上，那些本该帮助抓人的监视塔附近，总有人死亡？这就像你家小区门口装了监控摄像头，本来是为了防止小偷，结果发现周围总有人出事。\n\n### 监视塔的真相\n边境上竖了很多高高的塔，上面装着摄像头和各种传感器，目的是追踪偷渡者的动向。但研究发现，这些塔不仅没能阻止死亡，反而成了“死亡陷阱”。比如，有些塔的光线太强，会吓坏偷渡者，让他们慌不择路跳下悬崖；有些塔周围的地面滚烫，夏天穿鞋会直接烫伤，冬天又结冰，一不小心就滑倒摔死。\n\n### 死亡地图的诞生\n为了弄清楚具体哪些地方死亡率最高，团队收集了几年来的死亡数据，比如哪些地段经常发现尸体，哪些地方事故多发。最后，他们把这些信息画成了一张地图，就像医院会统计哪个科室病号死亡率最高一样，这张地图显示了边境上哪些地方最危险。\n\n### 核心发现\n调查发现，很多死亡都是因为监视塔的设计和位置不合理。比如，有些塔建得太靠近悬崖，有些人为了躲避塔的拍摄，就跳下去送命。还有些塔周围没有指示牌，导致迷路的人走错路，最后被困饿死。这个发现让美国政府重新审视这些塔的设计，建议以后建塔要更人性化，不能只考虑技术，还要考虑人的安全。",
-      "summarized_at": "2026-09-22T13:15:11.942Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1790082903040",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower...",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美墨边境“虚拟墙”失败的处理方法\n\n### 背景介绍\n美国在墨西哥边境安装了好多监控塔，用AI技术24小时盯着，这就是所谓的“虚拟墙”。但最近有调查显示，很多人能偷偷溜过这些监控区域，甚至有些人直接从塔眼下边走都没被发现问题。\n\n### 发现的问题\n- 监控塔有漏洞：有些监控范围不覆盖所有地方，或者AI判断失误，把人当成了树木或石头\n- 逃亡者技巧：人们学会用衣服遮挡识别特征，或者在夜间行动避开监控\n- 家园安全像筛子：很多家庭因为担心被抓住，不敢合法过境，只能冒险翻墙\n\n### 解决方案\n#### 1. 加设更多监控\n在薄弱环节增加更多监控塔，特别是山区、沙漠等危险地段，确保没有盲区。就像家里衣柜里装多个监控，防止有人从不同角度偷东西。\n\n#### 2. 改进AI算法\n训练AI更擅长区分人、动物和物体，减少误判。比如教AI认出穿着睡衣的人，而不是当成树枝摇晃。\n\n#### 3. 设立临时庇护点\n在边境附近建立安全区，给逃亡者提供临时食物和求助渠道，减少他们冒险逃亡的需求。就像车站设立休息室，让赶路人有个落脚处。\n\n#### 4. 加强国际合作\n美国和墨西哥一起巡逻边境，共享情报。就像邻居一起看家护院，一个人发现可疑情况立刻通知对方。\n\n### 核心观点\n“虚拟墙”不是铁板一块，需要不断改进才能真正保护边境。就像家里装防盗门还要定期检查门锁，边境监控也需要持续升级和调整。保护边境安全不能只靠技术，还要有人文关怀和社会合作。",
-      "summarized_at": "2026-09-22T13:15:19.232Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1790082903040",
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.  As he walked through the desert in southern New Mexico that morning, he was within range of three surv...",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 美国花巨资建边境监控，为什么还是抓不住人，人却死了？\n\n## 技术不如人缘\n\n美国为了监视边境，花了好多钱装了各种高科技设备，比如监控摄像头、雷达什么的。理论上说，只要有人靠近边境，这些设备就能立刻报警，然后派人来抓人。但实际呢？就像你家门口装了防盗门，可还是有人能翻进来，甚至有人翻进来后出了意外也没人及时发现。\n\n## 花钱的地方不对\n\n美国在边境花了很多钱装这些设备，可是在沙漠这种地方，地形复杂，监控设备不一定能覆盖到所有地方。这就好比你在小区门口装了监控，但有人可以从小区后面的灌木丛里偷偷溜进来。而且，就算设备报警了，如果附近没有巡逻的人，或者巡逻的人反应慢，也还是抓不住人。\n\n## 人命关天的事\n\n最让人难受的是，有些人为了偷渡，走的是最危险的路线，比如沙漠、山区。结果没走多远就因为中暑、迷路或者受伤而死亡。美国虽然花了那么多钱搞监控，但好像更注重设备本身，而不是真正保护想偷渡的人。这就好比你在路上看到有人遇到危险了，你只顾着拍照发朋友圈，却不伸手帮一把。\n\n- 核心问题是：设备多，但用得不合理，人命没得到保障\n- 美国应该把重点放在救人为先，而不是单纯为了抓人\n- 边境监控需要更人性化，不能只看重技术，而忽略了人的生命",
-      "summarized_at": "2026-09-22T13:15:19.143Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1790082903040",
       "title": "She died at the San Diego border. A surveillance camera was in plain sight",
