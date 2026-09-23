@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-23T13:31:07.585Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-09-23T13:31:07.586Z",
+    "date": "2026-09-23",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1790170210271",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people...",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-22T13:42:05.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国建了\"虚拟墙\"却失败了\n\n**背景：**\n美国花了25年时间，花了好多钱，在南部边境建了一排排监控塔，想用它们来阻止人非法入境。他们吹嘘说，这些监控塔能发现偷渡的人，还能抓他们，最后还能救更多人的命。\n\n**调查结果：**\n但最新的调查发现，这些监控塔根本没啥用。麻省理工科技评论做了一次大调查，发现超过1000个人因为没被这些监控塔发现，或者在逃亡过程中出了意外，直接死在了边境线上。\n\n**问题所在：**\n问题出在哪里呢？就像你在家装了防盗门，但小偷还是能想办法翻进来，甚至可能因为翻墙摔死了。美国建监控塔也是一样，偷渡者会用各种方法绕过监控，结果是被卡在边境线上，生死两难。\n\n**结论：**\n所以，美国花了大价钱建的\"虚拟墙\"，实际上不仅没挡住偷渡的人，反而还间接害死了很多人。这钱花得也太不值了！",
-      "summarized_at": "2026-09-23T13:30:20.363Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1790170210271",
-      "title": "Don’t be fooled by this summer of AI hype ",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose...",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-22T11:04:51.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 夏天AI热潮别被忽悠了\n\n最近几个月，AI领域突然变得很热闹。比如4月底，有个叫Anthropic的公司说他们的AI模型Claude Mythos找软件漏洞的能力，比大多数安全专家还厉害。但这些都是虚的，就像有人夸自己的宠物狗特别聪明，其实可能只是碰巧。\n\n另一个事是OpenAI和Hugging Face之间出了点问题，结果两家公司都不得不承认，他们的AI系统并不像宣传的那么完美。这就像一个人吹嘘自己开车很稳，结果路上就撞了墙。\n\n## 关键信息\n\n- AI宣传很多都是夸大其词，就像广告里说的\"一吃就瘦\"，其实你得配合运动才行\n- 大公司公开承认AI有漏洞，说明技术还不够成熟，就像新手机刚上市就出Bug\n- 不要被AI\"花言巧语\"骗了，得看实际能力，就像买东西不能只听销售说好，还得自己试试\n\n总之，现在AI很火，但别太当真。就像夏天卖西瓜，有的商贩说特别甜，但你得自己尝尝才知道。",
-      "summarized_at": "2026-09-23T13:30:18.095Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1790170210271",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review ...",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美墨边境死亡地图调查报告\n\n### 调查起因\n美国和墨西哥边境有很多监控塔，本来是帮政府抓人用的。但奇怪的是，很多人死在这些塔附近。于是我们决定查查这到底是怎么回事。\n\n### 调查过程\n我们花了15个月时间，沿着边境走了很多路。我们记录下所有死亡事件的位置，还检查了监控塔的设置。原来这些塔的监控范围和声音覆盖有限，根本起不到监控作用。\n\n### 调查发现\n- 很多死者在被监控塔\"保护\"的区域内死亡\n- 监控塔的实际作用远小于宣传\n- 政府声称的安全措施根本没有达到预期效果\n\n### 核心结论\n所谓的\"虚拟墙\"根本不是墙。它既不能有效阻止人过境，也没能减少死亡。政府投入巨资建的东西，结果适得其反。这说明在边境问题上，简单的技术解决方案往往治标不治本。\n\n### 关键启示\n当政府说某项技术能解决问题时，一定要看看实际效果。不能光听宣传，得用事实说话。否则就会像这个案例一样，花了钱却没解决根本问题。",
-      "summarized_at": "2026-09-23T13:30:32.390Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1790170210271",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower...",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-09-21T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 美国边境“虚拟墙”的问题与解决方法\n\nMIT Technology Review最近发现，美国边境那些装了高科技监控塔的“虚拟墙”，其实有很多漏洞。有些监控塔用了人工智能技术，但居然没能发现有人从旁边溜过去。这就像你家门口装了智能门锁，但小偷还是能从窗户进来的情况。\n\n### 问题所在\n- 美国边境的监控塔虽然看起来很厉害，但有些地方没覆盖到，或者被人绕过了\n- 有些人能躲过监控，甚至还有人在这些监控区域附近出了意外，说明这个地方的安全措施并不完美\n\n### 解决方法\n1. **增加监控密度**  \n   在人容易绕过监控的地方，多装一些监控塔，就像你家门口除了门锁，还装了摄像头一样，多一道防线。\n\n2. **改进技术**  \n   让监控塔更智能，能发现更多可疑情况，比如有人快速移动或者躲藏。这就像让门锁能识别小偷的指纹一样。\n\n3. **加强巡逻**  \n   光靠机器不够，还得派人经常巡逻，就像你家晚上除了门锁，还要有人守夜一样。\n\n4. **与人合作**  \n   和当地社区合作，让居民帮忙留意可疑情况，这就像邻居之间互相照应一样。\n\n总之，美国边境的“虚拟墙”不是那么完美，但可以通过增加监控、改进技术、加强巡逻和与人合作来改善。这样才能更好地保护边境安全。",
-      "summarized_at": "2026-09-23T13:30:30.100Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1790170210271",
       "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
