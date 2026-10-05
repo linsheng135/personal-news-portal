@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-10-05T16:59:49.726Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-10-05T16:59:49.727Z",
+    "date": "2026-10-05",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1791219545224",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re...",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T15:47:52.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业AI助手的知识问题\n\n### 问题的核心\n想象一下，你有一个超级能干的助手，每天帮你处理各种数据，比如记录你的日程安排、提醒重要会议。但这个助手却不知道这些数据对你的具体意义，比如为什么某个会议很重要，或者为什么某个日期需要特别安排。这就是企业AI助手面临的问题：它们收集了大量数据，却缺乏对企业特定情况的了解。\n\n### 数据和知识的区别\n数据就像一本日记，记录了很多事情，但知识就是理解这些事情背后的原因和意义。比如，你的助手知道你每天要开会，但不知道为什么这个会议对你重要，这就是知识和数据之间的差距。企业AI助手也是如此，它们能处理大量数据，却不知道这些数据在特定企业环境中的实际意义。\n\n### 为什么知识很重要\n企业AI助手需要理解企业的特定情况，才能更好地提供服务。比如，它们可以根据企业的文化、目标和需求来调整工作方式。就像你的助手如果知道某个会议对你很重要，就会提前帮你准备好相关资料，而不是机械地提醒你开会。企业AI助手也需要这种理解能力，才能真正发挥作用。\n\n### 如何解决知识问题\n要让企业AI助手有知识，需要让它们更好地理解企业的具体情况。比如，可以通过人为输入一些业务规则、公司文化等信息，让AI助手学习企业的独特需求。就像你教助手哪些会议需要特别准备，哪些事情需要优先处理。通过这种方式，AI助手才能更好地适应企业环境，提供更有价值的服务。",
-      "summarized_at": "2026-10-05T16:59:15.024Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791219545224",
-      "title": "Bringing predictive analytics to the agentic AI era ",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr...",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T13:29:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业AI的下一个挑战：让预测系统自己做事\n\n### 背景变化\n现在大家都同意，机器学习预测比单纯用统计数字靠谱多了。就像以前大家争论“天气预报准不准”，现在的问题是“能不能让机器自己根据天气预报做决定”。\n\n### 新的核心问题\n未来的关键不再是“预测准不准”，而是“怎么让机器自己根据预测结果行动，又不跑偏”。比如，卖衣服的AI能预测明天天气热，现在想知道的是：是直接推荐冰淇淋，还是建议顾客买凉鞋？\n\n### 具体例子\n想象一下：超市AI预测下周会有促销活动，能不能自动调整货架，而不是等着老板下命令？或者，银行AI发现某个客户可能要借钱，能不能先主动推荐信用卡，而不是只发张通知卡？\n\n### 重点\n- 企业AI现在要学的是“自己思考，自己行动”\n- 关键不是预测有多准，而是行动是否“对路”\n- 这就像训练宠物：不仅能听懂指令，还能知道什么时候该做什么事\n\n### 未来趋势\n2026年后，企业AI不仅要\"算得对\"，还要\"做得好\"。比如，能预测客户想买什么，还能自动调整库存和促销方式，就像个聪明的店长一样。",
-      "summarized_at": "2026-10-05T16:59:14.695Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791219545224",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…...",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T08:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人们对AI又爱又恨，但为什么总忍不住想了解它？\n\n最近有个人跟AI公司CEO聊天，他说了一句话让人印象深刻：“我们常常说自己是自恨的AI……” 这其实反映了一个有趣的现象：虽然大家都嘴上说着不喜欢AI，但又忍不住想了解它。\n\n**- AI就像一个新邻居**  \n就像你刚搬到一个小区，邻居很神秘又有点吓人。你可能会怕他，但还是会忍不住想偷偷看他每天都在做什么。AI也是一样，它很强大又有点让人不安，但大家还是好奇它到底有多厉害。\n\n**- AI公司像做游戏一样**  \n现在有些AI公司专门开发能回答各种问题的AI，就像游戏里的人物会根据你的选择说出不同的话。这种AI特别厉害，能像人类一样会“吐槽”，比如抱怨自己“又笨又懒”。这种设计让AI变得更有趣，人们即使不喜欢它，也愿意跟它互动。\n\n**- 人们对AI又爱又恨的矛盾心理**  \n就像你怕黑，但又喜欢看恐怖电影一样。人们知道AI很强大，可能会威胁到人类的工作和隐私，但又觉得它很酷，能解决很多难题。这种矛盾心理让人们对AI既抗拒又渴望。\n\n**- AI就像一面镜子**  \nAI的发展就像照镜子，我们既看到自己害怕的东西，又看到自己希望成为的样子。所以虽然嘴上说着不喜欢，但大家还是会忍不住想看看AI到底能做什么。\n\n总之，AI就像一个让人又爱又怕的新朋友，虽然大家嘴上不说，但心里还是挺想了解它的。",
-      "summarized_at": "2026-10-05T16:59:23.059Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791219545224",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.  Step inside the newsroom with our MIT Technology Review editors for sharp a...",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T04:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人工智能正在改变世界\n\n### AI改变生物领域\n想象一下，医生用AI看病人的X光片，AI能比人更快更准地发现问题。现在，AI正在帮助科学家研究基因，就像给生物世界装上了超级显微镜，让研究人员看得更清楚。\n\n### AI改造基础设施\n比如城市交通，以前红绿灯靠人工控制，现在AI可以学习车流规律，自动调整红绿灯时间，减少堵车。AI还能预测电网负荷，让电力系统更稳定。\n\n### AI优化制造业\n工厂里，AI就像个超级工人，能提前发现机器可能出问题的迹象，防止生产中断。它还能学习最佳的生产顺序，让工厂效率更高。\n\n### AI与各领域结合的力量\nAI单独的力量已经很大了，但当它和其他领域结合时，效果更惊人。比如，用AI研究药物，就像请了个全能的助手，既懂生物又懂化学，能更快找到新药。\n\n### 核心观点\nAI就像个万能工具，单独使用已经很有用，但真正厉害的还是在和其他领域结合时。就像一把锤子，单独用只能钉钉子，但加上钻头就既能钉钉子又能打孔，用途更多。\n\n（字数：428字）",
-      "summarized_at": "2026-10-05T16:59:22.452Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1791219545224",
       "title": "Redefining enterprise intelligence with autonomous AI",
