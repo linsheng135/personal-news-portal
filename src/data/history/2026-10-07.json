@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-10-07T15:23:14.377Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-10-07T15:23:14.378Z",
+    "date": "2026-10-07",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1791386541291",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re...",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T15:47:52.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业AI的\"知识盲区\"\n\n### 什么是企业AI的问题？\n想象一下，一个AI助手天天帮你整理家里的照片，但就是不知道哪些照片是孩子的生日派对，哪些是全家旅游。这个AI虽然有很多照片数据，但根本不懂这些照片背后的意义。企业里的AI也类似，它们能处理海量数据，但常常不知道这些数据对自家公司到底意味着什么。\n\n### 为什么\"知识\"很重要？\n知识就是理解数据背后的故事。比如，公司销售额上升，但AI不知道这是因为新产品受欢迎还是竞争对手降价。如果AI能理解这些背景，就能给出更准确的建议。比如，它不会在客户投诉时还推荐同类产品。\n\n### 企业AI缺少什么？\n当前的企业AI就像一个没读过书的小学生，能认字但不懂意思。它们拼命收集数据，却不知道如何将数据转化为对企业有用的见解。比如，客服系统收集了大量客户意见，但AI不会分析这些意见背后的真正需求。\n\n### 做什么能改善？\n要让AI变得聪明，需要帮它们建立\"企业常识\"。比如，教会客服AI知道\"客户抱怨快递慢\"通常意味着配送服务有问题，而不是客户故意找茬。这种\"知识连接\"能让AI更懂公司的业务逻辑，就像教孩子明白为什么生日派对的照片要好好保存一样。\n\n- 关键点：AI需要理解数据背后的业务含义\n- 例子：客服AI能区分\"快递慢\"和\"故意找茬\"\n- 目标：让AI像公司员工一样懂\"自家事\"",
-      "summarized_at": "2026-10-07T15:22:32.218Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791386541291",
-      "title": "Bringing predictive analytics to the agentic AI era ",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr...",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T13:29:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 2026年企业AI的新挑战\n\n- **预测能力已成共识**  \n  想象一下，现在天气预报都能算得挺准，公司里的AI系统也一样。到2026年，大家已经不纠结AI能不能预测得比统计方法强，就像不争论天气预报能不能比猜得准一样，这个问题已经没意义了。\n\n- **关键问题是\"自己动手\"**  \n  现在的核心问题是：怎么让AI不仅能预测，还能自己根据预测结果做事，而且不能跑偏。比如，AI预测明天苹果要涨价，能不能自动帮公司进货，而不是乱来。这就好比让AI既能算题，还能自己决定用哪种解题方法，不能只顾埋头算而忘了考试目的。\n\n- **AI不能当\"话痨\"**  \n  过去AI像话痨一样只会报预测结果，现在要变\"行动派\"。比如购物APP以前只会给你推荐商品，现在要能根据你买过的东西自动下单，但下单前得确保是你真的需要，而不是乱买东西。这就要求AI既能算得准，又能懂你的真实需求。\n\n- **守住商业目标**  \n  AI就像公司里的员工，现在要确保它按老板的指示工作。以前AI是\"预言家\"，现在要是变成\"行动家\"，得保证它做的一切都是为了公司赚钱，不能自作主张乱花钱。比如AI算出要投资某个项目，得先问问老板是不是这个方向，不能自己偷偷把预算全投进去。\n\n- **从\"预测\"到\"决策\"的转变**  \n  以前AI是算命先生，现在得变成能自己拿主意的小领导。比如智能汽车以前只会提醒\"前方有坑\"，现在要能自动减速，但得先确认这是为了安全，而不是因为系统乱操作。关键是要让AI既能自己做决定，又能确保决定是正确的。",
-      "summarized_at": "2026-10-07T15:22:33.003Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791386541291",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…...",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T08:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 人们既讨厌AI，又离不开它\n\n### 讨厌AI的原因\n最近我和一个做AI的CEO聊天，他提到一个有趣的现象：虽然大家嘴上总说讨厌AI，但好像又离不开它。就像有人喜欢吃辣，嘴上总说“太辣了”，但下次还是会忍不住再吃。AI也是这样，虽然大家担心它会抢工作、会出错，但实际生活中又处处需要它帮忙。\n\n### AI的“自相矛盾”表现\n举个例子，现在很多聊天机器人都能回答各种问题，但人们总说“AI不智能”。就像一个新生婴儿，你嫌他不会说话，但又期待他快点长大。AI也是一样，现在还不太完美，但人们已经习惯了它的存在。比如出门打车，没人真想自己开车；查资料，没人想花时间翻书。AI虽然不完美，但已经成了生活必需品。\n\n### CEO的观点\n那位CEO说他们的AI是个“自恨的AI”，意思是AI自己也知道不完美，但还在不断进步。就像一部手机，旧版本被嫌落后，但新版本又成了必需品。AI也是这样，虽然人们嘴上抱怨，但实际需求越来越高。\n\n### 核心信息\n- 人们讨厌AI，是因为它还不完美，像新生儿一样需要成长  \n- 人们离不开AI，是因为它能解决实际问题，像手机一样成了生活必需品  \n- AI就像一个不断进化的孩子，虽然不完美，但越来越让人依赖",
-      "summarized_at": "2026-10-07T15:22:41.167Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791386541291",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.  Step inside the newsroom with our MIT Technology Review editors for sharp a...",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T04:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 2026年AI将改变一切：AI与各行各业的碰撞\n\n### AI正在改变的生活\n\n想象一下，AI就像一位超级助手，正在悄悄改变我们生活中的方方面面。比如，医生可以利用AI快速分析病人的CT片，更快找出问题；工厂可以用AI优化生产线，提高效率，减少浪费；甚至农民也能借助AI预测天气和作物生长情况，种出更多更好的水果蔬菜。\n\n### AI与其他领域的结合\n\n最神奇的是，当AI和其他领域结合时，效果会像1+1>2一样强大。比如，AI可以和生物学结合，帮助科学家更快研究基因，找到治疗疾病的新方法；AI和城市规划结合，能设计出更智能的街道，缓解交通拥堵；AI和制造业结合，能让机器人更懂你的需求，造出更合心意的商品。\n\n### 为什么AI和其他领域结合更有用\n\n因为AI擅长从大量数据中找出规律，但单独使用时，就像一个只懂数字的人无法理解生活。而和其他领域结合后，AI就能像知道你口味的人一样，帮你找到最佳方案。比如，AI和艺术结合，能创作出让人惊喜的画作；AI和音乐结合，能帮你发现新喜欢的歌曲。\n\n### 未来展望\n\n到了2026年，AI可能就像空气一样无处不在，从你家里的智能音箱到城市的交通系统，都能看到它的身影。那时候，AI和各行各业的结合将创造更多可能性，让我们的生活更美好、更方便。",
-      "summarized_at": "2026-10-07T15:22:42.500Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1791386541291",
       "title": "Redefining enterprise intelligence with autonomous AI",
