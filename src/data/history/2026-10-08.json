@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-10-08T15:25:47.225Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-10-08T15:25:47.225Z",
+    "date": "2026-10-08",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1791473112564",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-08T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 机器人不会马上改变生活\n\n### 最新机器人进展\n\n最近网上出现一个机器人，长得像人，穿着白衣服，头部和躯干是黑色的。它出现在各种视频里，看起来很先进。\n\n### 机器人技术突破\n\n这个机器人展示了AI技术在机器人领域的最新进展。虽然看起来很厉害，但它离我们普通人生活还很远。现在这些技术还处于实验阶段，就像小时候玩的玩具一样不成熟。\n\n### 为什么不会马上改变生活\n\n1. **技术不成熟** - 就像刚学会骑自行车时经常摔倒，现在的机器人技术还不稳定，很多地方需要改进。\n2. **成本太高** - 研发一个高级机器人需要大量金钱，就像买一辆新车一样昂贵，普通家庭很难负担。\n3. **应用范围有限** - 目前这些机器人主要用于研究或特定行业，就像实验室里的精密仪器，不是日常用品。\n4. **安全风险** - 机器人可能会出现故障，就像电器会短路一样危险，需要更多安全保障。\n\n### 未来的可能性\n\n虽然不能立即改变生活，但未来这些技术可能会慢慢普及。就像当年手机刚出现时也很笨重，现在已经成为生活必需品。随着技术进步和成本下降，机器人可能会逐渐进入家庭，但这个过程需要时间。\n\n- **要点**：当前机器人技术还处于发展阶段，距离真正改变生活还有距离。\n- **要点**：技术进步需要时间，就像手机的发展历程一样逐步成熟。\n- **要点**：普通人不用着急期待机器人马上改变生活，保持耐心就好。",
-      "summarized_at": "2026-10-08T15:25:20.110Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791473112564",
-      "title": "Building a safer path to autonomous industrial AI",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ...",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-08T08:17:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 工业AI要更智能了\n\n工业里的AI正在发生大变化。以前，AI主要能做些预测分析这种小事，比如根据天气预测销量。但现在，新技术的出现让AI能干更复杂的活儿了。\n\n## 新技术让AI更厉害\n\n- **基础模型**：就像学知识的大本营，让AI能像人一样理解各种信息\n- **物理AI**：让AI能处理真实世界的物理问题，比如控制机器人\n- **能动AI**：让AI能主动想办法解决问题，而不是被动等待指令\n\n## 工业AI的新能力\n\n以前AI只能做些简单重复的活儿，比如在工厂里贴标签。现在它可以：\n- 更智能地处理复杂设备，比如自动调整生产线\n- 在危险环境中工作，比如高温或辐射区域\n- 根据实际情况灵活调整任务，就像人一样能变通\n\n## 对生活的影响\n\n想想你家扫地机器人，现在它能做的功能越来越多。工业AI就像这个机器人的超级升级版，能帮你更省心：\n- 家里的智能家居系统会互相配合工作\n- 工厂里的机器能自动发现问题并解决\n- AI会像管家一样主动帮你安排事情\n\n总之，工业AI正在变得更智能、更主动，未来能干的活儿会越来越多。",
-      "summarized_at": "2026-10-08T15:25:21.857Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791473112564",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re...",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T15:47:52.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业AI助手的知识问题\n\n### 核心问题\n现在的AI系统虽然能收集和分析大量数据，但企业里的AI助手（比如客服机器人）往往缺乏真正的知识。数据只是信息，而知识才是知道这些信息对本公司意味着什么。比如，同样是\"客户投诉\"，一家公司的AI助手能理解这是重要信号，另一家可能当成普通信息。\n\n### 知识的重要性\n想象一下，你让AI助手帮你做计划，但助手不知道你们公司的预算限制或客户偏好，就像一个人没学过你家情况就帮你买菜。结果可能买错东西，耽误事情。AI助手也需要了解公司情况才能给出正确建议。\n\n### 解决办法\n要让AI助手变聪明，需要教它理解公司特有的知识。比如：\n- 公司的价值观（比如\"客户第一\"）\n- 产品特点（哪些是明星产品）\n- 内部流程（比如报销需要哪些文件）\n- 常见问题处理方式\n\n这些知识不是靠单纯的数据分析就能学会的，需要专门整理和输入。就像学英语，光有单词表不够，还要学地道的表达和习惯用法。\n\n### 实际意义\n有了知识，AI助手就能：\n- 更懂客户需求\n- 更少出错\n- 更高效地解决问题\n- 提升公司整体效率\n\n总之，让AI助手获得企业知识，就像给它装上了了解公司情况的\"大脑\"，让它能真正帮企业解决问题，而不是只当个数据搬运工。",
-      "summarized_at": "2026-10-08T15:25:29.097Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791473112564",
-      "title": "Bringing predictive analytics to the agentic AI era ",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr...",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T13:29:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 2026年的AI大挑战：让AI自己拿主意\n\n### 核心问题\n到了2026年，企业用AI的时候，已经不需要再争论预测模型能不能比简单统计方法更准了——这个答案大家都已经知道了。现在真正让人头疼的问题是：怎么让AI系统能够自己根据预测结果做决定，同时又不会偏离公司的实际需求呢？\n\n### 用例子说明\n想象一下，你让AI帮你订机票。以前只要它知道什么时候票便宜，什么时候航班多就成。但现在你希望AI能更聪明，比如自己判断\"明天天气不好，要不要改签\"，\"同事正好要去同一家公司，要不要拼车\"，这种自己思考然后行动的能力。\n\n### 关键挑战\n现在的AI就像个\"话痨\"，能说会道但不会自己干。比如天气预报很准，但不会自动调整家里的空调温度；银行系统能预测风险，但不会主动联系客户说\"您最近消费有点多要不要查查账\"。问题在于，AI的\"思考\"和\"行动\"总是分开的——它只会给人类提建议，自己却不敢动手。\n\n### 解决方向\n要让AI真正\"有自主性\"，需要解决两个关键问题：\n- 让AI明白\"什么行为符合公司目标\"（比如订机票不能耽误重要会议）\n- 给AI一点\"自由裁量权\"，让它能根据具体情况调整行动（比如看到同事要拼车就自动推荐）\n\n简单说，就是让AI从\"只会预测\"进化到\"既能预测又会做决定\"，就像一个能帮你安排日程又懂得变通的生活助理。",
-      "summarized_at": "2026-10-08T15:25:28.543Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1791473112564",
       "title": "People really hate AI, so why can’t they get enough?",
