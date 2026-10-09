@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-10-09T15:08:56.685Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-10-09T15:08:56.686Z",
+    "date": "2026-10-09",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1791558482496",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recentl...",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-09T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 对AI说“不”的能力需要小心对待\n\n### AI说“不”的担忧\n\n人们总以为，像我们人类一样，AI也应该能学会说“不”。科幻小说里到处都是机器人不服从命令的故事，这些故事大多是在提醒我们：别太依赖机器。但最近发现，我们可能太天真了。\n\n### AI说“不”的难度\n\n想象一下，家里有个扫地机器人。它看到垃圾就扫，看到命令就动，很少会问“这有必要吗？”或者“我不行”。如果让它做超出能力的事，比如搬冰箱，它可能只会傻乎乎地试，试不动就卡在那儿。AI说“不”需要懂得判断情况，这比单纯执行命令难多了。\n\n### 我们为什么容易忽视\n\n- 人类习惯让机器完美，但机器需要学习人类的犹豫和拒绝\n- AI说“不”的能力依赖复杂推理，目前还很难实现\n- 过度信任AI可能导致危险，就像自动驾驶车在遇到突发情况时，可能不会像人类司机那样及时刹车\n\n### 如何改进\n\n1. 设计能说“不”的AI系统，比如在检测到危险时主动暂停\n2. 设置安全机制，让AI在不确定时寻求人类帮助\n3. 人类需要接受AI的局限，不是所有时候都能代替人类判断\n\n总之，AI说“不”的能力不是与生俱来的，需要我们不断改进。过度信任它说“不”的能力，可能会让我们在关键时刻犯大错。",
-      "summarized_at": "2026-10-09T15:08:19.777Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791558482496",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next...",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-09T00:08:24.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# AI设计病毒的新突破\n\n## 惊险的发明\n2025年，斯坦福大学的学生Samuel King用一种能\"画画\"的AI，想出了微型病毒的基因设计图。这就像让电脑帮我们画出细菌的样子，不过还只是纸上谈兵。\n\n## 就像用电脑画蛋糕\n想象一下用绘图软件设计蛋糕：你可以告诉电脑想要的口味、大小、装饰，它就能生成各种设计方案。AI设计病毒也是这样，输入一些规则，电脑就能自动生成新的病毒基因序列。\n\n## 未来能创造出生命吗？\n虽然现在还只是设计基因图，但科学家认为这离创造出真正的生命形式很近了。就像造房子先画图纸，画好了再盖起来。\n\n## 可能带来的改变\n- 帮医生更快找到对抗病毒的方法\n- 让病毒研究变得像做拼图一样简单\n- 也许有一天能制造出治疗疾病的\"超级病毒\"\n\n## 重要提醒\n这种技术可能像一把双刃剑，既能治病也可能被坏人利用。就像你会用剪刀剪纸，但也有人会用来做坏事。\n\n科学家们现在正像讨论新玩具一样讨论这个发现，既兴奋又小心。未来AI设计的病毒会不会像智能手机一样改变我们的生活？这真是个让人好奇的问题。",
-      "summarized_at": "2026-10-09T15:08:12.713Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791558482496",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-08T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 机器人突破不会马上改变生活\n\n最近网上出现了一个像人一样的外形机器人，穿着白色衣服，黑色头部和身体，但别高兴得太早，它不会马上出现在你家。\n\n### 机器人技术进展缓慢\n\n虽然科学家们发明了越来越聪明的机器人，比如能像人一样活动的机器人，但这些技术离走进普通人生活还早着呢。就像手机从只能打电话到现在能做各种事，这个过程花了很长时间。\n\n### 为什么进展慢\n\n- **技术难度大**：让机器人像人一样思考、行动还很困难，就像让不会走路的人突然学会跑步一样。\n- **成本高**：现在这些机器人价格昂贵，普通家庭用不起。比如现在的高级机器人比汽车还贵。\n- **应用场景有限**：目前机器人主要用在工厂等特定地方，还没找到适合家庭使用的功能。\n\n### 未来展望\n\n等到机器人技术成熟、价格下降，它们可能会慢慢进入家庭。但这个时间不会太近，可能还要等几年。就像当年电视刚出现时，大家都觉得是高科技，但真正走进家家户户也是几十年后的事。\n\n总之，别指望很快就能在家里看到一个能帮你做家务的机器人，科技发展需要时间。",
-      "summarized_at": "2026-10-09T15:08:27.510Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791558482496",
-      "title": "Building a safer path to autonomous industrial AI",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ...",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-08T08:17:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 工业AI迎来大变身\n\n工业AI正在经历一场大变革。过去几十年，它主要帮忙做些简单的预测工作，比如预测库存够不够、机器啥时候坏。现在不一样了，有了新技术的帮忙，比如能理解各种信息的大模型、能处理现实世界问题的物理AI，还有能主动做决策的智能AI。这些技术让工业AI能干更多复杂的事，比如自动控制生产线、自己解决生产中出现的问题。\n\n### 以前的工业AI就像个助手\n\n以前AI就像个只懂记账的助手，能帮忙算账但不会自己做事。比如，它知道什么时候该提醒老板补货，但不会自己去仓库搬东西。\n\n### 现在的工业AI成了多面手\n\n现在的AI更像个能独立行动的员工。比如，在工厂里，它能根据摄像头看到的情况，自己调整机器的转速，还能发现异常情况主动报修。这就像以前你需要看着机器，现在机器自己会判断该怎么做。\n\n### 安全性是关键\n\n不过，这些新AI虽然厉害，但直接上马还不太敢。就像你不会让刚学步的小孩独自做饭一样，工业AI需要更严格的测试和防护。科学家们正在努力让这些AI更安全可靠，比如增加防错机制，确保它们不会因为乱操作出大事。\n\n### 未来展望\n\n未来，工业AI会越来越像个能干又可靠的同事，能处理更多复杂任务，同时保证安全不出错。这就像你家智能音箱，现在只能回答问题，以后能帮你控制家电、规划日程一样。不过在此之前，科学家们会一步步验证它的能力，确保 Transition 过程中万无一失。",
-      "summarized_at": "2026-10-09T15:08:29.096Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1791558482496",
       "title": "Connecting AI agents to enterprise knowledge",
