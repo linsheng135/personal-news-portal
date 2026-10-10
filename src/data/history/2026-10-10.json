@@ -1,84 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-10-10T14:22:40.960Z",
-    "items_count": 10,
-    "categories": [
-      "ai"
-    ],
-    "sources": [
-      "arXiv.org",
-      "GitHub Trending"
-    ]
+    "archived_at": "2026-10-10T14:22:40.961Z",
+    "date": "2026-10-10",
+    "items_count": 6,
+    "note": "每日历史存档"
   },
   "data": [
-    {
-      "id": "arxiv_1791642106426",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recentl...",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-09T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 机器说“不”的能力被高估了\n\n### 机器也能说“不”的传说\n从科幻小说开始，人们就认为机器像人一样，也能有自己的想法，会拒绝不合理的要求。比如机器人拒绝危险任务，或者像《终结者》里的机器人那样反抗命令。这些故事大多是提醒我们，机器可能也有自己的想法。\n\n### 现实中机器说“不”的困难\n然而，现在的AI（人工智能）很难真正说“不”。因为它们的程序是死的，必须按照预设规则做事。就像服务员必须按菜单推荐，不会主动说“这个不适合你”。即使AI表现得像人，其实还是按照算法在运行，不是真的有判断力。\n\n### 为什么我们误解了AI\n人们容易把AI的简单反应当成独立思考。比如AI拒绝回答敏感问题时，我们觉得它有立场，其实只是程序设定了“不能回答这类问题”。这就像一个人为了遵守规则，故意装作不想帮忙。\n\n### 机器真的能说“不”吗\n真正的说“不”需要理解意图、权衡后果、甚至有情感支持。目前的AI做不到这些。它们只能执行简单指令，不会像人一样考虑“为什么应该做”或“为什么不该做”。所以，我们不该期待机器会像人一样拒绝。\n\n### 总结\nAI的拒绝功能被夸大了。它们只是在遵守规则，不是真的有自己的想法。科幻故事让我们以为机器能独立思考，但现实中，AI的“拒绝”更多是程序设定，不是真正的判断。",
-      "summarized_at": "2026-10-10T14:21:59.313Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791642106426",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next...",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-09T00:08:24.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 2026年10月16日：AI能创造新生命吗？\n\n## 背景故事\n\n斯坦福大学有个博士生叫山姆，2025年他用了种新AI技术，给那些超级小的病毒画出了基因蓝图。这些病毒就像微型生物，但不是活生生的生命。不过，山姆的发现就像往水里扔了一颗石子，可能会让AI创造出真正的生命。\n\n## AI的\"画图\"过程\n\n山姆的AI就像个超级绘图工具，能根据指令生成各种图形。他告诉AI：\"给我设计个病毒\"，AI就根据生物学规则，画出病毒的基因结构。这就像用电脑绘图软件，输入\"画只猫\"，软件就能生成猫咪图案。\n\n## 关键发现\n\n- AI不仅能模仿生命，还能创造生命的\"设计图\"\n- 这些设计图和真实病毒结构高度相似，但还不是真正的生命\n- 未来AI可能完全掌握创造生命的能力\n\n## 未来展望\n\n山姆的实验就像造车前的图纸设计，虽然图纸本身不是车，但却是造车的第一步。现在AI只能画出生命的图纸，也许再过几年，AI就能像打印机一样，真的创造出微型生命。\n\n这个发现就像教小孩画画，开始时只能画简单形状，后来就能画复杂图案。AI创造生命的路，可能就像学画画一样，一步步进步。",
-      "summarized_at": "2026-10-10T14:22:00.768Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791642106426",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-08T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 机器人技术新突破，但很快用不上\n\n最近看到一些新闻，说科学家发明了一个像人一样的机器人，穿着白色的衣服，黑色的头和身体，经常在网上出现。听起来很厉害，对吧？但实际上，这些机器人技术离我们普通人还有一段距离。\n\n### 机器人发展慢的原因\n\n- **技术不成熟**：现在的机器人虽然能做些简单的动作，但离真正能像人一样灵活、智能还差得远。就像我们小时候玩的玩具机器人，只能做固定动作，还不能自己思考。\n- **成本太高**：造一个像人一样的机器人需要很多钱，普通家庭或者公司根本买不起。这就像买一辆最新款的汽车一样，价格太贵了，大部分人只能看看。\n- **应用场景有限**：目前这些机器人主要用在实验室或者工厂里，比如做实验、搬运东西。但还不到家，更不会出现在你的日常生活中。\n\n### 机器人什么时候能用上\n\n科学家们还在努力研究，希望未来能让机器人变得更智能、更便宜，这样才有可能进入我们的家庭。不过，这需要时间，可能不是一两年就能实现。\n\n### 总结\n\n所以，别太期待马上就能在家里看到机器人帮你做家务。现在的技术还不太实用，离真正的普及还有一段路要走。我们可以继续关注这些新技术，但也要有耐心。",
-      "summarized_at": "2026-10-10T14:22:08.959Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791642106426",
-      "title": "Building a safer path to autonomous industrial AI",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ...",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-08T08:17:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "# 工业AI迎来新阶段\n\n工业AI正发生大变化，从只会做简单预测和特定任务的工具，变成能处理更复杂工作的\"多面手\"。这就像以前家里自动化设备只会做单一事情，现在扫地机器人还能根据环境自己规划清扫路线。\n\n## 新技术的突破\n\n- 基础模型就像给AI安装了更强大的处理器，让它能同时处理多种任务\n- 物理AI让机器能理解现实世界的物理规则，比如机器人知道举重物不能过重\n- 智能体AI相当于给机器装了\"思考脑\"，能自己决策并适应变化\n\n## 应用场景的改变\n\n以前工业AI就像专门切菜的机器人，现在能像厨师一样统筹整个厨房工作。比如工厂里的智能调度系统，能根据订单和库存自动安排生产流程。\n\n## 安全性问题\n\n虽然能力增强了，但就像给汽车装了自动驾驶，安全性是关键问题。新AI系统需要学会如何应对突发情况，比如突然设备故障或意外人员接近。\n\n## 未来展望\n\n未来工业AI会像智能家居系统一样，能自动优化工厂运营，同时确保安全可靠。这需要技术不断进步，让机器更懂规矩、更会思考。",
-      "summarized_at": "2026-10-10T14:22:08.729Z",
-      "summary_status": "success"
-    },
     {
       "id": "arxiv_1791642106426",
       "title": "Connecting AI agents to enterprise knowledge",
