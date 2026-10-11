@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-10T14:22:40.960Z",
+    "generated_at": "2026-10-11T14:48:36.539Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1791642106426",
+      "id": "arxiv_1791730064237",
       "title": "We’re putting too much faith in AI’s ability to say no",
       "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recentl...",
       "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
@@ -24,12 +24,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## 机器说“不”的能力被高估了\n\n### 机器也能说“不”的传说\n从科幻小说开始，人们就认为机器像人一样，也能有自己的想法，会拒绝不合理的要求。比如机器人拒绝危险任务，或者像《终结者》里的机器人那样反抗命令。这些故事大多是提醒我们，机器可能也有自己的想法。\n\n### 现实中机器说“不”的困难\n然而，现在的AI（人工智能）很难真正说“不”。因为它们的程序是死的，必须按照预设规则做事。就像服务员必须按菜单推荐，不会主动说“这个不适合你”。即使AI表现得像人，其实还是按照算法在运行，不是真的有判断力。\n\n### 为什么我们误解了AI\n人们容易把AI的简单反应当成独立思考。比如AI拒绝回答敏感问题时，我们觉得它有立场，其实只是程序设定了“不能回答这类问题”。这就像一个人为了遵守规则，故意装作不想帮忙。\n\n### 机器真的能说“不”吗\n真正的说“不”需要理解意图、权衡后果、甚至有情感支持。目前的AI做不到这些。它们只能执行简单指令，不会像人一样考虑“为什么应该做”或“为什么不该做”。所以，我们不该期待机器会像人一样拒绝。\n\n### 总结\nAI的拒绝功能被夸大了。它们只是在遵守规则，不是真的有自己的想法。科幻故事让我们以为机器能独立思考，但现实中，AI的“拒绝”更多是程序设定，不是真正的判断。",
-      "summarized_at": "2026-10-10T14:21:59.313Z",
+      "ai_summary": "## 我们对AI说“不”的能力太信任了\n\n### 过去的科幻 warning\n从古至今，人们造机器人时，总会担心它们会不会像人类一样学会说“不”。科幻小说里经常讲机器人不听话的故事，其实都是提醒大家：别太把机器当回事。就像小时候爸妈怕你学坏，编各种鬼故事吓唬你一样，科幻故事也是在“警告”人类。\n\n### AI 的“不”靠谱\n现在大家都觉得 AI 很聪明，能让机器人说“不”。但仔细想想，AI 的“不”其实很机械。比如家里扫地机器人，它不会主动拒绝脏活累活，只会机械地执行程序。如果突然让 AI 掌管重要工作，比如医院手术或股市交易，它们可能会完全按程序走，连一句“这个不靠谱”都不会说。\n\n### 现实中的危险\n- AI 没有主人意识：它们不会像人一样判断情况好坏\n- 过度依赖会导致问题：就像过度依赖导航系统会忘记怎么认路一样\n- 缺乏自我判断：AI 只会做被设定的，不会主动拒绝\n\n所以，别太指望 AI 能像人一样学会说“不”。机器人的“不”可能不是真正的拒绝，而只是程序卡壳了。真正的判断力还是要靠人自己。",
+      "summarized_at": "2026-10-11T14:47:54.140Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1791642106426",
+      "id": "arxiv_1791730064237",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next...",
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -41,12 +41,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "# 2026年10月16日：AI能创造新生命吗？\n\n## 背景故事\n\n斯坦福大学有个博士生叫山姆，2025年他用了种新AI技术，给那些超级小的病毒画出了基因蓝图。这些病毒就像微型生物，但不是活生生的生命。不过，山姆的发现就像往水里扔了一颗石子，可能会让AI创造出真正的生命。\n\n## AI的\"画图\"过程\n\n山姆的AI就像个超级绘图工具，能根据指令生成各种图形。他告诉AI：\"给我设计个病毒\"，AI就根据生物学规则，画出病毒的基因结构。这就像用电脑绘图软件，输入\"画只猫\"，软件就能生成猫咪图案。\n\n## 关键发现\n\n- AI不仅能模仿生命，还能创造生命的\"设计图\"\n- 这些设计图和真实病毒结构高度相似，但还不是真正的生命\n- 未来AI可能完全掌握创造生命的能力\n\n## 未来展望\n\n山姆的实验就像造车前的图纸设计，虽然图纸本身不是车，但却是造车的第一步。现在AI只能画出生命的图纸，也许再过几年，AI就能像打印机一样，真的创造出微型生命。\n\n这个发现就像教小孩画画，开始时只能画简单形状，后来就能画复杂图案。AI创造生命的路，可能就像学画画一样，一步步进步。",
-      "summarized_at": "2026-10-10T14:22:00.768Z",
+      "ai_summary": "## 2026年10月16日：AI能创造新生命吗？\n\n### 核心发现\n斯坦福大学博士生小 Samuel King 在2025年发现了AI创造生命的可能性。他使用了一种能生成新方案的AI程序，设计出了微型病毒的基因蓝图。虽然目前这还只是纸上谈兵，但未来AI可能真能创造出全新的生命形式。\n\n### AI的作用\n- AI就像一个超级绘图师，能根据要求画出各种图案。\n- King用的AI不是随便乱画，而是根据科学规则生成基因设计图。\n- 这些基因图就像病毒的\"食谱\"，指导病毒如何制造自己。\n\n### 生活中的比喻\n想象一下：\n- AI设计病毒，就像用电脑程序创造游戏角色。\n- 病毒基因就像游戏角色的属性配置，AI能快速生成各种组合。\n- 以前科学家设计病毒要靠大量实验，现在AI能直接生成设计方案。\n\n### 未来展望\n- AI设计病毒可能像设计手机App一样简单。\n- 但这也带来了伦理问题：谁能用这种技术？\n- 科学家们正在讨论如何既利用AI的便利，又防止滥用。\n\n### 关键信息\n- 2025年AI首次设计出病毒基因图。\n- 目前的设计还只是理论，但技术正在快速发展。\n- 未来AI可能创造真正的新生命。\n\n这份报告像一本科技杂志，告诉我们：AI正在改变科学研究的边界，让我们离创造生命更近了。",
+      "summarized_at": "2026-10-11T14:47:54.001Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1791642106426",
+      "id": "arxiv_1791730064237",
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
       "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
@@ -58,12 +58,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## 机器人技术新突破，但很快用不上\n\n最近看到一些新闻，说科学家发明了一个像人一样的机器人，穿着白色的衣服，黑色的头和身体，经常在网上出现。听起来很厉害，对吧？但实际上，这些机器人技术离我们普通人还有一段距离。\n\n### 机器人发展慢的原因\n\n- **技术不成熟**：现在的机器人虽然能做些简单的动作，但离真正能像人一样灵活、智能还差得远。就像我们小时候玩的玩具机器人，只能做固定动作，还不能自己思考。\n- **成本太高**：造一个像人一样的机器人需要很多钱，普通家庭或者公司根本买不起。这就像买一辆最新款的汽车一样，价格太贵了，大部分人只能看看。\n- **应用场景有限**：目前这些机器人主要用在实验室或者工厂里，比如做实验、搬运东西。但还不到家，更不会出现在你的日常生活中。\n\n### 机器人什么时候能用上\n\n科学家们还在努力研究，希望未来能让机器人变得更智能、更便宜，这样才有可能进入我们的家庭。不过，这需要时间，可能不是一两年就能实现。\n\n### 总结\n\n所以，别太期待马上就能在家里看到机器人帮你做家务。现在的技术还不太实用，离真正的普及还有一段路要走。我们可以继续关注这些新技术，但也要有耐心。",
-      "summarized_at": "2026-10-10T14:22:08.959Z",
+      "ai_summary": "## 机器人技术突破与日常生活\n\n- 机器人新突破：最近有报道称，一个像人形、白色带黑头和躯干的机器人出现在视频里，引发关注。\n- 突破不等于马上用到生活：虽然机器人技术进步了，但这些新成果还不会立刻影响我们的日常生活。比如，现在很多高级的机器人还是实验室里的研究对象，离我们日常使用还有距离。\n- 例子说明：想象一下，现在虽然手机越来越智能，但很多复杂功能（比如自动做饭、清洁）还没普及到普通家庭。机器人技术也是如此，虽然进步很快，但需要时间从实验室走向市场。\n- 核心观点：机器人技术还在发展中，虽然未来可能会有更智能的机器人，但短期内还不会像手机一样成为生活必需品。我们需要耐心等待技术成熟和成本降低后，才能在日常生活中看到更多机器人应用。\n- 关键信息：目前的机器人技术更多是科研突破，实际应用还需要时间。别期望马上就能在家里、办公室看到各种智能机器人。",
+      "summarized_at": "2026-10-11T14:48:00.912Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1791642106426",
+      "id": "arxiv_1791730064237",
       "title": "Building a safer path to autonomous industrial AI",
       "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ...",
       "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
@@ -75,12 +75,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "# 工业AI迎来新阶段\n\n工业AI正发生大变化，从只会做简单预测和特定任务的工具，变成能处理更复杂工作的\"多面手\"。这就像以前家里自动化设备只会做单一事情，现在扫地机器人还能根据环境自己规划清扫路线。\n\n## 新技术的突破\n\n- 基础模型就像给AI安装了更强大的处理器，让它能同时处理多种任务\n- 物理AI让机器能理解现实世界的物理规则，比如机器人知道举重物不能过重\n- 智能体AI相当于给机器装了\"思考脑\"，能自己决策并适应变化\n\n## 应用场景的改变\n\n以前工业AI就像专门切菜的机器人，现在能像厨师一样统筹整个厨房工作。比如工厂里的智能调度系统，能根据订单和库存自动安排生产流程。\n\n## 安全性问题\n\n虽然能力增强了，但就像给汽车装了自动驾驶，安全性是关键问题。新AI系统需要学会如何应对突发情况，比如突然设备故障或意外人员接近。\n\n## 未来展望\n\n未来工业AI会像智能家居系统一样，能自动优化工厂运营，同时确保安全可靠。这需要技术不断进步，让机器更懂规矩、更会思考。",
-      "summarized_at": "2026-10-10T14:22:08.729Z",
+      "ai_summary": "## 工业AI迎来新阶段\n\n工业AI现在有了新突破。以前，AI主要做些预测分析这种简单活儿，比如根据销售数据判断未来趋势。但现在，新技术让AI能干更复杂的活儿了。想象一下，以前AI只能算账，现在能帮你管理整个工厂。\n\n### 什么是工业AI的新突破？\n\n- **基础模型更强大**：就像学知识一样，现在的AI能学更多东西，处理更复杂的问题。\n- **物理AI懂现实世界**：AI不仅能算，还懂现实世界的规则。比如机器人能根据环境变化调整动作。\n- **自主AI能做决策**：就像人一样，AI能自己分析情况并做决定，不用人盯着。\n\n### 这些技术有什么用？\n\n以前，工厂里的很多活儿需要人盯着。现在，AI能自动管理生产线，比如调整机器速度，保证产品质量。这就像让一个能干的助手帮你管理家庭事务，你不用事事操心。\n\n### 还有什么要注意的？\n\n虽然AI越来越强，但安全性是关键。就像开车需要遵守交通规则一样，AI也要有安全措施，避免出错。比如，AI需要知道什么时候该停下来，避免损坏设备或伤到人。\n\n总的来说，工业AI正变得越来越聪明，能干更多活儿。但我们要小心使用，确保它安全可靠。",
+      "summarized_at": "2026-10-11T14:48:02.003Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1791642106426",
+      "id": "arxiv_1791730064237",
       "title": "Connecting AI agents to enterprise knowledge",
       "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re...",
       "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
@@ -92,103 +92,103 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## AI助手为什么需要企业知识？\n\n想象一下，你有一个超级能干的助手，能帮你整理成千上万张照片。但这个助手连你家在哪里都不知道，每次你说\"帮我找一下上周和客户谈的那个项目\"时，它就只会大海捞针。这就是现在很多企业AI助手的问题——它们收集了海量数据，却不知道这些数据对自己公司意味着什么。\n\n### 企业知识是什么？\n\n企业知识就像你家里的\"家庭相册\"：每一张照片（数据）都记录了某个时刻，但只有你知道这些照片背后的故事。比如一张会议照片，AI助手只知道照片本身，而你知道这是和客户谈判的记录。企业知识就是让AI明白这些\"故事\"的能力。\n\n### 为什么AI助手需要企业知识？\n\n- **理解数据背景**：比如知道某笔交易数据是和哪个老客户相关的\n- **做出正确决策**：就像你知道某张照片是去年夏天拍的，而不是今天\n- **提高工作效率**：AI能直接找到你需要的信息，而不是让你自己筛选\n\n### 如何给AI助手\"装满家庭相册\"？\n\n1. **添加标签**：就像给照片写说明，告诉AI这张照片的故事\n2. **建立联系**：让AI明白不同数据之间的关联\n3. **持续学习**：就像你不断整理相册，AI也需要不断更新知识库\n\n最终目标是让AI助手不仅能处理数据，更能理解这些数据对企业意味着什么，就像一个真正懂你的助手。",
-      "summarized_at": "2026-10-10T14:22:17.580Z",
+      "ai_summary": "## 企业AI助手的知识难题\n\n### 什么是企业AI助手的知识难题？\n想象一下，你家有个超级智能的扫地机器人，它每天都在家里转来转去，收集各种信息。但是，它却不知道你家冰箱里的食物不能直接扔进垃圾桶，或者知道某个房间是卧室而不是客厅。这就是企业AI助手面临的问题——虽然它们能收集大量信息，但不知道这些信息在特定企业里的实际意义。\n\n### 为什么知识很重要？\n企业AI助手就像扫地的机器人，如果不知道哪些地方需要特别注意（比如厨房不能进），它就无法正确工作。同样，企业AI助手如果不知道自家公司的业务规则、行业背景、客户偏好等，就无法真正帮企业解决问题。比如，一个银行AI助手如果不知道某种贷款需要额外审核，就可能做出错误判断。\n\n### 知识如何帮助AI助手？\n企业AI助手需要学习如何理解数据背后的意义。这就像教扫地机器人认识家里的各个房间，知道哪些地方不能碰。比如，告诉它某个文件属于机密，需要特别处理。企业可以通过建立知识库、设定规则等方式，让AI助手学会如何正确理解和运用信息。\n\n### 怎样解决知识难题？\n- 企业可以建立专门的知识库，把行业术语、业务流程等写清楚。\n- 通过大量案例训练AI助手，让它学会如何根据实际情况做判断。\n- 设定明确的规则，告诉AI助手哪些行为是允许的，哪些是禁止的。\n\n总之，企业AI助手需要通过学习知识，才能真正成为企业的得力助手，而不是只会收集信息的机器。",
+      "summarized_at": "2026-10-11T14:48:12.345Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1791642113047_0",
+      "id": "github_1791730065873_0",
       "title": "huggingface / transformers",
       "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "url": "https://github.com/huggingface/transformers",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-10T14:21:53.047Z",
-      "likes": 167037,
+      "published_at": "2026-10-11T14:47:45.873Z",
+      "likes": 167508,
       "tags": [
         "github",
         "open-source",
         "trending",
         "python"
       ],
-      "ai_summary": "## 🤗 Transformers：让机器更懂你的工具箱\n\n想象一下，你要教一个机器人认人、听懂话、看懂画。这就像给机器人装上各种超能力。huggingface / transformers 就是一个超级工具箱，里面装了很多让机器学习变厉害的模型，能处理文字、图像、声音，甚至把文字和图像结合起来理解。\n\n### - 核心功能：让机器学习更简单\n\n这个工具箱的核心是**transformers**，它就像一个模型设计蓝图，让科学家们不用从零开始，就能快速搭建出顶级的机器学习模型。比如，教机器认猫，以前可能要绕很多弯路，现在有了这个工具箱，就像有了现成的乐高积木，只需拼装就能快速做出效果。\n\n### - 应用场景：包罗万象\n\n- **文字处理**：比如你常用的智能客服，能理解你的问题并给出答案，就是用了这类技术。\n- **图像识别**：手机里的美颜功能，能自动识别人脸并美化，也是靠这个。\n- **声音分析**：语音助手能听懂你的话并执行命令，也是它的功劳。\n- **多模态**：比如现在流行的AI绘画，能根据文字描述生成图片，就是结合了文字和图像的能力。\n\n### - 既能训练也能使用\n\n这个工具箱不仅帮科学家们快速训练模型，还能直接用来让机器做具体任务。比如，可以直接用它让机器人认猫，不用再花时间训练。这就像买了台现成的电脑，不用自己组装CPU和内存，直接就能用。\n\n总之，huggingface / transformers 让机器学习变得像搭积木一样简单，让各种智能应用都能快速落地，让我们的生活越来越智能。",
-      "summarized_at": "2026-10-10T14:22:23.629Z",
+      "ai_summary": "## Transformers是什么？\n\nTransformers是一个让机器学习模型变得更容易使用的工具，就像一个超级方便的模型“说明书”库。它能让普通人在不需要成为专家的情况下，轻松使用最先进的机器学习模型，这些模型可以处理文字、图片、声音等不同类型的数据。\n\n### 用生活中的例子解释\n\n想象一下你要装修房子，但你不认识图纸。Transformers就像一个自动生成图纸的工具，你只需要告诉它想做什么，它就能给你最合适的方案。这个工具不仅能帮你设计出漂亮的房子，还能帮你把设计变成现实，就像它能同时支持模型的训练和使用。\n\n### 主要功能\n\n- **处理多种数据类型**：它能处理文字、图片、声音，就像一个全能的助理，能帮你做各种事情。\n- **支持训练和预测**：你既可以用它来学习新技能（训练），也可以用它来解决问题（预测）。\n- **简单易用**：不需要复杂的步骤，就像用手机拍照一样简单。\n\n### 为什么它这么受欢迎\n\n因为现在机器学习领域的技术发展很快，很多模型非常复杂，普通人很难上手。Transformers把这些复杂的模型变得简单化，让更多的人能利用这些先进技术解决实际问题。\n\n总之，Transformers就像一个“万能工具箱”，让机器学习变得像搭积木一样简单，让每个人都能轻松使用最先进的技术。",
+      "summarized_at": "2026-10-11T14:48:10.286Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1791642113047_1",
+      "id": "github_1791730065873_1",
+      "title": "f / prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-11T14:47:45.873Z",
+      "likes": 172580,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "html"
+      ],
+      "ai_summary": "## 打造专属聊天机器人工具箱\n\n这是一个让每个人都能分享、发现和收集聊天提示的开源工具。就像一个公共的创意分享平台，你可以在这里找到别人写的各种聊天问题，也可以自己写新的问题和答案分享出去。\n\n### 主要功能\n- **免费共享**：任何人都可以免费使用，就像图书馆一样，大家都可以进来看书（用提示）。\n- **开放-source**：代码是开放的，意味着你可以自己修改它，就像家里的小花园，你可以自己决定种什么花（怎么用这个工具）。\n- **完全私密**：如果你是公司或组织，可以自己安装这个工具，数据完全在自己手里，就像自己家里安的保险箱，只有自己能打开。\n\n### 使用场景\n想象一下，你正在和一个聊天机器人聊天，但不知道该问什么问题。这个工具就像一个“问题库”，你可以在这里找到别人写的好问题，直接用，或者参考别人的问题自己写新的。如果你是公司，还可以把这个工具放在公司内部使用，员工可以互相分享问题，让机器人更懂公司业务。\n\n### 为什么值得一看\n- **简单易用**：不需要懂技术，就像用微信一样简单。\n- **提高效率**：省去自己想问题的时间，直接用别人的成果。\n- **保护隐私**：数据不外传，公司信息更安全。\n\n总之，这是一个让聊天更轻松、更个性化的工具，适合个人、学生、公司等任何人使用。",
+      "summarized_at": "2026-10-11T14:48:25.315Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791730065874_2",
       "title": "NationalSecurityAgency / ghidra",
       "summary": "Ghidra is a software reverse engineering (SRE) framework",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-10T14:21:53.047Z",
-      "likes": 82520,
+      "published_at": "2026-10-11T14:47:45.874Z",
+      "likes": 83132,
       "tags": [
         "github",
         "open-source",
         "trending",
         "java"
       ],
-      "ai_summary": "## Ghidra软件逆向分析工具\n\nGhidra是一个专门用来破解软件密码和了解软件内部工作原理的工具，就像侦探用工具拆解犯罪现场一样。它主要用于查看别人写的程序代码，就像看别人写的菜谱，能知道每一步是怎么做的。\n\n### 像解谜游戏一样分析软件\n比如你拿到一个不认识的软件，想知道它具体在做什么，就可以用Ghidra把它\"拆开\"看。这个工具特别厉害的地方是能自动翻译不同类型的代码，就像翻译不同国家的语言，让你看得懂。\n\n### 谁在用这个工具？\n美国国家安全局（简称国安局）经常用它来分析其他国家的软件，看有没有隐藏的功能或安全漏洞。就像警察用工具检查可疑的包裹一样，这个工具能发现别人可能没注意到的秘密。\n\n### 为什么现在很火？\n现在很多黑客和网络安全专家都在用Ghidra，因为它能快速分析各种软件，而且免费。就像现在大家都用的微信或抖音，因为方便好用。这个工具让更多人能看懂复杂的软件，所以最近很受欢迎。\n\n- **用途**：拆解软件看里面是怎么写的\n- **特点**：能自动翻译不同代码，像翻译软件语言\n- **好处**：免费好用，适合所有人学习\n- **现状**：很多专业人士都在用，很流行",
-      "summarized_at": "2026-10-10T14:22:33.249Z",
+      "ai_summary": "## Ghidra是个啥？\n\n想象一下，你拿到一个不熟悉的电子设备，想知道里面是怎么工作的。Ghidra就是一个能帮你拆解电子产品、看懂内部构造的工具。它叫做“逆向工程框架”，其实就是个超级侦探软件，专门用来分析别人写的软件，看它是怎么运作的。\n\n### 用生活比喻\n\n- **逆向工程**：就像你拿到一个拼图玩具，但只有零散的碎片，不认识图案。你得自己拼出来，弄懂它本来长啥样。Ghidra就是帮你完成这个过程的工具。\n- **软件分析**：好比你看一部电影，但不知道导演怎么拍的。Ghidra能帮你“倒带”电影，分析出软件的每一帧是怎么一步步做出来的。\n\n### 主要用途\n\n- **破解软件**：比如你想知道某个软件为什么能生成特定文件，用Ghidra就能拆开看。就像拆开巧克力糖，看里面是怎么做的。\n- **安全研究**：安全专家用它检查软件有没有漏洞。好比检查手机系统，看看有没有可以偷偷进来的“后门”。\n\n### 为什么热门？\n\n- **免费好用**：美国国家安全局（NSA）开发的，所以功能强大但不用花钱。就像苹果手机一样，系统好但不用买断版。\n- **功能全面**：能分析各种类型的软件，比如游戏、办公软件，甚至操作系统。就像万能的工具箱，什么都能修。\n\n总之，Ghidra是个强大的软件侦探工具，适合想深入了解软件原理的人使用。它让逆向工程变得简单，就像给科技爱好者的拼图游戏加上说明书。",
+      "summarized_at": "2026-10-11T14:48:21.398Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1791642113048_2",
-      "title": "immich-app / immich",
-      "summary": "High performance self-hosted photo and video management solution.",
-      "url": "https://github.com/immich-app/immich",
+      "id": "github_1791730065874_3",
+      "title": "ClickHouse / ClickHouse",
+      "summary": "ClickHouse® is a real-time analytics database management system",
+      "url": "https://github.com/ClickHouse/ClickHouse",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-10T14:21:53.048Z",
-      "likes": 115924,
+      "published_at": "2026-10-11T14:47:45.874Z",
+      "likes": 50338,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "typescript"
+        "c++"
       ],
-      "ai_summary": "## 好用的照片视频整理工具\n\nimmich-app 是一款可以放在自己电脑上的照片和视频整理工具。就像你家里放照片的相册一样，但这个工具更智能，能帮你自动分类、标记和搜索照片。\n\n### 怎么用\n比如你手机里存了很多旅游照片，用这个工具可以自动识别照片里的场景，比如海滩、山脉或者城市。你还可以手动添加标签，比如\"全家旅行\"、\"生日聚会\"。以后想找某张照片时，直接输入关键词就能快速找到，不用像翻旧书一样一页页看。\n\n### 为什么好用\n- **自动整理**：就像有人帮你自动给照片分类，省时省力\n- **随时随地访问**：存在你自己的电脑上，在家或出门都能用\n- **隐私保护**：所有照片都放在自己这里，不用担心泄露\n\n### 适合谁用\n如果你家照片视频太多，整理起来费时间，或者想自己控制数据安全，这个工具非常适合。比如摄影爱好者、家庭用户或者需要管理大量素材的博主。\n\n总之，immich-app 就是个帮你轻松管理照片视频的智能助手，比普通相册功能强大多了！",
-      "summarized_at": "2026-10-10T14:22:31.777Z",
+      "ai_summary": "# ClickHouse 是什么？\n\n## 简单说\n\nClickHouse 是一种特别快的数据存储系统，像是一个超级高效的数字仓库，专门用来快速查询和分析大量数据。想象一下，你去超市买东西，收银员要快速扫描你的商品并结账，ClickHouse 就是那种能瞬间处理海量数据的工具。\n\n## 它怎么工作的？\n\n- **实时处理**：就像你手机上的地图实时更新路况一样，ClickHouse 能即时处理数据，让你随时看到最新的信息。\n- **分块存储**：它把数据分成小块，像整理书架一样，方便快速找到需要的信息。\n- **按需查询**：不需要把所有数据都读出来，就像你查字典时只看需要的页，ClickHouse 只读取必要的部分。\n\n## 适合什么场景？\n\n- **大数据分析**：比如电商公司需要快速分析用户的购买习惯，ClickHouse 能在几秒内给出结果。\n- **实时监控**：像你的电脑突然死机，需要马上知道原因，ClickHouse 能快速定位问题。\n- **广告统计**：广告公司需要实时统计广告效果，ClickHouse 能做到秒级更新。\n\n## 为什么受欢迎？\n\n- **速度快**：比普通数据库快很多，就像用高铁 instead of 普通火车。\n- **可扩展**：数据量越大，性能越好，像搭积木一样越搭越强。\n- **免费开源**：任何人都能免费使用，就像开源软件一样。\n\n简单来说，ClickHouse 就是一个能快速分析海量数据的超级工具，特别适合需要实时处理数据的场景。",
+      "summarized_at": "2026-10-11T14:48:36.539Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1791642113048_3",
-      "title": "astral-sh / ruff",
-      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
-      "url": "https://github.com/astral-sh/ruff",
+      "id": "github_1791730065874_4",
+      "title": "apache / doris",
+      "summary": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+      "url": "https://github.com/apache/doris",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-10T14:21:53.048Z",
-      "likes": 49978,
+      "published_at": "2026-10-11T14:47:45.874Z",
+      "likes": 16068,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "rust"
+        "java"
       ],
-      "ai_summary": "## 快速整理Python代码的工具\n\n- **是什么**？这个工具就像一个超级快的\"代码整理师\"，专门帮你检查和格式化Python代码。它叫astral-sh / ruff，是用另一种叫Rust的语言写的。\n- **为什么快**？想象一下，你写作业让一个人帮忙检查，一个人只能看一页，但这个工具能让很多人同时帮你看，所以特别快。\n- **能做什么**？它会找出你代码里的错误（比如写错字、用错语法），还会自动帮你调整格式，让代码看起来更整洁。就像你写日记，它帮你改正错别字，还帮你排好版。\n- **适合谁用**？如果你写Python代码，特别是写多了会感觉累，这个工具能帮你省时间，让你更专注思考怎么写好代码，而不是纠结格式和错误。\n- **亮点**：它是目前最快的代码整理工具，比很多同类工具都快很多。而且它还能做很多功能，比如检查安全问题和代码风格，就像一个全能的助手。",
-      "summarized_at": "2026-10-10T14:22:40.960Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1791642113049_4",
-      "title": "ventoy / Ventoy",
-      "summary": "A new bootable USB solution.",
-      "url": "https://github.com/ventoy/Ventoy",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-10-10T14:21:53.049Z",
-      "likes": 79871,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "c"
-      ],
-      "ai_summary": "## 一个能让你U盘变启动盘的神器：Ventoy\n\n想象一下，你买了一块U盘，但除了存东西，还想用它来重装系统或者运行虚拟机。通常需要格式化U盘，装各种启动软件，过程复杂还容易出错。现在有个叫Ventoy的工具，能让你轻松实现这个功能。\n\n### 使用方法简单到像发红包\nVentoy就像一个\"万能启动器\"，你只需三步：\n1. 下载Ventoy软件\n2. 把U盘插上电脑，用Ventoy\"烤录\"一遍\n3. 之后想用哪个系统，就把系统文件扔进U盘就行\n\n### 支持各种系统，就像万能钥匙\n不管你是想用Windows、macOS、Linux，还是各种虚拟机软件（如虚拟机），Ventoy都能兼容。就像一把万能钥匙，哪扇门都能开。因为它是\"启动专家\"，不用为每个系统单独制作启动U盘。\n\n### 免费又开源，人人都能用\nVentoy完全免费，而且源代码公开，意味着任何人都可以检查和改进它。就像共享单车一样，人人都能免费使用，还不用担心被\"偷走\"。\n\n### 为什么现在这么火？\n最近Ventoy在GitHub上很受欢迎，说明越来越多的人发现这个工具好用。以前做启动U盘需要专业电脑知识，现在就像用手机扫二维码一样简单。对于普通用户来说，Ventoy是解决电脑问题的利器，尤其适合经常需要重装系统或者测试软件的人。",
-      "summarized_at": "2026-10-10T14:22:40.444Z",
+      "ai_summary": "## Apache Doris：实时数据分析的“超级搜索引擎”\n\n想象一下，你在超市买水果，店员能立刻知道你最近常买什么、什么缺货，还能推荐新品。这就是Apache Doris的作用——它是一个让电脑快速分析数据的工具，就像超市的智能系统一样。\n\n### Doris能做什么？\n- **实时分析**：就像手机查天气能秒出结果，Doris能快速处理大量数据，马上给出答案。\n- **混合搜索**：它既能查数字（比如销售额），又能查文字（比如用户评论），就像搜索引擎既能搜新闻，又能搜菜谱。\n- **AI助手的好帮手**：AI需要大量数据来学习，Doris能帮它们快速整理信息，就像老师整理参考书。\n\n### 生活中的例子\n- **电商后台**：比如淘宝，能实时看哪个商品卖得快，哪个仓库库存低，就像餐厅老板马上知道哪种菜最受欢迎。\n- **社交媒体**：抖音能快速分析你的喜好，推荐视频，Doris就是做这种数据分析的“大脑”。\n\n### 为什么受欢迎？\n- **速度快**：比传统工具快多了，就像自行车比走路快。\n- **功能全**：既能当“数据医生”（查问题），又能当“数据厨师”（做报表）。\n- **用的人多**：GitHub上很多人使用，说明它确实好用。\n\n总之，Apache Doris就像一个全能的数据管家，能快速整理、分析各种信息，帮助各种应用（尤其是AI）变得更聪明。",
+      "summarized_at": "2026-10-11T14:48:35.463Z",
       "summary_status": "success"
     }
   ]
