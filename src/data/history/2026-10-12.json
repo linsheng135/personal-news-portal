@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-12T17:37:06.908Z",
+    "date": "2026-10-12",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1791826581508",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re...",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-05T15:47:52.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "## 企业AI助手的知识难题\n\n### 问题的核心\n现在很多人工智能助手虽然能收集大量信息，比如能读很多书，但它们往往缺乏真正的理解力。就像一个人虽然读了1000本书，但理解不了自己为什么难过一样，AI助手也常常不懂数据背后的真正含义。\n\n### 为什么重要\n企业AI助手需要理解数据在特定环境下的意义。比如，同样是\"销售额下降\"，有的公司可能是因为产品不好，有的可能是因为营销问题。能理解这些差异的AI，才能给企业提供建设性建议，就像一个能根据你的性格给出准确建议的朋友。\n\n### 目前的情况\n目前大多数AI助手只是机械地处理数据，缺乏对企业具体情况的把握。比如，它能告诉你某季度销售额是上涨还是下跌，但不懂为什么这个部门特别低，需要什么帮助。\n\n### 如何改善\n企业需要让AI助手更懂\"门道\"，就像给AI请个能理解企业文化的师傅。通过加入更多行业知识、企业文化等信息，让AI不仅知道数据，更知道这些数据在当前企业中的实际意义。\n\n### 核心意义\n让AI助手真正理解企业知识，能大幅提升其帮助企业的效果。就像一个只懂数学的医生和能结合医学知识算账的医生的差距，后者能更准确地诊断病情。",
+      "summarized_at": "2026-10-12T17:36:47.613Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791826583473_0",
+      "title": "NationalSecurityAgency / ghidra",
+      "summary": "Ghidra is a software reverse engineering (SRE) framework",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-12T17:36:23.473Z",
+      "likes": 84743,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "java"
+      ],
+      "ai_summary": "## Ghidra：逆向工程的工具箱\n\nGhidra是一个专门用来“拆解”软件的工具，就像用侦探的思路去分析一个不为人知的盒子，看看里面到底装了什么。这个工具主要被国家安全局（NSA）使用，但现在已经开源给所有人。\n\n### 什么意思呢？\n\n想象一下，你收到一个密封的信封，但不知道里面写的是什么。Ghidra就像一个超级侦探，能帮你打开这个信封，并且逐字逐句地翻译里面的内容。如果信封是用一种你从未见过的密码写成的，Ghidra还能帮你破解密码，让你看懂里面的信息。\n\n### 为什么这么厉害？\n\n- **逆向工程**：就像你拆开一个玩具，看看它是怎么工作的。Ghidra能分析别人写的软件，弄清楚它的内部运作方式。\n- **开源免费**：虽然NSA在开发它，但现在任何人都可以免费使用，就像一个公共的实验室，让更多人一起研究。\n- **用途广泛**：可以用于安全研究、病毒分析，甚至帮助找出软件中的漏洞。比如，如果某个软件存在安全漏洞，Ghidra能帮你找到这个漏洞，从而防止黑客利用它。\n\n### 举个例子\n\n假设一个黑客制作了一个病毒，但病毒代码被加密了。Ghidra可以帮忙解密，让安全专家看到病毒的运作方式，然后制定对策，比如制作杀毒软件来清除病毒。\n\n总之，Ghidra是一个强大的工具，能让普通人也能像专家一样分析复杂的软件，保护网络安全。",
+      "summarized_at": "2026-10-12T17:36:53.043Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791826583475_1",
+      "title": "huggingface / transformers",
+      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-12T17:36:23.475Z",
+      "likes": 167585,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "## huggingface / transformers 简介\n\n### 什么是 Transformers？\nTransformers 是一个工具包，就像搭积木一样，可以用来快速搭建最先进的机器学习模型。这些模型可以处理文字、图片、声音等多种信息，既能用来分析数据（比如预测天气），也能用来训练新模型（比如让机器学会画画）。\n\n### 为什么要用 Transformers？\n- **简单高效**：以前搭建高级模型很复杂，现在 Transformers 把很多步骤变简单了，就像用现成的乐高块拼车，不用自己从零开始。\n- **功能全面**：它可以处理各种类型的数据，比如识别图片中的猫，或者根据文字生成故事。\n- **开源免费**：任何人都可以免费使用，就像开源软件一样，大家可以在网上找到教程和代码，轻松上手。\n\n### 生活中的例子\n想象一下，你想教电脑识别图片里的猫。以前需要自己写很多代码，现在用 Transformers，就像用现成的模板，只需要简单修改几个参数，电脑就能快速学会。如果换一个任务，比如让电脑写诗，同样的模板稍作调整，就能搞定。\n\n### 核心优势\n- **模块化设计**：就像乐高一样，可以自由组合不同的零件，快速搭建适合自己需求的模型。\n- **社区支持**：有大量的开发者在使用和改进，遇到问题可以轻松找到解决方案。\n- **跨领域应用**：无论是做自然语言处理（比如聊天机器人），还是图像识别（比如人脸识别），都能派上用场。\n\n总之，Transformers 是一个强大的工具，适合各种水平和需求的开发者，让机器学习变得像搭积木一样简单。",
+      "summarized_at": "2026-10-12T17:37:00.912Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791826583476_2",
+      "title": "f / prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-12T17:36:23.476Z",
+      "likes": 172710,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "html"
+      ],
+      "ai_summary": "## 这是一个关于聊天机器人提示语的平台\n\n### 主要功能\n- 人们可以在上面分享、发现和收集与聊天机器人（比如ChatGPT）相关的提示语\n- 这个平台是免费且开放的，任何人都可以使用\n- 用户可以自己搭建这个平台，放在自己的组织里使用，这样数据就不会泄露出去\n\n### 为什么要用\n- 比如，你想让聊天机器人帮你写邮件，或者帮你找信息，你可以在上面找到别人总结的提示语，直接用就行\n- 平台上的提示语是社区里的人贡献的，所以种类很多，覆盖各种情况\n- 自己搭建的话，就像是你自己的小图书馆，只有自己能看，不用担心隐私问题\n\n### 举例说明\n- 比如，你想要一个能帮你写日记的聊天机器人，你可以在上面找到别人写的提示语，比如“我希望你像一个朋友一样，帮我记录今天发生的事情”，然后直接复制用\n- 如果你不小心写了不希望别人看到的提示语，自己搭建的话，就不用担心被别人看到\n\n### 核心优势\n- 平台上的提示语都是社区里的人贡献的，所以种类很多，覆盖各种情况\n- 自由搭建，数据完全在自己手里，不用担心隐私问题\n- 免费、开放，任何人都可以用，不用担心费用",
+      "summarized_at": "2026-10-12T17:37:01.545Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791826583476_3",
+      "title": "nautechsystems / nautilus_trader",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-12T17:36:23.476Z",
+      "likes": 29880,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "# 简单易懂的总结\n\n## 它是个啥\n\n想象一下，你要给很多人排队买东西，还要确保每个人都能公平、快速地拿到东西。这个软件就像一个超级聪明的大管家，专门负责帮人买东西，而且是用一种特别高效的方式来管理。\n\n## 核心功能\n\n- **靠谱又稳定**：就像一个永远不会出错的收银台，就算人再多也不会卡顿。\n- **反应快**：跟玩游戏一样，指令一下，它马上就行动，不会拖拖拉拉。\n- **公平交易**：保证每个人都能按顺序、公平地买东西，不会有人插队。\n\n## 适合谁用\n\n如果你想做股票、期货或者任何需要快速、公平交易的东西，这个软件就是个好帮手。它用一种特别的编程语言（叫Rust）来写，所以特别耐用。\n\n## 为什么受欢迎\n\n就像GitHub上很多热门工具一样，这个软件因为好用、可靠，而且能解决实际问题，所以很多人都在用。它就像一个特别能干的助手，让做交易的人省心多了。",
+      "summarized_at": "2026-10-12T17:37:06.152Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791826583477_4",
+      "title": "tiann / KernelSU",
+      "summary": "A Kernel based root solution for Android",
+      "url": "https://github.com/tiann/KernelSU",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-12T17:36:23.477Z",
+      "likes": 19099,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "kotlin"
+      ],
+      "ai_summary": "## KernelSU是什么？\n\n想象一下你的手机系统就像一个大家庭，Android系统是家长，负责管理家里的一切。但有时候，家长（系统）会有些管不过来，比如你想做一些特殊操作，但家长不让，这时候你就需要另一个\"管家\"来帮你，这个\"管家\"就是KernelSU。\n\nKernelSU是一个基于Android系统底层的特殊工具，它可以直接操作手机的\"大脑\"（内核），让你获得类似电脑上\"管理员权限\"的权限。有了这个工具，你就可以更自由地修改和定制手机系统，比如安装一些需要高权限的应用，或者优化系统性能。\n\n### 核心功能\n\n- **安全可靠**：这个工具直接在系统底层运行，比普通root方式更安全，不会轻易损坏手机。\n- **操作简单**：使用起来就像装个普通APP一样简单，不需要复杂的技术知识。\n- **功能强大**：可以让你完全掌控手机，进行各种深度定制。\n\n### 适合谁用？\n\n- **喜欢折腾手机的用户**：如果你喜欢尝试各种新功能，这个工具能满足你的需求。\n- **开发者**：开发者可以用它来测试和开发需要高权限的应用。\n- **普通用户**：如果你觉得系统不够用，想安装一些特殊应用，也可以试试这个工具。\n\n总的来说，KernelSU就像一个给Android手机的\"超级管理员\"，让你可以更自由地定制和优化手机，但又比普通root更安全、更简单。",
+      "summarized_at": "2026-10-12T17:37:06.907Z",
+      "summary_status": "success"
+    }
+  ]
+}
