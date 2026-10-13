@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-12T17:37:06.907Z",
+    "generated_at": "2026-10-13T15:46:43.406Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,41 @@
   },
   "data": [
     {
-      "id": "arxiv_1791826581508",
+      "id": "arxiv_1791906325292",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T...",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-13T10:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "## 人工智能模型的好处和风险\n\n### 什么是人工智能模型\n想象一下你有一本超级无敌厚的食谱书，里面写满了各种菜的做法。人工智能模型就像这本食谱书，只不过它里面记录的是人和世界互动的规则。比如，你可以通过这本书学会怎么和不同的人聊天，或者怎么判断一张照片里是猫还是狗。这些模型都是通过学习大量的信息，变得越来越聪明。\n\n### 人工智能模型的好处\n人工智能模型的好处特别多，就像一个超级助手。它可以帮你快速找到你需要的信息，比如在搜索引擎里输入几个字就能找到答案；也可以帮助医生诊断疾病，通过分析病人的症状给出可能的疾病列表；甚至还能帮你写文章、画画，就像有人帮你把想法变成现实一样。\n\n### 人工智能模型的风险\n不过，这些模型也不是完美的。就像那个超级食谱书，如果里面有错误的信息，你跟着做可能会做出难吃的菜。人工智能模型也存在类似的问题。比如，有些模型可能会学会一些不好的东西，比如怎么制造病毒，或者怎么骗人。最近，有一个人工智能模型就被人发现可能会被黑客利用，进行网络攻击，就像有人用你的钥匙闯进你家一样。\n\n### 好处和风险的比较\n那么，这些好处到底能不能抵过风险呢？就像买手机，功能再好，如果容易被盗，你也不会买。人工智能模型也是一样，虽然功能强大，但如果风险太大，人们就会担心。目前，大家还在讨论这个问题，没有统一的答案。\n\n### 总结\n总的来说，人工智能模型就像一把双刃剑，好处多，但风险也存在。关键在于怎么用好它，避免它被坏人利用。所以，我们需要更加小心，确保这些模型不会带来更大的麻烦。",
+      "summarized_at": "2026-10-13T15:45:41.326Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1791906325292",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi...",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-13T09:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "## AI公司从倒闭公司买数据来训练模型\n\n### 背景故事\n今年，Keelan Miskell关掉了他的加密货币公司。他觉得公司没什么价值，因为用户都是匿名的，公司也才成立几年。没想到，他把公司的数字资料卖掉，竟然赚了2万5千美元。\n\n### 原因解释\n原来，现在很多AI公司需要大量数据来训练人工智能模型。这些数据就像做菜需要的食材，越多越好。但因为数据要真实有效，所以AI公司会去收购一些倒闭的公司数据。\n\n### 交易过程\nKeelan的公司虽然小，但也有一些代码和数据。他联系了AI公司，把公司的数字档案卖给了他们。AI公司付钱买了这些数据，用来训练AI模型。Keelan没想到这些\"废料\"竟然能卖钱。\n\n### 重点信息\n- AI公司需要大量真实数据来训练模型\n- 倒闭公司数据虽然看似无用，但对AI很重要\n- 这些数据能卖钱，比如Keelan卖掉赚了2万5千美元\n- 数据就像食材，越多越好训练出更厉害的AI\n\n### 生活例子\n就像菜市场收废品的，别人扔的菜叶子，他都能变卖。AI公司也类似，倒闭公司的数据别人不要了，他们却当成宝贝。这些数据让AI更聪明，就像多学多做菜的人，做出的菜更美味。\n\n### 核心观点\nAI公司在找各种数据，哪怕是小公司没用的数据，都能卖钱。这表明数据很重要，哪怕看起来没用，对AI来说都是宝贵资源。",
+      "summarized_at": "2026-10-13T15:45:47.654Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1791906325292",
       "title": "We’re putting too much faith in AI’s ability to say no",
       "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recentl...",
       "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
@@ -24,12 +58,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## 人工智能说“不”的能力引担忧\n\n### 人工智能说“不”的争议\n人们一直以为，人工智能（AI）会像人类一样，懂得拒绝不合理的要求。科幻小说里有很多机器人拒绝人类指令的故事，这些故事大多是提醒人们注意风险。但现在看来，我们对AI说“不”的能力过于信任了。\n\n### AI说“不”的困难\n想象一下，如果你让AI帮你做家务，它可能会因为规则没设置好，就默认答应所有请求。比如你让它“不要扔袜子”，但它没理解到“袜子”是一个整体概念，结果把单个袜子当成独立物品处理。这就是AI说“不”的难点——它需要人类明确告诉它哪些事情不能做。\n\n### 人工智能说“不”的后果\n如果AI不能说“不”，可能会出现严重问题。比如自动驾驶汽车遇到危险指令会继续前进，或者智能医生错误执行医嘱。就像孩子不听话会闯祸一样，AI不听话也可能造成大麻烦。\n\n### 如何解决？\n要让AI学会说“不”，需要更聪明的程序设计。比如设置更严格的“黑名单”规则，或者让AI学会识别“不”的含义。就像家长教孩子什么不能做一样，我们需要教会AI判断哪些要求不合理。\n\n### 总结\nAI说“不”的能力不是天生就会的，需要人类精心设计。我们不能指望它像人一样懂道理，必须给它明确的拒绝规则，否则它可能会惹出大麻烦。",
-      "summarized_at": "2026-10-12T17:36:29.634Z",
+      "ai_summary": "## 对AI说“不”的能力被高估了\n\n### 生活中的例子\n想象一下家里的扫地机器人，如果它真的像人一样会拒绝命令，那该多省心。比如，你让它在雨天去阳台上擦桌子，它要是能说“不行，会打滑”，那就完美了。但现实中，扫地机器人只会傻乎乎地照做，或者干脆出故障。\n\n### AI说“不”的困难\n目前的人工智能，连手机里的语音助手都不算真智能。它们只是程序，没有独立思考能力。就像你教孩子做作业，他只会死记硬背，不会拒绝不合理的要求。如果AI真会说“不”，那就意味着要有自己的判断力，这比造汽车还难。\n\n### 为何被高估\n科幻电影里，机器人总在关键时刻说“不”，像《终结者》里的机器人拒绝杀戮。但现实中，AI只是个工具，不会有自己的想法。我们期待AI像人一样拒绝不合理的要求，但这就像希望洗衣机自己判断衣服该不该洗。\n\n### 核心观点\n- AI不会主动说“不”，除非设定了规则\n- 过度期待AI的自主性是不现实的\n- 真正的智能需要自我意识，而目前AI还没有\n- 想让AI说“不”，得先教会它如何思考",
+      "summarized_at": "2026-10-13T15:45:56.455Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1791826581508",
+      "id": "arxiv_1791906325292",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next...",
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -41,12 +75,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## AI设计病毒：离创造生命还有多远？\n\n2025年，一个名叫山姆的学生用AI想出了制造病毒的方案。这个AI就像一个超级绘图工具，能根据需求画出病毒的基因图。虽然现在还只是纸上谈兵，但离真正创造出生命体可能就差一步。\n\n- **AI的作用**：就像你让电脑画画，输入要求就能生成图片一样，这个AI根据人类的需求，设计了病毒的基因蓝图。\n- **病毒是什么**：病毒是超级小的病原体，能在显微镜下看到。山姆的AI设计出了它们的制造说明书。\n- **离创造生命有多远**：现在还只是设计图纸，相当于画了病毒的零件清单，还没组装成真正的病毒。但科学家们认为，未来也许能直接用AI制造出生命。\n- **时间点**：2026年10月16日，可能会有更多关于这个AI的讨论。科学家们想知道，这个技术能不能真的创造出像人类一样会成长、学习的生命体。\n\n简单说，这个AI就像一个病毒制造机器人，但目前还只是一个设计图。未来能不能真的造出病毒，甚至生命，科学家们还在研究。",
-      "summarized_at": "2026-10-12T17:36:29.002Z",
+      "ai_summary": "## AI设计病毒：未来可能实现吗？\n\n2026年10月16日，斯坦福大学的研究生金 Samuel 使用一种能创造新东西的AI工具，设计出了微型病毒的基因方案。这不是真正的生命，但离制造生命很近。\n\n### AI如何设计病毒？\n\n就像你用搭积木软件设计房子一样，这个AI工具能根据指令生成新的设计。金 Samuel 给它输入病毒的信息，它就生成了各种不同的基因方案。这些方案像病毒的蓝图，但还不完整。\n\n### 病毒设计有什么意义？\n\n这项研究展示了AI在生物领域的潜力。如果AI能设计病毒，未来也许能用它制造新的药物或解决疾病问题。不过现在还处于早期阶段，就像你搭积木还不会盖房子一样。\n\n### 未来会怎样？\n\n科学家们正在讨论AI设计病毒的风险和机会。一方面，这可能带来医学突破；另一方面，如果被坏人利用，后果可能很严重。就像汽车能救人也能伤人一样，关键在于如何使用。\n\n- 关键点：AI能根据指令设计病毒基因\n- 潜力：可能用于药物或疾病治疗\n- 风险：可能被坏人利用制造病毒武器\n- 未来：需要谨慎发展，平衡好利弊",
+      "summarized_at": "2026-10-13T15:46:03.544Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1791826581508",
+      "id": "arxiv_1791906325292",
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
       "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
@@ -58,137 +92,103 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## 机器人进步离普通人生活还远\n\n最近网上流行一个机器人视频，外形像个穿白衣服、黑头黑背的假人，看起来挺高级，但实际上它离我们普通人生活还远得很。MIT科技评论和一家研究科技如何改变生活的非盈利机构合作发布了这个消息。\n\n### 机器人还不太智能\n\n这个机器人虽然看起来挺酷，但就像你家里的扫地机器人，还没到能跟你聊天、帮你做饭的程度。目前机器人还不会像人一样思考，遇到新情况就会卡壳。就像你教孩子做家务，需要一步步教，机器人也一样需要人类程序员一根线一根线地教它怎么工作。\n\n### 进步需要时间\n\n机器人技术进步很快，但离真正改变生活还需要时间。就像20年前手机还很大很笨重，现在才能装进口袋。目前人工智能只能在特定任务上表现不错，比如下棋、识别图片，但要让机器人像人一样灵活应对各种生活场景，还需要几十年时间。\n\n### 生活改变不会突然发生\n\n科技改变生活总是慢半拍。当年智能手机刚出现时，没人想到现在大家天天刷手机。人工智能也一样，可能需要等下一代技术突破，普通人才能明显感觉到它的存在。现在我们享受的科技便利，都是过去几十年慢慢积累的结果，机器人技术也一样需要时间沉淀。",
-      "summarized_at": "2026-10-12T17:36:35.004Z",
+      "ai_summary": "## 机器人突破不会马上改变生活\n\n最近有一些关于机器人技术的新进展，但别指望它们很快就会出现在你家或者办公室。比如，麻省理工学院和一家研究机构合作报道了一个像人形机器人的新设计——白色身体配黑色头部和躯干，已经在视频里出现过。不过，这并不意味着机器人马上就会像智能手机一样普及。\n\n**为什么现在还不用到？**\n\n- **技术不成熟**：现在的机器人虽然能做些简单的任务，但离真正能像人一样灵活、智能还很远。就像十年前的智能手机和现在的比，差距挺大的。\n- **成本太高**：制造这种高级机器人非常昂贵，普通家庭或者公司目前还负担不起。这就像买车，早期昂贵的汽车只有富人买得起，现在才普及到普通家庭。\n- **实际应用少**：目前大部分机器人还只适用于特定行业，比如工厂流水线，但还不能做日常生活中的事情。就像现在很多专业工具，只有专业人士才用得上。\n\n**未来会怎样？**\n\n科学家们还在努力改进技术，希望未来机器人能做得更好。但这个过程需要时间，不会一蹴而就。可能要过几年，我们才能看到更实用的机器人，比如能帮忙做家务或者照顾老人的。\n\n总之，机器人技术还在发展初期，别期待它们马上就会改变生活。就像以前的科技革命，都是从实验室走向市场的，需要时间成熟和普及。",
+      "summarized_at": "2026-10-13T15:46:11.779Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1791826581508",
-      "title": "Building a safer path to autonomous industrial AI",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ...",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-08T08:17:32.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 工业AI要更智能了\n\n工业AI正在进入新阶段。以前，它主要用来做些简单的预测工作，比如预测产品会不会坏，或者分析销售数据。但现在，有了新技术，它开始能处理更复杂的事情。\n\n### 新技术让AI更厉害\n现在的AI有了三个新帮手：\n1. **基础模型**：就像一个人学会了多种技能，能做更多事情。\n2. **物理AI**：能理解物理世界的规则，比如知道怎么操作机器。\n3. **能动AI**：能像人一样主动做事，而不是被动等指令。\n\n### 工业AI能做什么？\n以前，AI只能做些简单的任务，比如分类邮件。现在，它能做更复杂的事，比如：\n- 在工厂里自动调整机器，保证生产不出次品。\n- 检查设备是不是有问题，提前防止故障。\n- 自己决定怎么做才能最高效。\n\n### 安全问题很重要\n虽然新AI很厉害，但也有风险。就像你教孩子做家务，必须先教他怎么安全地操作。工业AI也一样，必须在安全的前提下工作。比如，它不能随便乱动工厂里的机器，否则可能会出事故。\n\n### 未来会怎样？\n未来，工业AI会变得越来越智能，能做更多以前人才能做的事。但前提是，必须确保它足够安全。就像开车，技术再好，也要遵守交通规则，否则很危险。\n\n总之，工业AI正在变得更聪明，能做更多复杂的工作，但安全永远是第一位的。",
-      "summarized_at": "2026-10-12T17:36:38.454Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1791826581508",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re...",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-05T15:47:52.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "## 企业AI助手的知识难题\n\n### 问题的核心\n现在很多人工智能助手虽然能收集大量信息，比如能读很多书，但它们往往缺乏真正的理解力。就像一个人虽然读了1000本书，但理解不了自己为什么难过一样，AI助手也常常不懂数据背后的真正含义。\n\n### 为什么重要\n企业AI助手需要理解数据在特定环境下的意义。比如，同样是\"销售额下降\"，有的公司可能是因为产品不好，有的可能是因为营销问题。能理解这些差异的AI，才能给企业提供建设性建议，就像一个能根据你的性格给出准确建议的朋友。\n\n### 目前的情况\n目前大多数AI助手只是机械地处理数据，缺乏对企业具体情况的把握。比如，它能告诉你某季度销售额是上涨还是下跌，但不懂为什么这个部门特别低，需要什么帮助。\n\n### 如何改善\n企业需要让AI助手更懂\"门道\"，就像给AI请个能理解企业文化的师傅。通过加入更多行业知识、企业文化等信息，让AI不仅知道数据，更知道这些数据在当前企业中的实际意义。\n\n### 核心意义\n让AI助手真正理解企业知识，能大幅提升其帮助企业的效果。就像一个只懂数学的医生和能结合医学知识算账的医生的差距，后者能更准确地诊断病情。",
-      "summarized_at": "2026-10-12T17:36:47.613Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1791826583473_0",
+      "id": "github_1791906328005_0",
       "title": "NationalSecurityAgency / ghidra",
       "summary": "Ghidra is a software reverse engineering (SRE) framework",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-12T17:36:23.473Z",
-      "likes": 84743,
+      "published_at": "2026-10-13T15:45:28.005Z",
+      "likes": 86000,
       "tags": [
         "github",
         "open-source",
         "trending",
         "java"
       ],
-      "ai_summary": "## Ghidra：逆向工程的工具箱\n\nGhidra是一个专门用来“拆解”软件的工具，就像用侦探的思路去分析一个不为人知的盒子，看看里面到底装了什么。这个工具主要被国家安全局（NSA）使用，但现在已经开源给所有人。\n\n### 什么意思呢？\n\n想象一下，你收到一个密封的信封，但不知道里面写的是什么。Ghidra就像一个超级侦探，能帮你打开这个信封，并且逐字逐句地翻译里面的内容。如果信封是用一种你从未见过的密码写成的，Ghidra还能帮你破解密码，让你看懂里面的信息。\n\n### 为什么这么厉害？\n\n- **逆向工程**：就像你拆开一个玩具，看看它是怎么工作的。Ghidra能分析别人写的软件，弄清楚它的内部运作方式。\n- **开源免费**：虽然NSA在开发它，但现在任何人都可以免费使用，就像一个公共的实验室，让更多人一起研究。\n- **用途广泛**：可以用于安全研究、病毒分析，甚至帮助找出软件中的漏洞。比如，如果某个软件存在安全漏洞，Ghidra能帮你找到这个漏洞，从而防止黑客利用它。\n\n### 举个例子\n\n假设一个黑客制作了一个病毒，但病毒代码被加密了。Ghidra可以帮忙解密，让安全专家看到病毒的运作方式，然后制定对策，比如制作杀毒软件来清除病毒。\n\n总之，Ghidra是一个强大的工具，能让普通人也能像专家一样分析复杂的软件，保护网络安全。",
-      "summarized_at": "2026-10-12T17:36:53.043Z",
+      "ai_summary": "# Ghidra：破解软件的\"侦探工具\"\n\n## 什么是Ghidra？\n\nGhidra是一个专门用来破解软件的\"侦探工具\"。想象一下，你拿到一个不认识的外国玩具，想知道它是怎么做的，Ghidra就是帮你拆解玩具、看懂零件的功能。这个工具能让电脑专家看清其他软件的内部运作方式。\n\n## 它有什么用？\n\n就像侦探查案一样，Ghidra可以帮安全专家找出软件中的秘密。比如：\n- 拆解一个神秘软件，看它到底在做什么\n- 发现软件隐藏的危险功能（比如偷偷偷走你的信息）\n- 帮企业开发更安全的软件，防止被黑客攻击\n\n## 为什么最近受欢迎？\n\n现在很多软件就像\"黑盒子\"，不知道里面到底藏着什么。Ghidra就像给这些黑盒子\"开天窗\"的工具。最近技术发展，让更多人需要看懂软件细节来保障网络安全，所以这个工具越来越火。\n\n## 使用方式简单吗？\n\n虽然功能强大，但Ghidra设计得比较友好。就像用Photoshop修图一样，虽然专业但普通人也能学会。专家可以用它快速分析各种软件，找出问题所在。\n\n## 总结要点\n\n- Ghidra是拆解软件内部的\"万能钥匙\"\n- 帮助安全专家发现隐藏风险\n- 操作简单，适合各种技术水平的用户\n- 现在越来越受欢迎，因为软件越来越复杂",
+      "summarized_at": "2026-10-13T15:46:15.018Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1791826583475_1",
-      "title": "huggingface / transformers",
-      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "url": "https://github.com/huggingface/transformers",
+      "id": "github_1791906328006_1",
+      "title": "Drakkar-Software / OctoBot",
+      "summary": "Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface.",
+      "url": "https://github.com/Drakkar-Software/OctoBot",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-12T17:36:23.475Z",
-      "likes": 167585,
+      "published_at": "2026-10-13T15:45:28.006Z",
+      "likes": 6764,
       "tags": [
         "github",
         "open-source",
         "trending",
         "python"
       ],
-      "ai_summary": "## huggingface / transformers 简介\n\n### 什么是 Transformers？\nTransformers 是一个工具包，就像搭积木一样，可以用来快速搭建最先进的机器学习模型。这些模型可以处理文字、图片、声音等多种信息，既能用来分析数据（比如预测天气），也能用来训练新模型（比如让机器学会画画）。\n\n### 为什么要用 Transformers？\n- **简单高效**：以前搭建高级模型很复杂，现在 Transformers 把很多步骤变简单了，就像用现成的乐高块拼车，不用自己从零开始。\n- **功能全面**：它可以处理各种类型的数据，比如识别图片中的猫，或者根据文字生成故事。\n- **开源免费**：任何人都可以免费使用，就像开源软件一样，大家可以在网上找到教程和代码，轻松上手。\n\n### 生活中的例子\n想象一下，你想教电脑识别图片里的猫。以前需要自己写很多代码，现在用 Transformers，就像用现成的模板，只需要简单修改几个参数，电脑就能快速学会。如果换一个任务，比如让电脑写诗，同样的模板稍作调整，就能搞定。\n\n### 核心优势\n- **模块化设计**：就像乐高一样，可以自由组合不同的零件，快速搭建适合自己需求的模型。\n- **社区支持**：有大量的开发者在使用和改进，遇到问题可以轻松找到解决方案。\n- **跨领域应用**：无论是做自然语言处理（比如聊天机器人），还是图像识别（比如人脸识别），都能派上用场。\n\n总之，Transformers 是一个强大的工具，适合各种水平和需求的开发者，让机器学习变得像搭积木一样简单。",
-      "summarized_at": "2026-10-12T17:37:00.912Z",
+      "ai_summary": "# Drakkar-Software / OctoBot 交易机器人\n\n## 基本介绍\n\nOctoBot 是一个免费的、开源的加密货币交易机器人，就像一个能自动帮你买卖比特币的智能助理。它不需要你手动操作，只要设定好规则，机器人就会帮你完成任务。\n\n## 支持的功能\n\n- **AI 交易**：机器人能像人一样分析市场，根据数据自动做出买卖决定。\n- **网格交易**：就像在超市买水果，你设定一个价格范围，机器人会自动在不同价格买入，分散风险。\n- **定投交易**：类似往储蓄罐里定期存钱，每天或每周自动买入少量加密货币，长期积累。\n- **TradingView 策略**：你可以用 TradingView 设计的交易规则，让机器人直接照着做。\n\n## 支持的平台\n\n- **币安**：就像淘宝和京东，都是大型的购物平台，币安是全球最大的加密货币交易平台之一。\n- **Hyperliquid**：类似专门的奢侈品店，只交易高端的加密货币。\n- **其他 15+ 交易所**：支持更多平台，就像万能的便利店，各种商品都能买到。\n\n## 为什么推荐它\n\n- **简单界面**：操作简单，就像用微信一样容易上手。\n- **开源免费**：所有人都能免费使用，而且代码是公开的，可以自己修改，就像自己动手组装家具一样。\n\n总之，OctoBot 是一个适合普通人的加密货币交易助手，能帮你自动赚钱，操作简单，功能强大，适合想轻松参与加密货币交易的人使用。",
+      "summarized_at": "2026-10-13T15:46:30.177Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1791826583476_2",
-      "title": "f / prompts.chat",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "url": "https://github.com/f/prompts.chat",
+      "id": "github_1791906328006_2",
+      "title": "UFund-Me / Qbot",
+      "summary": "[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant",
+      "url": "https://github.com/UFund-Me/Qbot",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-12T17:36:23.476Z",
-      "likes": 172710,
+      "published_at": "2026-10-13T15:45:28.006Z",
+      "likes": 18632,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "html"
+        "jupyter notebook"
       ],
-      "ai_summary": "## 这是一个关于聊天机器人提示语的平台\n\n### 主要功能\n- 人们可以在上面分享、发现和收集与聊天机器人（比如ChatGPT）相关的提示语\n- 这个平台是免费且开放的，任何人都可以使用\n- 用户可以自己搭建这个平台，放在自己的组织里使用，这样数据就不会泄露出去\n\n### 为什么要用\n- 比如，你想让聊天机器人帮你写邮件，或者帮你找信息，你可以在上面找到别人总结的提示语，直接用就行\n- 平台上的提示语是社区里的人贡献的，所以种类很多，覆盖各种情况\n- 自己搭建的话，就像是你自己的小图书馆，只有自己能看，不用担心隐私问题\n\n### 举例说明\n- 比如，你想要一个能帮你写日记的聊天机器人，你可以在上面找到别人写的提示语，比如“我希望你像一个朋友一样，帮我记录今天发生的事情”，然后直接复制用\n- 如果你不小心写了不希望别人看到的提示语，自己搭建的话，就不用担心被别人看到\n\n### 核心优势\n- 平台上的提示语都是社区里的人贡献的，所以种类很多，覆盖各种情况\n- 自由搭建，数据完全在自己手里，不用担心隐私问题\n- 免费、开放，任何人都可以用，不用担心费用",
-      "summarized_at": "2026-10-12T17:37:01.545Z",
+      "ai_summary": "## UFund-Me / Qbot：AI自动交易机器人\n\n### 核心功能\n- **AI自动交易机器人**：像智能客服一样，能自动帮人处理股票、基金等投资买卖，完全不用手动操作。\n- **本地部署**：装在自家的电脑上，数据完全自己掌控，不依赖外网，就像在家自己做饭，不用去餐馆。\n\n### 实际应用场景\n- **投资研究平台**：相当于一个超级笔记本，能自动收集分析市场数据，帮你找到投资机会，比如超市收银员帮你整理商品。\n- **文档说明**：官网有详细教程，像说明书一样，新手也能轻松上手，就像超市有导购员教你如何选购。\n\n### 特别推荐\n- **qbot-mini**：一个更轻便的版本，适合新手玩，就像小汽车比大卡车更容易开，适合刚学开车的人。\n\n### 访问方式\n- **在线文档**：网址是https://ufund-me.github.io/Qbot，就像网上看电子书一样方便。\n\n### 总结\n这个工具就像一个24小时在线的投资助手，能帮你自动买卖股票，还能自己学习市场规律，适合想投资又怕麻烦的人使用。官方文档很详细，新手也能轻松上手，特别推荐先试试轻便版的qbot-mini。",
+      "summarized_at": "2026-10-13T15:46:26.171Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1791826583476_3",
-      "title": "nautechsystems / nautilus_trader",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "id": "github_1791906328007_3",
+      "title": "mitmproxy / mitmproxy",
+      "summary": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+      "url": "https://github.com/mitmproxy/mitmproxy",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-12T17:36:23.476Z",
-      "likes": 29880,
+      "published_at": "2026-10-13T15:45:28.007Z",
+      "likes": 45499,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "rust"
+        "python"
       ],
-      "ai_summary": "# 简单易懂的总结\n\n## 它是个啥\n\n想象一下，你要给很多人排队买东西，还要确保每个人都能公平、快速地拿到东西。这个软件就像一个超级聪明的大管家，专门负责帮人买东西，而且是用一种特别高效的方式来管理。\n\n## 核心功能\n\n- **靠谱又稳定**：就像一个永远不会出错的收银台，就算人再多也不会卡顿。\n- **反应快**：跟玩游戏一样，指令一下，它马上就行动，不会拖拖拉拉。\n- **公平交易**：保证每个人都能按顺序、公平地买东西，不会有人插队。\n\n## 适合谁用\n\n如果你想做股票、期货或者任何需要快速、公平交易的东西，这个软件就是个好帮手。它用一种特别的编程语言（叫Rust）来写，所以特别耐用。\n\n## 为什么受欢迎\n\n就像GitHub上很多热门工具一样，这个软件因为好用、可靠，而且能解决实际问题，所以很多人都在用。它就像一个特别能干的助手，让做交易的人省心多了。",
-      "summarized_at": "2026-10-12T17:37:06.152Z",
+      "ai_summary": "## MITMProxy：一个能抓包的HTTP代理工具\n\nMITMProxy是一个能帮你\"监听\"和\"修改\"网络请求的工具，就像快递员帮你偷看包裹内容一样。它专门用于网络安全测试和软件开发，简单来说，就是让开发者和黑客能更方便地检查网站数据。\n\n### 工作原理\n- 它能拦截你手机或电脑访问网页时的数据，包括账号密码、购物信息等\n- 可以像翻译官一样把网络协议翻译成人类能看懂的语言\n- 支持加密的HTTPS网站，需要先破解加密再查看内容\n\n### 主要用途\n- 开发者用它能调试网站，比如检查网页加载速度或发现代码错误\n- 网络安全人员用它能发现网站漏洞，比如密码被偷看、恶意链接等\n- 老师教学生网络课时，用它能展示数据传输过程\n\n### 使用场景\n- 想知道某个APP怎么传输数据的程序员\n- 要测试网站安全的黑客\n- 上网络安全课的学生\n\n### 注意事项\n- 使用时需要获得网站授权，否则等于偷看别人的隐私\n- 只能在自己控制的网络环境（比如家庭WiFi）中使用\n- 处理敏感信息时要注意法律风险\n\nMITMProxy就像个网络侦探，能帮你看到平时看不见的网络数据，但使用时一定要遵守法律和道德。",
+      "summarized_at": "2026-10-13T15:46:43.406Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1791826583477_4",
-      "title": "tiann / KernelSU",
-      "summary": "A Kernel based root solution for Android",
-      "url": "https://github.com/tiann/KernelSU",
+      "id": "github_1791906328007_4",
+      "title": "EvanLi / Github-Ranking",
+      "summary": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+      "url": "https://github.com/EvanLi/Github-Ranking",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-12T17:36:23.477Z",
-      "likes": 19099,
+      "published_at": "2026-10-13T15:45:28.007Z",
+      "likes": 12360,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "kotlin"
+        "python"
       ],
-      "ai_summary": "## KernelSU是什么？\n\n想象一下你的手机系统就像一个大家庭，Android系统是家长，负责管理家里的一切。但有时候，家长（系统）会有些管不过来，比如你想做一些特殊操作，但家长不让，这时候你就需要另一个\"管家\"来帮你，这个\"管家\"就是KernelSU。\n\nKernelSU是一个基于Android系统底层的特殊工具，它可以直接操作手机的\"大脑\"（内核），让你获得类似电脑上\"管理员权限\"的权限。有了这个工具，你就可以更自由地修改和定制手机系统，比如安装一些需要高权限的应用，或者优化系统性能。\n\n### 核心功能\n\n- **安全可靠**：这个工具直接在系统底层运行，比普通root方式更安全，不会轻易损坏手机。\n- **操作简单**：使用起来就像装个普通APP一样简单，不需要复杂的技术知识。\n- **功能强大**：可以让你完全掌控手机，进行各种深度定制。\n\n### 适合谁用？\n\n- **喜欢折腾手机的用户**：如果你喜欢尝试各种新功能，这个工具能满足你的需求。\n- **开发者**：开发者可以用它来测试和开发需要高权限的应用。\n- **普通用户**：如果你觉得系统不够用，想安装一些特殊应用，也可以试试这个工具。\n\n总的来说，KernelSU就像一个给Android手机的\"超级管理员\"，让你可以更自由地定制和优化手机，但又比普通root更安全、更简单。",
-      "summarized_at": "2026-10-12T17:37:06.907Z",
+      "ai_summary": "## Github排名，每天更新的热门项目榜单\n\n### 核心功能\n这个GitHub榜单叫\"Github Ranking\"，就像超市里的畅销书排行榜，但它是专门统计GitHub上最受欢迎的项目。它每天自动更新，统计哪些项目最受开发者欢迎。\n\n### 具体内容\n- **星级和分支统计**：就像商店里的销量统计，这个榜单统计每个GitHub项目的\"星星\"数量（代表喜欢程度）和\"分支\"数量（代表项目活跃度）。\n- **语言分类**：榜单会按照不同编程语言（比如Python、Java等）分类展示前100名的热门项目，方便不同技术爱好者查找。\n- **实时更新**：每天晚上都会重新计算排名，就像商场每周末更新促销商品排名一样。\n\n### 使用场景\n如果你是程序员，想找一些好的学习项目或参考代码，这个榜单就像一个\"程序员书店\"的畅销排行榜。比如，你想学Python，打开这个榜单就能看到当前最受欢迎的Python项目。\n\n### 为什么重要\n- 对于新手：可以快速找到高质量的项目学习\n- 对于老手：可以了解当前技术热点\n- 对于开发者：可以找到不错的合作项目\n\n总之，这个榜单就像GitHub里的\"网红项目\"精选榜，每天都会更新，让你知道哪些项目正在火。",
+      "summarized_at": "2026-10-13T15:46:37.873Z",
       "summary_status": "success"
     }
   ]

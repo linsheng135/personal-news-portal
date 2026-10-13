@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-13T15:46:43.407Z",
+    "date": "2026-10-13",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1791906325292",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-08T09:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "## 机器人突破不会马上改变生活\n\n最近有一些关于机器人技术的新进展，但别指望它们很快就会出现在你家或者办公室。比如，麻省理工学院和一家研究机构合作报道了一个像人形机器人的新设计——白色身体配黑色头部和躯干，已经在视频里出现过。不过，这并不意味着机器人马上就会像智能手机一样普及。\n\n**为什么现在还不用到？**\n\n- **技术不成熟**：现在的机器人虽然能做些简单的任务，但离真正能像人一样灵活、智能还很远。就像十年前的智能手机和现在的比，差距挺大的。\n- **成本太高**：制造这种高级机器人非常昂贵，普通家庭或者公司目前还负担不起。这就像买车，早期昂贵的汽车只有富人买得起，现在才普及到普通家庭。\n- **实际应用少**：目前大部分机器人还只适用于特定行业，比如工厂流水线，但还不能做日常生活中的事情。就像现在很多专业工具，只有专业人士才用得上。\n\n**未来会怎样？**\n\n科学家们还在努力改进技术，希望未来机器人能做得更好。但这个过程需要时间，不会一蹴而就。可能要过几年，我们才能看到更实用的机器人，比如能帮忙做家务或者照顾老人的。\n\n总之，机器人技术还在发展初期，别期待它们马上就会改变生活。就像以前的科技革命，都是从实验室走向市场的，需要时间成熟和普及。",
+      "summarized_at": "2026-10-13T15:46:11.779Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791906328005_0",
+      "title": "NationalSecurityAgency / ghidra",
+      "summary": "Ghidra is a software reverse engineering (SRE) framework",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-13T15:45:28.005Z",
+      "likes": 86000,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "java"
+      ],
+      "ai_summary": "# Ghidra：破解软件的\"侦探工具\"\n\n## 什么是Ghidra？\n\nGhidra是一个专门用来破解软件的\"侦探工具\"。想象一下，你拿到一个不认识的外国玩具，想知道它是怎么做的，Ghidra就是帮你拆解玩具、看懂零件的功能。这个工具能让电脑专家看清其他软件的内部运作方式。\n\n## 它有什么用？\n\n就像侦探查案一样，Ghidra可以帮安全专家找出软件中的秘密。比如：\n- 拆解一个神秘软件，看它到底在做什么\n- 发现软件隐藏的危险功能（比如偷偷偷走你的信息）\n- 帮企业开发更安全的软件，防止被黑客攻击\n\n## 为什么最近受欢迎？\n\n现在很多软件就像\"黑盒子\"，不知道里面到底藏着什么。Ghidra就像给这些黑盒子\"开天窗\"的工具。最近技术发展，让更多人需要看懂软件细节来保障网络安全，所以这个工具越来越火。\n\n## 使用方式简单吗？\n\n虽然功能强大，但Ghidra设计得比较友好。就像用Photoshop修图一样，虽然专业但普通人也能学会。专家可以用它快速分析各种软件，找出问题所在。\n\n## 总结要点\n\n- Ghidra是拆解软件内部的\"万能钥匙\"\n- 帮助安全专家发现隐藏风险\n- 操作简单，适合各种技术水平的用户\n- 现在越来越受欢迎，因为软件越来越复杂",
+      "summarized_at": "2026-10-13T15:46:15.018Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791906328006_1",
+      "title": "Drakkar-Software / OctoBot",
+      "summary": "Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface.",
+      "url": "https://github.com/Drakkar-Software/OctoBot",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-13T15:45:28.006Z",
+      "likes": 6764,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "# Drakkar-Software / OctoBot 交易机器人\n\n## 基本介绍\n\nOctoBot 是一个免费的、开源的加密货币交易机器人，就像一个能自动帮你买卖比特币的智能助理。它不需要你手动操作，只要设定好规则，机器人就会帮你完成任务。\n\n## 支持的功能\n\n- **AI 交易**：机器人能像人一样分析市场，根据数据自动做出买卖决定。\n- **网格交易**：就像在超市买水果，你设定一个价格范围，机器人会自动在不同价格买入，分散风险。\n- **定投交易**：类似往储蓄罐里定期存钱，每天或每周自动买入少量加密货币，长期积累。\n- **TradingView 策略**：你可以用 TradingView 设计的交易规则，让机器人直接照着做。\n\n## 支持的平台\n\n- **币安**：就像淘宝和京东，都是大型的购物平台，币安是全球最大的加密货币交易平台之一。\n- **Hyperliquid**：类似专门的奢侈品店，只交易高端的加密货币。\n- **其他 15+ 交易所**：支持更多平台，就像万能的便利店，各种商品都能买到。\n\n## 为什么推荐它\n\n- **简单界面**：操作简单，就像用微信一样容易上手。\n- **开源免费**：所有人都能免费使用，而且代码是公开的，可以自己修改，就像自己动手组装家具一样。\n\n总之，OctoBot 是一个适合普通人的加密货币交易助手，能帮你自动赚钱，操作简单，功能强大，适合想轻松参与加密货币交易的人使用。",
+      "summarized_at": "2026-10-13T15:46:30.177Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791906328006_2",
+      "title": "UFund-Me / Qbot",
+      "summary": "[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant",
+      "url": "https://github.com/UFund-Me/Qbot",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-13T15:45:28.006Z",
+      "likes": 18632,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "jupyter notebook"
+      ],
+      "ai_summary": "## UFund-Me / Qbot：AI自动交易机器人\n\n### 核心功能\n- **AI自动交易机器人**：像智能客服一样，能自动帮人处理股票、基金等投资买卖，完全不用手动操作。\n- **本地部署**：装在自家的电脑上，数据完全自己掌控，不依赖外网，就像在家自己做饭，不用去餐馆。\n\n### 实际应用场景\n- **投资研究平台**：相当于一个超级笔记本，能自动收集分析市场数据，帮你找到投资机会，比如超市收银员帮你整理商品。\n- **文档说明**：官网有详细教程，像说明书一样，新手也能轻松上手，就像超市有导购员教你如何选购。\n\n### 特别推荐\n- **qbot-mini**：一个更轻便的版本，适合新手玩，就像小汽车比大卡车更容易开，适合刚学开车的人。\n\n### 访问方式\n- **在线文档**：网址是https://ufund-me.github.io/Qbot，就像网上看电子书一样方便。\n\n### 总结\n这个工具就像一个24小时在线的投资助手，能帮你自动买卖股票，还能自己学习市场规律，适合想投资又怕麻烦的人使用。官方文档很详细，新手也能轻松上手，特别推荐先试试轻便版的qbot-mini。",
+      "summarized_at": "2026-10-13T15:46:26.171Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791906328007_3",
+      "title": "mitmproxy / mitmproxy",
+      "summary": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+      "url": "https://github.com/mitmproxy/mitmproxy",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-13T15:45:28.007Z",
+      "likes": 45499,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "## MITMProxy：一个能抓包的HTTP代理工具\n\nMITMProxy是一个能帮你\"监听\"和\"修改\"网络请求的工具，就像快递员帮你偷看包裹内容一样。它专门用于网络安全测试和软件开发，简单来说，就是让开发者和黑客能更方便地检查网站数据。\n\n### 工作原理\n- 它能拦截你手机或电脑访问网页时的数据，包括账号密码、购物信息等\n- 可以像翻译官一样把网络协议翻译成人类能看懂的语言\n- 支持加密的HTTPS网站，需要先破解加密再查看内容\n\n### 主要用途\n- 开发者用它能调试网站，比如检查网页加载速度或发现代码错误\n- 网络安全人员用它能发现网站漏洞，比如密码被偷看、恶意链接等\n- 老师教学生网络课时，用它能展示数据传输过程\n\n### 使用场景\n- 想知道某个APP怎么传输数据的程序员\n- 要测试网站安全的黑客\n- 上网络安全课的学生\n\n### 注意事项\n- 使用时需要获得网站授权，否则等于偷看别人的隐私\n- 只能在自己控制的网络环境（比如家庭WiFi）中使用\n- 处理敏感信息时要注意法律风险\n\nMITMProxy就像个网络侦探，能帮你看到平时看不见的网络数据，但使用时一定要遵守法律和道德。",
+      "summarized_at": "2026-10-13T15:46:43.406Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791906328007_4",
+      "title": "EvanLi / Github-Ranking",
+      "summary": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+      "url": "https://github.com/EvanLi/Github-Ranking",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-13T15:45:28.007Z",
+      "likes": 12360,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "## Github排名，每天更新的热门项目榜单\n\n### 核心功能\n这个GitHub榜单叫\"Github Ranking\"，就像超市里的畅销书排行榜，但它是专门统计GitHub上最受欢迎的项目。它每天自动更新，统计哪些项目最受开发者欢迎。\n\n### 具体内容\n- **星级和分支统计**：就像商店里的销量统计，这个榜单统计每个GitHub项目的\"星星\"数量（代表喜欢程度）和\"分支\"数量（代表项目活跃度）。\n- **语言分类**：榜单会按照不同编程语言（比如Python、Java等）分类展示前100名的热门项目，方便不同技术爱好者查找。\n- **实时更新**：每天晚上都会重新计算排名，就像商场每周末更新促销商品排名一样。\n\n### 使用场景\n如果你是程序员，想找一些好的学习项目或参考代码，这个榜单就像一个\"程序员书店\"的畅销排行榜。比如，你想学Python，打开这个榜单就能看到当前最受欢迎的Python项目。\n\n### 为什么重要\n- 对于新手：可以快速找到高质量的项目学习\n- 对于老手：可以了解当前技术热点\n- 对于开发者：可以找到不错的合作项目\n\n总之，这个榜单就像GitHub里的\"网红项目\"精选榜，每天都会更新，让你知道哪些项目正在火。",
+      "summarized_at": "2026-10-13T15:46:37.873Z",
+      "summary_status": "success"
+    }
+  ]
+}
