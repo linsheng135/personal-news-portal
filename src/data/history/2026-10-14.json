@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-14T13:28:51.510Z",
+    "date": "2026-10-14",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1791984480287",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-08T09:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "# 机器人技术突破不会马上改变生活\n\n## 机器人新进展\n\n最近有一些关于机器人技术的突破新闻，比如一个长得像人的机器人，白色身体黑脑袋，经常出现在视频里。这种机器人看起来很厉害，但实际上离我们普通人生活还差得很远。\n\n## 现实距离很遥远\n\n就像你现在用的智能手机，刚开始发布时功能很有限，但后来不断升级，现在几乎成了生活必需品。机器人技术也是一样，现在还处于很早期的阶段。虽然科学家们在实验室里取得了一些进步，但这些技术要真正应用到日常生活中，比如家里能帮忙做家务的机器人，至少还需要很多年。\n\n## 生活应用需要时间\n\n目前这些机器人技术主要还是用于工业领域，比如工厂里搬运东西的机械臂。它们在特定环境下很有效，但要让机器人像人一样灵活，能够理解和应对复杂的生活场景，还需要克服很多技术难题。\n\n## 不要过于期待\n\n所以，如果你期待很快就能在家里看到能干活的机器人助手，可能要失望了。机器人技术的发展需要时间，就像当年汽车刚发明时，也不是马上就普及到每个家庭的。现在我们看到的这些新进展，更像是科技发展的初级阶段，距离真正改变生活还有很长的路要走。",
+      "summarized_at": "2026-10-14T13:28:30.838Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791984483693_0",
+      "title": "NationalSecurityAgency / ghidra",
+      "summary": "Ghidra is a software reverse engineering (SRE) framework",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-14T13:28:03.693Z",
+      "likes": 86870,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "java"
+      ],
+      "ai_summary": "## Ghidra：逆向工程界的“侦探工具”\n\n### 什么是Ghidra？\nGhidra是一个专门用来“拆解”软件的工具，就好比侦探用放大镜找线索一样。它属于“逆向工程”这个领域，简单说就是通过分析软件的代码，弄明白它是怎么工作的，甚至能发现别人故意藏起来的秘密功能。\n\n### 生活中的例子\n想象一下，你看到一部新手机，想知道里面各种功能的代码是怎么写的。如果你是个程序员，Ghidra就像一个超级显微镜，能帮你一层层剥开软件的“外包装”，看到底层的代码逻辑。比如，黑客可能会用这个工具检查软件有没有后门，或者游戏开发者用它优化游戏性能。\n\n### 为什么它受欢迎？\n- **功能强大**：不仅能分析普通软件，还能处理军事、航天等领域的特殊代码。\n- **免费开源**：任何人都能免费使用，不用花钱就能学。\n- **界面友好**：相比同类工具，Ghidra的操作更简单，新手也能快速上手。\n- **美国国家安全局出品**：虽然听起来很厉害，但它其实是美国国家安全局开发并公开发布的，说明连专业机构都信任它。\n\n### 主要用途\n- 安全研究人员用它找出软件漏洞，防止黑客攻击。\n- 软件开发者用它改进程序，比如让游戏运行更流畅。\n- 政府机构用它分析外国软件，确保没有安全隐患。\n\n总之，Ghidra就像一把万能钥匙，能帮你打开任何软件的“黑箱”，是逆向工程领域不可或缺的工具。",
+      "summarized_at": "2026-10-14T13:28:33.019Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791984483694_1",
+      "title": "vuejs / core",
+      "summary": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+      "url": "https://github.com/vuejs/core",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-14T13:28:03.694Z",
+      "likes": 54702,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "# Vue.js 大白话总结\n\n## 什么是Vue.js？\n\nVue.js是一个能让网页变漂亮的工具。想象一下，你在搭积木，Vue.js就像一个个可以重复使用的积木块，让你不用从零开始就能快速搭出好看的模型。它是一个渐进式的框架，意思是你可以像拼图一样，一块一块慢慢加，不需要一下子把所有积木都用上。\n\n## 为什么流行？\n\n- **简单易学**：就像学骑自行车，Vue.js的设计让你很容易上手，不用背太多复杂的规定。\n- **灵活度高**：如果你发现搭错了一块积木，Vue.js可以轻松帮你改回来，不用推倒重来。\n- **适合各种项目**：无论是搭个小网页还是大系统，Vue.js都能帮你搞定，就像一把瑞士军刀，用途广泛。\n- **社区活跃**：很多人都在用Vue.js，遇到问题可以快速找到答案，就像去游乐场，有人带路就很方便。\n\n## 用途举例\n\n- **网页动态效果**：比如你在购物网站上看到商品滑动展示，Vue.js就能让这种效果轻松实现。\n- **表单数据管理**：填写表单时，Vue.js能帮你自动保存和校验输入，就像填完作业自动存档。\n- **复杂界面开发**：比如微信小程序，Vue.js能帮你快速搭建各种交互界面，不用一层层手写代码。\n\n## 核心优势\n\n- **组件化开发**：把网页分成一个个小模块，就像用乐高拼图，每个模块独立完成后再组合起来。\n- **数据驱动**：你修改数据，Vue.js会自动帮你更新页面，就像游戏里改了角色属性，界面自动变化。\n- **跨平台支持**：不仅能在电脑网页上用，还能用在手机App里，就像同一套玩法可以用在不同设备上。\n\nVue.js就像个多功能的助手，帮你轻松搞定网页开发，特别适合想快速上手又不用学太多代码的人使用。",
+      "summarized_at": "2026-10-14T13:28:42.763Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791984483694_2",
+      "title": "astral-sh / ruff",
+      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
+      "url": "https://github.com/astral-sh/ruff",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-14T13:28:03.694Z",
+      "likes": 50067,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "## 像整理房间一样美化Python代码  \n\nGitHub上有个超火的开源工具叫astral-sh / ruff，它能让Python代码变得又快又规范，就像用吸尘器快速打扫房间。  \n\n### 速度快的秘密  \n这个工具是用另一种叫Rust的编程语言写的，就像用最新款扫地机器人比老款扫得更快更省力。它检查和格式化代码的速度超乎想象，几秒钟就能搞定大量代码，特别适合大型项目。  \n\n### 像编辑器自带的格式工具  \n平时用Python开发时，我们可能需要手动调整代码格式，比如缩进和空格。这个工具就像编辑器自带的“一键整理”功能，自动把代码排得整整齐齐，省去我们反复修改的麻烦。  \n\n### 为什么受欢迎？  \n- **超快**：比很多同类工具快几百倍，就像用新能源汽车比燃油车开得顺溜  \n- **全能**：既能检查代码错误（像警察抓虫子），又能自动美化格式（像设计师调整版面）  \n- **简单**：用起来像装个插件，无需复杂设置  \n\n适合程序员、团队开发，尤其推荐给写Python代码的人，能大大提升工作效率。",
+      "summarized_at": "2026-10-14T13:28:40.220Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791984483694_3",
+      "title": "docker / compose",
+      "summary": "Define and run multi-container applications with Docker",
+      "url": "https://github.com/docker/compose",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-14T13:28:03.694Z",
+      "likes": 38383,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "## Docker 和 Docker Compose 简介\n\n### 什么是 Docker？\n\n想象一下，你做菜需要不同的厨具和材料。Docker 就像一个超级智能的厨房，能把各种应用（比如网站、数据库）装进独立的“密封盒”（容器）里，这样它们不会互相干扰，而且可以轻松在电脑或服务器上移动。每个“密封盒”都有自己的一套工具和材料，保证应用运行稳定。\n\n### Docker Compose 的作用\n\nDocker Compose 像是厨房里的菜谱本，专门用来管理多个“密封盒”。比如，一个网站应用可能需要 Web 服务器、数据库和缓存这几样东西。用 Docker Compose，你只需要写一份清单，就能一次性启动所有需要的“密封盒”，并且让它们互相配合工作。如果某个“密封盒”坏了，它不会影响其他“密封盒”，方便你快速修复。\n\n### 为什么这么方便？\n\n- **简单打包**：把应用和所有依赖一并打包，不用在电脑上安装各种软件。\n- **快速部署**：写好清单就能一键启动所有服务，省时省力。\n- **隔离性**：每个应用独立运行，互不干扰，更稳定。\n- **可移植性**：同样的清单可以在不同电脑或云服务器上运行，方便迁移。\n\n总之，Docker 和 Docker Compose 让开发和管理应用变得像做菜一样简单，尤其适合团队协作和快速开发。",
+      "summarized_at": "2026-10-14T13:28:51.509Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1791984483695_4",
+      "title": "nestjs / nest",
+      "summary": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+      "url": "https://github.com/nestjs/nest",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-14T13:28:03.695Z",
+      "likes": 76842,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "## NestJS 是个啥？\n\nNestJS 是一个用 JavaScript 或 TypeScript 写的 Node.js 框架，专门用来开发服务器端的应用程序。你可以把它想象成盖房子的工具箱，这个工具箱里有各种现成的模块和工具，让你能快速搭建出强大又好用的服务器。\n\n### 为什么用 NestJS？\n\n- **效率高**：就像有了预制菜，不用从零开始做饭，直接加热就能吃，节省时间和精力。\n- **可扩展**：如果家里客人增多，需要更大的房子，NestJS 让你轻松添加新功能，不耽误事。\n- **企业级水准**：相当于用最专业的装修队来盖房子，保证质量和稳定性。\n\n### 具体怎么用？\n\nNestJS 把大问题分解成小部分，比如开发一个电商网站，它可以帮你：\n- 设置用户管理模块（相当于安装门禁系统）\n- 建立订单处理流程（相当于安装快递签收流程）\n- 连接数据库（相当于把房子和水电系统连起来）\n\n### 适合谁用？\n\n适合想要开发复杂网站或应用的开发者，比如做在线教育平台、社交软件等。就像开餐馆，NestJS 让你不用研究所有细节，专注把菜做好。\n\n总之，NestJS 是个省心又强大的工具，特别适合需要快速开发高质量服务器应用的人。",
+      "summarized_at": "2026-10-14T13:28:50.497Z",
+      "summary_status": "success"
+    }
+  ]
+}
