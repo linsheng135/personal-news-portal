@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-16T13:07:41.534Z",
+    "date": "2026-10-16",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1792156021903",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-08T09:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "## AI机器人进步不会马上改变生活\n\n### 人形机器人进展缓慢\n- 最近网上出现一个像人的机器人，白色身体黑色头和上半身，但别指望它能帮你做家务或出门买东西。科学家们一直在研究这种机器人，它们现在还不太灵活，遇到简单问题就会卡壳。\n- 想象一下，现在超市里的收银员机器人虽然能扫码，但遇到商品放错位置就抓狂。这种机器人离能独立生活还早着呢。\n\n### AI需要更多改进\n- 现在的AI就像刚学会走路的宝宝，能做简单任务但还不会自己思考。比如它能认出一张脸，但不知道怎么帮你做饭。\n- 科学家们还在研究如何让AI更聪明，就像教孩子做数学题一样，需要大量练习。目前AI做复杂事情还像人在玩拼图游戏，经常拼错。\n\n### 生活变化需要时间\n- 过去十年我们用的手机、电脑变化很大，但机器人进步没那么快。就像当年电视很新奇，现在只是家庭电器一样，机器人也需要时间成为生活必需品。\n- 现在的机器人更多出现在工厂或实验室，就像以前的电脑只用于计算，现在才变成智能手机。完全融入生活至少还要等十年以上。\n\n### 关键信息\n- 人形机器人目前还不会独立工作，遇到简单问题就会出错。\n- AI需要更多学习和训练才能更智能。\n- 机器人普及需要时间，别指望马上就有机器人帮你做家务。\n- 未来机器人会慢慢进入生活，但不会像手机那样突然出现。",
+      "summarized_at": "2026-10-16T13:07:30.483Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792156023738_0",
+      "title": "NationalSecurityAgency / ghidra",
+      "summary": "Ghidra is a software reverse engineering (SRE) framework",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-16T13:07:03.738Z",
+      "likes": 89311,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "java"
+      ],
+      "ai_summary": "## Ghidra 是什么？\n\n想象一下你拿到一个不熟悉的电子设备，想知道里面是怎么工作的。Ghidra 就像是一款超级侦探软件，能帮你拆开这个设备，弄清楚它的内部结构和运作方式。它是一款专门用来“逆向工程”的工具，简单说，就是通过分析软件或硬件，找出它的设计原理和代码逻辑。\n\n### 逆向工程就像解谜\n\n比如你拿到一个别人写的程序，但不知道它是怎么实现的。Ghidra 就能像侦探一样，一步步分析程序的代码，找出其中的算法和功能。就像你看到别人做蛋糕，但不知道配方，用 Ghidra 就能反推出蛋糕是怎么做出来的。\n\n### 谁在使用 Ghidra？\n\n这个工具主要由美国国家安全局（NSA）开发，他们用它来分析其他国家的软件，确保没有隐藏的危险功能。不过现在这个工具已经开源，很多安全研究人员、黑客，甚至学生都在用。\n\n### 为什么这么受欢迎？\n\n- **功能强大**：能分析各种类型的软件，包括 Windows、Linux、macOS 的程序。\n- **免费开源**：不用花钱，任何人都可以下载使用。\n- **容易上手**：虽然有深度功能，但基本操作很简单，就像用电脑时学会快捷键一样。\n\n总之，Ghidra 就是一把能帮你拆解软件“黑盒子”的瑞士军刀，适合对计算机原理感兴趣的人使用。",
+      "summarized_at": "2026-10-16T13:07:30.324Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792156023739_1",
+      "title": "gitleaks / gitleaks",
+      "summary": "Find secrets with Gitleaks 🔑",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-16T13:07:03.739Z",
+      "likes": 29999,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "## Gitleaks：帮你找出代码里的\"秘密\"\n\n想象一下，你在一个大公司工作，突然发现同事电脑里的工资条不小心放到了共享文件里。如果有人看到了，那可就麻烦了！Gitleaks就像公司里的\"保密警察\"，专门在代码仓库里找这种不该公开的\"秘密\"信息。\n\n### 它是怎么工作的？\n\n- 把代码仓库当成一个办公室\n- 寻找像是\"工资条\"这样的敏感信息（比如密码、账号）\n- 发现后就像警报一样提醒大家\n\n### 为什么重要？\n\n现在很多公司都把代码存放在GitHub这样的地方，但如果代码里混着身份证号、银行卡密码这些\"秘密\"，别人一克隆代码就能偷走你的信息。Gitleaks就是来帮忙的，防止这种事情发生。\n\n### 使用场景\n\n- 开发者写完代码提交前，让Gitleaks先检查\n- 公司定期扫描代码库，看看有没有漏掉的秘密\n\n比如，你写了个小工具，不小心把家里的门禁卡密码写进了代码里。别人用这个工具，就能随便进你家！Gitleaks就能在提交前发现这个问题。\n\n总之，Gitleaks就是个代码里的\"保密警察\"，帮你防止泄露身份证号、银行卡密码这些\"秘密\"，保护你的隐私和安全。",
+      "summarized_at": "2026-10-16T13:07:35.620Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792156023739_2",
+      "title": "NVIDIA / cutlass",
+      "summary": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-16T13:07:03.739Z",
+      "likes": 10600,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "## 简单易懂的线性代数工具\n\n### 核心功能\n这个工具就像一个超级计算器，专门帮程序员处理数学计算，特别是那种需要大量加减乘除的线性代数问题。它支持两种用法：一种是直接用C++代码写计算逻辑，另一种是用类似写Python代码的方式定义计算过程。\n\n### 为什么实用\n- **速度快**：用C++写能跑得特别快，因为直接操作电脑的GPU（就是显卡里的计算核心）\n- **容易上手**：用Python写更简单，像搭积木一样定义计算步骤\n- **通用性强**：能用在各种需要数学计算的场景，比如机器学习、图像处理等\n\n### 适合谁用\n- **程序员**：想用GPU加速计算但又不想写太复杂的代码\n- **学生**：做科研需要大量数学计算，但编程基础不够\n- **企业**：开发需要高性能计算的应用\n\n### 生活中的例子\n想象一下你要算全班同学的身高平均值。用普通方法一个一个数太慢，但用这个工具就像把全班同学排成一排，让GPU瞬间把所有人的身高加起来再除以人数，几秒钟就出结果。同样，处理图片、识别语音这些复杂任务，也能用这个工具让电脑跑得更快。\n\n### 关键点\n- 用C++或Python两种方式编写计算逻辑\n- 专为线性代数设计，特别适合机器学习等领域\n- 能充分利用显卡性能，计算速度比普通电脑快很多",
+      "summarized_at": "2026-10-16T13:07:35.892Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792156023740_3",
+      "title": "FreeRTOS / FreeRTOS-Kernel",
+      "summary": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-16T13:07:03.740Z",
+      "likes": 4577,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c"
+      ],
+      "ai_summary": "## FreeRTOS 核心文件分享\n\n### 核心内容\nFreeRTOS 是一个专门给嵌入式设备用的操作系统，就像手机里的安卓或iOS，但它是给小机器用的。这个系统有个核心部分，就是FreeRTOS kernel，可以把它想象成设备的\"大脑\"，负责安排任务谁先做、资源怎么分。\n\nGitHub上有个仓库叫FreeRTOS，里面存了所有的FreeRTOS代码。但这个分享只包含核心文件，就像教科书只给重点知识点，其他内容需要另外找。这些核心文件被放进了FreeRTOS主仓库和其他一些仓库里，方便大家用。\n\n### 用生活例子理解\n想象一下家里有一个人（主进程），他需要安排其他人干活（子进程）。FreeRTOS就像个聪明管家，让每个人按顺序工作不冲突。比如做饭的先做，浇花的后做，还能管好厨房的锅碗瓢盆（资源管理）。\n\n### 关键信息\n- FreeRTOS核心文件单独分享，方便开发者直接用\n- 已包含在FreeRTOS主仓库和其他相关项目中\n- 适合想快速搭建嵌入式系统的人\n- 不包含完整代码，只有核心部分\n\n这个分享让想学嵌入式开发的网友省事了，不用自己筛选代码，直接拿核心部分开始学。就像买菜时，超市把菜根、菜叶分开卖，方便对不同需求的人。",
+      "summarized_at": "2026-10-16T13:07:41.533Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792156023741_4",
+      "title": "PowerShell / PowerShell",
+      "summary": "PowerShell for every system!",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-16T13:07:03.741Z",
+      "likes": 55768,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c#"
+      ],
+      "ai_summary": "## PowerShell是系统的好帮手\n\nPowerShell就像是电脑的\"万能遥控器\"，能帮你轻松管理各种设备。想象一下家里有电视、空调、音响，你想用一部遥控器控制它们，是不是很方便？PowerShell就是给电脑系统设计的这种遥控器。\n\n### 它能做什么？\n- **管理电脑**：就像给电脑做全身按摩，让它运行更顺畅\n- **自动化任务**：比如自动整理文件、定时开关机，就像让电脑自己收拾房间\n- **处理数据**：能像Excel一样处理大量信息，帮人快速找到需要的内容\n- **连接网络**：就像电脑的\"外交官\"，能和不同设备沟通\n\n### 为什么受欢迎？\n1. **简单易懂**：用日常语言就能指挥电脑，就像用中文和人对话\n2. **功能强大**：能做各种复杂操作，但指令却像日常说话一样简单\n3. **免费使用**：不用花钱，就像免费游戏一样好玩\n\n### 适合谁？\n- **普通用户**：想自己修理电脑问题，就像自己修自行车\n- **程序员**：需要快速开发工具，就像用乐高盖房子\n- **公司员工**：管理大量电脑，就像超市管货架\n\n总之，PowerShell就像电脑的\"万能胶水\"，能把各种系统粘合在一起，让电脑世界变得更简单有趣。",
+      "summarized_at": "2026-10-16T13:07:41.491Z",
+      "summary_status": "success"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-15T13:13:44.980Z",
+    "generated_at": "2026-10-16T13:07:41.533Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1792069970658",
+      "id": "arxiv_1792156021903",
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T...",
       "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
@@ -24,12 +24,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## 人工智能模型的好处和风险\n\n### 人工智能模型的好处\n\n人工智能模型就像一个超级助手，能帮你快速找到信息、写文章、甚至做决策。比如，你现在写这段话，背后可能就有AI在帮忙提词。这种技术能提高工作效率，让生活更方便，就像智能手机改变了通讯一样。\n\n### 人工智能模型的风险\n\n但AI也有风险。就像一把刀，可以用来切菜也可以伤人。最近有个AI模型GLM-5.3，有人担心它可能被黑客利用，搞出网络攻击。这就像家里的大门没锁好，小偷可能进来偷东西。如果AI被坏人利用，可能会造成严重后果。\n\n### 好处和风险的权衡\n\n所以，AI模型的好处很多，但风险也不小。就像开车，能带你去想去的地方，但如果不小心，可能会出事故。关键在于怎么用好AI，比如设置好安全措施，防止被坏人利用。现在很多公司和研究机构都在研究怎么让AI更安全，就像汽车厂商改进安全性能一样。\n\n总的来说，AI模型是好是坏，就看我们怎么用。用好了，生活更美好；用不好，可能会出问题。现在大家都在努力让AI更安全、更可靠，就像我们希望自己的智能手机越来越好用一样。",
-      "summarized_at": "2026-10-15T13:13:02.093Z",
+      "ai_summary": "# 人工智能模型的好处和风险\n\n## 模型的好处像什么\n\n想象一下，你有个能快速学习新东西的朋友，比如学做菜。这个朋友（就是AI模型）能很快记住各种菜谱，还能根据你的口味推荐新菜。这就是AI模型的好处——能处理海量信息，帮你解决复杂问题，比如自动驾驶汽车能看懂路上的情况并做出反应。就像一个超级助手，能做很多以前需要人脑的工作。\n\n## 风险例子\n\n但这个朋友也有缺点。比如，如果有人故意教它做坏事（就像有人故意教小朋友偷东西），它可能会学会错误的东西。最近有个AI模型就差点被用来发动网络攻击，就像有人用这个AI去破解密码或者搞破坏。这就是AI模型的风险——如果被人利用，可能会带来麻烦。\n\n## 好处和风险哪个更重要\n\n现在的问题是，AI模型的好处是不是比风险大？有些人认为，AI能帮我们做太多好事，比如治病、开车，风险可控。但也有人担心，万一AI被坏人利用，后果可能很严重。就像一把刀，可以用来切菜也可以伤人，关键看怎么用。目前，大家还在讨论这个问题，没有定论。",
+      "summarized_at": "2026-10-16T13:07:08.635Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792069970658",
+      "id": "arxiv_1792156021903",
       "title": "AI labs are buying data from dead startups to train their models",
       "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi...",
       "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
@@ -41,12 +41,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## AI公司用死掉创业公司的数据赚钱\n\n### 背景情况\n- 一个叫Keelan Miskell的人经营着一家加密货币创业公司，公司快结束时他觉得公司数据没什么用，因为用户信息都是匿名的，公司才成立几年。\n  \n### 意想不到的机会\n- 没想到，Keelan把公司数字档案卖给了AI实验室，一下子赚了大约2.5万元。这些数据包括公司代码和用户行为记录。\n\n### 为什么AI公司要买这些数据\n- AI实验室需要大量数据来训练人工智能模型，就像小孩需要大量书本才能学会读书一样。虽然这些数据看起来没什么用，但AI公司觉得里面藏着价值。\n- 特别是用户行为数据，AI可以通过分析这些数据来改进算法，让AI更懂人类需求。\n\n### 数据的价值\n- 虽然创业公司觉得数据没用了，但AI公司觉得这些数据像宝藏。就像你家垃圾桶里的旧报纸，别人可能觉得是垃圾，但回收站会高价收走。\n- AI公司不怕数据旧或匿名，因为它们可以用来发现人类行为模式，就像侦探用旧线索破案一样。\n\n### 商业模式\n- 创业公司倒闭后，其数据档案可以变成钱。AI公司通过购买这些数据，既省钱又高效地获取训练材料。\n- 这就像二手市场，别人不要的旧东西，在别人手里就是宝贝。\n\n### 总结\n- AI公司正在从死掉的创业公司那里购买数据来训练人工智能，这些数据包括用户行为记录和公司代码。虽然创业公司觉得数据没价值，但AI公司通过分析这些数据，可以改进AI算法。这种商业模式让创业公司变废为宝，也让AI公司省下大量数据采集成本。",
-      "summarized_at": "2026-10-15T13:13:09.503Z",
+      "ai_summary": "## AI公司靠买死掉创业公司的数据赚钱\n\n### 核心发现\n最近发现一个有趣的现象：一些专门做人工智能的公司，会花钱从那些倒闭的创业公司手里买数据，用来训练AI模型。\n\n### 例子说明\n比如有个叫Keelan Miskell的人，今年关掉了一个加密货币创业公司。他觉得公司没啥用，数据也不值钱，因为用户都是匿名的，公司也没经营几年。结果没想到，他把公司里面的代码和数据卖给了AI公司，一下子赚了差不多2万5千块钱。\n\n### 为什么要买这些数据？\n其实这些倒闭公司的数据很有用。就像你整理了很多笔记，虽然自己用不上，但别人可以用来学习。AI公司也是一样，它们需要大量数据来训练AI模型，让AI更聪明。而那些倒闭的公司，数据虽然没人用了，但对AI来说还是宝贝。\n\n### 数据卖多少钱？\n通常这些数据不会卖特别贵，但是积少成多。Keelan的公司虽然不大，但也赚到了一笔小钱。关键是这些数据对AI公司来说很有价值，因为它们能用来训练更强大的AI。\n\n### 怎么看这件事\n这件事说明了一个道理：即使公司倒闭了，里面的数据也有用。AI公司需要这些数据来提升技术，所以会愿意花钱买。对于创业公司来说，即使失败了，也不一定什么都没留下，数据就是其中一种可以变卖的资源。\n\n总之，AI公司通过收购倒闭公司的数据，既能省钱又能提升技术，这就像捡漏一样，只不过捡的是数据漏出来的机会。",
+      "summarized_at": "2026-10-16T13:07:11.389Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792069970658",
+      "id": "arxiv_1792156021903",
       "title": "We’re putting too much faith in AI’s ability to say no",
       "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recentl...",
       "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
@@ -58,12 +58,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## 人工智能说\"不\"的能力\n\n### 现实与科幻的差距\n人们一直以为，像我们人类一样，人工智能也能学会说\"不\"。科幻小说里有很多机器人不听话的故事，其实大多是提醒我们小心。比如，你教孩子做作业，总得让他明白\"不行\"的意思，否则他只会一错再错。\n\n### 实际情况\n但现在发现，给机器设定\"说不行\"的功能，比想象中难多了。就像训练宠物，你总不能让它每次都乖乖听话，它需要知道什么时候该停下来。如果机器不会拒绝，可能会像小朋友一样，非要买不属于自己的玩具，或者像没学会拒绝的员工，总是加班到深夜。\n\n### 后果严重\n如果人工智能不会说\"不\"，可能会造成大麻烦。比如，自动驾驶汽车遇到危险时不会刹车，或者医疗机器人乱开刀。就像你小时候非要吃糖，不吃就哭闹，如果机器也这样，后果不堪设想。\n\n### 如何解决\n我们需要让机器学会判断，什么时候该说\"不\"。这需要科学家设计更聪明的算法，让它们像成年人一样，能控制自己的冲动。比如，家长教孩子\"玩具不能随便拿\"，机器也需要学会类似的规则。\n\n总之，让机器学会说\"不\"，不是件小事，它决定了人工智能能不能安全可靠地帮我们生活。",
-      "summarized_at": "2026-10-15T13:13:17.769Z",
+      "ai_summary": "## 人工智能说“不”的能力存在误区\n\n### 过度相信AI会说“不”\n人们常想，既然AI越来越像人，那它肯定也能像我们一样学会拒绝。可现实是，科幻作品里机器人经常不听话的桥段，其实是在提醒我们：别太天真。\n\n### 机器人学不会说“不”的原因\n- 机器人依赖人类设定规则，就像小孩需要父母教导一样\n- AI的“拒绝”往往只是程序设置，不是真正的意愿\n- 过度期待AI像人一样有自己的想法，实际它们只是工具\n\n### 生活例子解释\n想象一下家里的扫地机器人，它只会按照设定路线工作，从不会主动说“今天不想扫了”。如果它真的能说“不”，那生活会不会更乱？其实AI说“不”的能力，更像是人类设定的闹钟，而不是真正的自主选择。\n\n### 核心观点\nAI说“不”的能力目前还只是传说，别给它太大期待。毕竟机器人和人还是有本质区别，指望它能像我们一样有自己的想法，有点不现实。",
+      "summarized_at": "2026-10-16T13:07:15.879Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792069970658",
+      "id": "arxiv_1792156021903",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next...",
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -75,12 +75,12 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "# AI 设计病毒：未来会创造出生命吗？\n\n## 事件回顾\n2025年，斯坦福大学的一个博士生叫 Samuel King，他用一种能生成新设计的 AI 软件，想出了很多微小病毒的基因方案。这不是真的生命，但离创造生命不远了。\n\n## AI 软件的作用\n这种 AI 就像一个人工智能版的“拼图游戏”，能根据给定的规则，自动组合出各种可能的基因组合。比如，我们可以给 AI 一堆零件和拼法，让它设计出一个能攻击特定细胞的病毒。\n\n## 病毒的设计\nKing 用的 AI 设计出了很多种病毒的“设计图”，这些病毒可以用来研究疾病，或者帮助人类开发新的药物。不过，现在这些病毒还只是纸上谈兵，并不能真的在现实中制造出来。\n\n## 未来可能的变化\n如果以后技术进步了，这种 AI 可能就能真的创造出生命。就像我们用电脑设计汽车，以后也许能用 AI 设计出能活的小东西。当然，这也可能带来一些伦理问题，比如我们真的要创造生命吗？\n\n## 关键信息\n- AI 可以设计病毒的基因方案\n- 目前的设计还只是理论，不能制造出真正的病毒\n- 未来 AI 可能会创造出生命\n- 这项技术可能有助于医学研究，但也可能带来伦理问题",
-      "summarized_at": "2026-10-15T13:13:17.887Z",
+      "ai_summary": "## AI设计病毒：未来可能创造出新的生命形式\n\n### 事件背景\n2026年10月16日，人们讨论一个重要问题：AI能不能设计出新的生命？2025年，斯坦福大学博士生Samuel King用AI做了个实验。他让AI生成微小的病毒基因设计图。\n\n### AI的作用\n就像程序员用电脑写代码一样，Samuel King让AI根据已知病毒信息，设计出全新的病毒基因蓝图。这就像让电脑根据食谱，创造出新的菜谱。\n\n### 现状和未来\n目前，这些AI设计的病毒还只是纸面上的设计图，并没有真正变成生命体。但科学家们认为，随着AI越来越强大，未来完全可能制造出真实的病毒，甚至更复杂的生命形式。\n\n### 关键信息\n- AI可以设计病毒基因图，类似程序员写代码\n- 目前的病毒设计还只是理论，不是真正的生命\n- 未来AI可能创造出全新的生命形式\n\n### 意义\n这个实验说明，AI不仅能处理数据，还能在生物领域发挥作用。就像用电脑设计汽车蓝图一样，AI正在一步步接近创造生命的边缘。虽然现在还只是纸上谈兵，但未来充满可能。\n\n### 警示\n科学家们也提醒，AI设计病毒可能带来风险。就像有人用电脑制造病毒软件一样，如果AI设计出有害病毒，可能会威胁人类健康。因此，如何规范AI在生物领域的应用，是一个需要认真思考的问题。",
+      "summarized_at": "2026-10-16T13:07:20.856Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792069970658",
+      "id": "arxiv_1792156021903",
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
       "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
@@ -92,102 +92,103 @@
         "ai-papers",
         "academic"
       ],
-      "ai_summary": "## 机器人进步慢，你的生活没变化\n\n最近网上有些视频，展示了一个像人一样的机器人，白色身体配黑色头部和上半身，看起来挺酷炫。但别高兴得太早，这种机器人离我们普通人生活还很远。\n\n**机器人技术还没真正落地**  \n现在科学家们确实在研究更智能的机器人，比如那个看起来像人的机器人。但就像你用不上最新款手机一样，这些机器人短期内也不会出现在你家或办公室。它们还太笨拙，不懂得怎么帮你做家务，或者帮你买东西。\n\n**技术进步需要时间**  \n制造这种机器人的技术还在发展。比如，机器人走路还不太稳，抓东西也不够灵巧。这就像刚学会骑自行车的人，还不能在复杂路况下自如穿梭。科学家们需要解决很多问题，比如让机器人更灵活、更可靠，才能让它们真正帮我们干活。\n\n**生活改变不会突然发生**  \n虽然机器人技术在进步，但不会像科幻电影里那样一夜之间改变我们的生活。更现实的情况是，这些技术会慢慢应用到一些特定领域，比如工厂或医院。比如，工厂里可能会用机器人搬运货物，医院里可能会用机器人送药。但这些机器人不会突然出现在你的生活中。\n\n**总结来说**  \n现在看到的机器人技术还处于早期阶段。就像当年我们刚用上电脑时，功能简单、价格昂贵。现在的机器人也差不多，还不知道什么时候才能变得像我们身边的普通电器一样方便。所以，别期待很快就能用上智能机器人帮你做各种事，还得再等些年。",
-      "summarized_at": "2026-10-15T13:13:25.032Z",
+      "ai_summary": "## AI机器人进步不会马上改变生活\n\n### 人形机器人进展缓慢\n- 最近网上出现一个像人的机器人，白色身体黑色头和上半身，但别指望它能帮你做家务或出门买东西。科学家们一直在研究这种机器人，它们现在还不太灵活，遇到简单问题就会卡壳。\n- 想象一下，现在超市里的收银员机器人虽然能扫码，但遇到商品放错位置就抓狂。这种机器人离能独立生活还早着呢。\n\n### AI需要更多改进\n- 现在的AI就像刚学会走路的宝宝，能做简单任务但还不会自己思考。比如它能认出一张脸，但不知道怎么帮你做饭。\n- 科学家们还在研究如何让AI更聪明，就像教孩子做数学题一样，需要大量练习。目前AI做复杂事情还像人在玩拼图游戏，经常拼错。\n\n### 生活变化需要时间\n- 过去十年我们用的手机、电脑变化很大，但机器人进步没那么快。就像当年电视很新奇，现在只是家庭电器一样，机器人也需要时间成为生活必需品。\n- 现在的机器人更多出现在工厂或实验室，就像以前的电脑只用于计算，现在才变成智能手机。完全融入生活至少还要等十年以上。\n\n### 关键信息\n- 人形机器人目前还不会独立工作，遇到简单问题就会出错。\n- AI需要更多学习和训练才能更智能。\n- 机器人普及需要时间，别指望马上就有机器人帮你做家务。\n- 未来机器人会慢慢进入生活，但不会像手机那样突然出现。",
+      "summarized_at": "2026-10-16T13:07:30.483Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1792069972596_0",
+      "id": "github_1792156023738_0",
       "title": "NationalSecurityAgency / ghidra",
       "summary": "Ghidra is a software reverse engineering (SRE) framework",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-15T13:12:52.596Z",
-      "likes": 88217,
+      "published_at": "2026-10-16T13:07:03.738Z",
+      "likes": 89311,
       "tags": [
         "github",
         "open-source",
         "trending",
         "java"
       ],
-      "ai_summary": "## Ghidra是什么？\n\n想象一下，你拿到一个不认识的玩具，想知道它是怎么做出来的。Ghidra就是一个能帮你拆解电子产品、软件的\"工具箱\"。它叫做\"逆向工程\"，就像侦探查案一样，通过研究别人的作品来了解内部构造。\n\n### 核心功能\n- **软件拆解**：能打开各种软件，看懂它们的\"操作步骤\"（代码）\n- **安全检测**：找出软件里的\"安全漏洞\"，比如窗户没关严\n- **代码翻译**：把别人的\"隐藏代码\"翻译成人类能看懂的语言\n\n### 为什么火？\n\nGitHub上很多人都在用，说明这个工具很有用：\n- **免费好用**：就像买手机时附送的说明书，不用花钱\n- **功能强大**：能分析Windows、Linux等各种系统的软件\n- **更新快**：开发团队经常改进工具，就像手机系统不断升级\n\n### 生活中的例子\n如果有人给你一个加密的密信，Ghidra就像万能钥匙，能帮你解开秘密。比如：\n- 警察用它能查到黑客的作案路径\n- 软件公司用它改进自家产品的安全性\n- 学生用它学习别人怎么写代码\n\n简单来说，Ghidra就是一个\"软件侦探\"，帮你揭开科技产品背后的秘密。",
-      "summarized_at": "2026-10-15T13:13:24.339Z",
+      "ai_summary": "## Ghidra 是什么？\n\n想象一下你拿到一个不熟悉的电子设备，想知道里面是怎么工作的。Ghidra 就像是一款超级侦探软件，能帮你拆开这个设备，弄清楚它的内部结构和运作方式。它是一款专门用来“逆向工程”的工具，简单说，就是通过分析软件或硬件，找出它的设计原理和代码逻辑。\n\n### 逆向工程就像解谜\n\n比如你拿到一个别人写的程序，但不知道它是怎么实现的。Ghidra 就能像侦探一样，一步步分析程序的代码，找出其中的算法和功能。就像你看到别人做蛋糕，但不知道配方，用 Ghidra 就能反推出蛋糕是怎么做出来的。\n\n### 谁在使用 Ghidra？\n\n这个工具主要由美国国家安全局（NSA）开发，他们用它来分析其他国家的软件，确保没有隐藏的危险功能。不过现在这个工具已经开源，很多安全研究人员、黑客，甚至学生都在用。\n\n### 为什么这么受欢迎？\n\n- **功能强大**：能分析各种类型的软件，包括 Windows、Linux、macOS 的程序。\n- **免费开源**：不用花钱，任何人都可以下载使用。\n- **容易上手**：虽然有深度功能，但基本操作很简单，就像用电脑时学会快捷键一样。\n\n总之，Ghidra 就是一把能帮你拆解软件“黑盒子”的瑞士军刀，适合对计算机原理感兴趣的人使用。",
+      "summarized_at": "2026-10-16T13:07:30.324Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1792069972597_1",
+      "id": "github_1792156023739_1",
       "title": "gitleaks / gitleaks",
       "summary": "Find secrets with Gitleaks 🔑",
       "url": "https://github.com/gitleaks/gitleaks",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-15T13:12:52.597Z",
-      "likes": 29952,
+      "published_at": "2026-10-16T13:07:03.739Z",
+      "likes": 29999,
       "tags": [
         "github",
         "open-source",
         "trending",
         "go"
       ],
-      "ai_summary": "## Gitleaks：帮你找出代码里的秘密\n\n想象一下，你在整理房间时发现一张写满了密码的纸条。这就像你在看别人家的代码时，不小心看到了不该公开的密码或重要信息。Gitleaks 就是个专门帮你找这些\"纸条\"的小工具。\n\n### 它是怎么工作的？\n- GitHub 上很多开发者都在用，说明挺有用的\n- 能自动扫描代码仓库，找出隐藏的秘密信息\n- 比如 GitHub 上的代码、用户名、密码等\n- 像个侦探一样，帮你发现那些不小心留下的\"纸条\"\n\n### 为什么重要？\n- 代码仓库就像你的家，藏着很多秘密\n- 如果别人能随便看，你的密码、账号都可能被盗\n- Gitleaks 帮你提前发现，别让秘密外泄\n- 就像你检查门锁，确保小偷进不去\n\n### 怎么用？\n- 开发者把 Gitleaks 加到自己的代码检查流程中\n- 每次提交代码前自动检查\n- 发现秘密就马上提醒你：\"这里有个密码！\"\n- 这样你就不会无意中泄露重要信息\n\n总之，Gitleaks 就是个帮你保护代码仓库安全的工具。就像家里装个防盗门，防止外人偷看你的秘密。用上它，你的代码会更安全！",
-      "summarized_at": "2026-10-15T13:13:36.115Z",
+      "ai_summary": "## Gitleaks：帮你找出代码里的\"秘密\"\n\n想象一下，你在一个大公司工作，突然发现同事电脑里的工资条不小心放到了共享文件里。如果有人看到了，那可就麻烦了！Gitleaks就像公司里的\"保密警察\"，专门在代码仓库里找这种不该公开的\"秘密\"信息。\n\n### 它是怎么工作的？\n\n- 把代码仓库当成一个办公室\n- 寻找像是\"工资条\"这样的敏感信息（比如密码、账号）\n- 发现后就像警报一样提醒大家\n\n### 为什么重要？\n\n现在很多公司都把代码存放在GitHub这样的地方，但如果代码里混着身份证号、银行卡密码这些\"秘密\"，别人一克隆代码就能偷走你的信息。Gitleaks就是来帮忙的，防止这种事情发生。\n\n### 使用场景\n\n- 开发者写完代码提交前，让Gitleaks先检查\n- 公司定期扫描代码库，看看有没有漏掉的秘密\n\n比如，你写了个小工具，不小心把家里的门禁卡密码写进了代码里。别人用这个工具，就能随便进你家！Gitleaks就能在提交前发现这个问题。\n\n总之，Gitleaks就是个代码里的\"保密警察\"，帮你防止泄露身份证号、银行卡密码这些\"秘密\"，保护你的隐私和安全。",
+      "summarized_at": "2026-10-16T13:07:35.620Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1792069972598_2",
-      "title": "microsoft / playwright",
-      "summary": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
-      "url": "https://github.com/microsoft/playwright",
+      "id": "github_1792156023739_2",
+      "title": "NVIDIA / cutlass",
+      "summary": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
+      "url": "https://github.com/NVIDIA/cutlass",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-15T13:12:52.598Z",
-      "likes": 97769,
+      "published_at": "2026-10-16T13:07:03.739Z",
+      "likes": 10600,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "typescript"
+        "c++"
       ],
-      "ai_summary": "## Playwright是个啥？\n\n想象一下，你要检查一家新开的餐厅是不是真的好吃。你会怎么做？可能先看看网上评价，再自己去尝一尝。Playwright就是类似的东西，但它检查的不是餐厅，而是网站。它是一个工具，能自动帮你测试网站是不是正常工作。\n\n### 简单说\n\n- Playwright是个自动测试网站的工具。\n- 它就像一个机器人，能帮你点点网页上的按钮，看看页面会不会出错。\n- 以前要测试网站，可能需要写不同的代码给Chrome、Firefox等浏览器，现在Playwright用一个代码就能搞定。\n\n### 怎么工作的？\n\n- 网站就像一座房子，要检查房子有没有问题，得进去看看。\n- Playwright就像个小侦探，能进入Chrome、Firefox、WebKit这些网页的“房子”里。\n- 它用统一的指令（API），让不同浏览器都能听懂。\n\n### 为什么好用？\n\n- 开发者不用重复写多个测试代码。\n- 测试结果更全面，因为能同时检查多个浏览器。\n- 修网站的时候，能快速发现哪里有问题，省时省力。\n\n总之，Playwright是个方便的工具，让测试网站变得像检查餐厅一样简单。",
-      "summarized_at": "2026-10-15T13:13:31.770Z",
+      "ai_summary": "## 简单易懂的线性代数工具\n\n### 核心功能\n这个工具就像一个超级计算器，专门帮程序员处理数学计算，特别是那种需要大量加减乘除的线性代数问题。它支持两种用法：一种是直接用C++代码写计算逻辑，另一种是用类似写Python代码的方式定义计算过程。\n\n### 为什么实用\n- **速度快**：用C++写能跑得特别快，因为直接操作电脑的GPU（就是显卡里的计算核心）\n- **容易上手**：用Python写更简单，像搭积木一样定义计算步骤\n- **通用性强**：能用在各种需要数学计算的场景，比如机器学习、图像处理等\n\n### 适合谁用\n- **程序员**：想用GPU加速计算但又不想写太复杂的代码\n- **学生**：做科研需要大量数学计算，但编程基础不够\n- **企业**：开发需要高性能计算的应用\n\n### 生活中的例子\n想象一下你要算全班同学的身高平均值。用普通方法一个一个数太慢，但用这个工具就像把全班同学排成一排，让GPU瞬间把所有人的身高加起来再除以人数，几秒钟就出结果。同样，处理图片、识别语音这些复杂任务，也能用这个工具让电脑跑得更快。\n\n### 关键点\n- 用C++或Python两种方式编写计算逻辑\n- 专为线性代数设计，特别适合机器学习等领域\n- 能充分利用显卡性能，计算速度比普通电脑快很多",
+      "summarized_at": "2026-10-16T13:07:35.892Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1792069972598_3",
-      "title": "InvoicePlane / InvoicePlane",
-      "summary": "A self-hosted open source application for managing your invoices, clients and payments.",
-      "url": "https://github.com/InvoicePlane/InvoicePlane",
+      "id": "github_1792156023740_3",
+      "title": "FreeRTOS / FreeRTOS-Kernel",
+      "summary": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-15T13:12:52.598Z",
-      "likes": 3191,
+      "published_at": "2026-10-16T13:07:03.740Z",
+      "likes": 4577,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "php"
+        "c"
       ],
-      "ai_summary": "## InvoicePlane是个好工具\n\n### 它是做什么的？\n\nInvoicePlane就像一个超级管家，专门帮你管理账单、客户和收款。想象一下，你要开公司，每天要跟客户打交道，收钱、发账单，是不是很麻烦？InvoicePlane就能帮你搞定这些。\n\n### 它有什么用？\n\n- **管理客户**：就像记账本一样，把所有客户信息都记下来，方便查找。\n- **发账单**：自己设计电子账单，客户一看就明白该付多少钱。\n- **收钱**：客户可以直接在线付款，你不用再等他们送钱来。\n- **免费使用**：因为是开源软件，谁都可以拿去用，不用花钱。\n\n### 为什么推荐？\n\n- **自己当老板**：不用花钱买软件，自己部署就行，省下一大笔钱。\n- **简单方便**：操作界面就像手机APP，一看就会，不用学复杂的东西。\n- **安全可靠**：数据都存在自己电脑上，不用担心被别人偷走。\n\n### 怎么用？\n\n- 先在自己的电脑或服务器上安装这个软件。\n- 输入客户信息、账单金额，一气呵成。\n- 客户收到电子账单，点击链接付款就行。\n\n总之，InvoicePlane是个好帮手，适合小公司或个人自由职业者，能帮你省心省力。",
-      "summarized_at": "2026-10-15T13:13:44.236Z",
+      "ai_summary": "## FreeRTOS 核心文件分享\n\n### 核心内容\nFreeRTOS 是一个专门给嵌入式设备用的操作系统，就像手机里的安卓或iOS，但它是给小机器用的。这个系统有个核心部分，就是FreeRTOS kernel，可以把它想象成设备的\"大脑\"，负责安排任务谁先做、资源怎么分。\n\nGitHub上有个仓库叫FreeRTOS，里面存了所有的FreeRTOS代码。但这个分享只包含核心文件，就像教科书只给重点知识点，其他内容需要另外找。这些核心文件被放进了FreeRTOS主仓库和其他一些仓库里，方便大家用。\n\n### 用生活例子理解\n想象一下家里有一个人（主进程），他需要安排其他人干活（子进程）。FreeRTOS就像个聪明管家，让每个人按顺序工作不冲突。比如做饭的先做，浇花的后做，还能管好厨房的锅碗瓢盆（资源管理）。\n\n### 关键信息\n- FreeRTOS核心文件单独分享，方便开发者直接用\n- 已包含在FreeRTOS主仓库和其他相关项目中\n- 适合想快速搭建嵌入式系统的人\n- 不包含完整代码，只有核心部分\n\n这个分享让想学嵌入式开发的网友省事了，不用自己筛选代码，直接拿核心部分开始学。就像买菜时，超市把菜根、菜叶分开卖，方便对不同需求的人。",
+      "summarized_at": "2026-10-16T13:07:41.533Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1792069972599_4",
-      "title": "academic / awesome-datascience",
-      "summary": "📝 An awesome Data Science repository to learn and apply for real world problems.",
-      "url": "https://github.com/academic/awesome-datascience",
+      "id": "github_1792156023741_4",
+      "title": "PowerShell / PowerShell",
+      "summary": "PowerShell for every system!",
+      "url": "https://github.com/PowerShell/PowerShell",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-15T13:12:52.599Z",
-      "likes": 30167,
+      "published_at": "2026-10-16T13:07:03.741Z",
+      "likes": 55768,
       "tags": [
         "github",
         "open-source",
-        "trending"
+        "trending",
+        "c#"
       ],
-      "ai_summary": "## GitHub上的宝藏项目：学数据科学的实用宝库\n\n### 项目简介\n这个GitHub项目叫\"academic / awesome-datascience\"，是专门给想学数据科学的人准备的。它就像一个开满鲜花的花园，里面种满了各种实用的工具和案例，让大家能轻松解决生活中的各种难题。\n\n### 为什么这么棒\n- **像学做菜一样学数据分析**：数据科学就像做菜，这个项目教你如何用各种\"调料\"（数据）做出美味的\"菜品\"（结果）。比如你想知道小区哪家早餐店最好吃，就能用这里的方法分析用户评价和销量。\n- **真实案例接地气**：项目里的例子都是现实生活中的问题，比如分析社交媒体数据找流行趋势、用销售数据预测未来销量等。不像教科书那么枯燥，更像侦探破案一样刺激。\n- **工具箱丰富**：这里像是工具箱，里面有各种现成的\"工具\"（代码模板），不管是小白还是老手都能找到合适的。比如想分析网站流量，直接套用模板就能看到结果。\n- **人人都能学会**：不需要太多数学基础，只要懂一点点电脑操作，就能跟着做。就像学骑自行车，先看教程再实践，很快就上手了。\n\n### 核心价值\n这个项目最大的特点就是\"实用\"。它把复杂的数据科学变简单，让大家能快速上手解决实际问题。不管你是学生想找实习，还是老板想分析数据，这里都有用不完的资源。就像去超市购物，这里专门摆放着大家都需要的\"商品\"。",
-      "summarized_at": "2026-10-15T13:13:44.979Z",
+      "ai_summary": "## PowerShell是系统的好帮手\n\nPowerShell就像是电脑的\"万能遥控器\"，能帮你轻松管理各种设备。想象一下家里有电视、空调、音响，你想用一部遥控器控制它们，是不是很方便？PowerShell就是给电脑系统设计的这种遥控器。\n\n### 它能做什么？\n- **管理电脑**：就像给电脑做全身按摩，让它运行更顺畅\n- **自动化任务**：比如自动整理文件、定时开关机，就像让电脑自己收拾房间\n- **处理数据**：能像Excel一样处理大量信息，帮人快速找到需要的内容\n- **连接网络**：就像电脑的\"外交官\"，能和不同设备沟通\n\n### 为什么受欢迎？\n1. **简单易懂**：用日常语言就能指挥电脑，就像用中文和人对话\n2. **功能强大**：能做各种复杂操作，但指令却像日常说话一样简单\n3. **免费使用**：不用花钱，就像免费游戏一样好玩\n\n### 适合谁？\n- **普通用户**：想自己修理电脑问题，就像自己修自行车\n- **程序员**：需要快速开发工具，就像用乐高盖房子\n- **公司员工**：管理大量电脑，就像超市管货架\n\n总之，PowerShell就像电脑的\"万能胶水\"，能把各种系统粘合在一起，让电脑世界变得更简单有趣。",
+      "summarized_at": "2026-10-16T13:07:41.491Z",
       "summary_status": "success"
     }
   ]
