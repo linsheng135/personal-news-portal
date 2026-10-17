@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-17T12:04:49.699Z",
+    "date": "2026-10-17",
+    "items_count": 7,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1792238635039",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c...",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-16T18:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "## 人工智能设计病毒的新闻总结\n\n### 人工智能可以创造生命吗？\n\n- 最近，斯坦福大学一名博士生用人工智能创造了一种微型病毒的基因设计图。\n- 这不是真正的生命，但就像用电脑程序设计出新的玩具模型一样，展示了人工智能在生物领域的潜力。\n- 想象一下，你用积木搭一个简单的小车，人工智能就是自动帮你搭出更多种类的玩具车，但这次是生物的基因设计。\n\n### 病毒设计的过程\n\n- 这个博士生用了一种“生成式AI”，就像用手机里的图片生成器，输入一些要求就能做出各种图片。\n- 他输入病毒的基本要求，AI就自动设计了类似病毒的基因蓝图。\n- 这就像你让画师画一幅画，告诉他画什么样子，画师就会根据你的要求画出不同的作品。\n\n### 人工智能与生物技术\n\n- 虽然现在还没创造出真正的病毒，但这个实验表明，AI可以帮忙设计生物。\n- 未来可能用类似方法设计出新的药物或治疗方法，就像用电脑设计新药一样。\n- 但也有人说这样会带来风险，毕竟人类还没完全理解病毒和AI的关系。\n\n### 未來的展望\n\n- 这个技术还处于初级阶段，就像刚学会用电脑绘图的小朋友，画出来的东西可能还不太完美。\n- 但随着技术发展，未来AI可能设计出更复杂的生物，就像电脑绘图慢慢进步一样。\n- 现在科学家们正在讨论如何安全地发展这项技术，确保不会造成危险。",
+      "summarized_at": "2026-10-17T12:04:02.780Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1792238635040",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-08T09:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "## 人形机器人不会马上改变生活\n\n- **机器人还不太智能**  \n  媒体最近报道了一个像人一样的机器人，穿着白衣服、黑色头和身体，在视频里出现。但它其实不太聪明，更多是展示技术进步，就像以前电视里那种只能做简单动作的机器人一样。\n\n- **离真正的生活帮助还很远**  \n  这个机器人还不能帮你做家务或出门买东西。现在的AI（人工智能）还达不到让机器人完全独立工作的程度，比如自己做饭、开车这些活儿，它们还做不了。\n\n- **需要时间积累**  \n  就像当年手机刚出来时功能很少，现在才变得这么方便。机器人也需要时间慢慢进步，可能要很多年才能做到像科幻电影里那样会思考、会帮忙的样子。\n\n- **目前更多是展示**  \n  现在的机器人更多是给人们看，想让大家觉得科技进步了，但离真正融入生活还有距离。就像车展上那些炫酷的汽车，现在买回家可能还不够实用。\n\n- **生活改变需要慢慢来**  \n  别太着急想拥有智能机器人管家，这需要技术积累和很多钱投入。未来可能需要几十年，甚至更久，现在的机器人还帮不上忙。",
+      "summarized_at": "2026-10-17T12:04:17.070Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792238637238_0",
+      "title": "yt-dlp / yt-dlp",
+      "summary": "A feature-rich command-line audio/video downloader",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-17T12:03:57.238Z",
+      "likes": 198718,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "# yt-dlp 下载工具简介\n\n## 什么是 yt-dlp？\n\nyt-dlp 就像手机上的视频下载App，但它是电脑上的命令行工具。简单说，它能在网上帮你下载各种视频和音频。跟普通的下载工具不同，它能下载 YouTube、Bilibili 等网站上的内容。\n\n## 怎么用？\n\n你需要在电脑上输入一些指令，比如`yt-dlp \"视频链接\"`，就能自动把视频下载到电脑里。不需要登录账号，也不用担心版权问题，只要链接是公开的，就能下载。\n\n## 优点多又多\n\n- **支持各种网站**：不管是 YouTube 还是其他视频网站，它都能搞定。\n- **下载速度快**：比普通下载工具快很多，尤其下载大视频时。\n- **省内存省流量**：它会智能判断需要下载哪些数据，不会浪费你的网络和存储空间。\n- **操作简单**：虽然是用命令行，但基本指令就几个，新手也能快速上手。\n\n## 适合谁用？\n\n如果你经常需要下载视频，比如存电视节目、学习视频，yt-dlp 是个好帮手。不需要复杂设置，直接把链接粘贴进去就能搞定。",
+      "summarized_at": "2026-10-17T12:04:27.568Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792238637239_1",
+      "title": "gitleaks / gitleaks",
+      "summary": "Find secrets with Gitleaks 🔑",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-17T12:03:57.239Z",
+      "likes": 30060,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "## Gitleaks帮你查找代码里的秘密\n\n想象一下，你在整理一个超级重要的家宴食谱，结果发现里面不小心写上了你家保险箱的密码。这多吓人啊！Gitleaks就是专门帮你找出代码仓库里这些“密码”的工具。\n\n### 它是怎么工作的？\n\n- **读取代码**：就像你在翻看所有食材清单一样，Gitleaks会逐行检查你的代码，寻找那些不该公开的信息，比如密码、钥匙、身份证号等。\n- **智能识别**：它特别擅长找那些像“保险箱密码”这样的秘密。比如，有些程序员喜欢把数据库密码直接写在代码里，Gitleaks就能一眼发现。\n- **实时提醒**：如果你不小心把密码写进版本控制（就像把食谱发到网上），Gitleaks能立刻报警，提醒你：“嘿，你好像把密码放错了地方！”\n\n### 为什么它很重要？\n\n- **防止泄露**：现在很多公司都把代码存放在GitHub上，如果密码不小心泄露，黑客就能直接进入你的数据库，造成大麻烦。\n- **提高安全**：Gitleaks就像你的家庭安保系统，帮你提前发现并解决问题，避免后患无穷。\n\n### 怎么使用？\n\n- **安装**：只需要几分钟，就能在你的开发工具里装上这个“秘密猎人”。\n- **扫描**：每次提交代码前，让它帮你检查一遍，确保没有“家宴食谱”级别的错误。\n\n总之，Gitleaks是个超级实用的工具，能帮你轻松找到代码里的“危险品”，保护你的信息安全。",
+      "summarized_at": "2026-10-17T12:04:35.519Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792238637240_2",
+      "title": "juce-framework / JUCE",
+      "summary": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "url": "https://github.com/juce-framework/JUCE",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-17T12:03:57.240Z",
+      "likes": 8979,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "# JUCE框架：一个多功能的软件开发工具\n\n## 什么是JUCE？\n\nJUCE就像一个超级工具箱，专门帮助程序员开发电脑和手机上的各种应用程序。它是一个用C++语言编写的开放源代码框架，意味着任何人都可以免费使用和修改它。JUCE的核心特点是可以跨平台运行，也就是说，用它能开发出既能在Windows电脑上运行，也能在Mac或iOS设备上使用的应用程序。\n\n## JUCE能做什么？\n\n- **开发各种应用**：无论是音乐制作软件、视频编辑工具，还是简单的计算器或游戏，JUCE都能帮助程序员快速实现想法。\n- **音频插件支持**：JUCE特别擅长处理声音相关的功能，支持多种音频插件格式，包括VST、VST3、AU、AUv3、LV2和AAX。这些插件就像乐高积木，音乐制作人可以用它们创建各种音效，比如让吉他发出电音效果或让合成器发出特殊的声音。\n- **跨平台优势**：想象一下，你用JUCE开发的应用可以轻松地在Windows、Mac和手机上运行，而不需要为每个平台重新编写代码。\n\n## 为什么选择JUCE？\n\n- **开发效率高**：JUCE提供了丰富的功能和预制工具，程序员不需要从零开始，可以节省大量时间。\n- **社区支持强大**：因为JUCE是开源的，全球有众多开发者在使用和贡献，遇到问题时很容易找到解决方案。\n- **适合音乐爱好者**：如果你对音乐制作感兴趣，JUCE能让你轻松开发出音乐相关的软件，比如音频编辑器或效果器。\n\n总之，JUCE是一个灵活且强大的工具，适合各种类型的软件开发，特别是对于想要开发音乐相关应用的人来说，它提供了极大的便利。",
+      "summarized_at": "2026-10-17T12:04:36.619Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792238637240_3",
+      "title": "calcom / cal.diy",
+      "summary": "Scheduling infrastructure for absolutely everyone.",
+      "url": "https://github.com/calcom/cal.diy",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-17T12:03:57.240Z",
+      "likes": 49097,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "## Calcom / Cal.diy 简单说\n\n这个项目是给所有人用的排班工具，操作超级简单。\n\n### 怎么用的？\n就像你平时用日历一样，把工作、会议安排在上面，别人一看就知道你什么时候有空。不用复杂的软件，直接在网页上就能搞定。\n\n### 谁能用？\n不管是团队开会、公司排班，还是朋友约饭，都能用。比如，你在公司用这个安排会议，同事点一下就能看到你的日程，不用发几十条消息问\"你几点有空\"。\n\n### 有什么好处？\n- **简单**：不用学就能用，就像用微信发消息一样方便\n- **实时更新**：你改了排班，别人马上就看到\n- **免费**：不需要花钱，公司和个人都能用\n\n### 适合什么样的人？\n- 小团队想省事排会议\n- 自己创业，想快速安排客户时间\n- 家里想约亲戚吃饭，不用抢时间\n\n### 为什么热门？\n现在大家用手机多，这个工具就像给手机加了个\"时间管理\"功能，不用下载App，直接在浏览器打开就行。特别适合远程工作的人，不用一个个发消息问时间，直接看排班表就懂了。\n\n总的来说，这个工具就像给所有人配了个\"时间翻译器\"，让大家都能看懂别人的空闲时间，省去很多磨破嘴皮的时间。",
+      "summarized_at": "2026-10-17T12:04:42.701Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792238637241_4",
+      "title": "nlohmann / json",
+      "summary": "JSON for Modern C++",
+      "url": "https://github.com/nlohmann/json",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-17T12:03:57.241Z",
+      "likes": 50767,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "## nlohmann/json：让C++玩转JSON的简单工具\n\n### 什么是JSON？\n想象一下，你用手机和电脑上的各种App交流，这些App之间需要传递信息，比如你的名字、年龄等。这些信息就像一封封\"信\"，而JSON就是一种标准的\"信件格式\"。它用类似英语的语法，把各种信息打包成键值对的形式，比如{\"名字\":\"小明\",\"年龄\":20}，这样不同系统就能轻松读懂。\n\n### 为什么C++需要JSON？\nC++是一种功能强大的编程语言，但处理JSON信息时有点麻烦，就像用锤子钉钉子——虽然能行，但不够方便。nlohmann/json就是为此设计的\"专用工具\"，它能帮C++开发者快速读写JSON，就像买了电动螺丝刀，一下子让编程变得简单多了。\n\n### 核心功能\n- **简单易用**：就像搭乐高，几行代码就能搞定JSON读写\n- **自动转换**：C++数据直接变成JSON，JSON也能变回C++数据\n- **错误处理**：就像GPS导航会提醒你路线错误，它也能告诉你JSON哪里有问题\n\n### 为什么它受欢迎？\nGitHub Trending推荐它，说明很多C++开发者都在用。就像菜市场里卖得最好的菜，因为它方便实用。它让C++处理网页数据（比如用户信息）、配置文件（比如程序设置）都变得超级简单。\n\n### 使用场景\n- 开发网站后端，处理用户提交的数据\n- 设置程序配置，存取各种参数\n- 交换API数据，让C++程序能和Python、JavaScript等语言通信\n\n总之，nlohmann/json就像给C++配了个\"翻译器\"，让这个语言也能轻松处理现代网络数据，现在很多C++项目都在用它。",
+      "summarized_at": "2026-10-17T12:04:49.698Z",
+      "summary_status": "success"
+    }
+  ]
+}
