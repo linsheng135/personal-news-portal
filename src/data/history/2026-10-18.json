@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-18T12:32:35.640Z",
+    "date": "2026-10-18",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1792326709582",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds....",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-08T09:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "## 机器人技术还在发展，离我们普通人还远\n\n- **标题解释**：最近有很多关于机器人技术的新闻，比如一个像人形、白底黑头的机器人，但这个突破不会很快影响到我们日常生活。\n\n- **发展现状**：科学家们确实在机器人领域取得了进步，比如让机器人更灵活、更像人。就像以前扫地机器人只能转圈，现在能规划路线避开障碍。但这些还只是实验室里的新技术，离我们买东西、做饭、聊天还差得远。\n\n- **生活中的例子**：想象一下，现在想让机器人帮忙做家务，可能只会拖地，但还不会帮你炒菜。这些新机器人像刚学会骑自行车的小孩，虽然进步了，但离熟练师傅还差得远。\n\n- **时间线**：专家说，这些技术至少还需要几年甚至更长时间才能普及。就像智能手机刚出来时很笨重，现在才变得小巧轻便。机器人也是一样，需要多积累经验才能变得更实用。\n\n- **关键信息**：机器人技术的突破是好事，但别指望它们马上就出现在每个家庭。目前这些技术还处于早期阶段，就像种子还没长成大树。我们可以期待未来，但也要有耐心。",
+      "summarized_at": "2026-10-18T12:32:12.661Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792326711210_0",
+      "title": "juce-framework / JUCE",
+      "summary": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "url": "https://github.com/juce-framework/JUCE",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-18T12:31:51.210Z",
+      "likes": 9005,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "## JUCE是个啥？\n\nJUCE就像一个全能的瑞士军刀，专门帮程序员开发电脑和手机上的各种应用，比如音乐软件、视频编辑工具等等。它是个免费的开源工具，意思是谁都能用，还能大家一起改进。\n\n### 跨平台小能手\n\n想象一下，你用同样的手机和电脑软件，界面和功能都一模一样，这就是JUCE的厉害之处。它能让程序员用一套代码，就能同时开发出适用于Windows、macOS、iOS、Android等各种系统的应用，省去了重复劳动的麻烦。\n\n### 音乐制作人的好帮手\n\nJUCE特别适合做音乐相关的软件，因为它支持各种音乐插件格式，比如VST、VST3、AU、AUv3、LV2和AAX。这些插件就像乐高积木，音乐人可以像搭积木一样，把各种音效、合成器、效果器组合在一起，创造出独一无二的音效。有了JUCE，音乐软件的开发变得简单又强大。\n\n### 开发者省心工具\n\n对程序员来说，JUCE就像个一站式解决方案。它提供了丰富的工具和功能，比如界面设计、音频处理、实时控制等等，让开发者不用从零开始，就能快速做出高质量的应用。这就像有了全套的厨房用具，做饭就变得轻松多了。\n\n总的来说，JUCE是个强大又免费的跨平台开发工具，特别适合音乐软件和创意应用的开发，让程序员省心，让用户受益。",
+      "summarized_at": "2026-10-18T12:32:14.515Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792326711211_1",
+      "title": "ImranR98 / Obtainium",
+      "summary": "Get Android app updates straight from the source.",
+      "url": "https://github.com/ImranR98/Obtainium",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-18T12:31:51.211Z",
+      "likes": 20528,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "dart"
+      ],
+      "ai_summary": "## ImranR98 / Obtainium 简介\n\nImranR98 / Obtainium 是一个在 GitHub 上很受欢迎的工具，主要帮 Android 手机用户直接从软件原始出处获取更新。简单说，就像你平时买水果，有的摊子直接从果园进货，有的是从超市转运。这个工具就是让你直接从\"果园\"（软件开发商）那里拿更新，不用绕路。\n\n### 核心功能\n\n- **直接获取更新**：不用等应用商店的统一推送，可以直接从开发者那里拿最新版本\n- **源代码下载**：除了安装包，还能下载开发者的原始代码，适合喜欢研究的朋友\n- **自动提醒功能**：就像你装了天气预报APP，它会自动通知你软件有新更新\n\n### 适合人群\n\n- **开发者**：想快速测试最新软件版本\n- **普通用户**：讨厌应用商店卡顿，想快速安装最新版\n- **隐私爱好者**：因为绕过了中间商（如Google），数据传输更直接\n\n### 使用场景\n\n假设你想升级手机上的某个游戏。通常做法是：打开应用商店 → 搜索游戏 → 点击更新。但用这个工具，你可以直接访问游戏官网或开发者的特殊渠道，一步到位完成更新。如果游戏出了重大版本，普通用户可能要等几天才能在应用商店看到，但用这个工具可能当天就能用上新版本。\n\n特别适合喜欢尝鲜的朋友，比如刚发布的小游戏或测试版APP。就像零食店总是比超市多几种新口味，这个工具就是你的\"零食店\"，总能比普通用户早一步尝到软件界的\"新口味的零食\"。\n\n### 注意事项\n\n- 因为直接从源头拿更新，某些地区可能因网络政策无法使用\n- 不支持所有APP，主要针对开源项目\n- 比普通更新方式多一步操作，但省时省力\n\n总而言之，这个工具就像开了个\"直通果园\"的通道，让你能比普通用户更快、更直接地尝到软件界的\"最新鲜果实\"。",
+      "summarized_at": "2026-10-18T12:32:23.630Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792326711212_2",
+      "title": "bobeff / open-source-games",
+      "summary": "A list of open source games.",
+      "url": "https://github.com/bobeff/open-source-games",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-18T12:31:51.212Z",
+      "likes": 16063,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "## 开源游戏列表大公开\n\nGitHub Trending最近推出了一份很酷的东西，叫做\"bobeff / open-source-games\"，简单来说就是一堆可以免费玩、还能随意修改的游戏。就像你买了个乐高玩具，不仅能自己玩，还能拆开来重新拼，或者跟朋友一起改进它。\n\n### 为什么要玩开源游戏？\n\n- **免费畅玩**：不需要花钱，就像去公园玩一样，谁都能进。\n- **自由修改**：游戏开发者会公开游戏的所有代码（就像公开菜谱），你可以根据自己的喜好改改造型，或者加个新功能。比如你发现某个游戏画面有点卡，可以自己动手优化一下。\n- **学习机会**：对于想学编程的人，这些游戏就像一本现成的教科书，可以边玩边学，比如你会明白游戏是怎么让角色动起来的。\n\n### 这些游戏都长啥样？\n\n里面有很多种游戏，有冒险的、有解谜的、还有可以创造自己的世界的，就像小时候玩的泥巴游戏，可以随心所欲。有些游戏虽然简单，但特别好玩，比如一个叫\"Cube World\"的，画面是小小的方块，但可以造很多很多东西。\n\n### 谁适合玩？\n\n- **游戏爱好者**：想找点新游戏玩，又不想花钱。\n- **编程新手**：想学编程，但不知道从哪开始。\n- **创意达人**：喜欢自己动手改游戏，让游戏变得独一无二。\n\n总之，这份开源游戏列表就像一个游戏大杂烩，不管你是想玩、想学还是想创，都能找到适合你的游戏。而且因为是开源的，以后还会不断有新游戏加进来，就像自助餐，总有新菜让你惊喜。",
+      "summarized_at": "2026-10-18T12:32:21.502Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792326711213_3",
+      "title": "Heroic-Games-Launcher / HeroicGamesLauncher",
+      "summary": "A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.",
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-18T12:31:51.213Z",
+      "likes": 12450,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "## Heroic-Games-Launcher：游戏启动器的多面手\n\n### 它是什么？\nHeroic-Games-Launcher就像一个\"游戏入口管家\"，专门帮你打开电脑上的游戏。它不是某个特定游戏，而是能同时连接三大游戏平台：GOG、亚马逊和Epic Games。简单说，它就像一个万能遥控器，能控制不同品牌的游戏机。\n\n### 三个平台的统一入口\n- **GOG**：相当于一家卖独立游戏的超市\n- **亚马逊**：另一个卖游戏的电商平台\n- **Epic Games**：自家带的电竞训练基地\n\n以前你要打开不同平台的游戏，得像用三个不同遥控器，现在只要一个Heroic就能搞定。\n\n### 支持所有操作系统\n不管你是Windows、macOS还是Linux用户，这个启动器都能用。就像手机系统不统一，但手机壳能通用的道理。\n\n### 为什么受欢迎？\n- **省事**：不用在多个平台间反复切换\n- **更新合一**：游戏更新自动同步，不用单独管理\n- **特别照顾Linux用户**：很多Linux玩家玩游戏不方便，这个启动器让Linux也能玩大作\n\n### 生活中的比喻\n想象一下，你有很多朋友住在不同小区：\n- GOG小区：独立游戏\n- 亚马逊小区：商业游戏\n- Epic Games小区：自家游戏\n\n以前你要去每个小区买票进门，现在Heroic给你一张万能通行证，直接带你逛所有小区。\n\n### 核心优势\n- **跨平台**：像支付宝支持所有手机系统\n- **小体积**：启动器不占地方，像轻便的旅行背包\n- **社区维护**：不断更新，像游戏一直在升级\n\n总之，Heroic-Games-Launcher就是游戏玩家的一站式服务大厅，省时省力还能玩更多游戏。",
+      "summarized_at": "2026-10-18T12:32:35.639Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792326711213_4",
+      "title": "TechnitiumSoftware / DnsServer",
+      "summary": "Technitium DNS Server",
+      "url": "https://github.com/TechnitiumSoftware/DnsServer",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-18T12:31:51.213Z",
+      "likes": 10147,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c#"
+      ],
+      "ai_summary": "# Technitium DNS Server 通俗解释\n\n## 什么是 DNS 服务器？\n\n想象一下，你要去朋友的房子玩，但只记得他家门牌号，不知道具体在哪个小区。这时，你需要一个地图或者导航系统帮你找到。DNS 服务器就像互联网上的导航系统，它把网址（比如 www.google.com）转换成电脑能识别的 IP 地址（比如 172.217.160.142）。\n\n## Technitium DNS Server 是什么？\n\nTechnitium DNS Server 是一款开源的 DNS 服务器软件，可以让电脑或网络设备更方便地管理网址和 IP 地址的转换。它就像一个自助服务台，让你自己设置规则，决定哪些网址由谁访问。\n\n## 为什么它受欢迎？\n\n- **简单易用**：就像用地图导航一样，设置简单，小白也能快速上手。\n- **功能全面**：既能做普通 DNS 服务器，还能处理更复杂的网络问题，比如防止恶意访问。\n- **开源免费**：任何人都可以免费使用和修改，就像共享单车一样方便。\n- **安全可靠**：能帮你过滤掉不安全的网站，就像保安帮你筛选访客一样。\n\n## 适合谁用？\n\n如果你家里有多台电脑，或者想自己管理网络，Technitium DNS Server 就像自己的小管家，帮你省心。它特别适合喜欢自己动手设置网络环境的人，就像自己装修房子一样，能完全掌控。",
+      "summarized_at": "2026-10-18T12:32:33.355Z",
+      "summary_status": "success"
+    }
+  ]
+}
