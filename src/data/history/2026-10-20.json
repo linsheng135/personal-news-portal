@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-20T13:27:00.830Z",
+    "date": "2026-10-20",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1792502808218",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were...",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-19T09:08:05.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《AI researchers stranded Claude on a virtual desert island. It started to “play.”》的主要内容是：What do AI agents do if you don’t tell them to do anything。The answer looks a lot like play。Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone。（来源：arXiv.org）",
+      "summarized_at": "2026-10-20T13:26:56.402Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792502810183_0",
+      "title": "bobeff / open-source-games",
+      "summary": "A list of open source games.",
+      "url": "https://github.com/bobeff/open-source-games",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-20T13:26:50.184Z",
+      "likes": 16671,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《bobeff / open-source-games》的主要内容是：A list of open source games。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-20T13:26:56.395Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792502810184_1",
+      "title": "f / prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-20T13:26:50.184Z",
+      "likes": 173642,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "html"
+      ],
+      "ai_summary": "《f / prompts.chat》的主要内容是：f。k。a。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-20T13:26:58.616Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792502810185_2",
+      "title": "ImranR98 / Obtainium",
+      "summary": "Get Android app updates straight from the source.",
+      "url": "https://github.com/ImranR98/Obtainium",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-20T13:26:50.185Z",
+      "likes": 20651,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "dart"
+      ],
+      "ai_summary": "《ImranR98 / Obtainium》的主要内容是：Get Android app updates straight from the source。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-20T13:26:58.615Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792502810185_3",
+      "title": "astroautomata / PySR",
+      "summary": "Symbolic Learning in Python and Julia",
+      "url": "https://github.com/astroautomata/PySR",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-20T13:26:50.185Z",
+      "likes": 4022,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《astroautomata / PySR》的主要内容是：Symbolic Learning in Python and Julia。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-20T13:27:00.828Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792502810186_4",
+      "title": "apache / airflow",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-20T13:26:50.186Z",
+      "likes": 47227,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《apache / airflow》的主要内容是：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-20T13:27:00.829Z",
+      "summary_status": "success"
+    }
+  ]
+}
