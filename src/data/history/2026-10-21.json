@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-21T13:36:41.677Z",
+    "date": "2026-10-21",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1792589788901",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio...",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-19T17:45:55.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《“We were looking at it wrong”: The explosive claim that’s upended the AI world》的主要内容是：“I think I have good news about the nature of neural networks。” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio。（来源：arXiv.org）",
+      "summarized_at": "2026-10-21T13:36:37.294Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792589790543_0",
+      "title": "supabase / supabase",
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "url": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-21T13:36:30.543Z",
+      "likes": 112654,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《supabase / supabase》的主要内容是：The Postgres development platform。Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-21T13:36:37.291Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792589790544_1",
+      "title": "apache / airflow",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-21T13:36:30.544Z",
+      "likes": 47241,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《apache / airflow》的主要内容是：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-21T13:36:39.484Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792589790544_2",
+      "title": "NVIDIA / Megatron-LM",
+      "summary": "Ongoing research training transformer models at scale",
+      "url": "https://github.com/NVIDIA/Megatron-LM",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-21T13:36:30.544Z",
+      "likes": 18226,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《NVIDIA / Megatron-LM》的主要内容是：Ongoing research training transformer models at scale。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-21T13:36:39.483Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792589790544_3",
+      "title": "mikeroyal / Self-Hosting-Guide",
+      "summary": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-21T13:36:30.544Z",
+      "likes": 23202,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "dockerfile"
+      ],
+      "ai_summary": "《mikeroyal / Self-Hosting-Guide》的主要内容是：Self-Hosting Guide。Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization。Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-21T13:36:41.676Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792589790545_4",
+      "title": "apache / doris",
+      "summary": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+      "url": "https://github.com/apache/doris",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-21T13:36:30.545Z",
+      "likes": 16108,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "java"
+      ],
+      "ai_summary": "《apache / doris》的主要内容是：Apache Doris is a real-time analytics and hybrid search database for AI agents。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-21T13:36:41.674Z",
+      "summary_status": "success"
+    }
+  ]
+}
