@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-22T13:38:39.752Z",
+    "date": "2026-10-22",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1792676305698",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar...",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-20T09:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《A visit to Samsung’s massive new semiconductor hub》的主要内容是：Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor。To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea。Three fabs already operate ar。（来源：arXiv.org）",
+      "summarized_at": "2026-10-22T13:38:35.271Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792676308013_0",
+      "title": "supabase / supabase",
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "url": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-22T13:38:28.013Z",
+      "likes": 113299,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《supabase / supabase》的主要内容是：The Postgres development platform。Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-22T13:38:35.270Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792676308015_1",
+      "title": "Z4nzu / hackingtool",
+      "summary": "ALL IN ONE Hacking Tool For Hackers",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-22T13:38:28.015Z",
+      "likes": 81243,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《Z4nzu / hackingtool》的主要内容是：ALL IN ONE Hacking Tool For Hackers。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-22T13:38:37.509Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792676308015_2",
+      "title": "nautechsystems / nautilus_trader",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-22T13:38:28.015Z",
+      "likes": 30588,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《nautechsystems / nautilus_trader》的主要内容是：Production-grade Rust-native trading engine with deterministic event-driven architecture。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-22T13:38:37.511Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792676308016_3",
+      "title": "vitejs / vite",
+      "summary": "Next generation frontend tooling. It's fast!",
+      "url": "https://github.com/vitejs/vite",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-22T13:38:28.016Z",
+      "likes": 83448,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《vitejs / vite》的主要内容是：Next generation frontend tooling。It's fast。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-22T13:38:39.751Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792676308017_4",
+      "title": "electron / electron",
+      "summary": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "url": "https://github.com/electron/electron",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-22T13:38:28.017Z",
+      "likes": 123471,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《electron / electron》的主要内容是：Build cross-platform desktop apps with JavaScript, HTML, and CSS。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-22T13:38:39.750Z",
+      "summary_status": "success"
+    }
+  ]
+}
