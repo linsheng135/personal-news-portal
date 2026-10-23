@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-22T13:38:39.751Z",
+    "generated_at": "2026-10-23T13:14:32.659Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,41 @@
   },
   "data": [
     {
-      "id": "arxiv_1792676305698",
+      "id": "arxiv_1792761258812",
+      "title": "Designing an AI serving harness built to last",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,...",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-22T21:17:29.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Designing an AI serving harness built to last》的主要内容是：The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it。That’s an important shift。For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,。（来源：arXiv.org）",
+      "summarized_at": "2026-10-23T13:14:23.699Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1792761258813",
+      "title": "The Foundations of Scalable AI",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-22T18:48:04.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《The Foundations of Scalable AI》的主要内容是：A scalable AI system requires a strong foundation。Data, engineering, platforms, operating models, and governance must converge to work as one。This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how。（来源：arXiv.org）",
+      "summarized_at": "2026-10-23T13:14:23.698Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1792761258813",
       "title": "Making the case for context-aware AI",
       "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies...",
       "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -25,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Making the case for context-aware AI》的主要内容是：Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster。But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one。As companies。（来源：arXiv.org）",
-      "summarized_at": "2026-10-22T13:38:30.764Z",
+      "summarized_at": "2026-10-23T13:14:25.938Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792676305698",
+      "id": "arxiv_1792761258813",
       "title": "AI’s hidden storage bill: What inference leaves behind",
       "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ...",
       "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
@@ -42,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《AI’s hidden storage bill: What inference leaves behind》的主要内容是：Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon。But that picture leaves something out: Data storage costs。What happens to data after a model responds。（来源：arXiv.org）",
-      "summarized_at": "2026-10-22T13:38:30.756Z",
+      "summarized_at": "2026-10-23T13:14:25.939Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792676305698",
+      "id": "arxiv_1792761258813",
       "title": "The new economics of enterprise AI",
       "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “ho...",
       "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
@@ -59,52 +93,37 @@
         "academic"
       ],
       "ai_summary": "《The new economics of enterprise AI》的主要内容是：Imagine your company just discovered electricity。At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious。But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it。（来源：arXiv.org）",
-      "summarized_at": "2026-10-22T13:38:33.004Z",
+      "summarized_at": "2026-10-23T13:14:28.180Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792676305698",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre...",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "source": "arXiv.org",
+      "id": "github_1792761260883_0",
+      "title": "projectdiscovery / nuclei-templates",
+      "summary": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+      "url": "https://github.com/projectdiscovery/nuclei-templates",
+      "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-20T12:00:00.000Z",
+      "published_at": "2026-10-23T13:14:20.883Z",
+      "likes": 13191,
       "tags": [
-        "research",
-        "ai-papers",
-        "academic"
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
       ],
-      "ai_summary": "《AI adoption by industry shows what other sectors can learn》的主要内容是：The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley。But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line。As generative AI and automation tools mature, the shifts curre。（来源：arXiv.org）",
-      "summarized_at": "2026-10-22T13:38:33.005Z",
+      "ai_summary": "《projectdiscovery / nuclei-templates》的主要内容是：Community curated list of templates for the nuclei engine to find security vulnerabilities。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-23T13:14:28.178Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792676305698",
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar...",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-20T09:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《A visit to Samsung’s massive new semiconductor hub》的主要内容是：Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor。To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea。Three fabs already operate ar。（来源：arXiv.org）",
-      "summarized_at": "2026-10-22T13:38:35.271Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1792676308013_0",
+      "id": "github_1792761260884_1",
       "title": "supabase / supabase",
       "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-22T13:38:28.013Z",
-      "likes": 113299,
+      "published_at": "2026-10-23T13:14:20.884Z",
+      "likes": 113692,
       "tags": [
         "github",
         "open-source",
@@ -112,56 +131,56 @@
         "typescript"
       ],
       "ai_summary": "《supabase / supabase》的主要内容是：The Postgres development platform。Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-22T13:38:35.270Z",
+      "summarized_at": "2026-10-23T13:14:30.419Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1792676308015_1",
-      "title": "Z4nzu / hackingtool",
-      "summary": "ALL IN ONE Hacking Tool For Hackers",
-      "url": "https://github.com/Z4nzu/hackingtool",
+      "id": "github_1792761260884_2",
+      "title": "aquasecurity / trivy",
+      "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "url": "https://github.com/aquasecurity/trivy",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-22T13:38:28.015Z",
-      "likes": 81243,
+      "published_at": "2026-10-23T13:14:20.884Z",
+      "likes": 38654,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "python"
+        "go"
       ],
-      "ai_summary": "《Z4nzu / hackingtool》的主要内容是：ALL IN ONE Hacking Tool For Hackers。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-22T13:38:37.509Z",
+      "ai_summary": "《aquasecurity / trivy》的主要内容是：Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-23T13:14:30.417Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1792676308015_2",
-      "title": "nautechsystems / nautilus_trader",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "id": "github_1792761260885_3",
+      "title": "mailcow / mailcow-dockerized",
+      "summary": "mailcow: dockerized - 🐮 + 🐋 = 💕",
+      "url": "https://github.com/mailcow/mailcow-dockerized",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-22T13:38:28.015Z",
-      "likes": 30588,
+      "published_at": "2026-10-23T13:14:20.885Z",
+      "likes": 13666,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "rust"
+        "javascript"
       ],
-      "ai_summary": "《nautechsystems / nautilus_trader》的主要内容是：Production-grade Rust-native trading engine with deterministic event-driven architecture。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-22T13:38:37.511Z",
+      "ai_summary": "《mailcow / mailcow-dockerized》的主要内容是：mailcow: dockerized - 🐮 + 🐋 = 💕。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-23T13:14:32.659Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1792676308016_3",
+      "id": "github_1792761260885_4",
       "title": "vitejs / vite",
       "summary": "Next generation frontend tooling. It's fast!",
       "url": "https://github.com/vitejs/vite",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-22T13:38:28.016Z",
-      "likes": 83448,
+      "published_at": "2026-10-23T13:14:20.885Z",
+      "likes": 83477,
       "tags": [
         "github",
         "open-source",
@@ -169,26 +188,7 @@
         "typescript"
       ],
       "ai_summary": "《vitejs / vite》的主要内容是：Next generation frontend tooling。It's fast。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-22T13:38:39.751Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1792676308017_4",
-      "title": "electron / electron",
-      "summary": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "url": "https://github.com/electron/electron",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-10-22T13:38:28.017Z",
-      "likes": 123471,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "c++"
-      ],
-      "ai_summary": "《electron / electron》的主要内容是：Build cross-platform desktop apps with JavaScript, HTML, and CSS。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-22T13:38:39.750Z",
+      "summarized_at": "2026-10-23T13:14:32.657Z",
       "summary_status": "success"
     }
   ]

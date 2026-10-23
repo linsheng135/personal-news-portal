@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-23T13:14:32.659Z",
+    "date": "2026-10-23",
+    "items_count": 7,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1792761258812",
+      "title": "Designing an AI serving harness built to last",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,...",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-22T21:17:29.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Designing an AI serving harness built to last》的主要内容是：The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it。That’s an important shift。For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,。（来源：arXiv.org）",
+      "summarized_at": "2026-10-23T13:14:23.699Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1792761258813",
+      "title": "The new economics of enterprise AI",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “ho...",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-20T15:20:25.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《The new economics of enterprise AI》的主要内容是：Imagine your company just discovered electricity。At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious。But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it。（来源：arXiv.org）",
+      "summarized_at": "2026-10-23T13:14:28.180Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792761260883_0",
+      "title": "projectdiscovery / nuclei-templates",
+      "summary": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+      "url": "https://github.com/projectdiscovery/nuclei-templates",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-23T13:14:20.883Z",
+      "likes": 13191,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《projectdiscovery / nuclei-templates》的主要内容是：Community curated list of templates for the nuclei engine to find security vulnerabilities。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-23T13:14:28.178Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792761260884_1",
+      "title": "supabase / supabase",
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "url": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-23T13:14:20.884Z",
+      "likes": 113692,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《supabase / supabase》的主要内容是：The Postgres development platform。Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-23T13:14:30.419Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792761260884_2",
+      "title": "aquasecurity / trivy",
+      "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "url": "https://github.com/aquasecurity/trivy",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-23T13:14:20.884Z",
+      "likes": 38654,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《aquasecurity / trivy》的主要内容是：Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-23T13:14:30.417Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792761260885_3",
+      "title": "mailcow / mailcow-dockerized",
+      "summary": "mailcow: dockerized - 🐮 + 🐋 = 💕",
+      "url": "https://github.com/mailcow/mailcow-dockerized",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-23T13:14:20.885Z",
+      "likes": 13666,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《mailcow / mailcow-dockerized》的主要内容是：mailcow: dockerized - 🐮 + 🐋 = 💕。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-23T13:14:32.659Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1792761260885_4",
+      "title": "vitejs / vite",
+      "summary": "Next generation frontend tooling. It's fast!",
+      "url": "https://github.com/vitejs/vite",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-23T13:14:20.885Z",
+      "likes": 83477,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《vitejs / vite》的主要内容是：Next generation frontend tooling。It's fast。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-23T13:14:32.657Z",
+      "summary_status": "success"
+    }
+  ]
+}
