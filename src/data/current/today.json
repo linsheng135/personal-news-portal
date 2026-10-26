@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-25T13:05:04.859Z",
+    "generated_at": "2026-10-26T15:00:17.307Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,24 @@
   },
   "data": [
     {
-      "id": "arxiv_1792933492742",
+      "id": "arxiv_1793026804711",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th...",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-26T09:01:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《The focus on AI safety disasters ignores everyday harms》的主要内容是：Consider what passes for success in technology policy。An AI company promises that its chatbot will not encourage suicide。A social media platform makes it more difficult for children to buy fentanyl。（来源：arXiv.org）",
+      "summarized_at": "2026-10-26T15:00:08.389Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1793026804711",
       "title": "Designing an AI serving harness built to last",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,...",
       "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
@@ -25,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《Designing an AI serving harness built to last》的主要内容是：The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it。That’s an important shift。For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,。（来源：arXiv.org）",
-      "summarized_at": "2026-10-25T13:04:56.120Z",
+      "summarized_at": "2026-10-26T15:00:08.414Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792933492742",
+      "id": "arxiv_1793026804711",
       "title": "The Foundations of Scalable AI",
       "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
       "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
@@ -42,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《The Foundations of Scalable AI》的主要内容是：A scalable AI system requires a strong foundation。Data, engineering, platforms, operating models, and governance must converge to work as one。This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how。（来源：arXiv.org）",
-      "summarized_at": "2026-10-25T13:04:56.111Z",
+      "summarized_at": "2026-10-26T15:00:10.632Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792933492742",
+      "id": "arxiv_1793026804711",
       "title": "Making the case for context-aware AI",
       "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies...",
       "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -59,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《Making the case for context-aware AI》的主要内容是：Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster。But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one。As companies。（来源：arXiv.org）",
-      "summarized_at": "2026-10-25T13:04:58.306Z",
+      "summarized_at": "2026-10-26T15:00:10.632Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792933492742",
+      "id": "arxiv_1793026804711",
       "title": "AI’s hidden storage bill: What inference leaves behind",
       "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ...",
       "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
@@ -76,92 +93,18 @@
         "academic"
       ],
       "ai_summary": "《AI’s hidden storage bill: What inference leaves behind》的主要内容是：Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon。But that picture leaves something out: Data storage costs。What happens to data after a model responds。（来源：arXiv.org）",
-      "summarized_at": "2026-10-25T13:04:58.298Z",
+      "summarized_at": "2026-10-26T15:00:12.851Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1792933492742",
-      "title": "The new economics of enterprise AI",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “ho...",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-20T15:20:25.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《The new economics of enterprise AI》的主要内容是：Imagine your company just discovered electricity。At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious。But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it。（来源：arXiv.org）",
-      "summarized_at": "2026-10-25T13:05:00.490Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1792933494452_0",
-      "title": "coollabsio / coolify",
-      "summary": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
-      "url": "https://github.com/coollabsio/coolify",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-10-25T13:04:54.452Z",
-      "likes": 63882,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "php"
-      ],
-      "ai_summary": "《coollabsio / coolify》的主要内容是：An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-25T13:05:00.483Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1792933494453_1",
-      "title": "f / prompts.chat",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "url": "https://github.com/f/prompts.chat",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-10-25T13:04:54.453Z",
-      "likes": 174475,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "html"
-      ],
-      "ai_summary": "《f / prompts.chat》的主要内容是：f。k。a。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-25T13:05:02.675Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1792933494453_2",
-      "title": "PostHog / posthog",
-      "summary": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "url": "https://github.com/PostHog/posthog",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-10-25T13:04:54.453Z",
-      "likes": 40427,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "python"
-      ],
-      "ai_summary": "《PostHog / posthog》的主要内容是：🦔 PostHog is the leading platform for building self-driving products。Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes。Steer it all from Slack, web, desktop, or the MCP。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-25T13:05:02.667Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1792933494453_3",
+      "id": "github_1793026806736_0",
       "title": "calcom / cal.diy",
       "summary": "Scheduling infrastructure for absolutely everyone.",
       "url": "https://github.com/calcom/cal.diy",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-25T13:04:54.453Z",
-      "likes": 49336,
+      "published_at": "2026-10-26T15:00:06.736Z",
+      "likes": 49393,
       "tags": [
         "github",
         "open-source",
@@ -169,26 +112,83 @@
         "typescript"
       ],
       "ai_summary": "《calcom / cal.diy》的主要内容是：Scheduling infrastructure for absolutely everyone。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-25T13:05:04.859Z",
+      "summarized_at": "2026-10-26T15:00:12.847Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1792933494454_4",
-      "title": "nocodb / nocodb",
-      "summary": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative",
-      "url": "https://github.com/nocodb/nocodb",
+      "id": "github_1793026806737_1",
+      "title": "coollabsio / coolify",
+      "summary": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "url": "https://github.com/coollabsio/coolify",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-25T13:04:54.454Z",
-      "likes": 65353,
+      "published_at": "2026-10-26T15:00:06.737Z",
+      "likes": 64893,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "php"
+      ],
+      "ai_summary": "《coollabsio / coolify》的主要内容是：An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-26T15:00:15.087Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793026806737_2",
+      "title": "rustdesk / rustdesk",
+      "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-26T15:00:06.737Z",
+      "likes": 127133,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《rustdesk / rustdesk》的主要内容是：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-26T15:00:15.066Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793026806737_3",
+      "title": "laurent22 / joplin",
+      "summary": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+      "url": "https://github.com/laurent22/joplin",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-26T15:00:06.737Z",
+      "likes": 56879,
       "tags": [
         "github",
         "open-source",
         "trending",
         "typescript"
       ],
-      "ai_summary": "《nocodb / nocodb》的主要内容是：🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-25T13:05:04.853Z",
+      "ai_summary": "《laurent22 / joplin》的主要内容是：Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-26T15:00:17.307Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793026806738_4",
+      "title": "ente / ente",
+      "summary": "💚 End-to-end encrypted cloud for everything.",
+      "url": "https://github.com/ente/ente",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-26T15:00:06.738Z",
+      "likes": 29612,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "dart"
+      ],
+      "ai_summary": "《ente / ente》的主要内容是：💚 End-to-end encrypted cloud for everything。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-26T15:00:17.304Z",
       "summary_status": "success"
     }
   ]

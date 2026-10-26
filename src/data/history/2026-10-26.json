@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-26T15:00:17.308Z",
+    "date": "2026-10-26",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1793026804711",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ...",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-22T08:41:18.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《AI’s hidden storage bill: What inference leaves behind》的主要内容是：Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon。But that picture leaves something out: Data storage costs。What happens to data after a model responds。（来源：arXiv.org）",
+      "summarized_at": "2026-10-26T15:00:12.851Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793026806736_0",
+      "title": "calcom / cal.diy",
+      "summary": "Scheduling infrastructure for absolutely everyone.",
+      "url": "https://github.com/calcom/cal.diy",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-26T15:00:06.736Z",
+      "likes": 49393,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《calcom / cal.diy》的主要内容是：Scheduling infrastructure for absolutely everyone。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-26T15:00:12.847Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793026806737_1",
+      "title": "coollabsio / coolify",
+      "summary": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "url": "https://github.com/coollabsio/coolify",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-26T15:00:06.737Z",
+      "likes": 64893,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "php"
+      ],
+      "ai_summary": "《coollabsio / coolify》的主要内容是：An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-26T15:00:15.087Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793026806737_2",
+      "title": "rustdesk / rustdesk",
+      "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-26T15:00:06.737Z",
+      "likes": 127133,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《rustdesk / rustdesk》的主要内容是：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-26T15:00:15.066Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793026806737_3",
+      "title": "laurent22 / joplin",
+      "summary": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+      "url": "https://github.com/laurent22/joplin",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-26T15:00:06.737Z",
+      "likes": 56879,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《laurent22 / joplin》的主要内容是：Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-26T15:00:17.307Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793026806738_4",
+      "title": "ente / ente",
+      "summary": "💚 End-to-end encrypted cloud for everything.",
+      "url": "https://github.com/ente/ente",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-26T15:00:06.738Z",
+      "likes": 29612,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "dart"
+      ],
+      "ai_summary": "《ente / ente》的主要内容是：💚 End-to-end encrypted cloud for everything。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-26T15:00:17.304Z",
+      "summary_status": "success"
+    }
+  ]
+}
