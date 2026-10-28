@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-27T14:13:33.885Z",
+    "generated_at": "2026-10-28T14:58:41.155Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,24 @@
   },
   "data": [
     {
-      "id": "arxiv_1793110400496",
+      "id": "arxiv_1793199506152",
+      "title": "Pairing industrial AI autonomy and human control",
+      "summary": "AI research paper from arXiv...",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-28T12:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Pairing industrial AI autonomy and human control》的主要内容是：AI research paper from arXiv。（来源：arXiv.org）",
+      "summarized_at": "2026-10-28T14:58:32.374Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1793199506152",
       "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
       "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w...",
       "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
@@ -25,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《Industrial Intelligence: The next growth opportunity for manufacturing》的主要内容是：Every manufacturer has its own industrial intelligence。Some is documented, and some resides in the knowledge of experienced workers。Consider an experienced operator preparing to restart a line after a changeover。（来源：arXiv.org）",
-      "summarized_at": "2026-10-27T14:13:24.924Z",
+      "summarized_at": "2026-10-28T14:58:32.379Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793110400496",
+      "id": "arxiv_1793199506152",
       "title": "Will the real Anthropic please stand up",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u...",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
@@ -42,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Will the real Anthropic please stand up》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。After weeks of frenzied speculation, Anthropic has filed its IPO prospectus。（来源：arXiv.org）",
-      "summarized_at": "2026-10-27T14:13:24.922Z",
+      "summarized_at": "2026-10-28T14:58:34.573Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793110400496",
+      "id": "arxiv_1793199506152",
       "title": "The focus on AI safety disasters ignores everyday harms",
       "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th...",
       "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
@@ -59,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《The focus on AI safety disasters ignores everyday harms》的主要内容是：Consider what passes for success in technology policy。An AI company promises that its chatbot will not encourage suicide。A social media platform makes it more difficult for children to buy fentanyl。（来源：arXiv.org）",
-      "summarized_at": "2026-10-27T14:13:27.164Z",
+      "summarized_at": "2026-10-28T14:58:34.573Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793110400496",
+      "id": "arxiv_1793199506152",
       "title": "Designing an AI serving harness built to last",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,...",
       "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
@@ -76,54 +93,18 @@
         "academic"
       ],
       "ai_summary": "《Designing an AI serving harness built to last》的主要内容是：The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it。That’s an important shift。For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,。（来源：arXiv.org）",
-      "summarized_at": "2026-10-27T14:13:27.165Z",
+      "summarized_at": "2026-10-28T14:58:36.766Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793110400496",
-      "title": "The Foundations of Scalable AI",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-22T18:48:04.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《The Foundations of Scalable AI》的主要内容是：A scalable AI system requires a strong foundation。Data, engineering, platforms, operating models, and governance must converge to work as one。This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how。（来源：arXiv.org）",
-      "summarized_at": "2026-10-27T14:13:29.404Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793110402188_0",
-      "title": "coollabsio / coolify",
-      "summary": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
-      "url": "https://github.com/coollabsio/coolify",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-10-27T14:13:22.188Z",
-      "likes": 65021,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "php"
-      ],
-      "ai_summary": "《coollabsio / coolify》的主要内容是：An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-27T14:13:29.404Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793110402189_1",
+      "id": "github_1793199508693_0",
       "title": "SimplifyJobs / Summer2027-Internships",
       "summary": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
       "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-27T14:13:22.189Z",
-      "likes": 48180,
+      "published_at": "2026-10-28T14:58:28.694Z",
+      "likes": 48206,
       "tags": [
         "github",
         "open-source",
@@ -131,64 +112,83 @@
         "python"
       ],
       "ai_summary": "《SimplifyJobs / Summer2027-Internships》的主要内容是：Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings。Updated daily by Simplify and Pitt CSC。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-27T14:13:31.644Z",
+      "summarized_at": "2026-10-28T14:58:36.767Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793110402190_2",
-      "title": "VictoriaMetrics / VictoriaMetrics",
-      "summary": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
-      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "id": "github_1793199508694_1",
+      "title": "n8n-io / n8n",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-27T14:13:22.190Z",
-      "likes": 17913,
+      "published_at": "2026-10-28T14:58:28.694Z",
+      "likes": 208872,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "go"
+        "typescript"
       ],
-      "ai_summary": "《VictoriaMetrics / VictoriaMetrics》的主要内容是：VictoriaMetrics: fast, cost-effective monitoring solution and time series database。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-27T14:13:31.645Z",
+      "ai_summary": "《n8n-io / n8n》的主要内容是：Fair-code workflow automation platform with native AI capabilities。Combine visual building with custom code, self-host or cloud, 400+ integrations。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-28T14:58:38.962Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793110402191_3",
-      "title": "neovim / neovim",
-      "summary": "Vim-fork focused on extensibility and usability",
-      "url": "https://github.com/neovim/neovim",
+      "id": "github_1793199508695_2",
+      "title": "datahub-project / datahub",
+      "summary": "The Context Platform for your Data and AI Stack",
+      "url": "https://github.com/datahub-project/datahub",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-27T14:13:22.191Z",
-      "likes": 103203,
+      "published_at": "2026-10-28T14:58:28.695Z",
+      "likes": 12913,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "vim script"
+        "python"
       ],
-      "ai_summary": "《neovim / neovim》的主要内容是：Vim-fork focused on extensibility and usability。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-27T14:13:33.885Z",
+      "ai_summary": "《datahub-project / datahub》的主要内容是：The Context Platform for your Data and AI Stack。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-28T14:58:38.962Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793110402192_4",
-      "title": "rustdesk / rustdesk",
-      "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "url": "https://github.com/rustdesk/rustdesk",
+      "id": "github_1793199508695_3",
+      "title": "upscayl / upscayl",
+      "summary": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "url": "https://github.com/upscayl/upscayl",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-27T14:13:22.192Z",
-      "likes": 127250,
+      "published_at": "2026-10-28T14:58:28.695Z",
+      "likes": 51213,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "rust"
+        "typescript"
       ],
-      "ai_summary": "《rustdesk / rustdesk》的主要内容是：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-27T14:13:33.884Z",
+      "ai_summary": "《upscayl / upscayl》的主要内容是：🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-28T14:58:41.154Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793199508695_4",
+      "title": "ripienaar / free-for-dev",
+      "summary": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-28T14:58:28.695Z",
+      "likes": 140280,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "html"
+      ],
+      "ai_summary": "《ripienaar / free-for-dev》的主要内容是：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-28T14:58:41.155Z",
       "summary_status": "success"
     }
   ]

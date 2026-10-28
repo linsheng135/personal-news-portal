@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-28T14:58:41.156Z",
+    "date": "2026-10-28",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1793199506152",
+      "title": "Designing an AI serving harness built to last",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,...",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-22T21:17:29.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Designing an AI serving harness built to last》的主要内容是：The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it。That’s an important shift。For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,。（来源：arXiv.org）",
+      "summarized_at": "2026-10-28T14:58:36.766Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793199508693_0",
+      "title": "SimplifyJobs / Summer2027-Internships",
+      "summary": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-28T14:58:28.694Z",
+      "likes": 48206,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《SimplifyJobs / Summer2027-Internships》的主要内容是：Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings。Updated daily by Simplify and Pitt CSC。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-28T14:58:36.767Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793199508694_1",
+      "title": "n8n-io / n8n",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-28T14:58:28.694Z",
+      "likes": 208872,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《n8n-io / n8n》的主要内容是：Fair-code workflow automation platform with native AI capabilities。Combine visual building with custom code, self-host or cloud, 400+ integrations。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-28T14:58:38.962Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793199508695_2",
+      "title": "datahub-project / datahub",
+      "summary": "The Context Platform for your Data and AI Stack",
+      "url": "https://github.com/datahub-project/datahub",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-28T14:58:28.695Z",
+      "likes": 12913,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《datahub-project / datahub》的主要内容是：The Context Platform for your Data and AI Stack。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-28T14:58:38.962Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793199508695_3",
+      "title": "upscayl / upscayl",
+      "summary": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "url": "https://github.com/upscayl/upscayl",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-28T14:58:28.695Z",
+      "likes": 51213,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《upscayl / upscayl》的主要内容是：🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-28T14:58:41.154Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793199508695_4",
+      "title": "ripienaar / free-for-dev",
+      "summary": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-28T14:58:28.695Z",
+      "likes": 140280,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "html"
+      ],
+      "ai_summary": "《ripienaar / free-for-dev》的主要内容是：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-28T14:58:41.155Z",
+      "summary_status": "success"
+    }
+  ]
+}
