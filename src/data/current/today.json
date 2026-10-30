@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-29T15:04:24.669Z",
+    "generated_at": "2026-10-30T14:57:12.953Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1793286251179",
+      "id": "arxiv_1793372218247",
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus...",
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -25,11 +25,11 @@
         "academic"
       ],
       "ai_summary": "《We urgently need to monitor AI agents’ actions in real time》的主要内容是：This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test。They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded。Around the same time, another OpenAI agent accessed private files from an Aus。（来源：arXiv.org）",
-      "summarized_at": "2026-10-29T15:04:15.789Z",
+      "summarized_at": "2026-10-30T14:57:04.194Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793286251179",
+      "id": "arxiv_1793372218247",
       "title": "Creating AI value with enterprise context",
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc...",
       "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
@@ -42,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《Creating AI value with enterprise context》的主要内容是：Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools。Each one is sophisticated, advanced, and quick to respond。But, when set to work, the outc。（来源：arXiv.org）",
-      "summarized_at": "2026-10-29T15:04:15.800Z",
+      "summarized_at": "2026-10-30T14:57:04.203Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793286251179",
+      "id": "arxiv_1793372218247",
       "title": "Pairing industrial AI autonomy and human control",
       "summary": "AI research paper from arXiv...",
       "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
@@ -59,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Pairing industrial AI autonomy and human control》的主要内容是：AI research paper from arXiv。（来源：arXiv.org）",
-      "summarized_at": "2026-10-29T15:04:18.017Z",
+      "summarized_at": "2026-10-30T14:57:06.390Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793286251179",
+      "id": "arxiv_1793372218247",
       "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
       "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w...",
       "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
@@ -76,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《Industrial Intelligence: The next growth opportunity for manufacturing》的主要内容是：Every manufacturer has its own industrial intelligence。Some is documented, and some resides in the knowledge of experienced workers。Consider an experienced operator preparing to restart a line after a changeover。（来源：arXiv.org）",
-      "summarized_at": "2026-10-29T15:04:18.012Z",
+      "summarized_at": "2026-10-30T14:57:06.388Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793286251179",
+      "id": "arxiv_1793372218247",
       "title": "Will the real Anthropic please stand up",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u...",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
@@ -93,37 +93,37 @@
         "academic"
       ],
       "ai_summary": "《Will the real Anthropic please stand up》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。After weeks of frenzied speculation, Anthropic has filed its IPO prospectus。（来源：arXiv.org）",
-      "summarized_at": "2026-10-29T15:04:20.236Z",
+      "summarized_at": "2026-10-30T14:57:08.577Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793286253206_0",
-      "title": "microsoft / PowerToys",
-      "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "url": "https://github.com/microsoft/PowerToys",
+      "id": "github_1793372221483_0",
+      "title": "codecrafters-io / build-your-own-x",
+      "summary": "Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-29T15:04:13.206Z",
-      "likes": 140220,
+      "published_at": "2026-10-30T14:57:01.483Z",
+      "likes": 557524,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "c"
+        "markdown"
       ],
-      "ai_summary": "《microsoft / PowerToys》的主要内容是：Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-29T15:04:20.229Z",
+      "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-30T14:57:08.574Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793286253207_1",
+      "id": "github_1793372221484_1",
       "title": "ripienaar / free-for-dev",
       "summary": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-29T15:04:13.207Z",
-      "likes": 140591,
+      "published_at": "2026-10-30T14:57:01.484Z",
+      "likes": 140763,
       "tags": [
         "github",
         "open-source",
@@ -131,64 +131,64 @@
         "html"
       ],
       "ai_summary": "《ripienaar / free-for-dev》的主要内容是：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-29T15:04:22.452Z",
+      "summarized_at": "2026-10-30T14:57:10.765Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793286253207_2",
-      "title": "NationalSecurityAgency / ghidra",
-      "summary": "Ghidra is a software reverse engineering (SRE) framework",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "id": "github_1793372221485_2",
+      "title": "n8n-io / n8n",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-29T15:04:13.207Z",
-      "likes": 95749,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "java"
-      ],
-      "ai_summary": "《NationalSecurityAgency / ghidra》的主要内容是：Ghidra is a software reverse engineering (SRE) framework。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-29T15:04:22.447Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793286253207_3",
-      "title": "docker / compose",
-      "summary": "Define and run multi-container applications with Docker",
-      "url": "https://github.com/docker/compose",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-10-29T15:04:13.207Z",
-      "likes": 38533,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "go"
-      ],
-      "ai_summary": "《docker / compose》的主要内容是：Define and run multi-container applications with Docker。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-29T15:04:24.669Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793286253208_4",
-      "title": "microsoft / playwright",
-      "summary": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
-      "url": "https://github.com/microsoft/playwright",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-10-29T15:04:13.208Z",
-      "likes": 98804,
+      "published_at": "2026-10-30T14:57:01.485Z",
+      "likes": 209110,
       "tags": [
         "github",
         "open-source",
         "trending",
         "typescript"
       ],
-      "ai_summary": "《microsoft / playwright》的主要内容是：Playwright is a framework for Web Testing and Automation。It allows testing Chromium, Firefox and WebKit with a single API。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-29T15:04:24.665Z",
+      "ai_summary": "《n8n-io / n8n》的主要内容是：Fair-code workflow automation platform with native AI capabilities。Combine visual building with custom code, self-host or cloud, 400+ integrations。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-30T14:57:10.762Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793372221486_3",
+      "title": "hyprwm / Hyprland",
+      "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-30T14:57:01.486Z",
+      "likes": 39057,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《hyprwm / Hyprland》的主要内容是：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-30T14:57:12.953Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793372221486_4",
+      "title": "rustdesk / rustdesk",
+      "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-30T14:57:01.486Z",
+      "likes": 127586,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《rustdesk / rustdesk》的主要内容是：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-30T14:57:12.949Z",
       "summary_status": "success"
     }
   ]
