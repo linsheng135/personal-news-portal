@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-10-31T14:25:55.124Z",
+    "date": "2026-10-31",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1793456742702",
+      "title": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u...",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-26T17:45:43.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Will the real Anthropic please stand up》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。After weeks of frenzied speculation, Anthropic has filed its IPO prospectus。（来源：arXiv.org）",
+      "summarized_at": "2026-10-31T14:25:50.679Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793456744479_0",
+      "title": "ripienaar / free-for-dev",
+      "summary": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-31T14:25:44.479Z",
+      "likes": 140874,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "html"
+      ],
+      "ai_summary": "《ripienaar / free-for-dev》的主要内容是：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-31T14:25:50.676Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793456744481_1",
+      "title": "electron / electron",
+      "summary": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "url": "https://github.com/electron/electron",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-31T14:25:44.481Z",
+      "likes": 123662,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《electron / electron》的主要内容是：Build cross-platform desktop apps with JavaScript, HTML, and CSS。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-31T14:25:52.900Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793456744481_2",
+      "title": "paperless-ngx / paperless-ngx",
+      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-31T14:25:44.481Z",
+      "likes": 47440,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《paperless-ngx / paperless-ngx》的主要内容是：A community-supported supercharged document management system: scan, index and archive all your documents。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-31T14:25:52.899Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793456744482_3",
+      "title": "hyprwm / Hyprland",
+      "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-31T14:25:44.482Z",
+      "likes": 39087,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《hyprwm / Hyprland》的主要内容是：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-31T14:25:55.123Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793456744483_4",
+      "title": "k3s-io / k3s",
+      "summary": "Lightweight Kubernetes",
+      "url": "https://github.com/k3s-io/k3s",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-31T14:25:44.483Z",
+      "likes": 34295,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《k3s-io / k3s》的主要内容是：Lightweight Kubernetes。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-31T14:25:55.121Z",
+      "summary_status": "success"
+    }
+  ]
+}

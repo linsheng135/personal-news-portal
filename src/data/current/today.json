@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-30T14:57:12.953Z",
+    "generated_at": "2026-10-31T14:25:55.123Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1793372218247",
+      "id": "arxiv_1793456742702",
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus...",
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -25,11 +25,11 @@
         "academic"
       ],
       "ai_summary": "《We urgently need to monitor AI agents’ actions in real time》的主要内容是：This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test。They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded。Around the same time, another OpenAI agent accessed private files from an Aus。（来源：arXiv.org）",
-      "summarized_at": "2026-10-30T14:57:04.194Z",
+      "summarized_at": "2026-10-31T14:25:46.234Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793372218247",
+      "id": "arxiv_1793456742702",
       "title": "Creating AI value with enterprise context",
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc...",
       "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
@@ -42,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《Creating AI value with enterprise context》的主要内容是：Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools。Each one is sophisticated, advanced, and quick to respond。But, when set to work, the outc。（来源：arXiv.org）",
-      "summarized_at": "2026-10-30T14:57:04.203Z",
+      "summarized_at": "2026-10-31T14:25:46.221Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793372218247",
+      "id": "arxiv_1793456742702",
       "title": "Pairing industrial AI autonomy and human control",
       "summary": "AI research paper from arXiv...",
       "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
@@ -59,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Pairing industrial AI autonomy and human control》的主要内容是：AI research paper from arXiv。（来源：arXiv.org）",
-      "summarized_at": "2026-10-30T14:57:06.390Z",
+      "summarized_at": "2026-10-31T14:25:48.457Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793372218247",
+      "id": "arxiv_1793456742702",
       "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
       "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w...",
       "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
@@ -76,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《Industrial Intelligence: The next growth opportunity for manufacturing》的主要内容是：Every manufacturer has its own industrial intelligence。Some is documented, and some resides in the knowledge of experienced workers。Consider an experienced operator preparing to restart a line after a changeover。（来源：arXiv.org）",
-      "summarized_at": "2026-10-30T14:57:06.388Z",
+      "summarized_at": "2026-10-31T14:25:48.456Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793372218247",
+      "id": "arxiv_1793456742702",
       "title": "Will the real Anthropic please stand up",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u...",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
@@ -93,37 +93,18 @@
         "academic"
       ],
       "ai_summary": "《Will the real Anthropic please stand up》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。After weeks of frenzied speculation, Anthropic has filed its IPO prospectus。（来源：arXiv.org）",
-      "summarized_at": "2026-10-30T14:57:08.577Z",
+      "summarized_at": "2026-10-31T14:25:50.679Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793372221483_0",
-      "title": "codecrafters-io / build-your-own-x",
-      "summary": "Master programming by recreating your favorite technologies from scratch.",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-10-30T14:57:01.483Z",
-      "likes": 557524,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "markdown"
-      ],
-      "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-30T14:57:08.574Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793372221484_1",
+      "id": "github_1793456744479_0",
       "title": "ripienaar / free-for-dev",
       "summary": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-30T14:57:01.484Z",
-      "likes": 140763,
+      "published_at": "2026-10-31T14:25:44.479Z",
+      "likes": 140874,
       "tags": [
         "github",
         "open-source",
@@ -131,37 +112,56 @@
         "html"
       ],
       "ai_summary": "《ripienaar / free-for-dev》的主要内容是：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-30T14:57:10.765Z",
+      "summarized_at": "2026-10-31T14:25:50.676Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793372221485_2",
-      "title": "n8n-io / n8n",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "url": "https://github.com/n8n-io/n8n",
+      "id": "github_1793456744481_1",
+      "title": "electron / electron",
+      "summary": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "url": "https://github.com/electron/electron",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-30T14:57:01.485Z",
-      "likes": 209110,
+      "published_at": "2026-10-31T14:25:44.481Z",
+      "likes": 123662,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "typescript"
+        "c++"
       ],
-      "ai_summary": "《n8n-io / n8n》的主要内容是：Fair-code workflow automation platform with native AI capabilities。Combine visual building with custom code, self-host or cloud, 400+ integrations。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-30T14:57:10.762Z",
+      "ai_summary": "《electron / electron》的主要内容是：Build cross-platform desktop apps with JavaScript, HTML, and CSS。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-31T14:25:52.900Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793372221486_3",
+      "id": "github_1793456744481_2",
+      "title": "paperless-ngx / paperless-ngx",
+      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-10-31T14:25:44.481Z",
+      "likes": 47440,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《paperless-ngx / paperless-ngx》的主要内容是：A community-supported supercharged document management system: scan, index and archive all your documents。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-31T14:25:52.899Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793456744482_3",
       "title": "hyprwm / Hyprland",
       "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "url": "https://github.com/hyprwm/Hyprland",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-30T14:57:01.486Z",
-      "likes": 39057,
+      "published_at": "2026-10-31T14:25:44.482Z",
+      "likes": 39087,
       "tags": [
         "github",
         "open-source",
@@ -169,26 +169,26 @@
         "c++"
       ],
       "ai_summary": "《hyprwm / Hyprland》的主要内容是：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-30T14:57:12.953Z",
+      "summarized_at": "2026-10-31T14:25:55.123Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793372221486_4",
-      "title": "rustdesk / rustdesk",
-      "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "url": "https://github.com/rustdesk/rustdesk",
+      "id": "github_1793456744483_4",
+      "title": "k3s-io / k3s",
+      "summary": "Lightweight Kubernetes",
+      "url": "https://github.com/k3s-io/k3s",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-10-30T14:57:01.486Z",
-      "likes": 127586,
+      "published_at": "2026-10-31T14:25:44.483Z",
+      "likes": 34295,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "rust"
+        "go"
       ],
-      "ai_summary": "《rustdesk / rustdesk》的主要内容是：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer。（来源：GitHub Trending）",
-      "summarized_at": "2026-10-30T14:57:12.949Z",
+      "ai_summary": "《k3s-io / k3s》的主要内容是：Lightweight Kubernetes。（来源：GitHub Trending）",
+      "summarized_at": "2026-10-31T14:25:55.121Z",
       "summary_status": "success"
     }
   ]
