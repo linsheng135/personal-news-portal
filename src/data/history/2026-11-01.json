@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-01T14:52:36.882Z",
+    "date": "2026-11-01",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1793544742336",
+      "title": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u...",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-10-26T17:45:43.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Will the real Anthropic please stand up》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。After weeks of frenzied speculation, Anthropic has filed its IPO prospectus。（来源：arXiv.org）",
+      "summarized_at": "2026-11-01T14:52:32.392Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793544744438_0",
+      "title": "hyprwm / Hyprland",
+      "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-01T14:52:24.438Z",
+      "likes": 39192,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《hyprwm / Hyprland》的主要内容是：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-01T14:52:32.392Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793544744439_1",
+      "title": "paperless-ngx / paperless-ngx",
+      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-01T14:52:24.439Z",
+      "likes": 47503,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《paperless-ngx / paperless-ngx》的主要内容是：A community-supported supercharged document management system: scan, index and archive all your documents。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-01T14:52:34.636Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793544744440_2",
+      "title": "upscayl / upscayl",
+      "summary": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "url": "https://github.com/upscayl/upscayl",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-01T14:52:24.440Z",
+      "likes": 51559,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《upscayl / upscayl》的主要内容是：🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-01T14:52:34.636Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793544744440_3",
+      "title": "jrouwe / JoltPhysics",
+      "summary": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+      "url": "https://github.com/jrouwe/JoltPhysics",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-01T14:52:24.440Z",
+      "likes": 12091,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《jrouwe / JoltPhysics》的主要内容是：A multi core friendly rigid body physics and collision detection library。Written in C++。Suitable for games and VR applications。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-01T14:52:36.881Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793544744441_4",
+      "title": "poteto / hiring-without-whiteboards",
+      "summary": "⭐️ Companies that don't have a broken hiring process",
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-01T14:52:24.441Z",
+      "likes": 53064,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《poteto / hiring-without-whiteboards》的主要内容是：⭐️ Companies that don't have a broken hiring process。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-01T14:52:36.877Z",
+      "summary_status": "success"
+    }
+  ]
+}
