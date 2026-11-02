@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-01T14:52:36.881Z",
+    "generated_at": "2026-11-02T18:02:02.118Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,58 @@
   },
   "data": [
     {
-      "id": "arxiv_1793544742336",
+      "id": "arxiv_1793642509614",
+      "title": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit...",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-02T17:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Raising the quality of insights in agentic analytics》的主要内容是：In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization。Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights。But there is a problem: The qualit。（来源：arXiv.org）",
+      "summarized_at": "2026-11-02T18:01:53.322Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1793642509614",
+      "title": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…...",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-02T13:10:32.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Stop counting tokens, start counting what ships》的主要内容是：When a developer gives an AI agent a coding task, the agent does more than answer once。It plans, generates code, runs tests, and repeats the process to correct errors。A single task can use 10 to 50 times more tokens than a basic chat prompt。（来源：arXiv.org）",
+      "summarized_at": "2026-11-02T18:01:53.319Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1793642509614",
+      "title": "The agentic web is here",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw...",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-02T09:35:19.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《The agentic web is here》的主要内容是：In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision。Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw。（来源：arXiv.org）",
+      "summarized_at": "2026-11-02T18:01:55.511Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1793642509614",
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus...",
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -25,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《We urgently need to monitor AI agents’ actions in real time》的主要内容是：This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test。They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded。Around the same time, another OpenAI agent accessed private files from an Aus。（来源：arXiv.org）",
-      "summarized_at": "2026-11-01T14:52:27.904Z",
+      "summarized_at": "2026-11-02T18:01:55.520Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793544742336",
+      "id": "arxiv_1793642509614",
       "title": "Creating AI value with enterprise context",
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc...",
       "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
@@ -42,69 +93,18 @@
         "academic"
       ],
       "ai_summary": "《Creating AI value with enterprise context》的主要内容是：Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools。Each one is sophisticated, advanced, and quick to respond。But, when set to work, the outc。（来源：arXiv.org）",
-      "summarized_at": "2026-11-01T14:52:27.902Z",
+      "summarized_at": "2026-11-02T18:01:57.713Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793544742336",
-      "title": "Pairing industrial AI autonomy and human control",
-      "summary": "AI research paper from arXiv...",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-28T12:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Pairing industrial AI autonomy and human control》的主要内容是：AI research paper from arXiv。（来源：arXiv.org）",
-      "summarized_at": "2026-11-01T14:52:30.148Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1793544742336",
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w...",
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-27T11:19:18.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Industrial Intelligence: The next growth opportunity for manufacturing》的主要内容是：Every manufacturer has its own industrial intelligence。Some is documented, and some resides in the knowledge of experienced workers。Consider an experienced operator preparing to restart a line after a changeover。（来源：arXiv.org）",
-      "summarized_at": "2026-11-01T14:52:30.148Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1793544742336",
-      "title": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u...",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-26T17:45:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Will the real Anthropic please stand up》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。After weeks of frenzied speculation, Anthropic has filed its IPO prospectus。（来源：arXiv.org）",
-      "summarized_at": "2026-11-01T14:52:32.392Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793544744438_0",
+      "id": "github_1793642511774_0",
       "title": "hyprwm / Hyprland",
       "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "url": "https://github.com/hyprwm/Hyprland",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-01T14:52:24.438Z",
-      "likes": 39192,
+      "published_at": "2026-11-02T18:01:51.774Z",
+      "likes": 39782,
       "tags": [
         "github",
         "open-source",
@@ -112,18 +112,37 @@
         "c++"
       ],
       "ai_summary": "《hyprwm / Hyprland》的主要内容是：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-01T14:52:32.392Z",
+      "summarized_at": "2026-11-02T18:01:57.714Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793544744439_1",
+      "id": "github_1793642511775_1",
+      "title": "ripienaar / free-for-dev",
+      "summary": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-02T18:01:51.775Z",
+      "likes": 141581,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "html"
+      ],
+      "ai_summary": "《ripienaar / free-for-dev》的主要内容是：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-02T18:01:59.912Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793642511776_2",
       "title": "paperless-ngx / paperless-ngx",
       "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "url": "https://github.com/paperless-ngx/paperless-ngx",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-01T14:52:24.439Z",
-      "likes": 47503,
+      "published_at": "2026-11-02T18:01:51.776Z",
+      "likes": 47582,
       "tags": [
         "github",
         "open-source",
@@ -131,64 +150,44 @@
         "python"
       ],
       "ai_summary": "《paperless-ngx / paperless-ngx》的主要内容是：A community-supported supercharged document management system: scan, index and archive all your documents。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-01T14:52:34.636Z",
+      "summarized_at": "2026-11-02T18:01:59.912Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793544744440_2",
-      "title": "upscayl / upscayl",
-      "summary": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
-      "url": "https://github.com/upscayl/upscayl",
+      "id": "github_1793642511776_3",
+      "title": "evcc-io / evcc",
+      "summary": "smart charging ☀️🚘",
+      "url": "https://github.com/evcc-io/evcc",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-01T14:52:24.440Z",
-      "likes": 51559,
+      "published_at": "2026-11-02T18:01:51.776Z",
+      "likes": 7495,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "typescript"
+        "go"
       ],
-      "ai_summary": "《upscayl / upscayl》的主要内容是：🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-01T14:52:34.636Z",
+      "ai_summary": "《evcc-io / evcc》的主要内容是：smart charging ☀️🚘。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-02T18:02:02.110Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793544744440_3",
-      "title": "jrouwe / JoltPhysics",
-      "summary": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
-      "url": "https://github.com/jrouwe/JoltPhysics",
+      "id": "github_1793642511776_4",
+      "title": "sindresorhus / awesome",
+      "summary": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-01T14:52:24.440Z",
-      "likes": 12091,
+      "published_at": "2026-11-02T18:01:51.776Z",
+      "likes": 529520,
       "tags": [
         "github",
         "open-source",
-        "trending",
-        "c++"
+        "trending"
       ],
-      "ai_summary": "《jrouwe / JoltPhysics》的主要内容是：A multi core friendly rigid body physics and collision detection library。Written in C++。Suitable for games and VR applications。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-01T14:52:36.881Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793544744441_4",
-      "title": "poteto / hiring-without-whiteboards",
-      "summary": "⭐️ Companies that don't have a broken hiring process",
-      "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-01T14:52:24.441Z",
-      "likes": 53064,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "javascript"
-      ],
-      "ai_summary": "《poteto / hiring-without-whiteboards》的主要内容是：⭐️ Companies that don't have a broken hiring process。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-01T14:52:36.877Z",
+      "ai_summary": "《sindresorhus / awesome》的主要内容是：😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-02T18:02:02.118Z",
       "summary_status": "success"
     }
   ]
