@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-02T18:02:02.118Z",
+    "generated_at": "2026-11-03T16:00:53.495Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,41 @@
   },
   "data": [
     {
-      "id": "arxiv_1793642509614",
+      "id": "arxiv_1793721640383",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro...",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-03T10:43:41.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《How “reverse game theory” could keep AI agents in check》的主要内容是：A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules。As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro。（来源：arXiv.org）",
+      "summarized_at": "2026-11-03T16:00:44.509Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1793721640383",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-03T04:18:47.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c。（来源：arXiv.org）",
+      "summarized_at": "2026-11-03T16:00:44.513Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1793721640383",
       "title": "Raising the quality of insights in agentic analytics",
       "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit...",
       "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
@@ -25,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Raising the quality of insights in agentic analytics》的主要内容是：In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization。Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights。But there is a problem: The qualit。（来源：arXiv.org）",
-      "summarized_at": "2026-11-02T18:01:53.322Z",
+      "summarized_at": "2026-11-03T16:00:46.757Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793642509614",
+      "id": "arxiv_1793721640383",
       "title": "Stop counting tokens, start counting what ships",
       "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…...",
       "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
@@ -42,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《Stop counting tokens, start counting what ships》的主要内容是：When a developer gives an AI agent a coding task, the agent does more than answer once。It plans, generates code, runs tests, and repeats the process to correct errors。A single task can use 10 to 50 times more tokens than a basic chat prompt。（来源：arXiv.org）",
-      "summarized_at": "2026-11-02T18:01:53.319Z",
+      "summarized_at": "2026-11-03T16:00:46.770Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793642509614",
+      "id": "arxiv_1793721640383",
       "title": "The agentic web is here",
       "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw...",
       "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
@@ -59,52 +93,18 @@
         "academic"
       ],
       "ai_summary": "《The agentic web is here》的主要内容是：In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision。Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw。（来源：arXiv.org）",
-      "summarized_at": "2026-11-02T18:01:55.511Z",
+      "summarized_at": "2026-11-03T16:00:49.009Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793642509614",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus...",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-29T10:11:12.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《We urgently need to monitor AI agents’ actions in real time》的主要内容是：This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test。They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded。Around the same time, another OpenAI agent accessed private files from an Aus。（来源：arXiv.org）",
-      "summarized_at": "2026-11-02T18:01:55.520Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1793642509614",
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc...",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-10-28T20:32:02.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Creating AI value with enterprise context》的主要内容是：Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools。Each one is sophisticated, advanced, and quick to respond。But, when set to work, the outc。（来源：arXiv.org）",
-      "summarized_at": "2026-11-02T18:01:57.713Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793642511774_0",
+      "id": "github_1793721642551_0",
       "title": "hyprwm / Hyprland",
       "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "url": "https://github.com/hyprwm/Hyprland",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-02T18:01:51.774Z",
-      "likes": 39782,
+      "published_at": "2026-11-03T16:00:42.551Z",
+      "likes": 40188,
       "tags": [
         "github",
         "open-source",
@@ -112,82 +112,82 @@
         "c++"
       ],
       "ai_summary": "《hyprwm / Hyprland》的主要内容是：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-02T18:01:57.714Z",
+      "summarized_at": "2026-11-03T16:00:49.010Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793642511775_1",
-      "title": "ripienaar / free-for-dev",
-      "summary": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "url": "https://github.com/ripienaar/free-for-dev",
+      "id": "github_1793721642552_1",
+      "title": "tegal1337 / CiLocks",
+      "summary": "Crack Interface lockscreen, Metasploit and More Android/IOS Hacking",
+      "url": "https://github.com/tegal1337/CiLocks",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-02T18:01:51.775Z",
-      "likes": 141581,
+      "published_at": "2026-11-03T16:00:42.552Z",
+      "likes": 3280,
       "tags": [
         "github",
         "open-source",
         "trending",
         "html"
       ],
-      "ai_summary": "《ripienaar / free-for-dev》的主要内容是：A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-02T18:01:59.912Z",
+      "ai_summary": "《tegal1337 / CiLocks》的主要内容是：Crack Interface lockscreen, Metasploit and More Android/IOS Hacking。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-03T16:00:51.252Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793642511776_2",
-      "title": "paperless-ngx / paperless-ngx",
-      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "id": "github_1793721642553_2",
+      "title": "immich-app / immich",
+      "summary": "High performance self-hosted photo and video management solution.",
+      "url": "https://github.com/immich-app/immich",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-02T18:01:51.776Z",
-      "likes": 47582,
+      "published_at": "2026-11-03T16:00:42.553Z",
+      "likes": 118073,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "python"
+        "typescript"
       ],
-      "ai_summary": "《paperless-ngx / paperless-ngx》的主要内容是：A community-supported supercharged document management system: scan, index and archive all your documents。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-02T18:01:59.912Z",
+      "ai_summary": "《immich-app / immich》的主要内容是：High performance self-hosted photo and video management solution。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-03T16:00:51.250Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793642511776_3",
-      "title": "evcc-io / evcc",
-      "summary": "smart charging ☀️🚘",
-      "url": "https://github.com/evcc-io/evcc",
+      "id": "github_1793721642554_3",
+      "title": "codecrafters-io / build-your-own-x",
+      "summary": "Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-02T18:01:51.776Z",
-      "likes": 7495,
+      "published_at": "2026-11-03T16:00:42.554Z",
+      "likes": 559226,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "go"
+        "markdown"
       ],
-      "ai_summary": "《evcc-io / evcc》的主要内容是：smart charging ☀️🚘。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-02T18:02:02.110Z",
+      "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-03T16:00:53.494Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793642511776_4",
+      "id": "github_1793721642555_4",
       "title": "sindresorhus / awesome",
       "summary": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
       "url": "https://github.com/sindresorhus/awesome",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-02T18:01:51.776Z",
-      "likes": 529520,
+      "published_at": "2026-11-03T16:00:42.555Z",
+      "likes": 530117,
       "tags": [
         "github",
         "open-source",
         "trending"
       ],
       "ai_summary": "《sindresorhus / awesome》的主要内容是：😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-02T18:02:02.118Z",
+      "summarized_at": "2026-11-03T16:00:53.493Z",
       "summary_status": "success"
     }
   ]

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-03T16:00:53.495Z",
+    "date": "2026-11-03",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1793721640383",
+      "title": "The agentic web is here",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw...",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-02T09:35:19.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《The agentic web is here》的主要内容是：In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision。Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw。（来源：arXiv.org）",
+      "summarized_at": "2026-11-03T16:00:49.009Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793721642551_0",
+      "title": "hyprwm / Hyprland",
+      "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-03T16:00:42.551Z",
+      "likes": 40188,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《hyprwm / Hyprland》的主要内容是：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-03T16:00:49.010Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793721642552_1",
+      "title": "tegal1337 / CiLocks",
+      "summary": "Crack Interface lockscreen, Metasploit and More Android/IOS Hacking",
+      "url": "https://github.com/tegal1337/CiLocks",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-03T16:00:42.552Z",
+      "likes": 3280,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "html"
+      ],
+      "ai_summary": "《tegal1337 / CiLocks》的主要内容是：Crack Interface lockscreen, Metasploit and More Android/IOS Hacking。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-03T16:00:51.252Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793721642553_2",
+      "title": "immich-app / immich",
+      "summary": "High performance self-hosted photo and video management solution.",
+      "url": "https://github.com/immich-app/immich",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-03T16:00:42.553Z",
+      "likes": 118073,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《immich-app / immich》的主要内容是：High performance self-hosted photo and video management solution。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-03T16:00:51.250Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793721642554_3",
+      "title": "codecrafters-io / build-your-own-x",
+      "summary": "Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-03T16:00:42.554Z",
+      "likes": 559226,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "markdown"
+      ],
+      "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-03T16:00:53.494Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793721642555_4",
+      "title": "sindresorhus / awesome",
+      "summary": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-03T16:00:42.555Z",
+      "likes": 530117,
+      "tags": [
+        "github",
+        "open-source",
+        "trending"
+      ],
+      "ai_summary": "《sindresorhus / awesome》的主要内容是：😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-03T16:00:53.493Z",
+      "summary_status": "success"
+    }
+  ]
+}
