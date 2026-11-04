@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-03T16:00:53.495Z",
+    "generated_at": "2026-11-04T16:04:30.095Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,24 @@
   },
   "data": [
     {
-      "id": "arxiv_1793721640383",
+      "id": "arxiv_1793808256055",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ...",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-04T13:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Securing the agentic enterprise with data lineage》的主要内容是：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes。The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep。No。（来源：arXiv.org）",
+      "summarized_at": "2026-11-04T16:04:21.187Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1793808256055",
       "title": "How “reverse game theory” could keep AI agents in check",
       "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro...",
       "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
@@ -25,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《How “reverse game theory” could keep AI agents in check》的主要内容是：A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules。As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro。（来源：arXiv.org）",
-      "summarized_at": "2026-11-03T16:00:44.509Z",
+      "summarized_at": "2026-11-04T16:04:21.203Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793721640383",
+      "id": "arxiv_1793808256055",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
       "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
@@ -42,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c。（来源：arXiv.org）",
-      "summarized_at": "2026-11-03T16:00:44.513Z",
+      "summarized_at": "2026-11-04T16:04:23.419Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793721640383",
+      "id": "arxiv_1793808256055",
       "title": "Raising the quality of insights in agentic analytics",
       "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit...",
       "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
@@ -59,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《Raising the quality of insights in agentic analytics》的主要内容是：In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization。Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights。But there is a problem: The qualit。（来源：arXiv.org）",
-      "summarized_at": "2026-11-03T16:00:46.757Z",
+      "summarized_at": "2026-11-04T16:04:23.420Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793721640383",
+      "id": "arxiv_1793808256055",
       "title": "Stop counting tokens, start counting what ships",
       "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…...",
       "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
@@ -76,92 +93,18 @@
         "academic"
       ],
       "ai_summary": "《Stop counting tokens, start counting what ships》的主要内容是：When a developer gives an AI agent a coding task, the agent does more than answer once。It plans, generates code, runs tests, and repeats the process to correct errors。A single task can use 10 to 50 times more tokens than a basic chat prompt。（来源：arXiv.org）",
-      "summarized_at": "2026-11-03T16:00:46.770Z",
+      "summarized_at": "2026-11-04T16:04:25.638Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793721640383",
-      "title": "The agentic web is here",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw...",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-02T09:35:19.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《The agentic web is here》的主要内容是：In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision。Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw。（来源：arXiv.org）",
-      "summarized_at": "2026-11-03T16:00:49.009Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793721642551_0",
-      "title": "hyprwm / Hyprland",
-      "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "url": "https://github.com/hyprwm/Hyprland",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-03T16:00:42.551Z",
-      "likes": 40188,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "c++"
-      ],
-      "ai_summary": "《hyprwm / Hyprland》的主要内容是：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-03T16:00:49.010Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793721642552_1",
-      "title": "tegal1337 / CiLocks",
-      "summary": "Crack Interface lockscreen, Metasploit and More Android/IOS Hacking",
-      "url": "https://github.com/tegal1337/CiLocks",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-03T16:00:42.552Z",
-      "likes": 3280,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "html"
-      ],
-      "ai_summary": "《tegal1337 / CiLocks》的主要内容是：Crack Interface lockscreen, Metasploit and More Android/IOS Hacking。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-03T16:00:51.252Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793721642553_2",
-      "title": "immich-app / immich",
-      "summary": "High performance self-hosted photo and video management solution.",
-      "url": "https://github.com/immich-app/immich",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-03T16:00:42.553Z",
-      "likes": 118073,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "typescript"
-      ],
-      "ai_summary": "《immich-app / immich》的主要内容是：High performance self-hosted photo and video management solution。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-03T16:00:51.250Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793721642554_3",
+      "id": "github_1793808258462_0",
       "title": "codecrafters-io / build-your-own-x",
       "summary": "Master programming by recreating your favorite technologies from scratch.",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-03T16:00:42.554Z",
-      "likes": 559226,
+      "published_at": "2026-11-04T16:04:18.462Z",
+      "likes": 559728,
       "tags": [
         "github",
         "open-source",
@@ -169,25 +112,82 @@
         "markdown"
       ],
       "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-03T16:00:53.494Z",
+      "summarized_at": "2026-11-04T16:04:25.637Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793721642555_4",
-      "title": "sindresorhus / awesome",
-      "summary": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-      "url": "https://github.com/sindresorhus/awesome",
+      "id": "github_1793808258463_1",
+      "title": "donnemartin / system-design-primer",
+      "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-03T16:00:42.555Z",
-      "likes": 530117,
+      "published_at": "2026-11-04T16:04:18.463Z",
+      "likes": 376760,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《donnemartin / system-design-primer》的主要内容是：Learn how to design large-scale systems。Prep for the system design interview。Includes Anki flashcards。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-04T16:04:27.856Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793808258463_2",
+      "title": "binhnguyennus / awesome-scalability",
+      "summary": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+      "url": "https://github.com/binhnguyennus/awesome-scalability",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-04T16:04:18.463Z",
+      "likes": 75414,
       "tags": [
         "github",
         "open-source",
         "trending"
       ],
-      "ai_summary": "《sindresorhus / awesome》的主要内容是：😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-03T16:00:53.493Z",
+      "ai_summary": "《binhnguyennus / awesome-scalability》的主要内容是：The Patterns of Scalable, Reliable, and Performant Large-Scale Systems。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-04T16:04:27.852Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793808258464_3",
+      "title": "microsoft / onnxruntime",
+      "summary": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-04T16:04:18.464Z",
+      "likes": 22222,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《microsoft / onnxruntime》的主要内容是：ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-04T16:04:30.095Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793808258464_4",
+      "title": "emilk / egui",
+      "summary": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "url": "https://github.com/emilk/egui",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-04T16:04:18.464Z",
+      "likes": 31983,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《emilk / egui》的主要内容是：egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-04T16:04:30.072Z",
       "summary_status": "success"
     }
   ]
