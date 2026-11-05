@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-05T16:19:27.394Z",
+    "date": "2026-11-05",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1793895548532",
+      "title": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit...",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-02T17:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Raising the quality of insights in agentic analytics》的主要内容是：In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization。Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights。But there is a problem: The qualit。（来源：arXiv.org）",
+      "summarized_at": "2026-11-05T16:19:22.828Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793895554389_0",
+      "title": "codecrafters-io / build-your-own-x",
+      "summary": "Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-05T16:19:14.389Z",
+      "likes": 560062,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "markdown"
+      ],
+      "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-05T16:19:22.825Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793895554391_1",
+      "title": "aquasecurity / trivy",
+      "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "url": "https://github.com/aquasecurity/trivy",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-05T16:19:14.391Z",
+      "likes": 39015,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《aquasecurity / trivy》的主要内容是：Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-05T16:19:25.079Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793895554392_2",
+      "title": "blacklanternsecurity / bbot",
+      "summary": "The recursive internet scanner for hackers. 🧡",
+      "url": "https://github.com/blacklanternsecurity/bbot",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-05T16:19:14.392Z",
+      "likes": 10971,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《blacklanternsecurity / bbot》的主要内容是：The recursive internet scanner for hackers。🧡。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-05T16:19:25.071Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793895554393_3",
+      "title": "immich-app / immich",
+      "summary": "High performance self-hosted photo and video management solution.",
+      "url": "https://github.com/immich-app/immich",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-05T16:19:14.393Z",
+      "likes": 118307,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《immich-app / immich》的主要内容是：High performance self-hosted photo and video management solution。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-05T16:19:27.394Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793895554393_4",
+      "title": "bobeff / open-source-games",
+      "summary": "A list of open source games.",
+      "url": "https://github.com/bobeff/open-source-games",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-05T16:19:14.393Z",
+      "likes": 17551,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《bobeff / open-source-games》的主要内容是：A list of open source games。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-05T16:19:27.319Z",
+      "summary_status": "success"
+    }
+  ]
+}
