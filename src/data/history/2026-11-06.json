@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-06T15:48:25.759Z",
+    "date": "2026-11-06",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1793980093161",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-03T04:18:47.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c。（来源：arXiv.org）",
+      "summarized_at": "2026-11-06T15:48:21.293Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793980094957_0",
+      "title": "nushell / nushell",
+      "summary": "A new type of shell",
+      "url": "https://github.com/nushell/nushell",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-06T15:48:14.957Z",
+      "likes": 40840,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《nushell / nushell》的主要内容是：A new type of shell。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:21.292Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793980094958_1",
+      "title": "astral-sh / ruff",
+      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
+      "url": "https://github.com/astral-sh/ruff",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-06T15:48:14.958Z",
+      "likes": 50540,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《astral-sh / ruff》的主要内容是：An extremely fast Python linter and code formatter, written in Rust。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:23.525Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793980094959_2",
+      "title": "Homebrew / brew",
+      "summary": "🍺 The Package Manager for Everywhere",
+      "url": "https://github.com/Homebrew/brew",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-06T15:48:14.959Z",
+      "likes": 50286,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "ruby"
+      ],
+      "ai_summary": "《Homebrew / brew》的主要内容是：🍺 The Package Manager for Everywhere。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:23.524Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793980094960_3",
+      "title": "tokio-rs / tokio",
+      "summary": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "url": "https://github.com/tokio-rs/tokio",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-06T15:48:14.960Z",
+      "likes": 33630,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《tokio-rs / tokio》的主要内容是：A runtime for writing reliable asynchronous applications with Rust。Provides I/O, networking, scheduling, timers,。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:25.758Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1793980094960_4",
+      "title": "sveltejs / svelte",
+      "summary": "web development for the rest of us",
+      "url": "https://github.com/sveltejs/svelte",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-06T15:48:14.960Z",
+      "likes": 88591,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:25.756Z",
+      "summary_status": "success"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-05T16:19:27.394Z",
+    "generated_at": "2026-11-06T15:48:25.758Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,24 @@
   },
   "data": [
     {
-      "id": "arxiv_1793895548532",
+      "id": "arxiv_1793980093161",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-06T10:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
+      "summarized_at": "2026-11-06T15:48:16.791Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1793980093161",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga...",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
@@ -25,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《Texas was the new epicenter of the AI data center buildout. That might be kaput.》的主要内容是：Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts。But the blue wave that swept the Lone Star State may jeopardize that position。Democrat James Talarico won the US Senate seat against Ken Paxton。（来源：arXiv.org）",
-      "summarized_at": "2026-11-05T16:19:18.325Z",
+      "summarized_at": "2026-11-06T15:48:16.825Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793895548532",
+      "id": "arxiv_1793980093161",
       "title": "Securing the agentic enterprise with data lineage",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ...",
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -42,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Securing the agentic enterprise with data lineage》的主要内容是：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes。The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep。No。（来源：arXiv.org）",
-      "summarized_at": "2026-11-05T16:19:18.343Z",
+      "summarized_at": "2026-11-06T15:48:19.057Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793895548532",
+      "id": "arxiv_1793980093161",
       "title": "How “reverse game theory” could keep AI agents in check",
       "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro...",
       "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
@@ -59,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《How “reverse game theory” could keep AI agents in check》的主要内容是：A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules。As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro。（来源：arXiv.org）",
-      "summarized_at": "2026-11-05T16:19:20.586Z",
+      "summarized_at": "2026-11-06T15:48:19.058Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793895548532",
+      "id": "arxiv_1793980093161",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
       "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
@@ -76,119 +93,102 @@
         "academic"
       ],
       "ai_summary": "《Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c。（来源：arXiv.org）",
-      "summarized_at": "2026-11-05T16:19:20.582Z",
+      "summarized_at": "2026-11-06T15:48:21.293Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793895548532",
-      "title": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit...",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-02T17:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Raising the quality of insights in agentic analytics》的主要内容是：In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization。Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights。But there is a problem: The qualit。（来源：arXiv.org）",
-      "summarized_at": "2026-11-05T16:19:22.828Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793895554389_0",
-      "title": "codecrafters-io / build-your-own-x",
-      "summary": "Master programming by recreating your favorite technologies from scratch.",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "id": "github_1793980094957_0",
+      "title": "nushell / nushell",
+      "summary": "A new type of shell",
+      "url": "https://github.com/nushell/nushell",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-05T16:19:14.389Z",
-      "likes": 560062,
+      "published_at": "2026-11-06T15:48:14.957Z",
+      "likes": 40840,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "markdown"
+        "rust"
       ],
-      "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-05T16:19:22.825Z",
+      "ai_summary": "《nushell / nushell》的主要内容是：A new type of shell。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:21.292Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793895554391_1",
-      "title": "aquasecurity / trivy",
-      "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "url": "https://github.com/aquasecurity/trivy",
+      "id": "github_1793980094958_1",
+      "title": "astral-sh / ruff",
+      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
+      "url": "https://github.com/astral-sh/ruff",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-05T16:19:14.391Z",
-      "likes": 39015,
+      "published_at": "2026-11-06T15:48:14.958Z",
+      "likes": 50540,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "go"
+        "rust"
       ],
-      "ai_summary": "《aquasecurity / trivy》的主要内容是：Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-05T16:19:25.079Z",
+      "ai_summary": "《astral-sh / ruff》的主要内容是：An extremely fast Python linter and code formatter, written in Rust。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:23.525Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793895554392_2",
-      "title": "blacklanternsecurity / bbot",
-      "summary": "The recursive internet scanner for hackers. 🧡",
-      "url": "https://github.com/blacklanternsecurity/bbot",
+      "id": "github_1793980094959_2",
+      "title": "Homebrew / brew",
+      "summary": "🍺 The Package Manager for Everywhere",
+      "url": "https://github.com/Homebrew/brew",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-05T16:19:14.392Z",
-      "likes": 10971,
+      "published_at": "2026-11-06T15:48:14.959Z",
+      "likes": 50286,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "python"
+        "ruby"
       ],
-      "ai_summary": "《blacklanternsecurity / bbot》的主要内容是：The recursive internet scanner for hackers。🧡。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-05T16:19:25.071Z",
+      "ai_summary": "《Homebrew / brew》的主要内容是：🍺 The Package Manager for Everywhere。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:23.524Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793895554393_3",
-      "title": "immich-app / immich",
-      "summary": "High performance self-hosted photo and video management solution.",
-      "url": "https://github.com/immich-app/immich",
+      "id": "github_1793980094960_3",
+      "title": "tokio-rs / tokio",
+      "summary": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "url": "https://github.com/tokio-rs/tokio",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-05T16:19:14.393Z",
-      "likes": 118307,
+      "published_at": "2026-11-06T15:48:14.960Z",
+      "likes": 33630,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "typescript"
+        "rust"
       ],
-      "ai_summary": "《immich-app / immich》的主要内容是：High performance self-hosted photo and video management solution。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-05T16:19:27.394Z",
+      "ai_summary": "《tokio-rs / tokio》的主要内容是：A runtime for writing reliable asynchronous applications with Rust。Provides I/O, networking, scheduling, timers,。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:25.758Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793895554393_4",
-      "title": "bobeff / open-source-games",
-      "summary": "A list of open source games.",
-      "url": "https://github.com/bobeff/open-source-games",
+      "id": "github_1793980094960_4",
+      "title": "sveltejs / svelte",
+      "summary": "web development for the rest of us",
+      "url": "https://github.com/sveltejs/svelte",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-05T16:19:14.393Z",
-      "likes": 17551,
+      "published_at": "2026-11-06T15:48:14.960Z",
+      "likes": 88591,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "python"
+        "javascript"
       ],
-      "ai_summary": "《bobeff / open-source-games》的主要内容是：A list of open source games。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-05T16:19:27.319Z",
+      "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-06T15:48:25.756Z",
       "summary_status": "success"
     }
   ]
