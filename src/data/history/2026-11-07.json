@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-07T14:48:27.648Z",
+    "date": "2026-11-07",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1794062895055",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-03T04:18:47.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c。（来源：arXiv.org）",
+      "summarized_at": "2026-11-07T14:48:23.278Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794062896855_0",
+      "title": "astral-sh / ruff",
+      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
+      "url": "https://github.com/astral-sh/ruff",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-07T14:48:16.855Z",
+      "likes": 50845,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《astral-sh / ruff》的主要内容是：An extremely fast Python linter and code formatter, written in Rust。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-07T14:48:23.285Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794062896856_1",
+      "title": "sindresorhus / awesome",
+      "summary": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-07T14:48:16.856Z",
+      "likes": 532925,
+      "tags": [
+        "github",
+        "open-source",
+        "trending"
+      ],
+      "ai_summary": "《sindresorhus / awesome》的主要内容是：😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-07T14:48:25.465Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794062896857_2",
+      "title": "donnemartin / system-design-primer",
+      "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-07T14:48:16.857Z",
+      "likes": 377214,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《donnemartin / system-design-primer》的主要内容是：Learn how to design large-scale systems。Prep for the system design interview。Includes Anki flashcards。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-07T14:48:25.466Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794062896857_3",
+      "title": "Unleash / unleash",
+      "summary": "Open-source feature management platform",
+      "url": "https://github.com/Unleash/unleash",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-07T14:48:16.857Z",
+      "likes": 14152,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《Unleash / unleash》的主要内容是：Open-source feature management platform。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-07T14:48:27.647Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794062896858_4",
+      "title": "sharkdp / fd",
+      "summary": "A simple, fast and user-friendly alternative to 'find'",
+      "url": "https://github.com/sharkdp/fd",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-07T14:48:16.858Z",
+      "likes": 45105,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《sharkdp / fd》的主要内容是：A simple, fast and user-friendly alternative to 'find'。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-07T14:48:27.647Z",
+      "summary_status": "success"
+    }
+  ]
+}

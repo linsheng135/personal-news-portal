@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-06T15:48:25.758Z",
+    "generated_at": "2026-11-07T14:48:27.647Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1793980093161",
+      "id": "arxiv_1794062895055",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -25,11 +25,11 @@
         "academic"
       ],
       "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
-      "summarized_at": "2026-11-06T15:48:16.791Z",
+      "summarized_at": "2026-11-07T14:48:18.921Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793980093161",
+      "id": "arxiv_1794062895055",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga...",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
@@ -42,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《Texas was the new epicenter of the AI data center buildout. That might be kaput.》的主要内容是：Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts。But the blue wave that swept the Lone Star State may jeopardize that position。Democrat James Talarico won the US Senate seat against Ken Paxton。（来源：arXiv.org）",
-      "summarized_at": "2026-11-06T15:48:16.825Z",
+      "summarized_at": "2026-11-07T14:48:18.922Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793980093161",
+      "id": "arxiv_1794062895055",
       "title": "Securing the agentic enterprise with data lineage",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ...",
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -59,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Securing the agentic enterprise with data lineage》的主要内容是：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes。The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep。No。（来源：arXiv.org）",
-      "summarized_at": "2026-11-06T15:48:19.057Z",
+      "summarized_at": "2026-11-07T14:48:21.103Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793980093161",
+      "id": "arxiv_1794062895055",
       "title": "How “reverse game theory” could keep AI agents in check",
       "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro...",
       "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
@@ -76,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《How “reverse game theory” could keep AI agents in check》的主要内容是：A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules。As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro。（来源：arXiv.org）",
-      "summarized_at": "2026-11-06T15:48:19.058Z",
+      "summarized_at": "2026-11-07T14:48:21.103Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1793980093161",
+      "id": "arxiv_1794062895055",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
       "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
@@ -93,37 +93,18 @@
         "academic"
       ],
       "ai_summary": "《Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c。（来源：arXiv.org）",
-      "summarized_at": "2026-11-06T15:48:21.293Z",
+      "summarized_at": "2026-11-07T14:48:23.278Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793980094957_0",
-      "title": "nushell / nushell",
-      "summary": "A new type of shell",
-      "url": "https://github.com/nushell/nushell",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-06T15:48:14.957Z",
-      "likes": 40840,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "rust"
-      ],
-      "ai_summary": "《nushell / nushell》的主要内容是：A new type of shell。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-06T15:48:21.292Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793980094958_1",
+      "id": "github_1794062896855_0",
       "title": "astral-sh / ruff",
       "summary": "An extremely fast Python linter and code formatter, written in Rust.",
       "url": "https://github.com/astral-sh/ruff",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-06T15:48:14.958Z",
-      "likes": 50540,
+      "published_at": "2026-11-07T14:48:16.855Z",
+      "likes": 50845,
       "tags": [
         "github",
         "open-source",
@@ -131,64 +112,82 @@
         "rust"
       ],
       "ai_summary": "《astral-sh / ruff》的主要内容是：An extremely fast Python linter and code formatter, written in Rust。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-06T15:48:23.525Z",
+      "summarized_at": "2026-11-07T14:48:23.285Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793980094959_2",
-      "title": "Homebrew / brew",
-      "summary": "🍺 The Package Manager for Everywhere",
-      "url": "https://github.com/Homebrew/brew",
+      "id": "github_1794062896856_1",
+      "title": "sindresorhus / awesome",
+      "summary": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "url": "https://github.com/sindresorhus/awesome",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-06T15:48:14.959Z",
-      "likes": 50286,
+      "published_at": "2026-11-07T14:48:16.856Z",
+      "likes": 532925,
+      "tags": [
+        "github",
+        "open-source",
+        "trending"
+      ],
+      "ai_summary": "《sindresorhus / awesome》的主要内容是：😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-07T14:48:25.465Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794062896857_2",
+      "title": "donnemartin / system-design-primer",
+      "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-07T14:48:16.857Z",
+      "likes": 377214,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "ruby"
+        "python"
       ],
-      "ai_summary": "《Homebrew / brew》的主要内容是：🍺 The Package Manager for Everywhere。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-06T15:48:23.524Z",
+      "ai_summary": "《donnemartin / system-design-primer》的主要内容是：Learn how to design large-scale systems。Prep for the system design interview。Includes Anki flashcards。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-07T14:48:25.466Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1793980094960_3",
-      "title": "tokio-rs / tokio",
-      "summary": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
-      "url": "https://github.com/tokio-rs/tokio",
+      "id": "github_1794062896857_3",
+      "title": "Unleash / unleash",
+      "summary": "Open-source feature management platform",
+      "url": "https://github.com/Unleash/unleash",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-06T15:48:14.960Z",
-      "likes": 33630,
+      "published_at": "2026-11-07T14:48:16.857Z",
+      "likes": 14152,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《Unleash / unleash》的主要内容是：Open-source feature management platform。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-07T14:48:27.647Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794062896858_4",
+      "title": "sharkdp / fd",
+      "summary": "A simple, fast and user-friendly alternative to 'find'",
+      "url": "https://github.com/sharkdp/fd",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-07T14:48:16.858Z",
+      "likes": 45105,
       "tags": [
         "github",
         "open-source",
         "trending",
         "rust"
       ],
-      "ai_summary": "《tokio-rs / tokio》的主要内容是：A runtime for writing reliable asynchronous applications with Rust。Provides I/O, networking, scheduling, timers,。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-06T15:48:25.758Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1793980094960_4",
-      "title": "sveltejs / svelte",
-      "summary": "web development for the rest of us",
-      "url": "https://github.com/sveltejs/svelte",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-06T15:48:14.960Z",
-      "likes": 88591,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "javascript"
-      ],
-      "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-06T15:48:25.756Z",
+      "ai_summary": "《sharkdp / fd》的主要内容是：A simple, fast and user-friendly alternative to 'find'。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-07T14:48:27.647Z",
       "summary_status": "success"
     }
   ]
