@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-08T14:54:35.101Z",
+    "date": "2026-11-08",
+    "items_count": 7,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1794149662731",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ...",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-04T13:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Securing the agentic enterprise with data lineage》的主要内容是：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes。The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep。No。（来源：arXiv.org）",
+      "summarized_at": "2026-11-08T14:54:28.443Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1794149662732",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-03T04:18:47.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c。（来源：arXiv.org）",
+      "summarized_at": "2026-11-08T14:54:30.664Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794149664599_0",
+      "title": "google-deepmind / mujoco",
+      "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-08T14:54:24.599Z",
+      "likes": 16208,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《google-deepmind / mujoco》的主要内容是：Multi-Joint dynamics with Contact。A general purpose physics simulator。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:30.658Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794149664600_1",
+      "title": "neuml / txtai",
+      "summary": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "url": "https://github.com/neuml/txtai",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-08T14:54:24.600Z",
+      "likes": 13137,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《neuml / txtai》的主要内容是：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:32.883Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794149664601_2",
+      "title": "f / prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-08T14:54:24.601Z",
+      "likes": 176450,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "mdx"
+      ],
+      "ai_summary": "《f / prompts.chat》的主要内容是：f。k。a。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:32.884Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794149664601_3",
+      "title": "codecrafters-io / build-your-own-x",
+      "summary": "Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-08T14:54:24.601Z",
+      "likes": 560946,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "markdown"
+      ],
+      "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:35.099Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794149664602_4",
+      "title": "hagezi / dns-blocklists",
+      "summary": "DNS-Blocklists: For a better internet - keep the internet clean!",
+      "url": "https://github.com/hagezi/dns-blocklists",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-08T14:54:24.602Z",
+      "likes": 28507,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "text"
+      ],
+      "ai_summary": "《hagezi / dns-blocklists》的主要内容是：DNS-Blocklists: For a better internet - keep the internet clean。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:35.100Z",
+      "summary_status": "success"
+    }
+  ]
+}

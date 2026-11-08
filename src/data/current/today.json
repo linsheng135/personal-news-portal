@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-07T14:48:27.647Z",
+    "generated_at": "2026-11-08T14:54:35.100Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1794062895055",
+      "id": "arxiv_1794149662731",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -25,11 +25,11 @@
         "academic"
       ],
       "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
-      "summarized_at": "2026-11-07T14:48:18.921Z",
+      "summarized_at": "2026-11-08T14:54:26.188Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794062895055",
+      "id": "arxiv_1794149662731",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga...",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
@@ -42,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《Texas was the new epicenter of the AI data center buildout. That might be kaput.》的主要内容是：Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts。But the blue wave that swept the Lone Star State may jeopardize that position。Democrat James Talarico won the US Senate seat against Ken Paxton。（来源：arXiv.org）",
-      "summarized_at": "2026-11-07T14:48:18.922Z",
+      "summarized_at": "2026-11-08T14:54:26.195Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794062895055",
+      "id": "arxiv_1794149662731",
       "title": "Securing the agentic enterprise with data lineage",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ...",
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -59,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Securing the agentic enterprise with data lineage》的主要内容是：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes。The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep。No。（来源：arXiv.org）",
-      "summarized_at": "2026-11-07T14:48:21.103Z",
+      "summarized_at": "2026-11-08T14:54:28.443Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794062895055",
+      "id": "arxiv_1794149662732",
       "title": "How “reverse game theory” could keep AI agents in check",
       "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro...",
       "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
@@ -76,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《How “reverse game theory” could keep AI agents in check》的主要内容是：A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules。As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro。（来源：arXiv.org）",
-      "summarized_at": "2026-11-07T14:48:21.103Z",
+      "summarized_at": "2026-11-08T14:54:28.412Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794062895055",
+      "id": "arxiv_1794149662732",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
       "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
@@ -93,101 +93,102 @@
         "academic"
       ],
       "ai_summary": "《Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c。（来源：arXiv.org）",
-      "summarized_at": "2026-11-07T14:48:23.278Z",
+      "summarized_at": "2026-11-08T14:54:30.664Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794062896855_0",
-      "title": "astral-sh / ruff",
-      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
-      "url": "https://github.com/astral-sh/ruff",
+      "id": "github_1794149664599_0",
+      "title": "google-deepmind / mujoco",
+      "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "url": "https://github.com/google-deepmind/mujoco",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-07T14:48:16.855Z",
-      "likes": 50845,
+      "published_at": "2026-11-08T14:54:24.599Z",
+      "likes": 16208,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "rust"
+        "c++"
       ],
-      "ai_summary": "《astral-sh / ruff》的主要内容是：An extremely fast Python linter and code formatter, written in Rust。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-07T14:48:23.285Z",
+      "ai_summary": "《google-deepmind / mujoco》的主要内容是：Multi-Joint dynamics with Contact。A general purpose physics simulator。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:30.658Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794062896856_1",
-      "title": "sindresorhus / awesome",
-      "summary": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-      "url": "https://github.com/sindresorhus/awesome",
+      "id": "github_1794149664600_1",
+      "title": "neuml / txtai",
+      "summary": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "url": "https://github.com/neuml/txtai",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-07T14:48:16.856Z",
-      "likes": 532925,
-      "tags": [
-        "github",
-        "open-source",
-        "trending"
-      ],
-      "ai_summary": "《sindresorhus / awesome》的主要内容是：😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-07T14:48:25.465Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794062896857_2",
-      "title": "donnemartin / system-design-primer",
-      "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-07T14:48:16.857Z",
-      "likes": 377214,
+      "published_at": "2026-11-08T14:54:24.600Z",
+      "likes": 13137,
       "tags": [
         "github",
         "open-source",
         "trending",
         "python"
       ],
-      "ai_summary": "《donnemartin / system-design-primer》的主要内容是：Learn how to design large-scale systems。Prep for the system design interview。Includes Anki flashcards。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-07T14:48:25.466Z",
+      "ai_summary": "《neuml / txtai》的主要内容是：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:32.883Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794062896857_3",
-      "title": "Unleash / unleash",
-      "summary": "Open-source feature management platform",
-      "url": "https://github.com/Unleash/unleash",
+      "id": "github_1794149664601_2",
+      "title": "f / prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-07T14:48:16.857Z",
-      "likes": 14152,
+      "published_at": "2026-11-08T14:54:24.601Z",
+      "likes": 176450,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "typescript"
+        "mdx"
       ],
-      "ai_summary": "《Unleash / unleash》的主要内容是：Open-source feature management platform。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-07T14:48:27.647Z",
+      "ai_summary": "《f / prompts.chat》的主要内容是：f。k。a。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:32.884Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794062896858_4",
-      "title": "sharkdp / fd",
-      "summary": "A simple, fast and user-friendly alternative to 'find'",
-      "url": "https://github.com/sharkdp/fd",
+      "id": "github_1794149664601_3",
+      "title": "codecrafters-io / build-your-own-x",
+      "summary": "Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-07T14:48:16.858Z",
-      "likes": 45105,
+      "published_at": "2026-11-08T14:54:24.601Z",
+      "likes": 560946,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "rust"
+        "markdown"
       ],
-      "ai_summary": "《sharkdp / fd》的主要内容是：A simple, fast and user-friendly alternative to 'find'。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-07T14:48:27.647Z",
+      "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:35.099Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794149664602_4",
+      "title": "hagezi / dns-blocklists",
+      "summary": "DNS-Blocklists: For a better internet - keep the internet clean!",
+      "url": "https://github.com/hagezi/dns-blocklists",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-08T14:54:24.602Z",
+      "likes": 28507,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "text"
+      ],
+      "ai_summary": "《hagezi / dns-blocklists》的主要内容是：DNS-Blocklists: For a better internet - keep the internet clean。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-08T14:54:35.100Z",
       "summary_status": "success"
     }
   ]
