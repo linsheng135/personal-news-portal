@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-08T14:54:35.100Z",
+    "generated_at": "2026-11-09T18:32:53.275Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,41 @@
   },
   "data": [
     {
-      "id": "arxiv_1794149662731",
+      "id": "arxiv_1794249161099",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene...",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-09T17:05:43.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Nancy Pelosi’s replacement is ready to regulate AI》的主要内容是：As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI。Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy。I spoke with Wiene。（来源：arXiv.org）",
+      "summarized_at": "2026-11-09T18:32:44.412Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1794249161099",
+      "title": "Innovating with AI in the special chemicals industry",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur...",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-09T13:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Innovating with AI in the special chemicals industry》的主要内容是：As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market。For specialty chemicals manufactur。（来源：arXiv.org）",
+      "summarized_at": "2026-11-09T18:32:44.415Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1794249161099",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -25,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
-      "summarized_at": "2026-11-08T14:54:26.188Z",
+      "summarized_at": "2026-11-09T18:32:46.680Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794149662731",
+      "id": "arxiv_1794249161099",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga...",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
@@ -42,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《Texas was the new epicenter of the AI data center buildout. That might be kaput.》的主要内容是：Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts。But the blue wave that swept the Lone Star State may jeopardize that position。Democrat James Talarico won the US Senate seat against Ken Paxton。（来源：arXiv.org）",
-      "summarized_at": "2026-11-08T14:54:26.195Z",
+      "summarized_at": "2026-11-09T18:32:46.614Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794149662731",
+      "id": "arxiv_1794249161099",
       "title": "Securing the agentic enterprise with data lineage",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ...",
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -59,52 +93,18 @@
         "academic"
       ],
       "ai_summary": "《Securing the agentic enterprise with data lineage》的主要内容是：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes。The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep。No。（来源：arXiv.org）",
-      "summarized_at": "2026-11-08T14:54:28.443Z",
+      "summarized_at": "2026-11-09T18:32:48.880Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794149662732",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro...",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-03T10:43:41.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《How “reverse game theory” could keep AI agents in check》的主要内容是：A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules。As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro。（来源：arXiv.org）",
-      "summarized_at": "2026-11-08T14:54:28.412Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1794149662732",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c...",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-03T04:18:47.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c。（来源：arXiv.org）",
-      "summarized_at": "2026-11-08T14:54:30.664Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794149664599_0",
+      "id": "github_1794249162753_0",
       "title": "google-deepmind / mujoco",
       "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "url": "https://github.com/google-deepmind/mujoco",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-08T14:54:24.599Z",
-      "likes": 16208,
+      "published_at": "2026-11-09T18:32:42.753Z",
+      "likes": 16824,
       "tags": [
         "github",
         "open-source",
@@ -112,37 +112,18 @@
         "c++"
       ],
       "ai_summary": "《google-deepmind / mujoco》的主要内容是：Multi-Joint dynamics with Contact。A general purpose physics simulator。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-08T14:54:30.658Z",
+      "summarized_at": "2026-11-09T18:32:48.876Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794149664600_1",
-      "title": "neuml / txtai",
-      "summary": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-      "url": "https://github.com/neuml/txtai",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-08T14:54:24.600Z",
-      "likes": 13137,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "python"
-      ],
-      "ai_summary": "《neuml / txtai》的主要内容是：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-08T14:54:32.883Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794149664601_2",
+      "id": "github_1794249162754_1",
       "title": "f / prompts.chat",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-08T14:54:24.601Z",
-      "likes": 176450,
+      "published_at": "2026-11-09T18:32:42.754Z",
+      "likes": 176719,
       "tags": [
         "github",
         "open-source",
@@ -150,45 +131,64 @@
         "mdx"
       ],
       "ai_summary": "《f / prompts.chat》的主要内容是：f。k。a。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-08T14:54:32.884Z",
+      "summarized_at": "2026-11-09T18:32:51.075Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794149664601_3",
-      "title": "codecrafters-io / build-your-own-x",
-      "summary": "Master programming by recreating your favorite technologies from scratch.",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "id": "github_1794249162755_2",
+      "title": "hummingbot / hummingbot",
+      "summary": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+      "url": "https://github.com/hummingbot/hummingbot",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-08T14:54:24.601Z",
-      "likes": 560946,
+      "published_at": "2026-11-09T18:32:42.755Z",
+      "likes": 21115,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "markdown"
+        "python"
       ],
-      "ai_summary": "《codecrafters-io / build-your-own-x》的主要内容是：Master programming by recreating your favorite technologies from scratch。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-08T14:54:35.099Z",
+      "ai_summary": "《hummingbot / hummingbot》的主要内容是：Open source software that helps you create and deploy high-frequency crypto trading bots。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-09T18:32:51.077Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794149664602_4",
-      "title": "hagezi / dns-blocklists",
-      "summary": "DNS-Blocklists: For a better internet - keep the internet clean!",
-      "url": "https://github.com/hagezi/dns-blocklists",
+      "id": "github_1794249162756_3",
+      "title": "sundowndev / phoneinfoga",
+      "summary": "Information gathering framework for phone numbers",
+      "url": "https://github.com/sundowndev/phoneinfoga",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-08T14:54:24.602Z",
-      "likes": 28507,
+      "published_at": "2026-11-09T18:32:42.756Z",
+      "likes": 18465,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "text"
+        "go"
       ],
-      "ai_summary": "《hagezi / dns-blocklists》的主要内容是：DNS-Blocklists: For a better internet - keep the internet clean。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-08T14:54:35.100Z",
+      "ai_summary": "《sundowndev / phoneinfoga》的主要内容是：Information gathering framework for phone numbers。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-09T18:32:53.275Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794249162756_4",
+      "title": "neuml / txtai",
+      "summary": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "url": "https://github.com/neuml/txtai",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-09T18:32:42.756Z",
+      "likes": 13226,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《neuml / txtai》的主要内容是：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-09T18:32:53.274Z",
       "summary_status": "success"
     }
   ]

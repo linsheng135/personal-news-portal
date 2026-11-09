@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-09T18:32:53.276Z",
+    "date": "2026-11-09",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1794249161099",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ...",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-04T13:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Securing the agentic enterprise with data lineage》的主要内容是：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes。The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep。No。（来源：arXiv.org）",
+      "summarized_at": "2026-11-09T18:32:48.880Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794249162753_0",
+      "title": "google-deepmind / mujoco",
+      "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-09T18:32:42.753Z",
+      "likes": 16824,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《google-deepmind / mujoco》的主要内容是：Multi-Joint dynamics with Contact。A general purpose physics simulator。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-09T18:32:48.876Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794249162754_1",
+      "title": "f / prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-09T18:32:42.754Z",
+      "likes": 176719,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "mdx"
+      ],
+      "ai_summary": "《f / prompts.chat》的主要内容是：f。k。a。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-09T18:32:51.075Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794249162755_2",
+      "title": "hummingbot / hummingbot",
+      "summary": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+      "url": "https://github.com/hummingbot/hummingbot",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-09T18:32:42.755Z",
+      "likes": 21115,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《hummingbot / hummingbot》的主要内容是：Open source software that helps you create and deploy high-frequency crypto trading bots。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-09T18:32:51.077Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794249162756_3",
+      "title": "sundowndev / phoneinfoga",
+      "summary": "Information gathering framework for phone numbers",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-09T18:32:42.756Z",
+      "likes": 18465,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《sundowndev / phoneinfoga》的主要内容是：Information gathering framework for phone numbers。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-09T18:32:53.275Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794249162756_4",
+      "title": "neuml / txtai",
+      "summary": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "url": "https://github.com/neuml/txtai",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-09T18:32:42.756Z",
+      "likes": 13226,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《neuml / txtai》的主要内容是：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-09T18:32:53.274Z",
+      "summary_status": "success"
+    }
+  ]
+}
