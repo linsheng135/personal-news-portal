@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-09T18:32:53.275Z",
+    "generated_at": "2026-11-10T16:16:37.193Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,24 @@
   },
   "data": [
     {
-      "id": "arxiv_1794249161099",
+      "id": "arxiv_1794327385299",
+      "title": "The backlash about data centers might really just be about electricity",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It...",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-09T19:35:33.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《The backlash about data centers might really just be about electricity》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub。（来源：arXiv.org）",
+      "summarized_at": "2026-11-10T16:16:28.460Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1794327385299",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene...",
       "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
@@ -25,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《Nancy Pelosi’s replacement is ready to regulate AI》的主要内容是：As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI。Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy。I spoke with Wiene。（来源：arXiv.org）",
-      "summarized_at": "2026-11-09T18:32:44.412Z",
+      "summarized_at": "2026-11-10T16:16:28.460Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794249161099",
+      "id": "arxiv_1794327385299",
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur...",
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
@@ -42,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Innovating with AI in the special chemicals industry》的主要内容是：As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market。For specialty chemicals manufactur。（来源：arXiv.org）",
-      "summarized_at": "2026-11-09T18:32:44.415Z",
+      "summarized_at": "2026-11-10T16:16:30.644Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794249161099",
+      "id": "arxiv_1794327385299",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -59,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
-      "summarized_at": "2026-11-09T18:32:46.680Z",
+      "summarized_at": "2026-11-10T16:16:30.641Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794249161099",
+      "id": "arxiv_1794327385299",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga...",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
@@ -76,35 +93,18 @@
         "academic"
       ],
       "ai_summary": "《Texas was the new epicenter of the AI data center buildout. That might be kaput.》的主要内容是：Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts。But the blue wave that swept the Lone Star State may jeopardize that position。Democrat James Talarico won the US Senate seat against Ken Paxton。（来源：arXiv.org）",
-      "summarized_at": "2026-11-09T18:32:46.614Z",
+      "summarized_at": "2026-11-10T16:16:32.828Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794249161099",
-      "title": "Securing the agentic enterprise with data lineage",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ...",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-04T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Securing the agentic enterprise with data lineage》的主要内容是：A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes。The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep。No。（来源：arXiv.org）",
-      "summarized_at": "2026-11-09T18:32:48.880Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794249162753_0",
+      "id": "github_1794327386968_0",
       "title": "google-deepmind / mujoco",
       "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "url": "https://github.com/google-deepmind/mujoco",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-09T18:32:42.753Z",
-      "likes": 16824,
+      "published_at": "2026-11-10T16:16:26.968Z",
+      "likes": 17224,
       "tags": [
         "github",
         "open-source",
@@ -112,83 +112,83 @@
         "c++"
       ],
       "ai_summary": "《google-deepmind / mujoco》的主要内容是：Multi-Joint dynamics with Contact。A general purpose physics simulator。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-09T18:32:48.876Z",
+      "summarized_at": "2026-11-10T16:16:32.822Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794249162754_1",
-      "title": "f / prompts.chat",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "url": "https://github.com/f/prompts.chat",
+      "id": "github_1794327386968_1",
+      "title": "recloudstream / cloudstream",
+      "summary": "Android app for streaming and downloading media.",
+      "url": "https://github.com/recloudstream/cloudstream",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-09T18:32:42.754Z",
-      "likes": 176719,
+      "published_at": "2026-11-10T16:16:26.968Z",
+      "likes": 11216,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "mdx"
+        "kotlin"
       ],
-      "ai_summary": "《f / prompts.chat》的主要内容是：f。k。a。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-09T18:32:51.075Z",
+      "ai_summary": "《recloudstream / cloudstream》的主要内容是：Android app for streaming and downloading media。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-10T16:16:35.010Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794249162755_2",
-      "title": "hummingbot / hummingbot",
-      "summary": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "url": "https://github.com/hummingbot/hummingbot",
+      "id": "github_1794327386969_2",
+      "title": "upscayl / upscayl",
+      "summary": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "url": "https://github.com/upscayl/upscayl",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-09T18:32:42.755Z",
-      "likes": 21115,
+      "published_at": "2026-11-10T16:16:26.969Z",
+      "likes": 52168,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "python"
+        "typescript"
       ],
-      "ai_summary": "《hummingbot / hummingbot》的主要内容是：Open source software that helps you create and deploy high-frequency crypto trading bots。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-09T18:32:51.077Z",
+      "ai_summary": "《upscayl / upscayl》的主要内容是：🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-10T16:16:35.006Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794249162756_3",
-      "title": "sundowndev / phoneinfoga",
-      "summary": "Information gathering framework for phone numbers",
-      "url": "https://github.com/sundowndev/phoneinfoga",
+      "id": "github_1794327386970_3",
+      "title": "LibreTranslate / LibreTranslate",
+      "summary": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-09T18:32:42.756Z",
-      "likes": 18465,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "go"
-      ],
-      "ai_summary": "《sundowndev / phoneinfoga》的主要内容是：Information gathering framework for phone numbers。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-09T18:32:53.275Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794249162756_4",
-      "title": "neuml / txtai",
-      "summary": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-      "url": "https://github.com/neuml/txtai",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-09T18:32:42.756Z",
-      "likes": 13226,
+      "published_at": "2026-11-10T16:16:26.970Z",
+      "likes": 17467,
       "tags": [
         "github",
         "open-source",
         "trending",
         "python"
       ],
-      "ai_summary": "《neuml / txtai》的主要内容是：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-09T18:32:53.274Z",
+      "ai_summary": "《LibreTranslate / LibreTranslate》的主要内容是：Free and Open Source Machine Translation API。Self-hosted, offline capable and easy to setup。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-10T16:16:37.193Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794327386970_4",
+      "title": "GyulyVGC / sniffnet",
+      "summary": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-10T16:16:26.970Z",
+      "likes": 42311,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《GyulyVGC / sniffnet》的主要内容是：Comfortably monitor your network traffic 🕵️‍♂️。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-10T16:16:37.192Z",
       "summary_status": "success"
     }
   ]
