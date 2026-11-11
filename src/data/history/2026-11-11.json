@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-11T15:58:54.694Z",
+    "date": "2026-11-11",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1794412723243",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga...",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-04T18:50:55.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Texas was the new epicenter of the AI data center buildout. That might be kaput.》的主要内容是：Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts。But the blue wave that swept the Lone Star State may jeopardize that position。Democrat James Talarico won the US Senate seat against Ken Paxton。（来源：arXiv.org）",
+      "summarized_at": "2026-11-11T15:58:50.304Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794412724597_0",
+      "title": "kepano / obsidian-minimal",
+      "summary": "A distraction-free and highly customizable theme for Obsidian.",
+      "url": "https://github.com/kepano/obsidian-minimal",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-11T15:58:44.597Z",
+      "likes": 5627,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "css"
+      ],
+      "ai_summary": "《kepano / obsidian-minimal》的主要内容是：A distraction-free and highly customizable theme for Obsidian。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-11T15:58:50.335Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794412724598_1",
+      "title": "facebookresearch / faiss",
+      "summary": "A library for efficient similarity search and clustering of dense vectors.",
+      "url": "https://github.com/facebookresearch/faiss",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-11T15:58:44.598Z",
+      "likes": 41424,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《facebookresearch / faiss》的主要内容是：A library for efficient similarity search and clustering of dense vectors。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-11T15:58:52.514Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794412724598_2",
+      "title": "google-deepmind / mujoco",
+      "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-11T15:58:44.598Z",
+      "likes": 17601,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《google-deepmind / mujoco》的主要内容是：Multi-Joint dynamics with Contact。A general purpose physics simulator。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-11T15:58:52.513Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794412724599_3",
+      "title": "espocrm / espocrm",
+      "summary": "EspoCRM – Open Source CRM Application",
+      "url": "https://github.com/espocrm/espocrm",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-11T15:58:44.599Z",
+      "likes": 3578,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "php"
+      ],
+      "ai_summary": "《espocrm / espocrm》的主要内容是：EspoCRM – Open Source CRM Application。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-11T15:58:54.694Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794412724599_4",
+      "title": "GyulyVGC / sniffnet",
+      "summary": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-11T15:58:44.599Z",
+      "likes": 42394,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《GyulyVGC / sniffnet》的主要内容是：Comfortably monitor your network traffic 🕵️‍♂️。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-11T15:58:54.693Z",
+      "summary_status": "success"
+    }
+  ]
+}

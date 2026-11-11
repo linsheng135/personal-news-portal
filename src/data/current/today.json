@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-10T16:16:37.193Z",
+    "generated_at": "2026-11-11T15:58:54.694Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1794327385299",
+      "id": "arxiv_1794412723243",
       "title": "The backlash about data centers might really just be about electricity",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It...",
       "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
@@ -25,11 +25,11 @@
         "academic"
       ],
       "ai_summary": "《The backlash about data centers might really just be about electricity》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub。（来源：arXiv.org）",
-      "summarized_at": "2026-11-10T16:16:28.460Z",
+      "summarized_at": "2026-11-11T15:58:45.935Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794327385299",
+      "id": "arxiv_1794412723243",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene...",
       "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
@@ -42,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《Nancy Pelosi’s replacement is ready to regulate AI》的主要内容是：As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI。Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy。I spoke with Wiene。（来源：arXiv.org）",
-      "summarized_at": "2026-11-10T16:16:28.460Z",
+      "summarized_at": "2026-11-11T15:58:45.940Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794327385299",
+      "id": "arxiv_1794412723243",
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur...",
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
@@ -59,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Innovating with AI in the special chemicals industry》的主要内容是：As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market。For specialty chemicals manufactur。（来源：arXiv.org）",
-      "summarized_at": "2026-11-10T16:16:30.644Z",
+      "summarized_at": "2026-11-11T15:58:48.122Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794327385299",
+      "id": "arxiv_1794412723243",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -76,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
-      "summarized_at": "2026-11-10T16:16:30.641Z",
+      "summarized_at": "2026-11-11T15:58:48.124Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794327385299",
+      "id": "arxiv_1794412723243",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga...",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
@@ -93,18 +93,56 @@
         "academic"
       ],
       "ai_summary": "《Texas was the new epicenter of the AI data center buildout. That might be kaput.》的主要内容是：Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts。But the blue wave that swept the Lone Star State may jeopardize that position。Democrat James Talarico won the US Senate seat against Ken Paxton。（来源：arXiv.org）",
-      "summarized_at": "2026-11-10T16:16:32.828Z",
+      "summarized_at": "2026-11-11T15:58:50.304Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794327386968_0",
+      "id": "github_1794412724597_0",
+      "title": "kepano / obsidian-minimal",
+      "summary": "A distraction-free and highly customizable theme for Obsidian.",
+      "url": "https://github.com/kepano/obsidian-minimal",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-11T15:58:44.597Z",
+      "likes": 5627,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "css"
+      ],
+      "ai_summary": "《kepano / obsidian-minimal》的主要内容是：A distraction-free and highly customizable theme for Obsidian。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-11T15:58:50.335Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794412724598_1",
+      "title": "facebookresearch / faiss",
+      "summary": "A library for efficient similarity search and clustering of dense vectors.",
+      "url": "https://github.com/facebookresearch/faiss",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-11T15:58:44.598Z",
+      "likes": 41424,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《facebookresearch / faiss》的主要内容是：A library for efficient similarity search and clustering of dense vectors。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-11T15:58:52.514Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794412724598_2",
       "title": "google-deepmind / mujoco",
       "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "url": "https://github.com/google-deepmind/mujoco",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-10T16:16:26.968Z",
-      "likes": 17224,
+      "published_at": "2026-11-11T15:58:44.598Z",
+      "likes": 17601,
       "tags": [
         "github",
         "open-source",
@@ -112,75 +150,37 @@
         "c++"
       ],
       "ai_summary": "《google-deepmind / mujoco》的主要内容是：Multi-Joint dynamics with Contact。A general purpose physics simulator。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-10T16:16:32.822Z",
+      "summarized_at": "2026-11-11T15:58:52.513Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794327386968_1",
-      "title": "recloudstream / cloudstream",
-      "summary": "Android app for streaming and downloading media.",
-      "url": "https://github.com/recloudstream/cloudstream",
+      "id": "github_1794412724599_3",
+      "title": "espocrm / espocrm",
+      "summary": "EspoCRM – Open Source CRM Application",
+      "url": "https://github.com/espocrm/espocrm",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-10T16:16:26.968Z",
-      "likes": 11216,
+      "published_at": "2026-11-11T15:58:44.599Z",
+      "likes": 3578,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "kotlin"
+        "php"
       ],
-      "ai_summary": "《recloudstream / cloudstream》的主要内容是：Android app for streaming and downloading media。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-10T16:16:35.010Z",
+      "ai_summary": "《espocrm / espocrm》的主要内容是：EspoCRM – Open Source CRM Application。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-11T15:58:54.694Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794327386969_2",
-      "title": "upscayl / upscayl",
-      "summary": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
-      "url": "https://github.com/upscayl/upscayl",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-10T16:16:26.969Z",
-      "likes": 52168,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "typescript"
-      ],
-      "ai_summary": "《upscayl / upscayl》的主要内容是：🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-10T16:16:35.006Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794327386970_3",
-      "title": "LibreTranslate / LibreTranslate",
-      "summary": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
-      "url": "https://github.com/LibreTranslate/LibreTranslate",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-10T16:16:26.970Z",
-      "likes": 17467,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "python"
-      ],
-      "ai_summary": "《LibreTranslate / LibreTranslate》的主要内容是：Free and Open Source Machine Translation API。Self-hosted, offline capable and easy to setup。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-10T16:16:37.193Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794327386970_4",
+      "id": "github_1794412724599_4",
       "title": "GyulyVGC / sniffnet",
       "summary": "Comfortably monitor your network traffic 🕵️‍♂️",
       "url": "https://github.com/GyulyVGC/sniffnet",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-10T16:16:26.970Z",
-      "likes": 42311,
+      "published_at": "2026-11-11T15:58:44.599Z",
+      "likes": 42394,
       "tags": [
         "github",
         "open-source",
@@ -188,7 +188,7 @@
         "rust"
       ],
       "ai_summary": "《GyulyVGC / sniffnet》的主要内容是：Comfortably monitor your network traffic 🕵️‍♂️。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-10T16:16:37.192Z",
+      "summarized_at": "2026-11-11T15:58:54.693Z",
       "summary_status": "success"
     }
   ]
