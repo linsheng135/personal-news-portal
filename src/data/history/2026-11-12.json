@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-12T16:41:46.841Z",
+    "date": "2026-11-12",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1794501693877",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga...",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-04T18:50:55.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Texas was the new epicenter of the AI data center buildout. That might be kaput.》的主要内容是：Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts。But the blue wave that swept the Lone Star State may jeopardize that position。Democrat James Talarico won the US Senate seat against Ken Paxton。（来源：arXiv.org）",
+      "summarized_at": "2026-11-12T16:41:42.269Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794501696112_0",
+      "title": "n8n-io / n8n",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-12T16:41:36.112Z",
+      "likes": 210305,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《n8n-io / n8n》的主要内容是：Fair-code workflow automation platform with native AI capabilities。Combine visual building with custom code, self-host or cloud, 400+ integrations。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-12T16:41:42.264Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794501696113_1",
+      "title": "openai / whisper",
+      "summary": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "url": "https://github.com/openai/whisper",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-12T16:41:36.113Z",
+      "likes": 112578,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《openai / whisper》的主要内容是：Robust Speech Recognition via Large-Scale Weak Supervision。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-12T16:41:44.487Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794501696113_2",
+      "title": "supabase / supabase",
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "url": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-12T16:41:36.113Z",
+      "likes": 114923,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《supabase / supabase》的主要内容是：The Postgres development platform。Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-12T16:41:44.492Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794501696114_3",
+      "title": "facebookresearch / faiss",
+      "summary": "A library for efficient similarity search and clustering of dense vectors.",
+      "url": "https://github.com/facebookresearch/faiss",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-12T16:41:36.114Z",
+      "likes": 41514,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《facebookresearch / faiss》的主要内容是：A library for efficient similarity search and clustering of dense vectors。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-12T16:41:46.840Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794501696114_4",
+      "title": "axios / axios",
+      "summary": "Promise based HTTP client for the browser and node.js",
+      "url": "https://github.com/axios/axios",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-12T16:41:36.114Z",
+      "likes": 109394,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《axios / axios》的主要内容是：Promise based HTTP client for the browser and node。js。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-12T16:41:46.713Z",
+      "summary_status": "success"
+    }
+  ]
+}
