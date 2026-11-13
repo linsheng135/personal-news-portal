@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-12T16:41:46.840Z",
+    "generated_at": "2026-11-13T16:00:28.130Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,24 @@
   },
   "data": [
     {
-      "id": "arxiv_1794501693877",
+      "id": "arxiv_1794585615287",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote...",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-12T20:16:24.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility》的主要内容是：Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote。（来源：arXiv.org）",
+      "summarized_at": "2026-11-13T16:00:19.262Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1794585615287",
       "title": "The backlash about data centers might really just be about electricity",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It...",
       "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
@@ -25,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《The backlash about data centers might really just be about electricity》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub。（来源：arXiv.org）",
-      "summarized_at": "2026-11-12T16:41:37.837Z",
+      "summarized_at": "2026-11-13T16:00:19.261Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794501693877",
+      "id": "arxiv_1794585615287",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene...",
       "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
@@ -42,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Nancy Pelosi’s replacement is ready to regulate AI》的主要内容是：As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI。Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy。I spoke with Wiene。（来源：arXiv.org）",
-      "summarized_at": "2026-11-12T16:41:37.823Z",
+      "summarized_at": "2026-11-13T16:00:21.478Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794501693877",
+      "id": "arxiv_1794585615287",
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur...",
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
@@ -59,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《Innovating with AI in the special chemicals industry》的主要内容是：As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market。For specialty chemicals manufactur。（来源：arXiv.org）",
-      "summarized_at": "2026-11-12T16:41:40.050Z",
+      "summarized_at": "2026-11-13T16:00:21.479Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794501693877",
+      "id": "arxiv_1794585615287",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -76,119 +93,102 @@
         "academic"
       ],
       "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
-      "summarized_at": "2026-11-12T16:41:40.051Z",
+      "summarized_at": "2026-11-13T16:00:23.692Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794501693877",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga...",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-04T18:50:55.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Texas was the new epicenter of the AI data center buildout. That might be kaput.》的主要内容是：Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts。But the blue wave that swept the Lone Star State may jeopardize that position。Democrat James Talarico won the US Senate seat against Ken Paxton。（来源：arXiv.org）",
-      "summarized_at": "2026-11-12T16:41:42.269Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794501696112_0",
-      "title": "n8n-io / n8n",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "url": "https://github.com/n8n-io/n8n",
+      "id": "github_1794585617449_0",
+      "title": "ggml-org / whisper.cpp",
+      "summary": "Port of OpenAI's Whisper model in C/C++",
+      "url": "https://github.com/ggml-org/whisper.cpp",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-12T16:41:36.112Z",
-      "likes": 210305,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "typescript"
-      ],
-      "ai_summary": "《n8n-io / n8n》的主要内容是：Fair-code workflow automation platform with native AI capabilities。Combine visual building with custom code, self-host or cloud, 400+ integrations。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-12T16:41:42.264Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794501696113_1",
-      "title": "openai / whisper",
-      "summary": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "url": "https://github.com/openai/whisper",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-12T16:41:36.113Z",
-      "likes": 112578,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "python"
-      ],
-      "ai_summary": "《openai / whisper》的主要内容是：Robust Speech Recognition via Large-Scale Weak Supervision。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-12T16:41:44.487Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794501696113_2",
-      "title": "supabase / supabase",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "url": "https://github.com/supabase/supabase",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-12T16:41:36.113Z",
-      "likes": 114923,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "typescript"
-      ],
-      "ai_summary": "《supabase / supabase》的主要内容是：The Postgres development platform。Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-12T16:41:44.492Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794501696114_3",
-      "title": "facebookresearch / faiss",
-      "summary": "A library for efficient similarity search and clustering of dense vectors.",
-      "url": "https://github.com/facebookresearch/faiss",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-12T16:41:36.114Z",
-      "likes": 41514,
+      "published_at": "2026-11-13T16:00:17.449Z",
+      "likes": 55170,
       "tags": [
         "github",
         "open-source",
         "trending",
         "c++"
       ],
-      "ai_summary": "《facebookresearch / faiss》的主要内容是：A library for efficient similarity search and clustering of dense vectors。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-12T16:41:46.840Z",
+      "ai_summary": "《ggml-org / whisper.cpp》的主要内容是：Port of OpenAI's Whisper model in C/C++。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:23.697Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794501696114_4",
-      "title": "axios / axios",
-      "summary": "Promise based HTTP client for the browser and node.js",
-      "url": "https://github.com/axios/axios",
+      "id": "github_1794585617449_1",
+      "title": "PowerShell / PowerShell",
+      "summary": "PowerShell for every system!",
+      "url": "https://github.com/PowerShell/PowerShell",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-12T16:41:36.114Z",
-      "likes": 109394,
+      "published_at": "2026-11-13T16:00:17.449Z",
+      "likes": 56153,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "javascript"
+        "c#"
       ],
-      "ai_summary": "《axios / axios》的主要内容是：Promise based HTTP client for the browser and node。js。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-12T16:41:46.713Z",
+      "ai_summary": "《PowerShell / PowerShell》的主要内容是：PowerShell for every system。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:25.913Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794585617450_2",
+      "title": "chidiwilliams / buzz",
+      "summary": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+      "url": "https://github.com/chidiwilliams/buzz",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-13T16:00:17.450Z",
+      "likes": 22738,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《chidiwilliams / buzz》的主要内容是：Buzz transcribes and translates audio offline on your personal computer。Powered by OpenAI's Whisper。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:25.915Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794585617450_3",
+      "title": "rustdesk / rustdesk",
+      "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-13T16:00:17.450Z",
+      "likes": 129323,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《rustdesk / rustdesk》的主要内容是：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:28.130Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794585617450_4",
+      "title": "vinta / awesome-python",
+      "summary": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-13T16:00:17.450Z",
+      "likes": 334482,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《vinta / awesome-python》的主要内容是：The definitive list that answers \"I want to do X in Python, which tool should I use。\"。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:28.129Z",
       "summary_status": "success"
     }
   ]

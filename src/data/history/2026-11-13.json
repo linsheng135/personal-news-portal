@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-13T16:00:28.131Z",
+    "date": "2026-11-13",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1794585615287",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-06T10:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
+      "summarized_at": "2026-11-13T16:00:23.692Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794585617449_0",
+      "title": "ggml-org / whisper.cpp",
+      "summary": "Port of OpenAI's Whisper model in C/C++",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-13T16:00:17.449Z",
+      "likes": 55170,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《ggml-org / whisper.cpp》的主要内容是：Port of OpenAI's Whisper model in C/C++。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:23.697Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794585617449_1",
+      "title": "PowerShell / PowerShell",
+      "summary": "PowerShell for every system!",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-13T16:00:17.449Z",
+      "likes": 56153,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c#"
+      ],
+      "ai_summary": "《PowerShell / PowerShell》的主要内容是：PowerShell for every system。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:25.913Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794585617450_2",
+      "title": "chidiwilliams / buzz",
+      "summary": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+      "url": "https://github.com/chidiwilliams/buzz",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-13T16:00:17.450Z",
+      "likes": 22738,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《chidiwilliams / buzz》的主要内容是：Buzz transcribes and translates audio offline on your personal computer。Powered by OpenAI's Whisper。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:25.915Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794585617450_3",
+      "title": "rustdesk / rustdesk",
+      "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-13T16:00:17.450Z",
+      "likes": 129323,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《rustdesk / rustdesk》的主要内容是：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:28.130Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794585617450_4",
+      "title": "vinta / awesome-python",
+      "summary": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-13T16:00:17.450Z",
+      "likes": 334482,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《vinta / awesome-python》的主要内容是：The definitive list that answers \"I want to do X in Python, which tool should I use。\"。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-13T16:00:28.129Z",
+      "summary_status": "success"
+    }
+  ]
+}
