@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-14T14:54:30.839Z",
+    "date": "2026-11-14",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1794668057757",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-06T10:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
+      "summarized_at": "2026-11-14T14:54:26.238Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794668059713_0",
+      "title": "f3d-app / f3d",
+      "summary": "Fast and minimalist 3D viewer.",
+      "url": "https://github.com/f3d-app/f3d",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-14T14:54:19.713Z",
+      "likes": 5042,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "c++"
+      ],
+      "ai_summary": "《f3d-app / f3d》的主要内容是：Fast and minimalist 3D viewer。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:26.271Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794668059714_1",
+      "title": "LibreTranslate / LibreTranslate",
+      "summary": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-14T14:54:19.714Z",
+      "likes": 17703,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《LibreTranslate / LibreTranslate》的主要内容是：Free and Open Source Machine Translation API。Self-hosted, offline capable and easy to setup。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:28.520Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794668059714_2",
+      "title": "kubescape / kubescape",
+      "summary": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+      "url": "https://github.com/kubescape/kubescape",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-14T14:54:19.714Z",
+      "likes": 11898,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《kubescape / kubescape》的主要内容是：Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters。It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:28.518Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794668059714_3",
+      "title": "aquasecurity / trivy",
+      "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "url": "https://github.com/aquasecurity/trivy",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-14T14:54:19.714Z",
+      "likes": 39337,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《aquasecurity / trivy》的主要内容是：Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:30.766Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794668059715_4",
+      "title": "lance-format / lance",
+      "summary": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "url": "https://github.com/lance-format/lance",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-14T14:54:19.715Z",
+      "likes": 7295,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《lance-format / lance》的主要内容是：Open Lakehouse Format for Multimodal AI。Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning。Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:30.838Z",
+      "summary_status": "success"
+    }
+  ]
+}

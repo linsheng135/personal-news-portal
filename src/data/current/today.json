@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-13T16:00:28.130Z",
+    "generated_at": "2026-11-14T14:54:30.839Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1794585615287",
+      "id": "arxiv_1794668057757",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote...",
       "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
@@ -25,11 +25,11 @@
         "academic"
       ],
       "ai_summary": "《Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility》的主要内容是：Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote。（来源：arXiv.org）",
-      "summarized_at": "2026-11-13T16:00:19.262Z",
+      "summarized_at": "2026-11-14T14:54:21.653Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794585615287",
+      "id": "arxiv_1794668057757",
       "title": "The backlash about data centers might really just be about electricity",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It...",
       "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
@@ -42,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《The backlash about data centers might really just be about electricity》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub。（来源：arXiv.org）",
-      "summarized_at": "2026-11-13T16:00:19.261Z",
+      "summarized_at": "2026-11-14T14:54:21.684Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794585615287",
+      "id": "arxiv_1794668057757",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene...",
       "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
@@ -59,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Nancy Pelosi’s replacement is ready to regulate AI》的主要内容是：As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI。Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy。I spoke with Wiene。（来源：arXiv.org）",
-      "summarized_at": "2026-11-13T16:00:21.478Z",
+      "summarized_at": "2026-11-14T14:54:23.961Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794585615287",
+      "id": "arxiv_1794668057757",
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur...",
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
@@ -76,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《Innovating with AI in the special chemicals industry》的主要内容是：As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market。For specialty chemicals manufactur。（来源：arXiv.org）",
-      "summarized_at": "2026-11-13T16:00:21.479Z",
+      "summarized_at": "2026-11-14T14:54:23.991Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794585615287",
+      "id": "arxiv_1794668057757",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
       "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
@@ -93,102 +93,102 @@
         "academic"
       ],
       "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
-      "summarized_at": "2026-11-13T16:00:23.692Z",
+      "summarized_at": "2026-11-14T14:54:26.238Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794585617449_0",
-      "title": "ggml-org / whisper.cpp",
-      "summary": "Port of OpenAI's Whisper model in C/C++",
-      "url": "https://github.com/ggml-org/whisper.cpp",
+      "id": "github_1794668059713_0",
+      "title": "f3d-app / f3d",
+      "summary": "Fast and minimalist 3D viewer.",
+      "url": "https://github.com/f3d-app/f3d",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-13T16:00:17.449Z",
-      "likes": 55170,
+      "published_at": "2026-11-14T14:54:19.713Z",
+      "likes": 5042,
       "tags": [
         "github",
         "open-source",
         "trending",
         "c++"
       ],
-      "ai_summary": "《ggml-org / whisper.cpp》的主要内容是：Port of OpenAI's Whisper model in C/C++。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-13T16:00:23.697Z",
+      "ai_summary": "《f3d-app / f3d》的主要内容是：Fast and minimalist 3D viewer。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:26.271Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794585617449_1",
-      "title": "PowerShell / PowerShell",
-      "summary": "PowerShell for every system!",
-      "url": "https://github.com/PowerShell/PowerShell",
+      "id": "github_1794668059714_1",
+      "title": "LibreTranslate / LibreTranslate",
+      "summary": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-13T16:00:17.449Z",
-      "likes": 56153,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "c#"
-      ],
-      "ai_summary": "《PowerShell / PowerShell》的主要内容是：PowerShell for every system。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-13T16:00:25.913Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794585617450_2",
-      "title": "chidiwilliams / buzz",
-      "summary": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
-      "url": "https://github.com/chidiwilliams/buzz",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-13T16:00:17.450Z",
-      "likes": 22738,
+      "published_at": "2026-11-14T14:54:19.714Z",
+      "likes": 17703,
       "tags": [
         "github",
         "open-source",
         "trending",
         "python"
       ],
-      "ai_summary": "《chidiwilliams / buzz》的主要内容是：Buzz transcribes and translates audio offline on your personal computer。Powered by OpenAI's Whisper。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-13T16:00:25.915Z",
+      "ai_summary": "《LibreTranslate / LibreTranslate》的主要内容是：Free and Open Source Machine Translation API。Self-hosted, offline capable and easy to setup。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:28.520Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794585617450_3",
-      "title": "rustdesk / rustdesk",
-      "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "url": "https://github.com/rustdesk/rustdesk",
+      "id": "github_1794668059714_2",
+      "title": "kubescape / kubescape",
+      "summary": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+      "url": "https://github.com/kubescape/kubescape",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-13T16:00:17.450Z",
-      "likes": 129323,
+      "published_at": "2026-11-14T14:54:19.714Z",
+      "likes": 11898,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《kubescape / kubescape》的主要内容是：Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters。It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:28.518Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794668059714_3",
+      "title": "aquasecurity / trivy",
+      "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "url": "https://github.com/aquasecurity/trivy",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-14T14:54:19.714Z",
+      "likes": 39337,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《aquasecurity / trivy》的主要内容是：Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:30.766Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794668059715_4",
+      "title": "lance-format / lance",
+      "summary": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "url": "https://github.com/lance-format/lance",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-14T14:54:19.715Z",
+      "likes": 7295,
       "tags": [
         "github",
         "open-source",
         "trending",
         "rust"
       ],
-      "ai_summary": "《rustdesk / rustdesk》的主要内容是：An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-13T16:00:28.130Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794585617450_4",
-      "title": "vinta / awesome-python",
-      "summary": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-      "url": "https://github.com/vinta/awesome-python",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-13T16:00:17.450Z",
-      "likes": 334482,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "python"
-      ],
-      "ai_summary": "《vinta / awesome-python》的主要内容是：The definitive list that answers \"I want to do X in Python, which tool should I use。\"。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-13T16:00:28.129Z",
+      "ai_summary": "《lance-format / lance》的主要内容是：Open Lakehouse Format for Multimodal AI。Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning。Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-14T14:54:30.838Z",
       "summary_status": "success"
     }
   ]
