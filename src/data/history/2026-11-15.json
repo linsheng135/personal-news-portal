@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-15T15:30:30.050Z",
+    "date": "2026-11-15",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1794756616194",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…...",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-06T10:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《I watched a humanoid robot clean my apartment. It felt like a taste of the future.》的主要内容是：I’m not the sort of person who typically pays for a house cleaner。I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser。But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…。（来源：arXiv.org）",
+      "summarized_at": "2026-11-15T15:30:25.041Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794756617845_0",
+      "title": "f / prompts.chat",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-15T15:30:17.845Z",
+      "likes": 177512,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "mdx"
+      ],
+      "ai_summary": "《f / prompts.chat》的主要内容是：f。k。a。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-15T15:30:25.211Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794756617846_1",
+      "title": "kubescape / kubescape",
+      "summary": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+      "url": "https://github.com/kubescape/kubescape",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-15T15:30:17.846Z",
+      "likes": 11913,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《kubescape / kubescape》的主要内容是：Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters。It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-15T15:30:27.806Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794756617847_2",
+      "title": "sympy / sympy",
+      "summary": "A computer algebra system written in pure Python",
+      "url": "https://github.com/sympy/sympy",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-15T15:30:17.847Z",
+      "likes": 15093,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《sympy / sympy》的主要内容是：A computer algebra system written in pure Python。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-15T15:30:27.453Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794756617848_3",
+      "title": "termux / termux-packages",
+      "summary": "A package build system for Termux.",
+      "url": "https://github.com/termux/termux-packages",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-15T15:30:17.848Z",
+      "likes": 17369,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "shell"
+      ],
+      "ai_summary": "《termux / termux-packages》的主要内容是：A package build system for Termux。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-15T15:30:30.046Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794756617848_4",
+      "title": "lance-format / lance",
+      "summary": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "url": "https://github.com/lance-format/lance",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-15T15:30:17.848Z",
+      "likes": 7313,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《lance-format / lance》的主要内容是：Open Lakehouse Format for Multimodal AI。Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning。Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-15T15:30:30.049Z",
+      "summary_status": "success"
+    }
+  ]
+}
