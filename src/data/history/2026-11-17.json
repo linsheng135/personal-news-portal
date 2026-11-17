@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-17T17:29:59.622Z",
+    "date": "2026-11-17",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1794936586869",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote...",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-12T20:16:24.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility》的主要内容是：Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote。（来源：arXiv.org）",
+      "summarized_at": "2026-11-17T17:29:55.116Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794936588933_0",
+      "title": "sveltejs / svelte",
+      "summary": "web development for the rest of us",
+      "url": "https://github.com/sveltejs/svelte",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-17T17:29:48.933Z",
+      "likes": 89478,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-17T17:29:55.110Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794936588934_1",
+      "title": "poteto / hiring-without-whiteboards",
+      "summary": "⭐️ Companies that don't have a broken hiring process",
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-17T17:29:48.934Z",
+      "likes": 53349,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《poteto / hiring-without-whiteboards》的主要内容是：⭐️ Companies that don't have a broken hiring process。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-17T17:29:57.371Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794936588934_2",
+      "title": "neuml / txtai",
+      "summary": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "url": "https://github.com/neuml/txtai",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-17T17:29:48.934Z",
+      "likes": 13574,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《neuml / txtai》的主要内容是：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-17T17:29:57.356Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794936588935_3",
+      "title": "nestjs / nest",
+      "summary": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
+      "url": "https://github.com/nestjs/nest",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-17T17:29:48.935Z",
+      "likes": 77289,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《nestjs / nest》的主要内容是：A progressive TypeScript framework for Node。js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-17T17:29:59.622Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794936588935_4",
+      "title": "caddyserver / caddy",
+      "summary": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "url": "https://github.com/caddyserver/caddy",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-17T17:29:48.935Z",
+      "likes": 79130,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《caddyserver / caddy》的主要内容是：Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-17T17:29:59.615Z",
+      "summary_status": "success"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-16T18:09:52.581Z",
+    "generated_at": "2026-11-17T17:29:59.622Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,41 @@
   },
   "data": [
     {
-      "id": "arxiv_1794852580199",
+      "id": "arxiv_1794936586869",
+      "title": "Research Reports",
+      "summary": "To access a report, click on the corresponding image below....",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-17T14:39:46.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Research Reports》的主要内容是：To access a report, click on the corresponding image below。（来源：arXiv.org）",
+      "summarized_at": "2026-11-17T17:29:50.594Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1794936586869",
+      "title": "The open-source movement wants Jensen Huang back",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El...",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-16T18:38:47.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《The open-source movement wants Jensen Huang back》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El。（来源：arXiv.org）",
+      "summarized_at": "2026-11-17T17:29:50.618Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1794936586869",
       "title": "Building trustworthy AI by fencing it in, not predicting it",
       "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t...",
       "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
@@ -25,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Building trustworthy AI by fencing it in, not predicting it》的主要内容是：In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them。One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t。No rule had t。（来源：arXiv.org）",
-      "summarized_at": "2026-11-16T18:09:43.665Z",
+      "summarized_at": "2026-11-17T17:29:52.867Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794852580199",
+      "id": "arxiv_1794936586869",
       "title": "Building AI that can work across the enterprise",
       "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de...",
       "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
@@ -42,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《Building AI that can work across the enterprise》的主要内容是：For years, enterprises have approached AI as a series of discrete experiments。Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate。Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de。（来源：arXiv.org）",
-      "summarized_at": "2026-11-16T18:09:43.666Z",
+      "summarized_at": "2026-11-17T17:29:52.864Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794852580199",
+      "id": "arxiv_1794936586869",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote...",
       "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
@@ -59,52 +93,18 @@
         "academic"
       ],
       "ai_summary": "《Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility》的主要内容是：Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote。（来源：arXiv.org）",
-      "summarized_at": "2026-11-16T18:09:45.882Z",
+      "summarized_at": "2026-11-17T17:29:55.116Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794852580199",
-      "title": "The backlash about data centers might really just be about electricity",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It...",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-09T19:35:33.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《The backlash about data centers might really just be about electricity》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub。（来源：arXiv.org）",
-      "summarized_at": "2026-11-16T18:09:45.886Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1794852580199",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene...",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-09T17:05:43.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Nancy Pelosi’s replacement is ready to regulate AI》的主要内容是：As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI。Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy。I spoke with Wiene。（来源：arXiv.org）",
-      "summarized_at": "2026-11-16T18:09:48.094Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794852582061_0",
+      "id": "github_1794936588933_0",
       "title": "sveltejs / svelte",
       "summary": "web development for the rest of us",
       "url": "https://github.com/sveltejs/svelte",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-16T18:09:42.061Z",
-      "likes": 88863,
+      "published_at": "2026-11-17T17:29:48.933Z",
+      "likes": 89478,
       "tags": [
         "github",
         "open-source",
@@ -112,83 +112,83 @@
         "javascript"
       ],
       "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-16T18:09:48.141Z",
+      "summarized_at": "2026-11-17T17:29:55.110Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794852582062_1",
-      "title": "openai / whisper",
-      "summary": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "url": "https://github.com/openai/whisper",
+      "id": "github_1794936588934_1",
+      "title": "poteto / hiring-without-whiteboards",
+      "summary": "⭐️ Companies that don't have a broken hiring process",
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-16T18:09:42.062Z",
-      "likes": 112813,
+      "published_at": "2026-11-17T17:29:48.934Z",
+      "likes": 53349,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《poteto / hiring-without-whiteboards》的主要内容是：⭐️ Companies that don't have a broken hiring process。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-17T17:29:57.371Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1794936588934_2",
+      "title": "neuml / txtai",
+      "summary": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "url": "https://github.com/neuml/txtai",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-17T17:29:48.934Z",
+      "likes": 13574,
       "tags": [
         "github",
         "open-source",
         "trending",
         "python"
       ],
-      "ai_summary": "《openai / whisper》的主要内容是：Robust Speech Recognition via Large-Scale Weak Supervision。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-16T18:09:50.360Z",
+      "ai_summary": "《neuml / txtai》的主要内容是：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-17T17:29:57.356Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794852582062_2",
-      "title": "openai / openai-cookbook",
-      "summary": "Examples and guides for using the OpenAI API",
-      "url": "https://github.com/openai/openai-cookbook",
+      "id": "github_1794936588935_3",
+      "title": "nestjs / nest",
+      "summary": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
+      "url": "https://github.com/nestjs/nest",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-16T18:09:42.062Z",
-      "likes": 77194,
+      "published_at": "2026-11-17T17:29:48.935Z",
+      "likes": 77289,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "jupyter notebook"
+        "typescript"
       ],
-      "ai_summary": "《openai / openai-cookbook》的主要内容是：Examples and guides for using the OpenAI API。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-16T18:09:50.359Z",
+      "ai_summary": "《nestjs / nest》的主要内容是：A progressive TypeScript framework for Node。js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-17T17:29:59.622Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794852582063_3",
-      "title": "kubescape / kubescape",
-      "summary": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
-      "url": "https://github.com/kubescape/kubescape",
+      "id": "github_1794936588935_4",
+      "title": "caddyserver / caddy",
+      "summary": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "url": "https://github.com/caddyserver/caddy",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-16T18:09:42.063Z",
-      "likes": 11937,
+      "published_at": "2026-11-17T17:29:48.935Z",
+      "likes": 79130,
       "tags": [
         "github",
         "open-source",
         "trending",
         "go"
       ],
-      "ai_summary": "《kubescape / kubescape》的主要内容是：Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters。It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-16T18:09:52.580Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794852582063_4",
-      "title": "huggingface / transformers",
-      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-16T18:09:42.063Z",
-      "likes": 169036,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "python"
-      ],
-      "ai_summary": "《huggingface / transformers》的主要内容是：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-16T18:09:52.579Z",
+      "ai_summary": "《caddyserver / caddy》的主要内容是：Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-17T17:29:59.615Z",
       "summary_status": "success"
     }
   ]
