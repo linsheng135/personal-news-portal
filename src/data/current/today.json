@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-17T17:29:59.622Z",
+    "generated_at": "2026-11-18T17:03:59.603Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,41 @@
   },
   "data": [
     {
-      "id": "arxiv_1794936586869",
+      "id": "arxiv_1795021426648",
+      "title": "The AI Hype Index: AI is everywhere",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to...",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-18T14:42:44.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《The AI Hype Index: AI is everywhere》的主要内容是：Like a nasty rash, AI seems to spread everywhere。Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue。Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms。（来源：arXiv.org）",
+      "summarized_at": "2026-11-18T17:03:50.718Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1795021426648",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup...",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-18T10:20:30.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《This smell startup says its AI nose is as good as a human’s》的主要内容是：In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth。Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup。（来源：arXiv.org）",
+      "summarized_at": "2026-11-18T17:03:50.722Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1795021426648",
       "title": "Research Reports",
       "summary": "To access a report, click on the corresponding image below....",
       "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
@@ -25,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Research Reports》的主要内容是：To access a report, click on the corresponding image below。（来源：arXiv.org）",
-      "summarized_at": "2026-11-17T17:29:50.594Z",
+      "summarized_at": "2026-11-18T17:03:52.942Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794936586869",
+      "id": "arxiv_1795021426648",
       "title": "The open-source movement wants Jensen Huang back",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El...",
       "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
@@ -42,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《The open-source movement wants Jensen Huang back》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El。（来源：arXiv.org）",
-      "summarized_at": "2026-11-17T17:29:50.618Z",
+      "summarized_at": "2026-11-18T17:03:52.942Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794936586869",
+      "id": "arxiv_1795021426648",
       "title": "Building trustworthy AI by fencing it in, not predicting it",
       "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t...",
       "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
@@ -59,52 +93,18 @@
         "academic"
       ],
       "ai_summary": "《Building trustworthy AI by fencing it in, not predicting it》的主要内容是：In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them。One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t。No rule had t。（来源：arXiv.org）",
-      "summarized_at": "2026-11-17T17:29:52.867Z",
+      "summarized_at": "2026-11-18T17:03:55.160Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1794936586869",
-      "title": "Building AI that can work across the enterprise",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de...",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-16T13:00:00.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Building AI that can work across the enterprise》的主要内容是：For years, enterprises have approached AI as a series of discrete experiments。Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate。Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de。（来源：arXiv.org）",
-      "summarized_at": "2026-11-17T17:29:52.864Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "arxiv_1794936586869",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote...",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "arXiv.org",
-      "category": "ai",
-      "published_at": "2026-11-12T20:16:24.000Z",
-      "tags": [
-        "research",
-        "ai-papers",
-        "academic"
-      ],
-      "ai_summary": "《Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility》的主要内容是：Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote。（来源：arXiv.org）",
-      "summarized_at": "2026-11-17T17:29:55.116Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794936588933_0",
+      "id": "github_1795021429034_0",
       "title": "sveltejs / svelte",
       "summary": "web development for the rest of us",
       "url": "https://github.com/sveltejs/svelte",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-17T17:29:48.933Z",
-      "likes": 89478,
+      "published_at": "2026-11-18T17:03:49.034Z",
+      "likes": 89678,
       "tags": [
         "github",
         "open-source",
@@ -112,56 +112,75 @@
         "javascript"
       ],
       "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-17T17:29:55.110Z",
+      "summarized_at": "2026-11-18T17:03:55.161Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794936588934_1",
-      "title": "poteto / hiring-without-whiteboards",
-      "summary": "⭐️ Companies that don't have a broken hiring process",
-      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "id": "github_1795021429035_1",
+      "title": "n8n-io / n8n",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-17T17:29:48.934Z",
-      "likes": 53349,
+      "published_at": "2026-11-18T17:03:49.035Z",
+      "likes": 210924,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "javascript"
+        "typescript"
       ],
-      "ai_summary": "《poteto / hiring-without-whiteboards》的主要内容是：⭐️ Companies that don't have a broken hiring process。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-17T17:29:57.371Z",
+      "ai_summary": "《n8n-io / n8n》的主要内容是：Fair-code workflow automation platform with native AI capabilities。Combine visual building with custom code, self-host or cloud, 400+ integrations。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-18T17:03:57.379Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794936588934_2",
-      "title": "neuml / txtai",
-      "summary": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-      "url": "https://github.com/neuml/txtai",
+      "id": "github_1795021429035_2",
+      "title": "huggingface / transformers",
+      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "url": "https://github.com/huggingface/transformers",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-17T17:29:48.934Z",
-      "likes": 13574,
+      "published_at": "2026-11-18T17:03:49.035Z",
+      "likes": 169218,
       "tags": [
         "github",
         "open-source",
         "trending",
         "python"
       ],
-      "ai_summary": "《neuml / txtai》的主要内容是：💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-17T17:29:57.356Z",
+      "ai_summary": "《huggingface / transformers》的主要内容是：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-18T17:03:57.383Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1794936588935_3",
+      "id": "github_1795021429036_3",
+      "title": "docker / compose",
+      "summary": "Define and run multi-container applications with Docker",
+      "url": "https://github.com/docker/compose",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-18T17:03:49.036Z",
+      "likes": 38982,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《docker / compose》的主要内容是：Define and run multi-container applications with Docker。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-18T17:03:59.600Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795021429036_4",
       "title": "nestjs / nest",
       "summary": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
       "url": "https://github.com/nestjs/nest",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-17T17:29:48.935Z",
-      "likes": 77289,
+      "published_at": "2026-11-18T17:03:49.036Z",
+      "likes": 77109,
       "tags": [
         "github",
         "open-source",
@@ -169,26 +188,7 @@
         "typescript"
       ],
       "ai_summary": "《nestjs / nest》的主要内容是：A progressive TypeScript framework for Node。js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-17T17:29:59.622Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1794936588935_4",
-      "title": "caddyserver / caddy",
-      "summary": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "url": "https://github.com/caddyserver/caddy",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-17T17:29:48.935Z",
-      "likes": 79130,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "go"
-      ],
-      "ai_summary": "《caddyserver / caddy》的主要内容是：Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-17T17:29:59.615Z",
+      "summarized_at": "2026-11-18T17:03:59.603Z",
       "summary_status": "success"
     }
   ]

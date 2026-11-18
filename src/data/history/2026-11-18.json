@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-18T17:03:59.604Z",
+    "date": "2026-11-18",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1795021426648",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t...",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-16T16:04:28.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Building trustworthy AI by fencing it in, not predicting it》的主要内容是：In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them。One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t。No rule had t。（来源：arXiv.org）",
+      "summarized_at": "2026-11-18T17:03:55.160Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795021429034_0",
+      "title": "sveltejs / svelte",
+      "summary": "web development for the rest of us",
+      "url": "https://github.com/sveltejs/svelte",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-18T17:03:49.034Z",
+      "likes": 89678,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-18T17:03:55.161Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795021429035_1",
+      "title": "n8n-io / n8n",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-18T17:03:49.035Z",
+      "likes": 210924,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《n8n-io / n8n》的主要内容是：Fair-code workflow automation platform with native AI capabilities。Combine visual building with custom code, self-host or cloud, 400+ integrations。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-18T17:03:57.379Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795021429035_2",
+      "title": "huggingface / transformers",
+      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-18T17:03:49.035Z",
+      "likes": 169218,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《huggingface / transformers》的主要内容是：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-18T17:03:57.383Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795021429036_3",
+      "title": "docker / compose",
+      "summary": "Define and run multi-container applications with Docker",
+      "url": "https://github.com/docker/compose",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-18T17:03:49.036Z",
+      "likes": 38982,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《docker / compose》的主要内容是：Define and run multi-container applications with Docker。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-18T17:03:59.600Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795021429036_4",
+      "title": "nestjs / nest",
+      "summary": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
+      "url": "https://github.com/nestjs/nest",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-18T17:03:49.036Z",
+      "likes": 77109,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "typescript"
+      ],
+      "ai_summary": "《nestjs / nest》的主要内容是：A progressive TypeScript framework for Node。js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-18T17:03:59.603Z",
+      "summary_status": "success"
+    }
+  ]
+}
