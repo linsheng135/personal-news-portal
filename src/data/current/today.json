@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-18T17:03:59.603Z",
+    "generated_at": "2026-11-19T17:12:14.419Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1795021426648",
+      "id": "arxiv_1795108321227",
       "title": "The AI Hype Index: AI is everywhere",
       "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to...",
       "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
@@ -25,11 +25,11 @@
         "academic"
       ],
       "ai_summary": "《The AI Hype Index: AI is everywhere》的主要内容是：Like a nasty rash, AI seems to spread everywhere。Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue。Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms。（来源：arXiv.org）",
-      "summarized_at": "2026-11-18T17:03:50.718Z",
+      "summarized_at": "2026-11-19T17:12:05.252Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1795021426648",
+      "id": "arxiv_1795108321227",
       "title": "This smell startup says its AI nose is as good as a human’s",
       "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup...",
       "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
@@ -42,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《This smell startup says its AI nose is as good as a human’s》的主要内容是：In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth。Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup。（来源：arXiv.org）",
-      "summarized_at": "2026-11-18T17:03:50.722Z",
+      "summarized_at": "2026-11-19T17:12:05.378Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1795021426648",
+      "id": "arxiv_1795108321227",
       "title": "Research Reports",
       "summary": "To access a report, click on the corresponding image below....",
       "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
@@ -59,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《Research Reports》的主要内容是：To access a report, click on the corresponding image below。（来源：arXiv.org）",
-      "summarized_at": "2026-11-18T17:03:52.942Z",
+      "summarized_at": "2026-11-19T17:12:07.628Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1795021426648",
+      "id": "arxiv_1795108321227",
       "title": "The open-source movement wants Jensen Huang back",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El...",
       "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
@@ -76,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《The open-source movement wants Jensen Huang back》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El。（来源：arXiv.org）",
-      "summarized_at": "2026-11-18T17:03:52.942Z",
+      "summarized_at": "2026-11-19T17:12:07.627Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1795021426648",
+      "id": "arxiv_1795108321227",
       "title": "Building trustworthy AI by fencing it in, not predicting it",
       "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t...",
       "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
@@ -93,18 +93,37 @@
         "academic"
       ],
       "ai_summary": "《Building trustworthy AI by fencing it in, not predicting it》的主要内容是：In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them。One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t。No rule had t。（来源：arXiv.org）",
-      "summarized_at": "2026-11-18T17:03:55.160Z",
+      "summarized_at": "2026-11-19T17:12:09.870Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1795021429034_0",
+      "id": "github_1795108323461_0",
+      "title": "apache / airflow",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-19T17:12:03.461Z",
+      "likes": 47555,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《apache / airflow》的主要内容是：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-19T17:12:09.874Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795108323461_1",
       "title": "sveltejs / svelte",
       "summary": "web development for the rest of us",
       "url": "https://github.com/sveltejs/svelte",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-18T17:03:49.034Z",
-      "likes": 89678,
+      "published_at": "2026-11-19T17:12:03.461Z",
+      "likes": 89770,
       "tags": [
         "github",
         "open-source",
@@ -112,83 +131,64 @@
         "javascript"
       ],
       "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-18T17:03:55.161Z",
+      "summarized_at": "2026-11-19T17:12:12.118Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1795021429035_1",
-      "title": "n8n-io / n8n",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "url": "https://github.com/n8n-io/n8n",
+      "id": "github_1795108323462_2",
+      "title": "pola-rs / polars",
+      "summary": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "url": "https://github.com/pola-rs/polars",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-18T17:03:49.035Z",
-      "likes": 210924,
+      "published_at": "2026-11-19T17:12:03.462Z",
+      "likes": 40385,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "typescript"
+        "rust"
       ],
-      "ai_summary": "《n8n-io / n8n》的主要内容是：Fair-code workflow automation platform with native AI capabilities。Combine visual building with custom code, self-host or cloud, 400+ integrations。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-18T17:03:57.379Z",
+      "ai_summary": "《pola-rs / polars》的主要内容是：Extremely fast Query Engine for DataFrames, written in Rust。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-19T17:12:12.118Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1795021429035_2",
-      "title": "huggingface / transformers",
-      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "url": "https://github.com/huggingface/transformers",
+      "id": "github_1795108323462_3",
+      "title": "nats-io / nats-server",
+      "summary": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "url": "https://github.com/nats-io/nats-server",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-18T17:03:49.035Z",
-      "likes": 169218,
-      "tags": [
-        "github",
-        "open-source",
-        "trending",
-        "python"
-      ],
-      "ai_summary": "《huggingface / transformers》的主要内容是：🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-18T17:03:57.383Z",
-      "summary_status": "success"
-    },
-    {
-      "id": "github_1795021429036_3",
-      "title": "docker / compose",
-      "summary": "Define and run multi-container applications with Docker",
-      "url": "https://github.com/docker/compose",
-      "source": "GitHub Trending",
-      "category": "ai",
-      "published_at": "2026-11-18T17:03:49.036Z",
-      "likes": 38982,
+      "published_at": "2026-11-19T17:12:03.462Z",
+      "likes": 21064,
       "tags": [
         "github",
         "open-source",
         "trending",
         "go"
       ],
-      "ai_summary": "《docker / compose》的主要内容是：Define and run multi-container applications with Docker。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-18T17:03:59.600Z",
+      "ai_summary": "《nats-io / nats-server》的主要内容是：High-Performance server for NATS。io, the cloud and edge native messaging system。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-19T17:12:14.360Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1795021429036_4",
-      "title": "nestjs / nest",
-      "summary": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
-      "url": "https://github.com/nestjs/nest",
+      "id": "github_1795108323462_4",
+      "title": "OWASP / wstg",
+      "summary": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
+      "url": "https://github.com/OWASP/wstg",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-18T17:03:49.036Z",
-      "likes": 77109,
+      "published_at": "2026-11-19T17:12:03.462Z",
+      "likes": 10318,
       "tags": [
         "github",
         "open-source",
         "trending",
-        "typescript"
+        "css"
       ],
-      "ai_summary": "《nestjs / nest》的主要内容是：A progressive TypeScript framework for Node。js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-18T17:03:59.603Z",
+      "ai_summary": "《OWASP / wstg》的主要内容是：The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-19T17:12:14.419Z",
       "summary_status": "success"
     }
   ]

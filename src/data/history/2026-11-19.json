@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-19T17:12:14.420Z",
+    "date": "2026-11-19",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1795108321227",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t...",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-16T16:04:28.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Building trustworthy AI by fencing it in, not predicting it》的主要内容是：In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them。One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t。No rule had t。（来源：arXiv.org）",
+      "summarized_at": "2026-11-19T17:12:09.870Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795108323461_0",
+      "title": "apache / airflow",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-19T17:12:03.461Z",
+      "likes": 47555,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《apache / airflow》的主要内容是：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-19T17:12:09.874Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795108323461_1",
+      "title": "sveltejs / svelte",
+      "summary": "web development for the rest of us",
+      "url": "https://github.com/sveltejs/svelte",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-19T17:12:03.461Z",
+      "likes": 89770,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-19T17:12:12.118Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795108323462_2",
+      "title": "pola-rs / polars",
+      "summary": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "url": "https://github.com/pola-rs/polars",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-19T17:12:03.462Z",
+      "likes": 40385,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《pola-rs / polars》的主要内容是：Extremely fast Query Engine for DataFrames, written in Rust。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-19T17:12:12.118Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795108323462_3",
+      "title": "nats-io / nats-server",
+      "summary": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "url": "https://github.com/nats-io/nats-server",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-19T17:12:03.462Z",
+      "likes": 21064,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《nats-io / nats-server》的主要内容是：High-Performance server for NATS。io, the cloud and edge native messaging system。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-19T17:12:14.360Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795108323462_4",
+      "title": "OWASP / wstg",
+      "summary": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
+      "url": "https://github.com/OWASP/wstg",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-19T17:12:03.462Z",
+      "likes": 10318,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "css"
+      ],
+      "ai_summary": "《OWASP / wstg》的主要内容是：The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-19T17:12:14.419Z",
+      "summary_status": "success"
+    }
+  ]
+}
