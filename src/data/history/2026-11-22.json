@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-22T16:04:52.168Z",
+    "date": "2026-11-22",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1795363479773",
+      "title": "The open-source movement wants Jensen Huang back",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El...",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-16T18:38:47.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《The open-source movement wants Jensen Huang back》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El。（来源：arXiv.org）",
+      "summarized_at": "2026-11-22T16:04:47.673Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795363481239_0",
+      "title": "apache / airflow",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-22T16:04:41.239Z",
+      "likes": 47597,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《apache / airflow》的主要内容是：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-22T16:04:47.675Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795363481240_1",
+      "title": "sveltejs / svelte",
+      "summary": "web development for the rest of us",
+      "url": "https://github.com/sveltejs/svelte",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-22T16:04:41.240Z",
+      "likes": 89901,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-22T16:04:49.920Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795363481240_2",
+      "title": "pola-rs / polars",
+      "summary": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "url": "https://github.com/pola-rs/polars",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-22T16:04:41.240Z",
+      "likes": 40432,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《pola-rs / polars》的主要内容是：Extremely fast Query Engine for DataFrames, written in Rust。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-22T16:04:49.922Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795363481241_3",
+      "title": "nats-io / nats-server",
+      "summary": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "url": "https://github.com/nats-io/nats-server",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-22T16:04:41.241Z",
+      "likes": 21109,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《nats-io / nats-server》的主要内容是：High-Performance server for NATS。io, the cloud and edge native messaging system。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-22T16:04:52.167Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795363481241_4",
+      "title": "OWASP / wstg",
+      "summary": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
+      "url": "https://github.com/OWASP/wstg",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-22T16:04:41.241Z",
+      "likes": 10379,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "css"
+      ],
+      "ai_summary": "《OWASP / wstg》的主要内容是：The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-22T16:04:52.166Z",
+      "summary_status": "success"
+    }
+  ]
+}
