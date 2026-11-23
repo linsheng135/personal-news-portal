@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-23T19:59:41.815Z",
+    "date": "2026-11-23",
+    "items_count": 6,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1795463969877",
+      "title": "Research Reports",
+      "summary": "To access a report, click on the corresponding image below....",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-17T14:39:46.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《Research Reports》的主要内容是：To access a report, click on the corresponding image below。（来源：arXiv.org）",
+      "summarized_at": "2026-11-23T19:59:37.363Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795463971563_0",
+      "title": "apache / airflow",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-23T19:59:31.563Z",
+      "likes": 47627,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《apache / airflow》的主要内容是：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-23T19:59:37.400Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795463971564_1",
+      "title": "sveltejs / svelte",
+      "summary": "web development for the rest of us",
+      "url": "https://github.com/sveltejs/svelte",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-23T19:59:31.565Z",
+      "likes": 89789,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-23T19:59:39.580Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795463971565_2",
+      "title": "pola-rs / polars",
+      "summary": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "url": "https://github.com/pola-rs/polars",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-23T19:59:31.565Z",
+      "likes": 40462,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《pola-rs / polars》的主要内容是：Extremely fast Query Engine for DataFrames, written in Rust。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-23T19:59:39.584Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795463971566_3",
+      "title": "nats-io / nats-server",
+      "summary": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "url": "https://github.com/nats-io/nats-server",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-23T19:59:31.566Z",
+      "likes": 21123,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《nats-io / nats-server》的主要内容是：High-Performance server for NATS。io, the cloud and edge native messaging system。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-23T19:59:41.764Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795463971567_4",
+      "title": "OWASP / wstg",
+      "summary": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
+      "url": "https://github.com/OWASP/wstg",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-23T19:59:31.567Z",
+      "likes": 10408,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "css"
+      ],
+      "ai_summary": "《OWASP / wstg》的主要内容是：The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-23T19:59:41.814Z",
+      "summary_status": "success"
+    }
+  ]
+}
