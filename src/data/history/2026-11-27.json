@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "archived_at": "2026-11-27T17:58:24.395Z",
+    "date": "2026-11-27",
+    "items_count": 7,
+    "note": "每日历史存档"
+  },
+  "data": [
+    {
+      "id": "arxiv_1795802292043",
+      "title": "AI is straining America’s open records systems",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1...",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-25T10:00:00.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《AI is straining America’s open records systems》的主要内容是：In Panton, Vermont, population 660, town clerk Kyle Rowe did it all。He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer。During morning office hours at the town hall—a wood-frame structure built as a church in 1。（来源：arXiv.org）",
+      "summarized_at": "2026-11-27T17:58:15.509Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "arxiv_1795802292044",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup...",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "arXiv.org",
+      "category": "ai",
+      "published_at": "2026-11-18T10:20:30.000Z",
+      "tags": [
+        "research",
+        "ai-papers",
+        "academic"
+      ],
+      "ai_summary": "《This smell startup says its AI nose is as good as a human’s》的主要内容是：In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth。Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup。（来源：arXiv.org）",
+      "summarized_at": "2026-11-27T17:58:19.949Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795802293852_0",
+      "title": "apache / airflow",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "url": "https://github.com/apache/airflow",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-27T17:58:13.852Z",
+      "likes": 47708,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "python"
+      ],
+      "ai_summary": "《apache / airflow》的主要内容是：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-27T17:58:19.952Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795802293853_1",
+      "title": "sveltejs / svelte",
+      "summary": "web development for the rest of us",
+      "url": "https://github.com/sveltejs/svelte",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-27T17:58:13.853Z",
+      "likes": 89943,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "javascript"
+      ],
+      "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-27T17:58:22.174Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795802293853_2",
+      "title": "pola-rs / polars",
+      "summary": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "url": "https://github.com/pola-rs/polars",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-27T17:58:13.853Z",
+      "likes": 40542,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "rust"
+      ],
+      "ai_summary": "《pola-rs / polars》的主要内容是：Extremely fast Query Engine for DataFrames, written in Rust。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-27T17:58:22.170Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795802293853_3",
+      "title": "nats-io / nats-server",
+      "summary": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "url": "https://github.com/nats-io/nats-server",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-27T17:58:13.853Z",
+      "likes": 21188,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "go"
+      ],
+      "ai_summary": "《nats-io / nats-server》的主要内容是：High-Performance server for NATS。io, the cloud and edge native messaging system。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-27T17:58:24.393Z",
+      "summary_status": "success"
+    },
+    {
+      "id": "github_1795802293854_4",
+      "title": "OWASP / wstg",
+      "summary": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
+      "url": "https://github.com/OWASP/wstg",
+      "source": "GitHub Trending",
+      "category": "ai",
+      "published_at": "2026-11-27T17:58:13.854Z",
+      "likes": 10477,
+      "tags": [
+        "github",
+        "open-source",
+        "trending",
+        "css"
+      ],
+      "ai_summary": "《OWASP / wstg》的主要内容是：The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services。（来源：GitHub Trending）",
+      "summarized_at": "2026-11-27T17:58:24.394Z",
+      "summary_status": "success"
+    }
+  ]
+}
