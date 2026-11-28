@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-27T17:58:24.394Z",
+    "generated_at": "2026-11-28T16:44:20.246Z",
     "items_count": 10,
     "categories": [
       "ai"
@@ -12,7 +12,7 @@
   },
   "data": [
     {
-      "id": "arxiv_1795802292043",
+      "id": "arxiv_1795884247994",
       "title": "AI is straining America’s open records systems",
       "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1...",
       "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
@@ -25,11 +25,11 @@
         "academic"
       ],
       "ai_summary": "《AI is straining America’s open records systems》的主要内容是：In Panton, Vermont, population 660, town clerk Kyle Rowe did it all。He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer。During morning office hours at the town hall—a wood-frame structure built as a church in 1。（来源：arXiv.org）",
-      "summarized_at": "2026-11-27T17:58:15.509Z",
+      "summarized_at": "2026-11-28T16:44:11.224Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1795802292044",
+      "id": "arxiv_1795884247994",
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app...",
       "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
@@ -42,11 +42,11 @@
         "academic"
       ],
       "ai_summary": "《A legendary philosopher isn’t buying Anthropic’s consciousness argument》的主要内容是：This story originally appeared in The Algorithm, our weekly newsletter on AI。To get stories like this in your inbox first, sign up here。Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing。（来源：arXiv.org）",
-      "summarized_at": "2026-11-27T17:58:15.508Z",
+      "summarized_at": "2026-11-28T16:44:11.234Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1795802292044",
+      "id": "arxiv_1795884247994",
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim...",
       "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
@@ -59,11 +59,11 @@
         "academic"
       ],
       "ai_summary": "《The most misunderstood graph in AI just got a major update》的主要内容是：A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding。The report is an update to the organization’s tim。（来源：arXiv.org）",
-      "summarized_at": "2026-11-27T17:58:17.728Z",
+      "summarized_at": "2026-11-28T16:44:13.488Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1795802292044",
+      "id": "arxiv_1795884247994",
       "title": "The AI Hype Index: AI is everywhere",
       "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to...",
       "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
@@ -76,11 +76,11 @@
         "academic"
       ],
       "ai_summary": "《The AI Hype Index: AI is everywhere》的主要内容是：Like a nasty rash, AI seems to spread everywhere。Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue。Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms。（来源：arXiv.org）",
-      "summarized_at": "2026-11-27T17:58:17.731Z",
+      "summarized_at": "2026-11-28T16:44:13.477Z",
       "summary_status": "success"
     },
     {
-      "id": "arxiv_1795802292044",
+      "id": "arxiv_1795884247994",
       "title": "This smell startup says its AI nose is as good as a human’s",
       "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup...",
       "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
@@ -93,18 +93,18 @@
         "academic"
       ],
       "ai_summary": "《This smell startup says its AI nose is as good as a human’s》的主要内容是：In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth。Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup。（来源：arXiv.org）",
-      "summarized_at": "2026-11-27T17:58:19.949Z",
+      "summarized_at": "2026-11-28T16:44:15.742Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1795802293852_0",
+      "id": "github_1795884249649_0",
       "title": "apache / airflow",
       "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
       "url": "https://github.com/apache/airflow",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-27T17:58:13.852Z",
-      "likes": 47708,
+      "published_at": "2026-11-28T16:44:09.649Z",
+      "likes": 47725,
       "tags": [
         "github",
         "open-source",
@@ -112,18 +112,18 @@
         "python"
       ],
       "ai_summary": "《apache / airflow》的主要内容是：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-27T17:58:19.952Z",
+      "summarized_at": "2026-11-28T16:44:15.734Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1795802293853_1",
+      "id": "github_1795884249650_1",
       "title": "sveltejs / svelte",
       "summary": "web development for the rest of us",
       "url": "https://github.com/sveltejs/svelte",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-27T17:58:13.853Z",
-      "likes": 89943,
+      "published_at": "2026-11-28T16:44:09.650Z",
+      "likes": 89854,
       "tags": [
         "github",
         "open-source",
@@ -131,18 +131,18 @@
         "javascript"
       ],
       "ai_summary": "《sveltejs / svelte》的主要内容是：web development for the rest of us。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-27T17:58:22.174Z",
+      "summarized_at": "2026-11-28T16:44:17.994Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1795802293853_2",
+      "id": "github_1795884249651_2",
       "title": "pola-rs / polars",
       "summary": "Extremely fast Query Engine for DataFrames, written in Rust",
       "url": "https://github.com/pola-rs/polars",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-27T17:58:13.853Z",
-      "likes": 40542,
+      "published_at": "2026-11-28T16:44:09.651Z",
+      "likes": 40565,
       "tags": [
         "github",
         "open-source",
@@ -150,18 +150,18 @@
         "rust"
       ],
       "ai_summary": "《pola-rs / polars》的主要内容是：Extremely fast Query Engine for DataFrames, written in Rust。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-27T17:58:22.170Z",
+      "summarized_at": "2026-11-28T16:44:17.988Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1795802293853_3",
+      "id": "github_1795884249652_3",
       "title": "nats-io / nats-server",
       "summary": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "url": "https://github.com/nats-io/nats-server",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-27T17:58:13.853Z",
-      "likes": 21188,
+      "published_at": "2026-11-28T16:44:09.652Z",
+      "likes": 21201,
       "tags": [
         "github",
         "open-source",
@@ -169,18 +169,18 @@
         "go"
       ],
       "ai_summary": "《nats-io / nats-server》的主要内容是：High-Performance server for NATS。io, the cloud and edge native messaging system。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-27T17:58:24.393Z",
+      "summarized_at": "2026-11-28T16:44:20.246Z",
       "summary_status": "success"
     },
     {
-      "id": "github_1795802293854_4",
+      "id": "github_1795884249653_4",
       "title": "OWASP / wstg",
       "summary": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
       "url": "https://github.com/OWASP/wstg",
       "source": "GitHub Trending",
       "category": "ai",
-      "published_at": "2026-11-27T17:58:13.854Z",
-      "likes": 10477,
+      "published_at": "2026-11-28T16:44:09.653Z",
+      "likes": 10487,
       "tags": [
         "github",
         "open-source",
@@ -188,7 +188,7 @@
         "css"
       ],
       "ai_summary": "《OWASP / wstg》的主要内容是：The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services。（来源：GitHub Trending）",
-      "summarized_at": "2026-11-27T17:58:24.394Z",
+      "summarized_at": "2026-11-28T16:44:20.243Z",
       "summary_status": "success"
     }
   ]
